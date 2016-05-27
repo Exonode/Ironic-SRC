@@ -1,4 +1,4 @@
-# Showdown-Boilerplate
+# Showdown-Boilerplate ♥
 
 [![Build Status](https://travis-ci.org/CreaturePhil/Showdown-Boilerplate.svg)](https://travis-ci.org/CreaturePhil/Showdown-Boilerplate)
 [![Dependency Status](https://david-dm.org/CreaturePhil/Showdown-Boilerplate.svg)](https://david-dm.org/CreaturePhil/Showdown-Boilerplate)
