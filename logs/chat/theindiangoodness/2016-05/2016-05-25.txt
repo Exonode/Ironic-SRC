@@ -1,0 +1,235 @@
+18:21:39 NEW CHATROOM: theindiangoodness
+18:21:45 |J| Audinory
+18:21:56 (Audinory added the room alias 'TIG'.)
+18:21:59 |J|&V A Q
+18:22:11 |J| shivamrustagi
+18:22:13 shivamrustagi was appointed Room Lord by Audinory.
+18:22:13 |N|#shivamrustagi|shivamrustagi
+18:22:16 |c| Audinory|!roomhelp
+18:22:16 |raw|<div class="infobox">Room drivers (%) can use:<br />- /warn OR /k <em>username</em>: warn a user and show the Pok&eacute;mon Showdown rules<br />- /mute OR /m <em>username</em>: 7 minute mute<br />- /hourmute OR /hm <em>username</em>: 60 minute mute<br />- /unmute <em>username</em>: unmute<br />- /announce OR /wall <em>message</em>: make an announcement<br />- /modlog <em>username</em>: search the moderator log of the room<br />- /modnote <em>note</em>: adds a moderator note that can be read through modlog<br /><br />Room moderators (@) can also use:<br />- /roomban OR /rb <em>username</em>: bans user from the room<br />- /roomunban <em>username</em>: unbans user from the room<br />- /roomvoice <em>username</em>: appoint a room voice<br />- /roomdevoice <em>username</em>: remove a room voice<br />- /modchat <em>[off/autoconfirmed/+]</em>: set modchat level<br />- /staffintro <em>intro</em>: sets the staff introduction that will be displayed for all staff joining the room<br /><br />Room owners (#) can also use:<br />- /roomintro <em>intro</em>: sets the room introduction that will be displayed for all users joining the room<br />- /rules <em>rules link</em>: set the room rules link seen when using /rules<br />- /roommod, /roomdriver <em>username</em>: appoint a room moderator/driver<br />- /roomdemod, /roomdedriver <em>username</em>: remove a room moderator/driver<br />- /roomdeauth <em>username</em>: remove all room auth from a user<br />- /modchat <em>[%/@/#]</em>: set modchat level<br />- /declare <em>message</em>: make a large blue declaration to the room<br />- !htmlbox <em>HTML code</em>: broadcasts a box of HTML code to the room<br />- !showimage <em>[url], [width], [height]</em>: shows an image to the room<br /><br />More detailed help can be found in the <a href="https://www.smogon.com/sim/roomauth_guide">roomauth guide</a><br /><br />Tournament Help:<br />- /tour create <em>format</em>, elimination: Creates a new single elimination tournament in the current room.<br />- /tour create <em>format</em>, roundrobin: Creates a new round robin tournament in the current room.<br />- /tour end: Forcibly ends the tournament in the current room<br />- /tour start: Starts the tournament in the current room<br /><br />More detailed help can be found <a href="https://gist.github.com/verbiage/0846a552595349032fbe">here</a><br /></div></div>
+18:22:17 |c| Audinory|glhf
+18:22:18 |c|#shivamrustagi|thanks
+18:22:19 |L| Audinory
+18:22:27 |c|&V A Q|gj audinory
+18:22:58 |c|#shivamrustagi|V A Q do u know 
+18:23:09 |J| Fairy Of Valor
+18:23:10 |c|#shivamrustagi|how to make a room intro
+18:23:18 Fairy Of Valor was promoted to Room Glorified Normie by shivamrustagi.
+18:23:18 |N|+Fairy Of Valor|fairyofvalor
+18:23:25 |c|+Fairy Of Valor|//room intro (intro here)
+18:23:34 |J|%Hurricane'd
+18:23:36 |c|+Fairy Of Valor|*/roomintro
+18:23:48 |L|%Hurricane'd
+18:23:56 |c|#shivamrustagi|well i am asking for coding part of it
+18:24:06 |c|+Fairy Of Valor|Ohh
+18:24:20 |c|&V A Q|well 
+18:24:32 |c|#shivamrustagi|yes?
+18:24:42 |c|&V A Q|thats where <<techcoding>> comes in
+18:26:26 |c|&V A Q|Ok
+18:26:48 |c|&V A Q|shivam?
+18:26:58 |J|&Hirl123
+18:27:01 (V A Q changed the roomintro.)
+18:27:01 <h1> <center> <b> Welcome to Tech & Coding. </b> </center></h1> Please feel free to bring bots or share techinal information. If you need help making a bot, ask it here and you'll get assistance. We also want fellow coders to come and enjoy a decent experience <p> <b> NOTE: WE DO NOT ALLOW OR CONDONE HACKING OR USERS OR SERVERS. </b> </p>
+18:27:14 |c|&V A Q|This will be my template ok
+18:27:22 |L|&Hirl123
+18:27:24 |c|#shivamrustagi|!roomintro
+18:27:24 |raw|<div class="infobox"><h1> <center> <b> Welcome to Tech & Coding. </b> </center></h1> Please feel free to bring bots or share techinal information. If you need help making a bot, ask it here and you'll get assistance. We also want fellow coders to come and enjoy a decent experience <p> <b> NOTE: WE DO NOT ALLOW OR CONDONE HACKING OR USERS OR SERVERS. </b> </p></div>
+18:27:32 |c|#shivamrustagi|ahh ok 
+18:27:36 |c|#shivamrustagi|looks legit
+18:27:47 (V A Q changed the roomintro.)
+18:27:47 <h1> <center> <b> The Indian Goodness </b> </center></h1> Please feel free to bring bots or share techinal information. If you need help making a bot, ask it here and you'll get assistance. We also want fellow coders to come and enjoy a decent experience <p> <b> NOTE: WE DO NOT ALLOW OR CONDONE HACKING OR USERS OR SERVERS. </b> </p>
+18:27:57 |c|&V A Q|Hold on a sex
+18:28:00 |c|&V A Q|*sec
+18:28:05 |raw|<div class='chat'><small>&</small><button name='parseCommand' value='/user V A Q' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#A449AE'>V A Q:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/xaa.png" title="xaa" width="50" height="50" /></em></div>
+18:28:19 |c|#shivamrustagi|haha
+18:28:22 |J|~the fire mage
+18:28:25 V A Q was appointed Room Lord by V A Q.
+18:28:25 |N|#V A Q|vaq
+18:28:36 |c|#V A Q|Im gonna need ro for this
+18:28:49 |c|#V A Q|!htmlbox
+18:28:49 |raw|<div class="infobox">test</div>
+18:29:14 |c|#V A Q|so whats this room for?
+18:29:26 |c|~the fire mage|praising indian goodness
+18:29:28 |c|~the fire mage|duhhhh
+18:29:40 |c|#V A Q|Uh
+18:29:47 |c|#shivamrustagi|its 
+18:29:53 |c|#V A Q|Um gonna need more info then that
+18:30:00 |c|~the fire mage|lol
+18:30:07 |raw|<div class='chat'><small>#</small><button name='parseCommand' value='/user V A Q' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#A449AE'>V A Q:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/xaa.png" title="xaa" width="50" height="50" /></em></div>
+18:30:32 |c|#shivamrustagi|for celebrating indian 
+18:30:39 |c|~the fire mage|goodness
+18:30:48 |c|#V A Q|indian culture?
+18:31:39 |userstats|total:4|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:2|♥:0|~:1
+18:32:41 (V A Q changed the roomintro.)
+18:32:41 <h1> <center> <b> The Indian Goodness </b> </center></h1> Celebrate Indian Goodness and culture with us! New users are always welcome! <p> <b> NOTE: No racism please. Thanks. </b> </p>
+18:33:10 |c|~the fire mage|!roomintro
+18:33:10 |raw|<div class="infobox"><h1> <center> <b> The Indian Goodness </b> </center></h1> Celebrate Indian Goodness and culture with us! New users are always welcome! <p> <b> NOTE: No racism please. Thanks. </b> </p></div>
+18:33:17 |c|~the fire mage|kek
+18:33:22 |c|#shivamrustagi|nice
+18:33:29 the fire mage was promoted to Room Leader by shivamrustagi.
+18:33:29 |N|&the fire mage|thefiremage
+18:33:32 (V A Q changed the roomdesc to: "Discussing Indian Culture and goodness.".)
+18:33:36 |c|&the fire mage|no
+18:33:42 (the fire mage was demoted to Room Special Star by the fire mage.)
+18:33:42 |N|★the fire mage|thefiremage
+18:33:42 |c|#V A Q|?
+18:33:45 |c|#shivamrustagi|no?
+18:33:46 |c|#V A Q|oh
+18:33:47 |c|★the fire mage|i prefer this rank
+18:33:51 |c|#shivamrustagi|ok
+18:34:05 (V A Q was demoted to Room regular user by V A Q.)
+18:34:05 |N|&V A Q|vaq
+18:34:59 |c|&V A Q|anything else?
+18:35:12 |c|#shivamrustagi|a photo
+18:35:19 |c|#shivamrustagi|image at the bakc of
+18:35:35 |c|+Fairy Of Valor|Wait how did you promote to room leader ;-;
+18:35:45 |c|★the fire mage|//roomleader
+18:35:48 |c|★the fire mage|obviously
+18:36:02 |c|+Fairy Of Valor|Oh
+18:36:08 |c|&V A Q|But
+18:36:09 |c|+Fairy Of Valor|I thought that was only a global thing lol
+18:36:20 |c|★the fire mage|not in this server
+18:36:22 |c|&V A Q|Careful who you pick as leader
+18:36:26 |c|+Fairy Of Valor|ohh
+18:36:30 |c|+Fairy Of Valor|I will be lol
+18:36:42 |c|&V A Q|cause only auth like me can demote
+18:36:47 |c|&V A Q|and ggdaca
+18:36:59 |c|+Fairy Of Valor|o.O
+18:37:32 |L|#shivamrustagi
+18:37:44 |J|#shivamrustagi
+18:38:05 |c|#shivamrustagi|V A Q
+18:38:08 |c|#shivamrustagi|an image 
+18:38:10 |c|#shivamrustagi|as well 
+18:38:22 |c|★the fire mage|pretty sure roomowner can demote and promote roomleadwer
+18:38:23 |N|+Fairy Of Valor|fairyofvalor
+18:38:24 |c|★the fire mage|also V A Q
+18:38:31 |c|★the fire mage|u dont need roomowner to change roomintro
+18:38:36 |raw|<div class='chat'><small>★</small><button name='parseCommand' value='/user the fire mage' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#8C4ADD'>the fire mage:</font></b></button><em class='mine'>u can do it as a leader <img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/xaa.png" title="xaa" width="50" height="50" /></em></div>
+18:38:36 |c|&V A Q|ik
+18:38:50 |c|&V A Q|I needed to test htmlbox command
+18:41:39 |userstats|total:4|guests:0| :0|+:1|%:0|@:0|★:1|-:0|&:1|#:1|♥:0|~:0
+18:50:53 |J| MrPugg
+18:51:01 |c| MrPugg|K
+18:51:27 |c|+Fairy Of Valor|MrPugg
+18:51:31 |c|+Fairy Of Valor|Sorry about last night lol
+18:51:39 |userstats|total:5|guests:0| :1|+:1|%:0|@:0|★:1|-:0|&:1|#:1|♥:0|~:0
+18:51:41 |c|+Fairy Of Valor|I can battle u now if you want
+18:52:45 |c| MrPugg|nah its ok
+18:53:13 |c| MrPugg|im busy coding stuff rn
+18:53:48 |L| MrPugg
+18:54:25 |c|+Fairy Of Valor|Kk
+18:54:37 |c|#shivamrustagi|who is mrpugg
+18:56:29 |J| MrPugg
+18:56:37 |c| MrPugg|Who are you
+18:57:04 |c|+Fairy Of Valor|Shivam, MrPugg tried out for my league lastnight but we both had to get off lol
+18:57:09 |c|+Fairy Of Valor|before the end of the battle
+18:57:38 |c| MrPugg|and i was busy coding so dont hl me pls
+18:58:10 |c| MrPugg|and dont globals get rooms?
+18:58:35 |c|&V A Q|not only globals
+18:59:07 |c|+Fairy Of Valor|Its fine
+18:59:33 |c| MrPugg|this shivam guys rude af
+18:59:43 |c| MrPugg|sorry im a little stressed
+18:59:46 |c|+Fairy Of Valor|No he isn't lol
+19:00:00 |c|#shivamrustagi|who is mr pugg
+19:00:07 |c|#shivamrustagi|i am just asking
+19:00:10 |c| MrPugg|Who are you kid
+19:00:14 |c|#shivamrustagi|and how am i rude
+19:00:19 |c|#shivamrustagi|bro i am  not a kid
+19:00:28 |c|#shivamrustagi|i am 18 bro
+19:00:35 |c| MrPugg|lol
+19:00:37 |c| MrPugg|k
+19:00:52 |c|#shivamrustagi|will u like to introduce urself
+19:00:56 |c|&V A Q|WTF is happening
+19:01:15 |c| MrPugg|i wanna report shivam
+19:01:20 |c|#shivamrustagi|wat?
+19:01:21 |c| MrPugg|rudeness
+19:01:22 |c|#shivamrustagi|for wat
+19:01:24 |c|#shivamrustagi|lol 
+19:01:31 |c|#shivamrustagi|just tell where i was rude
+19:01:33 |c|#shivamrustagi|V A Q
+19:01:39 |userstats|total:5|guests:0| :1|+:1|%:0|@:0|★:1|-:0|&:1|#:1|♥:0|~:0
+19:01:41 |c|#shivamrustagi|just see where was i rude
+19:01:47 |c|&V A Q|mrpugg i dont have time for this
+19:01:47 |c|#shivamrustagi|making baseless claims
+19:02:07 |c| MrPugg|LOLOL baseless
+19:02:25 MrPugg was kicked from the room by V A Q.
+19:02:25 |L| MrPugg
+19:02:39 |c|#shivamrustagi|can i ban him
+19:02:41 |c|#shivamrustagi|V A Q
+19:02:50 |c|&V A Q|Dont
+19:02:54 |c|#shivamrustagi|ok
+19:02:58 |c|&V A Q|i will handle it
+19:03:02 |c|#shivamrustagi|ok
+19:03:16 |c|#shivamrustagi|thats why i asked u 
+19:04:04 |c|&V A Q|dw about it
+19:04:07 |c|#shivamrustagi|ok
+19:04:22 MrPugg's messages were cleared from room theindiangoodness by V A Q.
+19:04:22 |unlink|roomhide|mrpugg
+19:04:43 |L|&V A Q
+19:04:43 |L|+Fairy Of Valor
+19:04:43 |L|★the fire mage
+19:04:43 |L|#shivamrustagi
+19:04:44 |J|#shivamrustagi
+19:04:44 |J|★the fire mage
+19:04:44 |J|+Fairy Of Valor
+19:04:44 |J|&V A Q
+19:04:53 |c|&V A Q|NO ARGUING PLS
+19:04:58 |c|&V A Q|THANK YOU
+19:05:00 |c|#shivamrustagi|ok
+19:06:09 |L|★the fire mage
+19:09:23 |L|#shivamrustagi
+19:11:39 |userstats|total:2|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:1|#:0|♥:0|~:0
+19:12:46 |L|+Fairy Of Valor
+19:21:39 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:1|#:0|♥:0|~:0
+19:23:50 |L|&V A Q
+19:31:39 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+19:41:39 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+19:51:39 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+19:52:37 |J|&V A Q
+19:52:44 |L|&V A Q
+20:01:39 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+20:11:39 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+20:18:12 NEW CHATROOM: theindiangoodness
+20:21:39 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+20:30:05 NEW CHATROOM: theindiangoodness
+20:33:45 NEW CHATROOM: theindiangoodness
+20:43:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+20:53:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+21:03:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+21:13:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+21:23:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+21:33:34 |J|~The Sakurai
+21:33:45 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:1
+21:34:49 |L|~The Sakurai
+21:43:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+21:46:13 |raw|<div class="broadcast-red"><b>The server is restarting soon.</b><br />Please finish your battles quickly. No new battles can be started until the server resets in a few minutes.</div>
+21:46:32 NEW CHATROOM: theindiangoodness
+21:46:46 NEW CHATROOM: theindiangoodness
+21:47:17 |J|~The Sakurai
+21:47:22 |L|~The Sakurai
+21:56:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+21:56:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:06:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:06:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:16:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:16:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:26:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:26:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:36:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:36:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:46:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:46:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:56:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:56:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+23:06:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+23:06:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+23:16:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+23:16:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+23:26:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+23:26:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+23:36:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+23:36:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+23:46:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+23:46:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+23:56:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+23:56:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0

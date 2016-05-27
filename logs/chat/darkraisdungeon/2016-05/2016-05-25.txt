@@ -1,0 +1,454 @@
+02:32:32 NEW CHATROOM: darkraisdungeon
+02:42:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+02:52:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+03:02:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+03:12:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+03:22:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+03:32:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+03:42:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+03:52:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+04:02:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+04:12:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+04:13:18 NEW CHATROOM: darkraisdungeon
+04:23:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+04:33:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+04:43:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+04:53:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+05:03:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+05:13:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+05:23:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+05:33:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+05:43:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+05:53:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+06:03:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+06:13:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+06:23:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+06:33:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+06:43:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+06:53:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+07:03:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+07:13:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+14:27:04 NEW CHATROOM: darkraisdungeon
+14:37:04 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+14:41:58 NEW CHATROOM: darkraisdungeon
+14:51:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+15:01:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+15:11:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+15:21:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+15:26:34 |raw|<div class="broadcast-blue"><b>VAQ is hosting a Tournament in <button name="joinroom" value="tours">This room</button> You will win the grand prize of: <em>A private room</em></b></div>
+15:31:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+15:41:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+15:51:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+16:01:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+16:11:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+16:21:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+16:31:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+16:41:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+16:51:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+17:01:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+17:11:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+17:21:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+17:31:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+17:33:14 |J|&V A Q
+17:33:16 |L|&V A Q
+17:41:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+17:51:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+18:01:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+18:11:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+18:21:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+18:31:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+18:41:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+18:51:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+19:01:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+19:11:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+19:21:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+19:31:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+19:41:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+19:51:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+20:01:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+20:11:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+20:18:12 NEW CHATROOM: darkraisdungeon
+20:21:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+20:30:05 NEW CHATROOM: darkraisdungeon
+20:33:45 NEW CHATROOM: darkraisdungeon
+20:43:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+20:53:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+21:03:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+21:13:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+21:23:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+21:29:21 |J| Alliance Darkrai
+21:29:33 |raw|<div class='chat'><small> </small><button name='parseCommand' value='/user Alliance Darkrai' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#2468B1'>Alliance Darkrai:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsgd.png" title="feelsgd" width="50" height="50" /></em></div>
+21:29:35 |raw|<div class='chat'><small> </small><button name='parseCommand' value='/user Alliance Darkrai' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#2468B1'>Alliance Darkrai:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsok.png" title="feelsok" width="50" height="50" /></em></div>
+21:29:36 |raw|<div class='chat'><small> </small><button name='parseCommand' value='/user Alliance Darkrai' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#2468B1'>Alliance Darkrai:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsrs.png" title="feelsrs" width="50" height="50" /></em></div>
+21:29:37 |raw|<div class='chat'><small> </small><button name='parseCommand' value='/user Alliance Darkrai' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#2468B1'>Alliance Darkrai:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsrg.png" title="feelsrg" width="50" height="50" /></em></div>
+21:29:39 |raw|<div class='chat'><small> </small><button name='parseCommand' value='/user Alliance Darkrai' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#2468B1'>Alliance Darkrai:</font></b></button><em class='mine'>feelscri</em></div>
+21:29:43 |raw|<div class='chat'><small> </small><button name='parseCommand' value='/user Alliance Darkrai' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#2468B1'>Alliance Darkrai:</font></b></button><em class='mine'>new emote idea <img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsok.png" title="feelsok" width="50" height="50" /></em></div>
+21:33:45 |userstats|total:1|guests:0| :1|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+21:43:45 |userstats|total:1|guests:0| :1|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+21:46:13 |raw|<div class="broadcast-red"><b>The server is restarting soon.</b><br />Please finish your battles quickly. No new battles can be started until the server resets in a few minutes.</div>
+21:46:32 NEW CHATROOM: darkraisdungeon
+21:46:46 NEW CHATROOM: darkraisdungeon
+21:56:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+21:56:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:06:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:06:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:16:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:16:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:26:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:26:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:36:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:36:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:46:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:46:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:54:39 |J| Alliance Darkrai
+22:55:45 |J|~Audinory
+22:55:48 Alliance Darkrai was appointed Room Lord by Audinory.
+22:55:48 |N|#Alliance Darkrai|alliancedarkrai
+22:55:53 |c|#Alliance Darkrai|thanks
+22:55:54 |J|~Bandi
+22:56:17 |raw|<div class="broadcast-blue"><button style="border: triple, gold, 4px; color: gold; background-color: #990000; border-radius: 10px; font-face: serif ; font-size: 14px;"> test</button> </div>
+22:56:30 |raw|<div class="broadcast-blue"><button style="border: triple, gold, 4px; color: gold; background-color: #990000; border-radius: 10px; font-face: serif ; font-size: 20px;"> test</button> </div>
+22:56:32 |userstats|total:3|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:2
+22:56:34 |c|#Alliance Darkrai|ok
+22:56:46 |raw|<div class="broadcast-blue"><button style="border: triple, blue, 4px; color: gold; background-color: #990000; border-radius: 10px; font-face: serif ; font-size: 20px;"> test</button> </div>
+22:56:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:57:00 |c|~Audinory|cute
+22:57:02 |raw|<div class="broadcast-blue"><button style="border: triple, blue, 4px; color: gold; background-color: #000000; border-radius: 10px; font-face: serif ; font-size: 20px;"> test</button> </div>
+22:57:07 |c|#Alliance Darkrai|Nice
+22:57:21 |raw|<div class="broadcast-blue"><button style="border: triple, blue, 4px; color: blue; background-color: #000000; border-radius: 10px; font-face: serif ; font-size: 20px;"> test</button> </div>
+22:57:24 |c|#Alliance Darkrai|:)
+22:57:32 |c|#Alliance Darkrai|I think I got this now
+22:57:45 |raw|<div class="broadcast-blue"><button style="border: triple, blue, 4px; color: blue; background-color: #000000; border-radius: 25px; font-face: serif ; font-size: 20px;"> test</button> </div>
+22:57:55 |c|~Audinory|!htmlbox
+22:57:55 |raw|<div class="infobox"><div class="ifnobox"><div class="ifnobox"><div class="ifnobox"><div class="ifnobox"><div class="ifnobox"><div class="ifnobox"><div class="ifnobox"><div class="ifnobox"><div class="ifnobox"></div></div></div></div></div></div></div></div></div></div>
+22:58:04 |c|~Bandi|https://github.com/TheManwithskills/Duskshowdown01/blob/d9419fc77260036b1212bde8a5c95a59f382d4bf/chat-plugins/room.js
+22:58:06 |c|~Bandi|ther ethat
+22:58:10 |c|~Bandi|be some roomfounder script
+22:58:27 |c|~Audinory|!htmlbox
+22:58:27 |raw|<div class="infobox"><div class="infobox"><div class="ifnobox"><div class="infobox"><div class="infobox"><div class="infobox"><div class="infobox"><div class="infobox"><div class="infobox"><div class="infobox"></div></div></div></div></div></div></div></div></div></div>
+22:58:27 |c|#Alliance Darkrai|How do you add a output command?
+22:58:39 |c|~Audinory|what like
+22:58:41 |c|~Audinory|//user x
+22:59:23 |c|#Alliance Darkrai|<button style="border: double, gold, 4px; color: gold; background-color: #990000; border-radius: 10px; font-face: serif ; font-size: 14px;"> Ca$ino Rules </button> <value="Ok" target="_blank"><b target="_blank">Lucky</b></button>
+22:59:25 |c|#Alliance Darkrai|shit
+22:59:32 |raw|<div class="broadcast-blue"><button style="border: double, gold, 4px; color: gold; background-color: #990000; border-radius: 10px; font-face: serif ; font-size: 14px;"> Ca$ino Rules </button> <value="Ok" target="_blank"><b target="_blank">Lucky</b></button></div>
+22:59:39 |raw|<div class='chat'><small>#</small><button name='parseCommand' value='/user Alliance Darkrai' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#2468B1'>Alliance Darkrai:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelstr.png" title="feelstr" width="50" height="50" /></em></div>
+22:59:41 |c|~Bandi|what u tryna do
+22:59:42 |c|~Bandi|lol
+22:59:43 |c|~Audinory|lmao
+22:59:48 |c|#Alliance Darkrai|Make the button do something
+22:59:58 |c|~Bandi|ok
+22:59:58 |raw|<div class="broadcast-blue"><button style="border: double, gold, 4px; color: gold; background-color: #990000; border-radius: 10px; font-face: serif ; font-size: 14px;"> Ca$ino Rules </button> value="Ok" target="_blank"><b target="_blank">Lucky</b></button></div>
+23:00:04 |c|~Bandi|Audinory
+23:00:04 |c|~Audinory|L
+23:00:05 |c|~Audinory|M
+23:00:06 |raw|<div class="broadcast-blue"><button style="border: double, gold, 4px; color: gold; background-color: #990000; border-radius: 10px; font-face: serif ; font-size: 14px;"> Ca$ino Rules </button> <value="Ok" target="_blank"><b target="_blank">Lucky</b></button></div>
+23:00:06 |c|~Bandi|wbu
+23:00:06 |c|~Audinory|Hi
+23:00:09 |c|~Bandi|what are u tryna do
+23:00:12 |c|~Bandi|also https://github.com/TheManwithskills/Duskshowdown01/blob/d9419fc77260036b1212bde8a5c95a59f382d4bf/chat-plugins/room.js
+23:00:16 |c|~Bandi|theres the roomfoudner command
+23:00:18 |c|~Bandi|nto sure where
+23:00:18 |c|~Audinory|Find the css for custom name colours
+23:00:20 |c|~Bandi|the room.js
+23:00:21 |c|~Bandi|code would be
+23:00:24 |c|~Bandi|Audinory only sakurai
+23:00:26 |c|~Bandi|knows hwo to do
+23:00:26 |c|~Bandi|it
+23:00:27 |c|~Audinory|and i might copy floats seticon command
+23:00:29 |c|~Bandi|LITERALLY
+23:00:31 |c|~Audinory|and change it to
+23:00:31 |c|~Bandi|no
+23:00:33 |c|~Bandi|body else
+23:00:33 |c|~Audinory|//setcolor
+23:00:35 |c|~Audinory|:^)
+23:00:36 |c|~Bandi|has ever done it
+23:00:42 |c|~Audinory|Ill speak to him
+23:00:45 |c|~Audinory|but i do believe
+23:00:46 |c|~Bandi|ive literally only see him do custom colors
+23:00:51 |c|~Audinory|we could have /setcolor
+23:00:54 |c|~Audinory|like seticon
+23:00:55 |c|~Audinory|o3o
+23:01:11 |raw|<div class="broadcast-blue"><button style="border: quad gold, 4px; color: gold; background-color: #990000; border-radius: 10px; font-face: serif ; font-size: 14px;"> Ca$ino Rules </button> <value="Ok" target="_blank"><b target="_blank">Lucky</b></button></div>
+23:01:13 |c|~Audinory|although it might overwrite the icon
+23:01:18 |raw|<div class="broadcast-blue"><button style="border: double gold, 4px; color: gold; background-color: #990000; border-radius: 10px; font-face: serif ; font-size: 14px;"> Ca$ino Rules </button> <value="Ok" target="_blank"><b target="_blank">Lucky</b></button></div>
+23:01:41 |c|~Audinory|button style="border: double gold, 4px; color: gold; background-color: #990000; border-radius: 10px; font-face: serif ; font-size: 14px;" name="send" value="Lucky"> Ca$ino Rules </button><b target="_blank">Lucky</b></button>
+23:01:43 |c|~Audinory|darkrai
+23:01:45 |c|~Audinory|^
+23:01:49 |c|~Bandi|Audinory
+23:01:52 |c|~Bandi|did u finish
+23:01:56 |c|~Bandi|the wheel css?
+23:02:03 |c|#Alliance Darkrai|aight
+23:02:04 |c|~Bandi|also i wouldn't advise doing a roulette as the background
+23:02:05 |c|~Audinory|dns is working on it
+23:02:08 |c|~Bandi|cuz im doing a seperate roulette
+23:02:09 |c|~Bandi|code
+23:02:11 |c|~Audinory|okie
+23:02:57 |raw|<div class="broadcast-blue">button style="border: double blue, 15px; color: Green; background-color: #000000; border-radius: 20px; font-face: serif ; font-size: 25px;" name="send" value="Lucky"> Test </button><b target="_blank">Lucky</b></button> </div>
+23:03:00 |raw|<div class='chat'><small>#</small><button name='parseCommand' value='/user Alliance Darkrai' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#2468B1'>Alliance Darkrai:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelstr.png" title="feelstr" width="50" height="50" /></em></div>
+23:03:02 |c|#Alliance Darkrai|o
+23:03:06 |c|~Audinory|l
+23:03:07 |c|~Audinory|m
+23:03:07 |c|~Audinory|a
+23:03:08 |c|~Audinory|o
+23:03:15 |raw|<div class="broadcast-blue"><button style="border: double gold, 4px; color: gold; background-color: #990000; border-radius: 10px; font-face: serif ; font-size: 14px;" name="send" value="Lucky"> Ca$ino Rules </button><b target="_blank">Lucky</b></button> </div>
+23:03:17 |c|~Audinory|dont forget your
+23:03:18 |raw|<div class='chat'><small>#</small><button name='parseCommand' value='/user Alliance Darkrai' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#2468B1'>Alliance Darkrai:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsgd.png" title="feelsgd" width="50" height="50" /></em></div>
+23:03:19 |c|~Audinory|Lucky
+23:03:20 |c|#Alliance Darkrai|Lucky
+23:03:23 |c|#Alliance Darkrai|ez
+23:03:25 |c|~Audinory|remember to have a </button>
+23:03:30 |c|#Alliance Darkrai|ik
+23:03:42 |raw|<div class="broadcast-blue"><button style="border: double gold, 4px; color: gold; background-color: #990000; border-radius: 10px; font-face: serif ; font-size: 14px;" name="send" value="Lucky"> Ca$ino Rules </button><b target="_blank">:)</b></button> </div>
+23:03:46 |c|#Alliance Darkrai|ok cool
+23:03:55 |raw|<div class="broadcast-blue"><button style="border: double gold, 4px; color: gold; background-color: #990000; border-radius: 10px; font-face: serif ; font-size: 14px;" name="send" value="Lucky"> Darkrai's Button </button><b target="_blank">:)</b></button> </div>
+23:04:23 |raw|<div class="broadcast-blue"><button style="border: double blue, 10px; color: green; background-color: #000000; border-radius: 15px; font-face: serif ; font-size: 20px;" name="send" value="Lucky"> Darkrai's Button </button><b target="_blank">:)</b></button> </div>
+23:04:31 |c|#Alliance Darkrai|hot
+23:04:32 |c|#Alliance Darkrai|Lucky
+23:04:46 |c|~Bandi|Lucky
+23:04:48 |c|~Bandi|Lucky
+23:04:48 |c|~Bandi|Lucky
+23:04:48 |c|~Bandi|Lucky
+23:04:49 |c|~Bandi|Lucky
+23:04:49 |c|~Bandi|Lucky
+23:04:50 |c|~Bandi|Lucky
+23:04:50 |c|~Bandi|Lucky
+23:04:50 |c|~Bandi|Lucky
+23:04:51 |c|~Bandi|Lucky
+23:04:51 |c|~Bandi|Lucky
+23:04:51 |c|~Bandi|Lucky
+23:04:51 |c|~Bandi|Lucky
+23:04:52 |c|~Bandi|Lucky
+23:04:52 |c|~Bandi|Lucky
+23:04:52 |c|~Bandi|Lucky
+23:04:53 |c|~Bandi|Lucky
+23:04:53 |c|~Bandi|Lucky
+23:04:53 |c|~Bandi|Lucky
+23:04:54 |c|~Bandi|Lucky
+23:04:54 |c|~Bandi|Lucky
+23:04:54 |c|~Bandi|Lucky
+23:04:54 |c|~Bandi|Lucky
+23:04:55 |c|~Bandi|Lucky
+23:04:55 |c|~Bandi|Lucky
+23:05:02 |c|~Bandi|Lucky
+23:05:03 |c|~Bandi|Lucky
+23:05:03 |c|~Bandi|Lucky
+23:05:04 |c|~Bandi|Lucky
+23:05:04 |c|~Bandi|Lucky
+23:05:04 |c|~Bandi|Lucky
+23:05:05 |c|~Bandi|Lucky
+23:05:05 |c|~Bandi|Lucky
+23:05:05 |c|~Bandi|Lucky
+23:05:05 |c|~Bandi|Lucky
+23:05:06 |c|~Bandi|Lucky
+23:05:07 |c|~Bandi|Button :)
+23:05:12 |c|~Bandi|Lucky
+23:05:13 |c|~Bandi|Lucky
+23:05:13 |c|~Bandi|Lucky
+23:05:13 |c|~Audinory|LOL
+23:05:13 |c|~Bandi|Lucky
+23:05:14 |c|~Bandi|Lucky
+23:05:14 |c|~Bandi|Lucky
+23:05:14 |c|~Bandi|Lucky
+23:05:14 |c|~Bandi|Lucky
+23:05:15 |c|~Bandi|Lucky
+23:05:15 |c|~Bandi|Lucky
+23:05:15 |c|~Bandi|Lucky
+23:05:16 |c|~Bandi|Lucky
+23:05:16 |c|~Bandi|Lucky
+23:05:16 |c|~Bandi|Lucky
+23:05:17 |c|~Bandi|Lucky
+23:05:17 |c|~Bandi|Lucky
+23:05:17 |c|~Bandi|Lucky
+23:05:23 |c|~Bandi|Lucky
+23:05:23 |c|~Bandi|Lucky
+23:05:24 |c|~Bandi|Lucky
+23:05:24 |c|~Bandi|Lucky
+23:05:24 |c|~Bandi|Lucky
+23:05:25 |c|~Bandi|Lucky
+23:05:25 |c|~Bandi|Lucky
+23:05:25 |c|~Bandi|Lucky
+23:05:26 |c|~Bandi|Lucky
+23:05:26 |c|~Bandi|Lucky
+23:05:26 |c|~Bandi|Lucky
+23:05:26 |c|~Bandi|Lucky
+23:05:27 |c|~Bandi|Lucky
+23:05:27 |c|~Bandi|Lucky
+23:05:27 |c|~Audinory|Lucky
+23:05:27 |c|~Bandi|Lucky
+23:05:28 |c|~Bandi|Lucky
+23:05:28 |c|~Bandi|Lucky
+23:05:28 |c|~Bandi|Lucky
+23:05:29 |c|~Bandi|Lucky
+23:05:29 |c|~Bandi|Lucky
+23:05:29 |c|~Bandi|Lucky
+23:05:29 |c|~Audinory|Lucky
+23:05:29 |c|~Bandi|Lucky
+23:05:30 |c|~Bandi|Lucky
+23:05:30 |c|~Audinory|Lucky
+23:05:30 |c|~Bandi|Lucky
+23:05:30 |c|~Audinory|Lucky
+23:05:30 |c|~Bandi|Lucky
+23:05:30 |c|~Audinory|Lucky
+23:05:31 |c|~Bandi|Lucky
+23:05:31 |c|~Audinory|Lucky
+23:05:31 |c|~Bandi|Lucky
+23:05:31 |c|~Audinory|Lucky
+23:05:31 |c|~Bandi|Lucky
+23:05:31 |c|~Audinory|Lucky
+23:05:32 |c|~Bandi|Lucky
+23:05:32 |c|~Audinory|Lucky
+23:05:32 |c|~Bandi|Lucky
+23:05:32 |c|~Audinory|Lucky
+23:05:32 |c|~Bandi|Lucky
+23:05:32 |c|~Audinory|Lucky
+23:05:32 |c|~Bandi|Lucky
+23:05:33 |c|~Audinory|Lucky
+23:05:33 |c|~Bandi|Lucky
+23:05:33 |c|~Audinory|Lucky
+23:05:33 |c|~Bandi|Lucky
+23:05:33 |c|~Audinory|Lucky
+23:05:33 |c|~Bandi|Lucky
+23:05:33 |c|~Audinory|Lucky
+23:05:34 |c|~Bandi|Lucky
+23:05:34 |c|~Audinory|Lucky
+23:05:34 |c|~Bandi|Lucky
+23:05:34 |c|~Audinory|Lucky
+23:05:34 |c|~Bandi|Lucky
+23:05:34 |c|~Audinory|Lucky
+23:05:35 |c|~Bandi|Lucky
+23:05:35 |c|~Audinory|Lucky
+23:05:35 |c|~Bandi|Lucky
+23:05:35 |c|~Audinory|Lucky
+23:05:35 |c|~Bandi|Lucky
+23:05:35 |c|~Audinory|Lucky
+23:05:35 |c|~Bandi|Lucky
+23:05:36 |c|~Audinory|Lucky
+23:05:36 |c|~Bandi|Lucky
+23:05:36 |c|~Audinory|Lucky
+23:05:36 |c|~Bandi|Lucky
+23:05:36 |c|~Audinory|Lucky
+23:05:36 |c|~Bandi|Lucky
+23:05:36 |c|~Audinory|Lucky
+23:05:37 |c|~Bandi|Lucky
+23:05:37 |c|~Audinory|Lucky
+23:05:37 |c|~Bandi|Lucky
+23:05:37 |c|~Audinory|Lucky
+23:05:37 |c|~Bandi|Lucky
+23:05:37 |c|~Audinory|Lucky
+23:05:38 |c|~Bandi|Lucky
+23:05:38 |c|~Audinory|Lucky
+23:05:38 |c|~Bandi|Lucky
+23:05:38 |c|~Audinory|Lucky
+23:05:38 |c|~Bandi|Lucky
+23:05:38 |c|~Audinory|Lucky
+23:05:38 |c|~Bandi|Lucky
+23:05:39 |c|~Audinory|Lucky
+23:05:39 |c|~Bandi|Lucky
+23:05:39 |c|~Audinory|Lucky
+23:05:39 |c|~Bandi|Lucky
+23:05:39 |c|~Audinory|Lucky
+23:05:39 |c|~Bandi|Lucky
+23:05:39 |c|~Audinory|Lucky
+23:05:40 |c|~Bandi|Lucky
+23:05:40 |c|~Audinory|Lucky
+23:05:40 |c|~Bandi|Lucky
+23:05:40 |c|~Audinory|Lucky
+23:05:40 |c|~Bandi|Lucky
+23:05:40 |c|~Audinory|Lucky
+23:05:41 |c|~Bandi|Lucky
+23:05:41 |c|~Audinory|Lucky
+23:05:41 |c|~Bandi|Lucky
+23:05:41 |c|~Audinory|Lucky
+23:05:41 |c|~Bandi|Lucky
+23:05:41 |c|~Audinory|Lucky
+23:05:41 |c|~Bandi|Lucky
+23:05:42 |c|~Audinory|Lucky
+23:05:42 |c|~Bandi|Lucky
+23:05:42 |c|~Audinory|Lucky
+23:05:42 |c|~Bandi|Lucky
+23:05:42 |c|~Audinory|Lucky
+23:05:42 |c|~Audinory|Lucky
+23:05:43 |c|~Audinory|Lucky
+23:05:43 |c|~Audinory|Lucky
+23:05:43 |c|~Audinory|Lucky
+23:05:44 |c|~Audinory|Lucky
+23:05:44 |c|~Audinory|Lucky
+23:05:44 |c|~Audinory|Lucky
+23:05:47 |c|~Bandi|Lucky
+23:05:48 |c|~Bandi|Lucky
+23:05:48 |c|~Bandi|Lucky
+23:05:48 |c|~Bandi|Lucky
+23:05:49 |c|~Bandi|Lucky
+23:05:49 |c|~Bandi|Lucky
+23:05:49 |c|~Bandi|Lucky
+23:05:49 |c|~Bandi|Lucky
+23:05:50 |c|~Bandi|Lucky
+23:05:50 |c|~Bandi|Lucky
+23:05:50 |c|~Bandi|Lucky
+23:05:51 |c|~Bandi|Lucky
+23:05:51 |c|~Bandi|Lucky
+23:05:51 |c|~Audinory|lmao
+23:05:51 |c|~Bandi|Lucky
+23:05:52 |c|~Bandi|Lucky
+23:05:52 |c|~Bandi|Lucky
+23:05:52 |c|~Bandi|Lucky
+23:05:52 |c|~Bandi|Lucky
+23:05:53 |c|~Bandi|Lucky
+23:05:53 |c|~Bandi|Lucky
+23:05:53 |c|~Bandi|Lucky
+23:05:54 |c|~Bandi|Lucky
+23:05:54 |c|~Bandi|Lucky
+23:05:54 |c|~Bandi|Lucky
+23:05:55 |c|~Bandi|Lucky
+23:05:55 |c|~Bandi|Lucky
+23:05:55 |c|~Bandi|Lucky
+23:05:55 |c|~Bandi|Lucky
+23:05:56 |c|~Bandi|Lucky
+23:05:59 |c|~Bandi|n ie 
+23:06:01 |c|~Bandi|n
+23:06:01 |c|~Bandi|i
+23:06:03 |c|~Bandi|c
+23:06:03 |c|~Bandi|e
+23:06:04 |c|~Bandi|n
+23:06:05 |c|~Bandi|l
+23:06:07 |c|~Bandi|u
+23:06:07 |c|~Bandi|c
+23:06:08 |c|~Bandi|k
+23:06:09 |c|~Bandi|y
+23:06:17 |c|#Alliance Darkrai|:o
+23:06:32 |userstats|total:3|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:2
+23:06:33 |raw|<div class="broadcast-blue"><button style="border: double blue, 10px; color: green; background-color: #000000; border-radius: 15px; font-face: serif ; font-size: 20px;" name="send" value="/l"> Darkrai's Button </button><b target="_blank">:)</b></button> </div>
+23:06:38 |c|#Alliance Darkrai|:)
+23:06:42 |c|~Bandi|!htmlbox
+23:06:42 |raw|<div class="infobox"><div class="infobox" style="background-image: url('http://www.casinonewsdaily.com/wp-content/uploads/guides/illustrations/roulette/basics/roulette-wheel.jpg') background-size: 100%; color: red; font-size: 10px; text-align: center;">The Wheel Of<br><font style="color: red;"><strong>' + targets[0] + '</strong></font><br>Has been started and is waiting to be spun!<hr>The Mulitiplier is: <font style="color: red;">' + targets[1] + '</font><hr><font style="color: blue;">' + this.wheel; </font></div></div>
+23:06:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+23:06:58 |c|#Alliance Darkrai|aye click the button tho
+23:07:26 |c|#Alliance Darkrai|o
+23:07:37 |raw|<div class="broadcast-blue"><button style="border: double blue, 10px; color: green; background-color: #000000; border-radius: 15px; font-face: serif ; font-size: 20px;" name="send" value="/leave"> Darkrai's Button </button><b target="_blank">:)</b></button> </div>
+23:07:38 |L|#Alliance Darkrai
+23:07:46 |J|#Alliance Darkrai
+23:07:51 |c|#Alliance Darkrai|now click it
+23:13:29 |raw|<div class="infobox" style="color: red; size: 20px;">The Wheel Of <font style="color: green;"><strong>scrubs, 1</strong></font>Has been started and is waiting to be spun!<hr><br><font style="color: blue;">-5,-4,-3,-2,-2,-1,-1,-1,-1,1,1,3,3,3,5
+23:14:23 The wheel game was ended by bandi.
+23:14:24 |raw|<div class="infobox" style="color: red; size: 20px; text-align: center;">The Wheel Of <font style="color: green;"><strong>scrubs,1</strong></font>Has been started and is waiting to be spun!<hr><br><font style="color: blue;">-5,-4,-3,-2,-2,-1,-1,-1,-1,1,1,3,3,3,5
+23:16:32 |userstats|total:3|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:2
+23:16:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+23:19:38 The wheel game was ended by audinory.
+23:20:32 |J|&verizor
+23:20:33 The wheel game was ended by audinory.
+23:20:45 |J|@Mystifi - ⒶⓌⒶⓎ
+23:20:48 |L|&verizor
+23:20:52 |L|@Mystifi - ⒶⓌⒶⓎ
+23:26:32 |userstats|total:3|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:2
+23:26:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+23:31:13 |J| Boytears
+23:31:19 |raw|<div class='chat'><small> </small><button name='parseCommand' value='/user Boytears' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#B54844'>Boytears:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/wtfman.png" title="wtfman" width="50" height="50" /></em></div>
+23:31:32 |raw|<div class='chat'><small> </small><button name='parseCommand' value='/user Boytears' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#B54844'>Boytears:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/xaa.png" title="xaa" width="50" height="50" /></em></div>
+23:36:32 |userstats|total:4|guests:0| :1|+:0|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:2
+23:36:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+23:40:36 |c|#Alliance Darkrai|hihi
+23:46:32 |userstats|total:4|guests:0| :1|+:0|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:2
+23:46:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+23:56:32 |userstats|total:4|guests:0| :1|+:0|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:2
+23:56:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0

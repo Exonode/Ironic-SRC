@@ -1,0 +1,30 @@
+[2016-05-22T14:48:35.547Z] (cap) Hurricane'd was appointed Room Owner by Audinory~♥.
+[2016-05-22T14:49:00.913Z] (cap) (Audinory~♥ added the room alias 'Create A Poke'.)
+[2016-05-22T14:49:12.485Z] (cap) (Audinory~♥ added the room alias 'Create a pokemon'.)
+[2016-05-22T14:50:19.016Z] (cap) (Hurricane'd changed the roomintro.)
+[2016-05-22T14:51:37.843Z] (cap) (Hurricane'd changed the roomintro.)
+[2016-05-22T15:24:57.465Z] (cap) (Audinory~♥ changed the roomintro.)
+[2016-05-22T15:28:44.354Z] (cap) (Audinory~♥ changed the roomintro.)
+[2016-05-22T15:29:33.123Z] (cap) (Audinory~♥ changed the roomintro.)
+[2016-05-22T15:32:32.480Z] (cap) (Audinory~♥ changed the roomintro.)
+[2016-05-22T15:35:40.697Z] (cap) (Audinory~♥ changed the roomintro.)
+[2016-05-22T15:36:04.324Z] (cap) (Audinory~♥ changed the roomintro.)
+[2016-05-22T15:36:20.170Z] (cap) (Audinory~♥ changed the roomintro.)
+[2016-05-22T15:36:47.200Z] (cap) (Audinory~♥ changed the roomintro.)
+[2016-05-22T17:46:39.527Z] (cap) (Audinory changed the roomdesc to: "The Create-A-Pokémon project is here!".)
+[2016-05-22T19:59:29.355Z] (cap) Spirit - Anaysha was promoted to Room Sub-Lord by Hurricane'd.
+[2016-05-23T02:15:14.657Z] (cap) (V A Q set modchat to autoconfirmed)
+[2016-05-23T18:25:03.935Z] (cap) (V A Q set modchat to false)
+[2016-05-23T18:37:42.131Z] (cap) (V A Q created a tournament in cap format.)
+[2016-05-23T18:40:16.025Z] (cap) (The tournament auto start timer was set to 2 by V A Q)
+[2016-05-23T18:40:25.253Z] (cap) (The tournament auto disqualify timer was set to 1 by V A Q)
+[2016-05-23T18:40:35.250Z] (cap) (The tournament was set to disallow scouting by V A Q)
+[2016-05-23T18:42:19.916Z] (cap) (V A Q notes: all staff are keeping an shivam)
+[2016-05-23T18:42:35.028Z] (cap) (V A Q notes: an *eye)
+[2016-05-23T18:51:47.988Z] (cap) shivamrustagi was promoted to Room Glorified Normie by Hurricane'd.
+[2016-05-23T19:02:44.838Z] (cap) V A Q was appointed Room Lord by V A Q.
+[2016-05-23T19:03:07.701Z] (cap) (V A Q was demoted to Room regular user by V A Q.)
+[2016-05-24T23:20:32.938Z] (cap) Spirit - Teressa was promoted to Room Le Mod by Spirit - Anaysha.
+[2016-05-26T19:04:40.057Z] (cap) shivamrustagi was promoted to Room Driver by Spirit - Anaysha.
+[2016-05-26T19:42:22.094Z] (cap) verizor was appointed Room Lord by verizor.
+[2016-05-26T19:43:17.993Z] (cap) (verizor was demoted to Room regular user by verizor.)

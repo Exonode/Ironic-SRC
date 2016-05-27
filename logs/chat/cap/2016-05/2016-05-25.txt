@@ -1,0 +1,192 @@
+02:32:32 NEW CHATROOM: cap
+02:38:04 |J|&Spirit - Anaysha
+02:38:10 |J|&V A Q
+02:38:14 |L|&V A Q
+02:42:32 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:1|#:0|♥:0|~:0
+02:52:05 |J|&V A Q
+02:52:10 |L|&V A Q
+02:52:32 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:1|#:0|♥:0|~:0
+03:02:32 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:1|#:0|♥:0|~:0
+03:12:32 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:1|#:0|♥:0|~:0
+03:22:32 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:1|#:0|♥:0|~:0
+03:32:32 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:1|#:0|♥:0|~:0
+03:42:32 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:1|#:0|♥:0|~:0
+03:52:32 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:1|#:0|♥:0|~:0
+04:02:32 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:1|#:0|♥:0|~:0
+04:12:32 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:1|#:0|♥:0|~:0
+04:13:18 NEW CHATROOM: cap
+04:23:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+04:33:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+04:36:04 |J|@Connni
+04:36:10 |L|@Connni
+04:43:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+04:53:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+05:03:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+05:13:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+05:23:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+05:33:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+05:43:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+05:53:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+06:03:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+06:13:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+06:16:18 |J|&Spirit - Anaysha
+06:23:18 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:1|#:0|♥:0|~:0
+06:33:18 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:1|#:0|♥:0|~:0
+06:43:18 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:1|#:0|♥:0|~:0
+06:53:18 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:1|#:0|♥:0|~:0
+07:03:18 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:1|#:0|♥:0|~:0
+07:13:18 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:1|#:0|♥:0|~:0
+14:27:04 NEW CHATROOM: cap
+14:37:04 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+14:41:58 NEW CHATROOM: cap
+14:51:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+14:57:54 |J|#Hurricane'd
+15:01:58 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:0
+15:03:44 |J| Andrrew
+15:11:58 |userstats|total:2|guests:0| :1|+:0|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:0
+15:15:37 |c|#Hurricane'd|Hello there Andrrew
+15:15:41 |c|#Hurricane'd|How are you doin?
+15:21:58 |userstats|total:2|guests:0| :1|+:0|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:0
+15:26:34 |raw|<div class="broadcast-blue"><b>VAQ is hosting a Tournament in <button name="joinroom" value="tours">This room</button> You will win the grand prize of: <em>A private room</em></b></div>
+15:31:58 |userstats|total:2|guests:0| :1|+:0|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:0
+15:41:58 |userstats|total:2|guests:0| :1|+:0|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:0
+15:50:43 |J|&Spirit - Anaysha
+15:51:58 |userstats|total:3|guests:0| :1|+:0|%:0|@:0|★:0|-:0|&:1|#:1|♥:0|~:0
+15:57:52 |J|+shivamrustagi
+15:57:57 |c|+shivamrustagi|hey Spirit - Anaysha
+15:59:16 |L|&Spirit - Anaysha
+15:59:36 |J|&Spirit - Anaysha
+15:59:40 |L|+shivamrustagi
+16:00:01 |J|+shivamrustagi
+16:00:47 |L| Andrrew
+16:01:07 |L|#Hurricane'd
+16:01:30 |J|#Hurricane'd
+16:01:58 |userstats|total:3|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:1|#:1|♥:0|~:0
+16:02:46 |J| Andrrew
+16:02:56 |c| Andrrew|Im good
+16:03:02 |c| Andrrew|hi everyone
+16:05:18 |c|#Hurricane'd|Hello there fam
+16:09:20 |c| Andrrew|i love CAP
+16:10:56 |c|+shivamrustagi|me two
+16:10:59 |c|+shivamrustagi|too*
+16:11:56 |c| Andrrew|really?
+16:11:58 |userstats|total:4|guests:0| :1|+:1|%:0|@:0|★:0|-:0|&:1|#:1|♥:0|~:0
+16:12:08 |c| Andrrew|Whos your fav?
+16:12:43 |c|+shivamrustagi|my fav is krilowatt
+16:12:50 |c|+shivamrustagi|and syclant 
+16:13:56 |c| Andrrew|i like syclant too
+16:14:11 |c| Andrrew|Mainly cause hes ice type
+16:21:58 |userstats|total:4|guests:0| :1|+:1|%:0|@:0|★:0|-:0|&:1|#:1|♥:0|~:0
+16:22:12 |c|+shivamrustagi|man Spirit - Anaysha
+16:22:19 |c|+shivamrustagi|that pokemon is just
+16:22:26 |c|+shivamrustagi|unstoppable
+16:22:28 |c|&Spirit - Anaysha|A ruthless killer.
+16:23:05 |c| Andrrew|uh
+16:23:21 |c| Andrrew|odd description lol
+16:23:29 |c|+shivamrustagi|lol
+16:27:58 |L| Andrrew
+16:28:05 |c|#Hurricane'd|What Pokemon? Cawmodore?
+16:29:07 |J| Andrrew
+16:29:16 |c|+shivamrustagi|its good
+16:31:58 |userstats|total:4|guests:0| :1|+:1|%:0|@:0|★:0|-:0|&:1|#:1|♥:0|~:0
+16:41:58 |userstats|total:4|guests:0| :1|+:1|%:0|@:0|★:0|-:0|&:1|#:1|♥:0|~:0
+16:51:58 |userstats|total:4|guests:0| :1|+:1|%:0|@:0|★:0|-:0|&:1|#:1|♥:0|~:0
+17:01:58 |userstats|total:4|guests:0| :1|+:1|%:0|@:0|★:0|-:0|&:1|#:1|♥:0|~:0
+17:10:42 |L|+shivamrustagi
+17:11:58 |userstats|total:3|guests:0| :1|+:0|%:0|@:0|★:0|-:0|&:1|#:1|♥:0|~:0
+17:12:52 |L|#Hurricane'd
+17:15:28 |L| Andrrew
+17:18:48 |J|&V A Q
+17:18:59 |L|&V A Q
+17:21:58 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:1|#:0|♥:0|~:0
+17:24:42 |J|#Hurricane'd
+17:29:30 |J|&V A Q
+17:31:41 |L|&V A Q
+17:31:58 |userstats|total:2|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:1|#:1|♥:0|~:0
+17:41:58 |userstats|total:2|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:1|#:1|♥:0|~:0
+17:51:58 |userstats|total:2|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:1|#:1|♥:0|~:0
+18:01:58 |userstats|total:2|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:1|#:1|♥:0|~:0
+18:11:58 |userstats|total:2|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:1|#:1|♥:0|~:0
+18:21:58 |userstats|total:2|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:1|#:1|♥:0|~:0
+18:30:43 |J| Lunterik
+18:31:58 |userstats|total:3|guests:0| :1|+:0|%:0|@:0|★:0|-:0|&:1|#:1|♥:0|~:0
+18:33:34 |L| Lunterik
+18:40:27 |L|&Spirit - Anaysha
+18:40:52 |J|&Spirit - Anaysha
+18:41:58 |userstats|total:2|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:1|#:1|♥:0|~:0
+18:47:42 |L|#Hurricane'd
+18:49:29 |J| MrPugg
+18:49:57 |J|@Spirit - Teressa
+18:50:04 |L|spiritteressa
+18:50:21 |c| MrPugg|Cawmodore's iv spreads make it better imo
+18:50:31 |c| MrPugg|good speed imo
+18:51:21 |c|&Spirit - Anaysha|Yep. I'll be sticking around here often.
+18:51:58 |userstats|total:2|guests:0| :1|+:0|%:0|@:0|★:0|-:0|&:1|#:0|♥:0|~:0
+18:52:30 |c| MrPugg|ok
+18:53:46 |L| MrPugg
+19:01:58 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:1|#:0|♥:0|~:0
+19:11:58 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:1|#:0|♥:0|~:0
+19:14:54 |L|&Spirit - Anaysha
+19:15:40 |J|&Spirit - Anaysha
+19:21:58 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:1|#:0|♥:0|~:0
+19:31:58 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:1|#:0|♥:0|~:0
+19:35:51 |J|#Hurricane'd
+19:36:44 |J|~The Sakurai
+19:36:51 |N| The Sakurai|thesakurai
+19:36:53 |L| The Sakurai
+19:41:58 |userstats|total:2|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:1|#:1|♥:0|~:0
+19:43:19 |L|#Hurricane'd
+19:44:52 |L|&Spirit - Anaysha
+19:51:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+20:01:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+20:11:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+20:18:12 NEW CHATROOM: cap
+20:21:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+20:27:55 |J|#Hurricane'd
+20:30:05 NEW CHATROOM: cap
+20:33:45 NEW CHATROOM: cap
+20:43:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+20:53:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+21:03:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+21:07:38 |J|&Spirit - Anaysha
+21:12:03 |J|&V A Q
+21:12:08 |L|&V A Q
+21:13:45 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:1|#:0|♥:0|~:0
+21:23:45 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:1|#:0|♥:0|~:0
+21:28:20 |J|#Hurricane'd
+21:31:45 |L|#Hurricane'd
+21:33:45 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:1|#:0|♥:0|~:0
+21:43:45 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:1|#:0|♥:0|~:0
+21:46:13 |raw|<div class="broadcast-red"><b>The server is restarting soon.</b><br />Please finish your battles quickly. No new battles can be started until the server resets in a few minutes.</div>
+21:46:32 NEW CHATROOM: cap
+21:46:46 NEW CHATROOM: cap
+21:56:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+21:56:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:06:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:06:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:16:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:16:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:26:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:26:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:36:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:36:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:46:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:46:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:56:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:56:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+23:01:01 |J|&Spirit - Anaysha
+23:01:12 |J|@Spirit - Teressa
+23:06:32 |userstats|total:2|guests:0| :0|+:0|%:0|@:1|★:0|-:0|&:1|#:0|♥:0|~:0
+23:06:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+23:16:32 |userstats|total:2|guests:0| :0|+:0|%:0|@:1|★:0|-:0|&:1|#:0|♥:0|~:0
+23:16:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+23:20:53 |J|&verizor
+23:21:04 |L|&verizor
+23:26:32 |userstats|total:2|guests:0| :0|+:0|%:0|@:1|★:0|-:0|&:1|#:0|♥:0|~:0
+23:26:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+23:36:32 |userstats|total:2|guests:0| :0|+:0|%:0|@:1|★:0|-:0|&:1|#:0|♥:0|~:0
+23:36:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+23:46:32 |userstats|total:2|guests:0| :0|+:0|%:0|@:1|★:0|-:0|&:1|#:0|♥:0|~:0
+23:46:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+23:56:32 |userstats|total:2|guests:0| :0|+:0|%:0|@:1|★:0|-:0|&:1|#:0|♥:0|~:0
+23:56:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0

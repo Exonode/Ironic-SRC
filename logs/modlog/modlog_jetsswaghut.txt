@@ -1,0 +1,2 @@
+[2016-05-24T01:57:42.911Z] (jetsswaghut) (audinory added the room alias 'jsh'.)
+[2016-05-24T01:58:06.343Z] (jetsswaghut) audinory made this room hidden.

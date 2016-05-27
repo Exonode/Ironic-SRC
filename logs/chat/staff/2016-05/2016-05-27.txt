@@ -1,0 +1,519 @@
+00:01:58 |J| verizor
+00:03:45 |userstats|total:5|guests:0| :1|+:0|%:1|@:1|★:0|-:0|&:1|#:1|♥:0|~:0
+00:15:27 NEW CHATROOM: staff
+00:15:35 |J|#Audinory
+00:16:05 |J| Ambah
+00:20:09 |c|~Shop Alert|**Audinory has bought custom name color.**
+00:20:12 |c|~Shop Alert|**Audinory has bought custom symbol color.**
+00:22:00 |J| Verizor
+00:24:16 |J| Connni
+00:24:23 |J| hitorihanza
+00:25:27 |userstats|total:5|guests:0| :0|+:0|%:1|@:2|★:0|-:0|&:1|#:1|♥:0|~:0
+00:25:39 |L| Connni
+00:29:41 |J| TheShankSkank
+00:35:27 |userstats|total:5|guests:0| :0|+:0|%:1|@:1|★:0|-:0|&:2|#:1|♥:0|~:0
+00:37:02 |J| TerminalHydreigon
+00:45:27 |userstats|total:6|guests:0| :0|+:0|%:1|@:2|★:0|-:0|&:2|#:1|♥:0|~:0
+00:49:37 |L| TheShankSkank
+00:49:38 |raw|Ambah has recieved a <b><font color=brown>custom color</font></b> from Audinory.
+00:49:45 |raw|Ambah has recieved a <b><font color=beige>custom color</font></b> from Audinory.
+00:49:51 |raw|Ambah has recieved a <b><font color=darkbrown>custom color</font></b> from Audinory.
+00:49:53 |raw|Ambah has recieved a <b><font color=dark brown>custom color</font></b> from Audinory.
+00:50:44 |raw|Ambah has recieved a <b><font color=#2b1d0e>custom color</font></b> from Audinory.
+00:50:49 |L|#Audinory
+00:50:52 |J|#Audinory
+00:51:04 |L| Ambah
+00:51:07 |J| Ambah
+00:51:46 |L| Ambah
+00:51:50 |J| Ambah
+00:52:14 |raw|Ambah has recieved a <b><font color=#ff69b4>custom color</font></b> from Audinory.
+00:52:27 |L| Ambah
+00:52:30 |J| Ambah
+00:52:53 |L| Ambah
+00:52:57 |J| Ambah
+00:53:01 |raw|ambah has recieved a <b><font color=#ff1d8e>custom color</font></b> from Audinory.
+00:53:59 |L| Ambah
+00:54:02 |L|#Audinory
+00:54:05 |J|#Audinory
+00:54:05 |J| Ambah
+00:55:27 |userstats|total:5|guests:0| :0|+:0|%:1|@:2|★:0|-:0|&:1|#:1|♥:0|~:0
+00:55:48 |L| hitorihanza
+00:55:57 |J| hitorihanza
+00:59:24 |N| freddeh|verizor
+01:00:54 |N| sirDono vane|freddeh
+01:01:10 |N| Verizor|sirdonovane
+01:04:42 |L| hitorihanza
+01:04:55 |J| hitorihanza
+01:05:27 |userstats|total:5|guests:0| :0|+:0|%:1|@:2|★:0|-:0|&:1|#:1|♥:0|~:0
+01:05:36 |L| TerminalHydreigon
+01:14:27 |J| TheShankSkank
+01:15:27 |userstats|total:5|guests:0| :0|+:0|%:1|@:1|★:0|-:0|&:2|#:1|♥:0|~:0
+01:16:57 |L| TheShankSkank
+01:25:27 |userstats|total:4|guests:0| :0|+:0|%:1|@:1|★:0|-:0|&:1|#:1|♥:0|~:0
+01:35:27 |userstats|total:4|guests:0| :0|+:0|%:1|@:1|★:0|-:0|&:1|#:1|♥:0|~:0
+01:38:25 |L| Verizor
+01:39:27 |J| Verizor
+01:44:50 |L| Verizor
+01:45:27 |userstats|total:3|guests:0| :0|+:0|%:1|@:1|★:0|-:0|&:0|#:1|♥:0|~:0
+01:53:11 |J| TheShankSkank
+01:53:39 |L| TheShankSkank
+01:55:18 |J| Verizor
+01:55:27 |userstats|total:4|guests:0| :0|+:0|%:1|@:1|★:0|-:0|&:1|#:1|♥:0|~:0
+02:05:27 |userstats|total:4|guests:0| :0|+:0|%:1|@:1|★:0|-:0|&:1|#:1|♥:0|~:0
+02:15:27 |userstats|total:4|guests:0| :0|+:0|%:1|@:1|★:0|-:0|&:1|#:1|♥:0|~:0
+02:25:14 |N| Ambah - ⒶⓌⒶⓎ|ambah
+02:25:14 |N| Ambah - ⒶⓌⒶⓎ|ambah
+02:25:27 |userstats|total:4|guests:0| :0|+:0|%:1|@:1|★:0|-:0|&:1|#:1|♥:0|~:0
+02:35:27 |userstats|total:4|guests:0| :0|+:0|%:1|@:1|★:0|-:0|&:1|#:1|♥:0|~:0
+02:38:17 |L| hitorihanza
+02:45:27 |userstats|total:3|guests:0| :0|+:0|%:0|@:1|★:0|-:0|&:1|#:1|♥:0|~:0
+02:47:39 |N| Ambah|ambah
+02:47:39 |N| Ambah|ambah
+02:55:27 |userstats|total:3|guests:0| :0|+:0|%:0|@:1|★:0|-:0|&:1|#:1|♥:0|~:0
+02:57:29 |L| Verizor
+03:05:27 |userstats|total:2|guests:0| :0|+:0|%:0|@:1|★:0|-:0|&:0|#:1|♥:0|~:0
+03:15:27 |userstats|total:2|guests:0| :0|+:0|%:0|@:1|★:0|-:0|&:0|#:1|♥:0|~:0
+03:25:27 |userstats|total:2|guests:0| :0|+:0|%:0|@:1|★:0|-:0|&:0|#:1|♥:0|~:0
+03:35:27 |userstats|total:2|guests:0| :0|+:0|%:0|@:1|★:0|-:0|&:0|#:1|♥:0|~:0
+03:45:27 |userstats|total:2|guests:0| :0|+:0|%:0|@:1|★:0|-:0|&:0|#:1|♥:0|~:0
+03:55:27 |userstats|total:2|guests:0| :0|+:0|%:0|@:1|★:0|-:0|&:0|#:1|♥:0|~:0
+04:05:27 |userstats|total:2|guests:0| :0|+:0|%:0|@:1|★:0|-:0|&:0|#:1|♥:0|~:0
+04:15:27 |userstats|total:2|guests:0| :0|+:0|%:0|@:1|★:0|-:0|&:0|#:1|♥:0|~:0
+04:17:30 |J| shivamrustagi
+04:25:27 |userstats|total:3|guests:0| :0|+:0|%:1|@:1|★:0|-:0|&:0|#:1|♥:0|~:0
+04:26:11 |L| Ambah
+04:35:27 |userstats|total:2|guests:0| :0|+:0|%:1|@:0|★:0|-:0|&:0|#:1|♥:0|~:0
+04:45:27 |userstats|total:2|guests:0| :0|+:0|%:1|@:0|★:0|-:0|&:0|#:1|♥:0|~:0
+04:55:27 |userstats|total:2|guests:0| :0|+:0|%:1|@:0|★:0|-:0|&:0|#:1|♥:0|~:0
+04:55:54 |L| shivamrustagi
+05:05:27 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:0
+05:15:27 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:0
+05:25:27 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:0
+05:35:27 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:0
+05:45:27 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:0
+05:55:27 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:0
+06:05:27 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:0
+06:15:27 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:0
+06:19:15 |J| shivamrustagi
+06:21:46 |L|#Audinory
+06:25:27 |userstats|total:1|guests:0| :0|+:0|%:1|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+06:35:27 |userstats|total:1|guests:0| :0|+:0|%:1|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+06:37:20 |L| shivamrustagi
+06:45:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+06:55:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+07:05:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+07:10:59 |J|#the fire mage
+07:12:05 |raw|the fire Mage has recieved a <b><font color=red>custom color</font></b> from the fire mage.
+07:15:20 |L|#the fire mage
+07:15:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+07:25:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+07:35:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+07:45:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+07:55:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+08:05:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+08:15:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+08:18:34 |J| shivamrustagi
+08:25:27 |userstats|total:1|guests:0| :0|+:0|%:1|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+08:34:20 |J| Connni
+08:35:27 |userstats|total:2|guests:0| :0|+:0|%:1|@:1|★:0|-:0|&:0|#:0|♥:0|~:0
+08:36:01 |L| Connni
+08:37:23 |J| Connni
+08:38:25 |L| shivamrustagi
+08:45:27 |userstats|total:1|guests:0| :0|+:0|%:0|@:1|★:0|-:0|&:0|#:0|♥:0|~:0
+08:55:27 |userstats|total:1|guests:0| :0|+:0|%:0|@:1|★:0|-:0|&:0|#:0|♥:0|~:0
+08:58:48 |L| Connni
+08:58:53 |J| Connni
+09:00:32 |L| Connni
+09:05:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+09:15:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+09:25:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+09:29:29 |J| hitorihanza
+09:35:27 |userstats|total:1|guests:0| :0|+:0|%:1|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+09:45:27 |userstats|total:1|guests:0| :0|+:0|%:1|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+09:54:18 |J| Connni
+09:54:50 |L| Connni
+09:55:27 |userstats|total:1|guests:0| :0|+:0|%:1|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+10:05:27 |userstats|total:1|guests:0| :0|+:0|%:1|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+10:15:27 |userstats|total:1|guests:0| :0|+:0|%:1|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+10:22:46 |L| hitorihanza
+10:25:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+10:34:19 |J| hitorihanza
+10:34:26 |L| hitorihanza
+10:34:33 |J| hitorihanza
+10:35:27 |userstats|total:1|guests:0| :0|+:0|%:1|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+10:45:27 |userstats|total:1|guests:0| :0|+:0|%:1|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+10:47:00 |J| TerminalHydreigon
+10:47:31 |L| TerminalHydreigon
+10:47:32 |L| hitorihanza
+10:49:14 |J| TerminalHydreigon
+10:50:36 |J| hitorihanza
+10:55:27 |userstats|total:2|guests:0| :0|+:0|%:1|@:1|★:0|-:0|&:0|#:0|♥:0|~:0
+11:05:27 |userstats|total:2|guests:0| :0|+:0|%:1|@:1|★:0|-:0|&:0|#:0|♥:0|~:0
+11:15:27 |userstats|total:2|guests:0| :0|+:0|%:1|@:1|★:0|-:0|&:0|#:0|♥:0|~:0
+11:25:27 |userstats|total:2|guests:0| :0|+:0|%:1|@:1|★:0|-:0|&:0|#:0|♥:0|~:0
+11:27:22 |J| Uteruya
+11:28:00 |N| Uteruya|uteruya
+11:30:02 |L| TerminalHydreigon
+11:35:27 |userstats|total:2|guests:0| :0|+:1|%:1|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+11:45:27 |userstats|total:2|guests:0| :0|+:1|%:1|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+11:48:36 |J| verizor
+11:55:28 |userstats|total:3|guests:0| :0|+:1|%:1|@:0|★:0|-:0|&:1|#:0|♥:0|~:0
+12:03:42 |J|#Audinory
+12:05:28 |userstats|total:4|guests:0| :0|+:1|%:1|@:0|★:0|-:0|&:1|#:1|♥:0|~:0
+12:12:29 |J| Chief Sokka
+12:12:29 |N| Chief Sokka|chiefsokka
+12:12:43 |raw|<div class='chat'><small>%</small><button name='parseCommand' value='/user Chief Sokka' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#9B4CCF'>Chief Sokka:</font></b></button><em class='mine'>shadowban <img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsnv.png" title="feelsnv" width="50" height="50" /></em></div>
+12:15:28 |userstats|total:5|guests:0| :0|+:1|%:2|@:0|★:0|-:0|&:1|#:1|♥:0|~:0
+12:16:19 |L|#Audinory
+12:16:22 |J|#Audinory
+12:16:49 |c|#Audinory|Oh yeah sokka we dont have it in yet
+12:16:51 |c|#Audinory|lma0
+12:17:26 |c| Chief Sokka|XD
+12:21:27 |N| hitorihanza - ⓢⓛⓔⓟ|hitorihanza
+12:21:27 |N| hitorihanza - ⓢⓛⓔⓟ|hitorihanza
+12:25:28 |userstats|total:5|guests:0| :0|+:1|%:2|@:0|★:0|-:0|&:1|#:1|♥:0|~:0
+12:26:16 |raw|Chief Sokka has recieved a <b><font color=#CF822A>custom color</font></b> from Audinory.
+12:26:36 |L|#Audinory
+12:26:37 |L| hitorihanza - ⓢⓛⓔⓟ
+12:26:37 |L| verizor
+12:26:39 |J| hitorihanza - ⓢⓛⓔⓟ
+12:26:40 |J|#Audinory
+12:26:43 |L| Uteruya
+12:26:46 |L| Chief Sokka
+12:27:20 |J| Chief Sokka
+12:27:21 |J| verizor
+12:31:32 |J| Connni
+12:34:25 |L| Connni
+12:35:28 |userstats|total:4|guests:0| :0|+:0|%:2|@:0|★:0|-:0|&:1|#:1|♥:0|~:0
+12:44:51 |L| verizor
+12:45:28 |userstats|total:3|guests:0| :0|+:0|%:2|@:0|★:0|-:0|&:0|#:1|♥:0|~:0
+12:55:28 |userstats|total:3|guests:0| :0|+:0|%:2|@:0|★:0|-:0|&:0|#:1|♥:0|~:0
+12:58:37 |N|#Audinory|audinory
+12:58:54 |N|#Audinory|audinory
+13:01:49 |J| Uteruya
+13:01:49 |N| Uteruya|uteruya
+13:02:02 |N| Uteruya|uteruya
+13:02:13 |N|#Audinory|audinory
+13:02:18 |N| Uteruya|uteruya
+13:02:42 |N|#Audinory|audinory
+13:04:26 |L| Chief Sokka
+13:05:28 |userstats|total:3|guests:0| :0|+:1|%:1|@:0|★:0|-:0|&:0|#:1|♥:0|~:0
+13:05:57 |L| hitorihanza - ⓢⓛⓔⓟ
+13:06:22 |L|#Audinory
+13:06:31 |J|#Audinory
+13:15:28 |userstats|total:2|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:0
+13:17:23 |J| verizor
+13:20:06 |L| verizor
+13:21:44 |J| Chief Sokka
+13:25:28 |userstats|total:3|guests:0| :0|+:1|%:1|@:0|★:0|-:0|&:0|#:1|♥:0|~:0
+13:27:44 |J| verizor
+13:29:22 |J| Mystifi
+13:33:26 |raw|Mystifi has recieved a <b><font color=#478AC4>custom color</font></b> from Audinory.
+13:34:34 |L|#Audinory
+13:34:37 |J|#Audinory
+13:35:28 |userstats|total:5|guests:0| :0|+:1|%:1|@:1|★:0|-:0|&:1|#:1|♥:0|~:0
+13:45:28 |userstats|total:5|guests:0| :0|+:1|%:1|@:1|★:0|-:0|&:1|#:1|♥:0|~:0
+13:54:42 |L|#Audinory
+13:54:58 |J|#Audinory
+13:55:28 |userstats|total:5|guests:0| :0|+:1|%:1|@:1|★:0|-:0|&:1|#:1|♥:0|~:0
+13:58:36 |L| Chief Sokka
+13:59:08 |J| Chief Sokka
+14:00:07 |L| verizor
+14:00:17 |L| Mystifi
+14:00:56 |J| Mystifi
+14:03:01 |J| hitorihanza - ⓢⓛⓔⓟ
+14:05:04 |N| hitorihanza|hitorihanza
+14:05:04 |N| hitorihanza|hitorihanza
+14:05:28 |userstats|total:5|guests:0| :0|+:1|%:2|@:1|★:0|-:0|&:0|#:1|♥:0|~:0
+14:13:02 |L|#Audinory
+14:13:08 |J|#Audinory
+14:15:28 |userstats|total:5|guests:0| :0|+:1|%:2|@:1|★:0|-:0|&:0|#:1|♥:0|~:0
+14:16:29 |L| hitorihanza
+14:16:29 |L| Chief Sokka
+14:16:34 |L| Mystifi
+14:17:24 |J| verizor
+14:19:27 |L|#Audinory
+14:19:37 |J|#Audinory
+14:19:50 |J| hitorihanza
+14:24:25 |J| Mystifi
+14:25:28 |userstats|total:5|guests:0| :0|+:1|%:1|@:1|★:0|-:0|&:1|#:1|♥:0|~:0
+14:34:47 |J| FocusBlasted
+14:35:28 |userstats|total:6|guests:0| :0|+:1|%:2|@:1|★:0|-:0|&:1|#:1|♥:0|~:0
+14:45:28 |userstats|total:6|guests:0| :0|+:1|%:2|@:1|★:0|-:0|&:1|#:1|♥:0|~:0
+14:54:29 |c|#Audinory|Uteruya
+14:54:35 |c|#Audinory|can you actually get Sban to work?
+14:54:48 |c| Uteruya|I can try on a debug server
+14:55:28 |userstats|total:6|guests:0| :0|+:1|%:2|@:1|★:0|-:0|&:1|#:1|♥:0|~:0
+14:55:48 |N| Uteruya|uteruya
+14:56:08 |N| Uteruya|uteruya
+14:56:08 |c|#Audinory|thanks just as long as it doesnt double pms
+14:56:14 |c|#Audinory|and don't forget the code in rooms.js
+14:56:16 |raw|<div class='chat'><small>#</small><button name='parseCommand' value='/user Audinory' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#C635E7'>Audinory:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsmd.png" title="feelsmd" width="50" height="50" /></em></div>
+14:56:20 |c| Uteruya|aye
+14:59:02 |c| verizor|audinory
+14:59:15 |raw|<div class='chat'><small>&</small><button name='parseCommand' value='/user verizor' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#275BD6'>verizor:</font></b></button><em class='mine'>mader 4 is on again <img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsgd.png" title="feelsgd" width="50" height="50" /></em></div>
+14:59:17 |c|#Audinory|ik
+14:59:21 |c|#Audinory|im waiting on sban
+14:59:32 |c| verizor|is it vixen?
+14:59:35 |c|#Audinory|y
+14:59:45 |raw|<div class='chat'><small>&</small><button name='parseCommand' value='/user verizor' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#275BD6'>verizor:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/oshet.png" title="oshet" width="50" height="50" /></em></div>
+15:00:32 |c| verizor|but shes a mod here
+15:00:40 |c|#Audinory|!
+15:00:42 |c| verizor|i dont understand
+15:00:43 |c|#Audinory|ik
+15:00:46 |c|#Audinory|good thing
+15:00:55 (Diarmuid O'Dyna was demoted to regular user by Audinory.)
+15:00:57 |c|#Audinory|you noticed
+15:01:23 |c| verizor|may i ask why she's banned again?
+15:01:28 |c|#Audinory|She literally
+15:01:33 |c|#Audinory|//ip life bish
+15:01:54 |c|#Audinory|thats charlotte
+15:02:05 |c|#Audinory|Brooke informed me yesterday
+15:02:12 |c|#Audinory|Oh and I suppose I can add 
+15:02:17 |c|#Audinory|ban evasion to the list
+15:02:27 |c|#Audinory|http://prntscr.com/b93zkj
+15:02:49 |c|#Audinory|http://prntscr.com/b93zpp
+15:03:11 |c|#Audinory|http://prntscr.com/b93zv9
+15:03:18 |c|#Audinory|and if fuck me backwards pms you
+15:03:20 |c|#Audinory|just ignore it
+15:03:53 |c| verizor|ok
+15:04:18 |c| verizor|so she advertised nixtorm here, which got her banned
+15:04:29 |c| verizor|and keeps evading
+15:04:40 |c| verizor|is that right?
+15:04:47 |c|#Audinory|yeah
+15:04:54 |c|#Audinory|she evaded once
+15:04:57 |c|#Audinory|the rest is sakurai
+15:05:28 |userstats|total:6|guests:0| :0|+:0|%:2|@:1|★:0|-:0|&:1|#:1|♥:0|~:1
+15:05:36 |c| verizor|only nixtorm members that come here
+15:05:45 |c| verizor|according to the credits
+15:06:01 |c| verizor|Ransei, shivam, desokoro, bandi
+15:06:07 |c|#Audinory|Ik
+15:06:12 |c|#Audinory|Bandi is a dev
+15:06:18 |c|#Audinory|shiva is happ with voice
+15:06:21 |c|#Audinory|Ransei comes and goes
+15:06:24 |c|#Audinory|and Desokoro idk
+15:06:44 |c| verizor|shivam is & there, ransei is ~
+15:06:48 |c|#Audinory|ik
+15:06:50 |c|#Audinory|But i'm just gunna go to main 
+15:06:59 |c| verizor|and shivam is now %
+15:07:00 |c|#Audinory|and inform them of the harassment
+15:07:07 |c| verizor|k i will
+15:07:13 |c|#Audinory|nah im speaking with toast / vacate
+15:07:18 |c|#Audinory|whoever responds first
+15:07:28 |c| verizor|ok
+15:07:36 |c|#Audinory|but if you know who deals with side server
+15:07:38 |c|#Audinory|be my guest
+15:07:57 |c| verizor|Ok
+15:10:04 |L| FocusBlasted
+15:10:07 |J| FocusBlasted
+15:10:15 |c| Uteruya|hmm?
+15:10:23 |c| Uteruya|wow much lag
+15:10:28 |c| Uteruya|nvm
+15:14:08 |c|~|[CrisisMonitor] sylviebot was locked by Audinory and demoted from -, @shitpostlobby.
+15:14:18 |N| FocusBlasted - ⓐⓕⓚ|focusblasted
+15:14:18 |N| FocusBlasted - ⓐⓕⓚ|focusblasted
+15:15:28 |userstats|total:6|guests:0| :0|+:0|%:2|@:1|★:0|-:0|&:1|#:1|♥:0|~:1
+15:16:40 |c|~|[CrisisMonitor] felicide was locked by Audinory and demoted from ★shitpostlobby.
+15:16:54 |J| Mycroft
+15:16:54 |N| Mycroft|mycroft
+15:21:53 |N| FocusBlasted|focusblasted
+15:21:53 |N| FocusBlasted|focusblasted
+15:25:28 |userstats|total:7|guests:0| :0|+:0|%:3|@:1|★:0|-:0|&:1|#:1|♥:0|~:1
+15:33:36 |J| Hurricane'd
+15:35:28 |userstats|total:8|guests:0| :0|+:0|%:4|@:1|★:0|-:0|&:1|#:1|♥:0|~:1
+15:37:45 |J| Hirl123
+15:39:30 |N| Mycroft|mycroft
+15:43:06 |N| FocusBlasted - ⓐⓕⓚ|focusblasted
+15:43:06 |N| FocusBlasted - ⓐⓕⓚ|focusblasted
+15:43:11 |L| verizor
+15:43:53 |L| Uteruya
+15:45:28 |userstats|total:7|guests:0| :0|+:0|%:3|@:1|★:0|-:0|&:1|#:1|♥:1|~:0
+15:53:28 |J| Uteruya
+15:53:33 |N| Uteruya|uteruya
+15:53:42 |N| Uteruya|uteruya
+15:53:53 |J| verizor
+15:55:28 |userstats|total:9|guests:0| :0|+:1|%:3|@:1|★:0|-:0|&:2|#:1|♥:1|~:0
+15:55:33 |L| verizor
+16:03:49 |J| Chief Sokka
+16:05:28 |userstats|total:9|guests:0| :0|+:1|%:4|@:1|★:0|-:0|&:1|#:1|♥:1|~:0
+16:05:33 |L| Mystifi
+16:05:50 |J| Bandi
+16:05:50 |N| Bandi|bandi
+16:06:27 |L| Bandi
+16:15:08 |L| Uteruya
+16:15:28 |userstats|total:7|guests:0| :0|+:0|%:4|@:0|★:0|-:0|&:1|#:1|♥:1|~:0
+16:25:28 |userstats|total:7|guests:0| :0|+:0|%:4|@:0|★:0|-:0|&:1|#:1|♥:1|~:0
+16:32:21 |N| VKO|audinory
+16:32:28 |N|#Audinory|vko
+16:35:28 |userstats|total:7|guests:0| :0|+:0|%:4|@:0|★:0|-:0|&:1|#:1|♥:1|~:0
+16:45:28 |userstats|total:7|guests:0| :0|+:0|%:4|@:0|★:0|-:0|&:1|#:1|♥:1|~:0
+16:53:33 |L| Chief Sokka
+16:55:28 |userstats|total:6|guests:0| :0|+:0|%:3|@:0|★:0|-:0|&:1|#:1|♥:1|~:0
+17:05:28 |userstats|total:6|guests:0| :0|+:0|%:3|@:0|★:0|-:0|&:1|#:1|♥:1|~:0
+17:15:28 |userstats|total:6|guests:0| :0|+:0|%:3|@:0|★:0|-:0|&:1|#:1|♥:1|~:0
+17:25:28 |userstats|total:6|guests:0| :0|+:0|%:3|@:0|★:0|-:0|&:1|#:1|♥:1|~:0
+17:35:28 |userstats|total:6|guests:0| :0|+:0|%:3|@:0|★:0|-:0|&:1|#:1|♥:1|~:0
+17:39:41 |raw|bandi has recieved a <b><font color=21FFF0>custom color</font></b> from Bandi.
+17:45:28 |userstats|total:6|guests:0| :0|+:0|%:3|@:0|★:0|-:0|&:1|#:1|♥:1|~:0
+17:55:04 |N| Awwdino|audinory
+17:55:12 |N|#Audinory|awwdino
+17:55:28 |userstats|total:6|guests:0| :0|+:0|%:3|@:0|★:0|-:0|&:1|#:1|♥:1|~:0
+18:05:28 |userstats|total:6|guests:0| :0|+:0|%:3|@:0|★:0|-:0|&:1|#:1|♥:1|~:0
+18:15:28 |userstats|total:6|guests:0| :0|+:0|%:3|@:0|★:0|-:0|&:1|#:1|♥:1|~:0
+18:24:46 |L| Mycroft
+18:25:28 |userstats|total:5|guests:0| :0|+:0|%:3|@:0|★:0|-:0|&:1|#:1|♥:0|~:0
+18:28:23 |N| FocusBlasted|focusblasted
+18:28:23 |N| FocusBlasted|focusblasted
+18:35:28 |userstats|total:5|guests:0| :0|+:0|%:3|@:0|★:0|-:0|&:1|#:1|♥:0|~:0
+18:40:31 NEW CHATROOM: staff
+18:45:28 |userstats|total:5|guests:0| :0|+:0|%:3|@:0|★:0|-:0|&:1|#:1|♥:0|~:0
+18:49:07 |L| Hirl123
+18:51:19 NEW CHATROOM: staff
+18:52:03 NEW CHATROOM: staff
+19:01:40 NEW CHATROOM: staff
+19:11:40 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+19:21:40 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+19:31:40 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+19:41:40 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+19:58:21 NEW CHATROOM: staff
+20:08:21 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+20:09:45 |J| shivamrustagi
+20:09:45 |J| verizor
+20:09:49 |J| Bandi
+20:10:01 |J|#Audinory
+20:10:12 |c|~|[CrisisMonitor] Uteruya was banned by Audinory and demoted from +.
+20:11:06 |J| TheShankSkank
+20:11:28 |J| TerminalHydreigon
+20:16:14 |J| FocusBlasted
+20:16:51 |J| hitorihanza
+20:18:21 |userstats|total:8|guests:0| :0|+:0|%:3|@:1|★:0|-:0|&:2|#:1|♥:0|~:1
+20:18:23 |c|~|[CrisisMonitor] felicide was banned by Audinory and demoted from ★shitpostlobby.
+20:19:30 |N| V A Q|verizor
+20:20:15 |J| Ambah
+20:20:33 |N| Bandi|bandi
+20:20:43 |N| Bandi|bandi
+20:20:51 |N|#Audinory - ⓕⓞⓞⓓ|audinory
+20:20:51 |N|#Audinory - ⓕⓞⓞⓓ|audinory
+20:21:00 |N| VERIZOR|vaq
+20:21:59 |J| Mystifi
+20:28:21 |userstats|total:10|guests:0| :1|+:0|%:3|@:3|★:0|-:0|&:2|#:1|♥:0|~:0
+20:31:00 |N| vEriZor|verizor
+20:32:26 |N| verizor|verizor
+20:34:05 |N| V A Q|verizor
+20:35:21 |N| verizor|vaq
+20:37:40 |L| verizor
+20:38:21 |userstats|total:9|guests:0| :1|+:0|%:3|@:3|★:0|-:0|&:1|#:1|♥:0|~:0
+20:38:22 |J| DarkNightSkies ✿
+20:38:25 |N| DarkNightSkies ✿|darknightskies
+20:44:17 |J| verizor
+20:48:21 |userstats|total:11|guests:0| :1|+:0|%:3|@:3|★:0|-:0|&:2|#:1|♥:0|~:1
+20:56:54 |N|#Audinory|audinory
+20:56:54 |N|#Audinory|audinory
+20:57:55 |L| TheShankSkank
+20:58:21 |userstats|total:10|guests:0| :1|+:0|%:3|@:3|★:0|-:0|&:1|#:1|♥:0|~:1
+20:59:01 |N| Bandi|bandi
+20:59:15 |raw|Boytears has recieved a <b><font color=#4284B3>custom color</font></b> from Audinory.
+20:59:21 |L|#Audinory
+20:59:25 |J|#Audinory
+21:03:57 |L| Ambah
+21:04:35 |N|#Audinory - ⓓⓞⓝⓔ|audinory
+21:04:35 |N|#Audinory - ⓓⓞⓝⓔ|audinory
+21:05:08 |raw|TerminalHydreigon has recieved a <b><font color=#6600CC>custom color</font></b> from Bandi.
+21:05:52 |L| TerminalHydreigon
+21:05:59 |J| TerminalHydreigon
+21:07:20 |J| TheShankSkank
+21:07:41 |L| DarkNightSkies ✿
+21:08:05 |J| Hurricane'd
+21:08:21 |userstats|total:10|guests:0| :0|+:0|%:4|@:2|★:0|-:0|&:2|#:1|♥:0|~:1
+21:08:55 |raw|<div class="broadcast-green">Public chat room created: <b>Politics &amp; Religion</b></div>
+21:09:37 |raw|<div class="broadcast-red">Public chat room deleted: <b>Politics &amp; Religion</b></div>
+21:11:09 |N|#Audinory - ⓒⓐⓝⓒⓔⓡ|audinory
+21:11:09 |N|#Audinory - ⓒⓐⓝⓒⓔⓡ|audinory
+21:11:29 |N|#Audinory|audinory
+21:11:29 |N|#Audinory|audinory
+21:12:49 |L| FocusBlasted
+21:14:07 |c|~Shop Alert|**TerminalHydreigon has bought room.**
+21:14:35 |raw|<div class="broadcast-red">Public chat room deleted: <b>Games</b></div>
+21:14:49 |raw|<div class="broadcast-red">Public chat room deleted: <b>The Indian Goodness</b></div>
+21:15:13 |raw|<div class="broadcast-red">Public chat room deleted: <b>Terminal&apos;s Lair</b></div>
+21:15:28 |raw|<div class="broadcast-red">Public chat room deleted: <b>Shitpost Lobby</b></div>
+21:16:56 |N| hitorihanza - ⒶⓌⒶⓎ|hitorihanza
+21:16:56 |N| hitorihanza - ⒶⓌⒶⓎ|hitorihanza
+21:17:03 |raw|<div class="broadcast-green">Public chat room created: <b>The Dankness</b></div>
+21:18:21 |userstats|total:9|guests:0| :0|+:0|%:3|@:2|★:0|-:0|&:2|#:1|♥:0|~:1
+21:26:18 |raw|Lunterik has recieved a <b><font color=red>custom color</font></b> from Audinory.
+21:26:27 |L|#Audinory
+21:26:31 |J|#Audinory
+21:27:20 |raw|Spirit - Anaysha has recieved a <b><font color=orange>custom color</font></b> from Audinory.
+21:27:31 |raw|AllianceDarkrai has recieved a <b><font color=orange>custom color</font></b> from Audinory.
+21:28:21 |userstats|total:9|guests:0| :0|+:0|%:3|@:2|★:0|-:0|&:2|#:1|♥:0|~:1
+21:28:54 |L|#Audinory
+21:28:54 |L| TerminalHydreigon
+21:28:54 |L| hitorihanza - ⒶⓌⒶⓎ
+21:28:55 |L| TheShankSkank
+21:28:55 |L| Bandi
+21:28:55 |L| Mystifi
+21:28:55 |L| Hurricane'd
+21:28:55 |L| verizor
+21:28:55 |L| shivamrustagi
+21:28:57 |J|#Audinory
+21:28:58 |J| TerminalHydreigon
+21:28:58 |J| Bandi
+21:28:58 |J| hitorihanza - ⒶⓌⒶⓎ
+21:29:00 |J| TheShankSkank
+21:29:00 |J| shivamrustagi
+21:29:00 |J| verizor
+21:29:02 |J| Hurricane'd
+21:29:25 |J| Mystifi
+21:29:29 |raw|AllianceDarkrai has recieved a <b><font color=red>custom color</font></b> from Audinory.
+21:29:55 |J| Ambah
+21:29:57 |c| Hurricane'd|Hmm. Im not sure if i'd like a custom color or not
+21:32:41 |raw|shivamrustagi has recieved a <b><font color=#91FCF1>custom color</font></b> from Bandi.
+21:32:46 |L| Bandi
+21:32:50 |J| Bandi
+21:33:06 |L| shivamrustagi
+21:33:10 |J| shivamrustagi
+21:33:13 |L| Bandi
+21:33:19 |J| Bandi
+21:33:58 |raw|shivamrustagi has recieved a <b><font color=#00FFFF>custom color</font></b> from Bandi.
+21:36:02 |c|~Shop Alert|**Boytears has bought avatar.**
+21:38:21 |userstats|total:10|guests:0| :0|+:0|%:3|@:3|★:0|-:0|&:2|#:1|♥:0|~:1
+21:44:35 |L| Ambah
+21:48:21 |userstats|total:9|guests:0| :0|+:0|%:3|@:2|★:0|-:0|&:2|#:1|♥:0|~:1
+21:51:42 |c|#Audinory|!shop
+21:51:42 |raw|<div class='infobox infobox-limited'><table border='1' cellspacing='0' cellpadding='5' width='100%'><tbody><tr><th>Command</th><th>Description</th><th>Cost</th></tr><tr><td align='center'><button name='send' value='/buy Symbol'><b>Symbol</b></button></td><td align='center'>Buys a custom symbol to go infront of name and puts you at top of userlist. (Temporary until restart, certain symbols are blocked)</td><td align='center'>5</td></tr><tr><td align='center'><button name='send' value='/buy Custom Symbol Color'><b>Custom Symbol Color</b></button></td><td align='center'>Buys you the ability to have your symbol displayed as a different colour in up to 3 rooms</td><td align='center'>15</td></tr><tr><td align='center'><button name='send' value='/buy Custom Name Color'><b>Custom Name Color</b></button></td><td align='center'>Buys you the ability to have your in-chat name color changed globally on this server</td><td align='center'>70</td></tr><tr><td align='center'><button name='send' value='/buy Fix'><b>Fix</b></button></td><td align='center'>Buys the ability to alter your current custom avatar or trainer card. (don't buy if you have neither)</td><td align='center'>10</td></tr><tr><td align='center'><button name='send' value='/buy Avatar'><b>Avatar</b></button></td><td align='center'>Buys an custom avatar to be applied to your name (You supply. Images larger than 80x80 may not show correctly)</td><td align='center'>20</td></tr><tr><td align='center'><button name='send' value='/buy Staff Help'><b>Staff Help</b></button></td><td align='center'>Staff member will help set up roomintros and anything else needed in a room. Response may not be immediate.</td><td align='center'>50</td></tr><tr><td align='center'><button name='send' value='/buy Icon'><b>Icon</b></button></td><td align='center'>Buy a custom icon that can be applied to the rooms you want. You must take into account that the provided image should be 32 x 32</td><td align='center'>75</td></tr><tr><td align='center'><button name='send' value='/buy Custom Emote'><b>Custom Emote</b></button></td><td align='center'>Buys you the ability to have a custom emote, you supply the image (Must be .jpg, .gif or .png) - Can be refused.</td><td align='center'>50</td></tr><tr><td align='center'><button name='send' value='/buy Room'><b>Room</b></button></td><td align='center'>Buys a chatroom for you to own. (within reason, can be refused)</td><td align='center'>100</td></tr><tr><td align='center'><button name='send' value='/buy Custom Command'><b>Custom Command</b></button></td><td align='center'>This is basically a Custom Emote that only you can use</td><td align='center'>100</td></tr></tbody></table><center>To buy an item from the shop, use /buy <em>command</em>.</center></div>
+21:53:06 |N| hitorihanza|hitorihanza
+21:53:06 |N| hitorihanza|hitorihanza
+21:53:19 (Audinory has set an icon to  boytearshttpiimgurcomkqtbupvpng)
+21:53:19 |raw|Audinory has set an icon to boytearshttpiimgurcomkqtbupvpng.
+21:53:23 (Audinory has set an icon to  boytears)
+21:53:23 |raw|Audinory has set an icon to boytears.
+21:58:21 |userstats|total:9|guests:0| :0|+:0|%:3|@:2|★:0|-:0|&:2|#:1|♥:0|~:1
+21:59:52 |c| Hurricane'd|Oh ty
+22:08:21 |userstats|total:9|guests:0| :0|+:0|%:3|@:2|★:0|-:0|&:2|#:1|♥:0|~:1
+22:18:21 |userstats|total:9|guests:0| :0|+:0|%:3|@:2|★:0|-:0|&:2|#:1|♥:0|~:1
+22:19:16 |c|#Audinory|Hurricane'd
+22:19:24 |tournament|create|challengecup1v1|Single Elimination|0
+22:19:24 (Audinory created a tournament in challengecup1v1 format.)
+22:19:31 |tournament|join|Audinory
+22:19:33 |tournament|join|TheShankSkank
+22:19:36 |tournament|start
+22:19:39 |c|#Audinory|fuck
+22:19:41 |tournament|forceend
+22:19:41 (Audinory forcibly ended a tournament.)
+22:19:42 |c|#Audinory|nvm
+22:21:20 |raw|<div class="broadcast-blue"><b>Join Tournaments for a like 25 buck tour!</b></div>
+22:22:23 |c|~Shop Alert|**Rainy Thunder has bought avatar.**
+22:26:28 |raw|<div class="broadcast-blue"><b><font style="color: pink;">Random Monotype Battle Tour In Tournaments</font><button name="joinRoom" value="tournaments">In this room</button></b></div>
+22:28:21 |userstats|total:9|guests:0| :0|+:0|%:3|@:2|★:0|-:0|&:2|#:1|♥:0|~:1
+22:29:30 |L| Hurricane'd
+22:34:44 |c|~Shop Alert|**AllianceDarkrai has bought custom emote.**
+22:38:21 |userstats|total:8|guests:0| :0|+:0|%:2|@:2|★:0|-:0|&:2|#:1|♥:0|~:1
+22:41:27 |L| TerminalHydreigon
+22:43:38 |raw|<div class="broadcast-red"><b>The server is restarting soon.</b><br />Please finish your battles quickly. No new battles can be started until the server resets in a few minutes.</div>
+22:43:50 NEW CHATROOM: staff
+22:43:56 |J| hitorihanza
+22:43:58 |J|#Audinory
+22:44:09 |J| TheShankSkank
+22:45:28 |c|~Shop Alert|**TheShankSkank has bought custom emote.**
+22:50:09 |J| Chief Sokka

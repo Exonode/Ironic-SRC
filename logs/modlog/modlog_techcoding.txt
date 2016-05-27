@@ -1,0 +1,37 @@
+[2016-05-24T23:29:40.134Z] (techcoding) kingDeacon was appointed Room Lord by V A Q.
+[2016-05-24T23:31:01.479Z] (techcoding) (V A Q changed the roomdesc to: "Code bots and other technical things.".)
+[2016-05-24T23:33:23.628Z] (techcoding) (V A Q changed the roomintro.)
+[2016-05-24T23:41:02.298Z] (techcoding) (kingDeacon changed the roomintro.)
+[2016-05-24T23:44:11.660Z] (techcoding) (kingDeacon changed the roomintro.)
+[2016-05-24T23:49:55.606Z] (techcoding) (kingDeacon changed the roomintro.)
+[2016-05-24T23:50:37.028Z] (techcoding) (kingDeacon changed the roomintro.)
+[2016-05-24T23:53:18.168Z] (techcoding) (kingDeacon changed the roomintro.)
+[2016-05-25T00:01:00.417Z] (techcoding) (kingDeacon changed the roomintro.)
+[2016-05-25T00:02:40.673Z] (techcoding) (kingDeacon changed the roomintro.)
+[2016-05-25T00:03:00.992Z] (techcoding) (kingDeacon set modchat to autoconfirmed)
+[2016-05-25T00:07:02.150Z] (techcoding) (kingDeacon changed the roomintro.)
+[2016-05-25T00:10:44.633Z] (techcoding) MrPugg was promoted to Room Le Mod by kingDeacon.
+[2016-05-25T00:15:48.753Z] (techcoding) Andrrew was promoted to Room Driver by kingDeacon.
+[2016-05-25T00:27:48.433Z] (techcoding) (V A Q set modchat to false)
+[2016-05-25T00:32:10.299Z] (techcoding) Janitor Hugg was warned by Andrrew. (stop flooding)
+[2016-05-25T00:32:51.141Z] (techcoding) Janitor Hugg was muted by Andrrew for 1 hour. (flooding)
+[2016-05-25T00:34:48.746Z] (techcoding) Janitor Hugg's messages were cleared from room techcoding by V A Q.
+[2016-05-25T01:18:48.534Z] (techcoding) chimichuga was muted by MrPugg for 1 hour.
+[2016-05-25T01:19:22.045Z] (techcoding) chimichuga's messages were cleared from room techcoding by V A Q.
+[2016-05-25T01:19:32.082Z] (techcoding) chimichuga was kicked from the room by V A Q.
+[2016-05-25T02:08:46.340Z] (techcoding) (kingDeacon changed the roomintro.)
+[2016-05-25T02:09:49.364Z] (techcoding) kingDeacon declared **Coming soon...** Room rules, and possible events!
+[2016-05-25T02:51:36.327Z] (techcoding) V A Q declared **Bold Test**
+[2016-05-25T02:54:07.035Z] (techcoding) V A Q declared TEST
+[2016-05-25T18:35:38.110Z] (techcoding) Fairy Of Valor was promoted to Room Glorified Normie by V A Q.
+[2016-05-25T18:38:23.072Z] (techcoding) Fairy Of Valor was promoted to Glorified Normie by V A Q.
+[2016-05-25T23:27:21.653Z] (techcoding) (verizor changed the roomintro.)
+[2016-05-25T23:33:19.634Z] (techcoding) (verizor changed the roomintro.)
+[2016-05-25T23:34:50.569Z] (techcoding) (verizor changed the roomintro.)
+[2016-05-25T23:38:03.379Z] (techcoding) (verizor changed the roomintro.)
+[2016-05-25T23:49:08.864Z] (techcoding) verizor declared Who likes to code?
+[2016-05-25T23:50:47.484Z] (techcoding) Alliance Darkrai was promoted to Room Glorified Normie by verizor.
+[2016-05-25T23:58:07.707Z] (techcoding) DarkNightSkies ✿ was promoted to Room Driver by verizor.
+[2016-05-26T00:54:04.682Z] (techcoding) verizor declared Our motto: Code shit
+[2016-05-26T01:18:34.216Z] (techcoding) (Bandi changed the roomintro.)
+[2016-05-26T20:53:05.090Z] (techcoding) king♢DEACON declared Your face.

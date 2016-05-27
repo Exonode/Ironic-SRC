@@ -1,0 +1,54 @@
+[2016-05-22T19:03:39.308Z] (development) Audinory~ set modjoin to +.
+[2016-05-22T19:03:39.310Z] (development) (Audinory~ set modchat to +)
+[2016-05-22T19:03:39.311Z] (development) Audinory~ made this room hidden.
+[2016-05-22T19:03:50.038Z] (development) (Audinory~ changed the roomintro.)
+[2016-05-22T19:03:54.949Z] (development) (Audinory~ added the room alias 'dev'.)
+[2016-05-22T19:05:46.756Z] (development) Audinory~ was pinged by Audinory~
+[2016-05-23T19:04:45.722Z] (development) Audinory turned off modjoin.
+[2016-05-23T19:04:59.097Z] (development) Audinory was appointed Room Lord by Audinory.
+[2016-05-23T19:05:05.769Z] (development) The Sakurai was promoted to Room Leader by Audinory.
+[2016-05-23T19:05:10.499Z] (development) (Audinory was demoted to Room regular user by Audinory.)
+[2016-05-23T19:07:57.944Z] (development) (The Sakurai changed the roomintro.)
+[2016-05-24T14:09:50.548Z] (development) (Audinory changed the roomintro.)
+[2016-05-24T21:44:52.528Z] (development) Zenji was promoted to Room piiiikachuuu by Audinory.
+[2016-05-25T15:24:37.489Z] (development) (Audinory changed the roomintro.)
+[2016-05-25T19:41:15.395Z] (development) (Audinory changed the roomintro.)
+[2016-05-25T19:57:51.982Z] (development) DangMashedPotato was promoted to Driver by The Sakurai.
+[2016-05-25T19:58:05.232Z] (development) shivamrustagi was promoted to Glorified Normie by The Sakurai.
+[2016-05-25T20:01:40.013Z] (development) (TerminalHydreigon was demoted to Le Mod by Audinory.)
+[2016-05-25T20:01:50.380Z] (development) Audinory was promoted to Server Lord by Audinory.
+[2016-05-25T20:02:09.195Z] (development) (Bandi was demoted to regular user by Bandi.)
+[2016-05-25T20:02:28.674Z] (development) (Ambah - ⒶⓌⒶⓎ was demoted to Le Mod by Audinory.)
+[2016-05-25T20:02:52.412Z] (development) (chiefsokka was demoted to regular user by Audinory.)
+[2016-05-25T20:02:58.018Z] (development) Bandi was promoted to Server Lord by The Sakurai.
+[2016-05-25T20:02:58.785Z] (development) (noshayminfear was demoted to regular user by Audinory.)
+[2016-05-25T20:03:07.401Z] (development) (mrlegal was demoted to regular user by Audinory.)
+[2016-05-25T20:03:33.018Z] (development) (solorbeam was demoted to regular user by Audinory.)
+[2016-05-25T20:03:39.388Z] (development) (dominicarus was demoted to regular user by Audinory.)
+[2016-05-25T20:37:00.282Z] (development) The Sakurai set modjoin to +.
+[2016-05-25T20:37:32.800Z] (development) The Sakurai turned off modjoin.
+[2016-05-25T22:58:58.270Z] (development) DarkNightSkies ✿ was appointed Room Lord by Audinory.
+[2016-05-25T23:19:01.399Z] (development) Audinory set modjoin to %.
+[2016-05-25T23:19:16.527Z] (development) Audinory set modjoin to &.
+[2016-05-25T23:20:12.988Z] (development) (DarkNightSkies ✿ changed the roomintro.)
+[2016-05-26T12:17:30.941Z] (development) Uteruya was promoted to Room Glorified Normie by audinory.
+[2016-05-26T12:17:58.296Z] (development) audinory turned off modjoin.
+[2016-05-26T12:18:58.099Z] (development) audinory was banned from room development by Sylvie Bot.
+[2016-05-26T12:18:58.100Z] (development) (audinory's roombanned alts: Sylvie Bot)
+[2016-05-26T12:19:43.435Z] (development) audinory was unbanned from room development by audinory.
+[2016-05-26T12:21:13.929Z] (development) (A poll was started by Sylvie Bot.)
+[2016-05-26T21:08:44.944Z] (development) jd (✿◠‿◠) was appointed Room Lord by Audinory.
+[2016-05-26T21:10:50.957Z] (development) (Audinory has set an symbol color to audinory)
+[2016-05-26T21:31:24.560Z] (development) jd (✿◠‿◠) was appointed to Room Founder by Audinory.
+[2016-05-27T21:19:20.714Z] (development) (piiiikachuuu was demoted to regular user by Audinory.)
+[2016-05-27T21:19:24.947Z] (development) (volco was demoted to regular user by Bandi.)
+[2016-05-27T21:19:29.164Z] (development) (hayleysworld was demoted to regular user by Audinory.)
+[2016-05-27T21:19:35.792Z] (development) (mycroft was demoted to regular user by Audinory.)
+[2016-05-27T21:19:47.675Z] (development) (connni was demoted to regular user by Audinory.)
+[2016-05-27T21:20:01.085Z] (development) (dangmashedpotato was demoted to regular user by Audinory.)
+[2016-05-27T21:20:10.528Z] (development) (ransei was demoted to regular user by Audinory.)
+[2016-05-27T21:20:10.937Z] (development) (desokoro was demoted to regular user by Bandi.)
+[2016-05-27T21:20:15.972Z] (development) ransei was promoted to Glorified Normie by Audinory.
+[2016-05-27T21:20:43.958Z] (development) (softlopunny was demoted to regular user by Audinory.)
+[2016-05-27T21:21:34.781Z] (development) (spirit teressa was demoted to regular user by Audinory.)
+[2016-05-27T21:21:39.723Z] (development) (Spirit - Anaysha was demoted to regular user by Audinory.)

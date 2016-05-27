@@ -1,0 +1,43 @@
+[2016-05-25T01:35:21.229Z] (valorleague) Fairy Of Valor was appointed Room Lord by V A Q.
+[2016-05-25T01:37:35.870Z] (valorleague) (V A Q changed the roomdesc to: "League is still under construction.".)
+[2016-05-25T01:41:02.552Z] (valorleague) (Fairy Of Valor set modchat to autoconfirmed)
+[2016-05-25T02:11:02.645Z] (valorleague) Sitth Ari was promoted to Room Glorified Normie by Fairy Of Valor.
+[2016-05-25T02:13:18.794Z] (valorleague) (Fairy Of Valor created a tournament in monotype format.)
+[2016-05-25T02:13:34.303Z] (valorleague) (Fairy Of Valor forcibly ended a tournament.)
+[2016-05-25T02:20:16.915Z] (valorleague) (Fairy Of Valor changed the roomintro.)
+[2016-05-25T02:21:55.447Z] (valorleague) (Fairy Of Valor created a tournament in monotyperandombattle format.)
+[2016-05-25T02:22:54.861Z] (valorleague) Mushkteer was promoted to Room Glorified Normie by Fairy Of Valor.
+[2016-05-25T02:28:46.914Z] (valorleague) (The tournament auto disqualify timer was set to 3 by Fairy Of Valor)
+[2016-05-25T02:29:05.347Z] (valorleague) (MrPugg was disqualified from the tournament by V A Q)
+[2016-05-25T02:40:10.566Z] (valorleague) Fairy Of Valor declared I am officially bored
+[2016-05-25T02:40:49.720Z] (valorleague) (Fairy Of Valor created a tournament in monotyperandombattle format.)
+[2016-05-25T02:42:21.169Z] (valorleague) (Fairy Of Valor forcibly ended a tournament.)
+[2016-05-25T02:42:34.441Z] (valorleague) MrPugg was muted by Fairy Of Valor for 7 minutes.
+[2016-05-25T02:42:38.818Z] (valorleague) MrPugg was unmuted by Fairy Of Valor.
+[2016-05-25T02:43:17.935Z] (valorleague) MrPugg was warned by Fairy Of Valor. (lol still figuring things out)
+[2016-05-25T02:44:25.520Z] (valorleague) MrPugg was pinged by V A Q
+[2016-05-25T02:46:32.036Z] (valorleague) MrPugg was pinged by V A Q
+[2016-05-25T02:52:26.702Z] (valorleague) (Fairy Of Valor created a tournament in monotype format.)
+[2016-05-25T02:55:38.265Z] (valorleague) (The tournament auto disqualify timer was set to 3 by Fairy Of Valor)
+[2016-05-25T02:57:38.737Z] (valorleague) (The tournament auto disqualify timer was set to off by Fairy Of Valor)
+[2016-05-25T02:58:40.341Z] (valorleague) (Fairy Of Valor forcibly ended a tournament.)
+[2016-05-25T15:10:12.072Z] (valorleague) diarmuidodyna was promoted to Server Lord by The Vixen.
+[2016-05-25T15:10:18.203Z] (valorleague) Broken Hope was promoted to Server Lord by The Vixen.
+[2016-05-25T18:17:48.145Z] (valorleague) shivamrustagi was promoted to Room Glorified Normie by Fairy Of Valor.
+[2016-05-25T18:19:09.696Z] (valorleague) V A Q was promoted to Room Glorified Normie by V A Q.
+[2016-05-25T18:22:33.387Z] (valorleague) shivamrustagi was promoted to Room Le Mod by Fairy Of Valor.
+[2016-05-25T18:23:10.766Z] (valorleague) V A Q was appointed Room Lord by V A Q.
+[2016-05-25T18:23:38.671Z] (valorleague) (V A Q was demoted to Room regular user by V A Q.)
+[2016-05-25T18:45:17.822Z] (valorleague) (Fairy Of Valor set modchat to #)
+[2016-05-25T18:45:37.832Z] (valorleague) (Fairy Of Valor set modchat to false)
+[2016-05-25T18:46:05.295Z] (valorleague) Fairy Of Valor declared I AM GROOT.
+[2016-05-25T19:56:04.375Z] (valorleague) hitorihanza was promoted to Room Glorified Normie by Fairy Of Valor.
+[2016-05-25T20:19:12.168Z] (valorleague) (V A Q changed the roomintro.)
+[2016-05-25T20:21:32.383Z] (valorleague) (V A Q changed the roomintro.)
+[2016-05-25T20:22:33.275Z] (valorleague) (V A Q changed the roomintro.)
+[2016-05-26T03:31:15.738Z] (valorleague) (Fairy Of Valor created a tournament in monotyperandombattle format.)
+[2016-05-26T03:46:04.868Z] (valorleague) hitorihanza was promoted to Room Le Mod by Fairy Of Valor.
+[2016-05-26T18:49:17.471Z] (valorleague) (Fairy Of Valor created a tournament in monotyperandombattle format.)
+[2016-05-26T18:50:47.353Z] (valorleague) (Fairy Of Valor forcibly ended a tournament.)
+[2016-05-26T18:50:58.575Z] (valorleague) Uteruya was kicked from the room by Fairy Of Valor.
+[2016-05-26T19:14:36.638Z] (valorleague) samua_hm was promoted to Room Le Mod by Fairy Of Valor.

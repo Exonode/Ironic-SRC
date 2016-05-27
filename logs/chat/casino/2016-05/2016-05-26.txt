@@ -1,0 +1,600 @@
+00:05:24 |L|~Bandi
+00:06:32 |userstats|total:2|guests:0| :1|+:0|%:0|@:0|★:0|-:0|&:1|#:0|♥:0|~:0
+00:06:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+00:16:32 |userstats|total:2|guests:0| :1|+:0|%:0|@:0|★:0|-:0|&:1|#:0|♥:0|~:0
+00:16:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+00:26:32 |userstats|total:2|guests:0| :1|+:0|%:0|@:0|★:0|-:0|&:1|#:0|♥:0|~:0
+00:26:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+00:34:05 |L|&Alliance Darkrai
+00:36:32 |userstats|total:1|guests:0| :1|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+00:36:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+00:46:32 |userstats|total:1|guests:0| :1|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+00:46:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+00:56:32 |userstats|total:1|guests:0| :1|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+00:56:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+01:06:32 |userstats|total:1|guests:0| :1|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+01:06:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+01:16:32 |userstats|total:1|guests:0| :1|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+01:16:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+01:25:19 |J|~Bandi
+01:25:47 |N|~DarkNightSkies ✿|darknightskies
+01:26:05 |N| DarkNightSkies ✿|darknightskies
+01:26:32 |userstats|total:2|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:2
+01:26:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+01:36:32 |userstats|total:2|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:2
+01:36:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+01:46:32 |userstats|total:2|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:2
+01:46:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+01:51:46 |L| DarkNightSkies ✿
+01:56:32 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:1
+01:56:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+02:06:32 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:1
+02:06:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+02:13:54 |L|~bandi
+02:16:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+02:16:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+02:26:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+02:26:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+02:36:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+02:36:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+02:46:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+02:46:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+02:56:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+02:56:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+03:06:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+03:06:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+03:16:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+03:16:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+03:26:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+03:26:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+03:29:07 |J|+Audinory
+03:36:32 |userstats|total:1|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+03:36:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+03:46:32 |userstats|total:1|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+03:46:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+03:56:32 |userstats|total:1|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+03:56:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+04:06:32 |userstats|total:1|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+04:06:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+04:16:32 |userstats|total:1|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+04:16:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+04:18:04 |L|+Audinory
+04:26:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+04:26:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+04:36:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+04:36:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+04:46:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+04:46:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+04:56:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+04:56:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+05:06:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+05:06:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+05:16:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+05:16:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+05:26:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+05:26:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+05:36:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+05:36:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+05:46:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+05:46:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+05:56:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+05:56:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+06:06:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+06:06:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+06:16:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+06:16:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+06:26:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+06:26:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+06:33:45 NEW CHATROOM: casino
+06:34:00 |J|+Audinory
+06:36:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+06:43:45 |userstats|total:1|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+06:46:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+06:53:45 |userstats|total:1|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+06:56:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+06:57:07 |L|+Audinory
+07:03:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+07:06:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+07:13:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+07:16:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+07:23:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+07:26:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+07:33:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+07:36:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+07:43:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+07:46:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+07:53:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+07:56:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+08:03:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+08:06:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+08:13:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+08:16:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+08:23:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+08:26:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+08:33:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+08:36:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+08:43:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+08:46:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+08:53:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+08:56:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+09:03:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+09:06:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+09:13:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+09:16:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+09:23:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+09:26:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+09:33:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+09:36:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+09:42:48 |J| DarkNightSkies ✿
+09:43:45 |userstats|total:1|guests:0| :1|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+09:46:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+09:53:45 |userstats|total:1|guests:0| :1|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+09:56:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+10:03:45 |userstats|total:1|guests:0| :1|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+10:06:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+10:07:34 |J| Uteruya
+10:10:15 |L| Uteruya
+10:13:45 |userstats|total:1|guests:0| :1|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+10:16:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+10:23:45 |userstats|total:1|guests:0| :1|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+10:25:20 |L| DarkNightSkies ✿
+10:26:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+10:33:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+10:36:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+10:43:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+10:46:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+10:53:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+10:56:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+11:03:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+11:06:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+11:13:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+11:16:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+11:23:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+11:26:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+11:33:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+11:36:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+11:43:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+11:46:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+11:53:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+11:56:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+12:03:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+12:06:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+12:13:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+12:16:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+12:23:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+12:26:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+12:33:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+12:36:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+12:43:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+12:46:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+12:53:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+12:56:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+13:03:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+13:06:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+13:13:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+13:16:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+13:23:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+13:26:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+13:33:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+13:36:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+13:43:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+13:46:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+13:53:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+13:56:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+14:03:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+14:06:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+14:13:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+14:16:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+14:23:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+14:26:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+14:33:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+14:36:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+14:43:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+14:46:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+14:53:09 |J|+audinory
+14:53:46 |userstats|total:1|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+14:56:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+15:03:46 |userstats|total:1|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+15:06:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+15:13:46 |userstats|total:1|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+15:16:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+15:18:45 |L|+audinory
+15:23:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+15:26:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+15:33:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+15:36:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+15:43:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+15:46:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+15:53:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+15:56:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+16:03:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+16:06:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+16:13:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+16:16:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+16:23:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+16:26:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+16:33:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+16:36:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+16:43:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+16:46:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+16:53:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+16:56:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+17:03:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+17:06:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+17:13:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+17:16:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+17:23:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+17:26:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+17:33:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+17:36:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+17:43:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+17:46:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+17:53:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+17:56:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+18:01:52 NEW CHATROOM: casino
+18:03:36 NEW CHATROOM: casino
+18:06:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+18:13:36 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+18:16:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+18:23:36 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+18:26:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+18:33:36 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+18:36:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+18:43:36 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+18:46:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+18:51:46 |raw|<div class="broadcast-red"><b>The server is restarting soon.</b><br />Please finish your battles quickly. No new battles can be started until the server resets in a few minutes.</div>
+18:52:20 NEW CHATROOM: casino
+18:56:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+19:02:20 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+19:02:56 |raw|<div class="broadcast-blue"><b>45 bucks tour in Tours, Gen 3 randbats</b></div>
+19:06:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+19:12:20 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+19:16:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+19:22:20 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+19:26:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+19:32:20 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+19:36:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+19:42:20 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+19:46:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+19:52:20 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+19:56:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+20:02:20 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+20:06:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+20:12:20 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+20:16:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+20:22:20 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+20:26:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+20:32:20 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+20:36:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+20:42:20 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+20:46:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+20:52:20 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+20:56:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+21:02:20 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+21:06:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+21:12:20 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+21:16:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+21:21:43 |J| Bandi
+21:21:58 |c| Bandi|/
+21:22:20 |userstats|total:1|guests:0| :1|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+21:22:50 |J|+Audinory
+21:22:51 |c|+Audinory|Hi
+21:24:09 |L| Bandi
+21:26:10 |J| Bandi
+21:26:11 |J| jd (✿◠‿◠)
+21:26:12 |J|+king♢DEACON
+21:26:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+21:27:15 |raw|<div style=" padding: 5px, 0px; background-color: black; border: red, solid 1px; background-size: 100%; color: red; font-size: 12px; text-align: center;">The Wheel Of<br><font style="color: red;"><em><strong>SCRUBS</strong></em></font><br>Has been started and is waiting to be spun!<hr style="border: solid, 0.5px, red">The Mulitiplier is:<em><strong><font style="color: red;">5</font></em></strong><hr style="border: solid, 0.5px, red"><font style="color: blue;">-5,-4,-3,-2,-2,-1,-1,-1,-1,1,1,3,3,3,5</font><hr style="border: solid, 0.5px, red;"><button style="border: double, red, 4px; color: red; background-color: black; border-radius: 10px; font-face: serif ; font-size: 12px;" name="send" value="/wheel spin">Spin The Wheel! </button></div>
+21:27:18 |c| Bandi|join
+21:27:20 |c| Bandi|Audinory
+21:27:24 |raw|<div style="padding: 5px; background-color: black; color: red; border: solid, 1px, red; font-size: 15px;">The wheel has landed on: <em><strong>-2</strong></em><br>This means you have either lost or won: -2
+21:27:28 |c|+Audinory|!atm
+21:27:28 |raw|<div class="infobox">Audinory has 23 Shekels.</div>
+21:27:31 |c| Bandi|!atm
+21:27:31 |raw|<div class="infobox">Bandi has 502 Shekels.</div>
+21:27:33 |c|+Audinory|L
+21:27:34 |c|+Audinory|O
+21:27:34 |c|+Audinory|L
+21:27:34 |c| Bandi|wtf
+21:27:42 |c| Bandi|ok  wait
+21:27:43 |c| Bandi|!atm Audinory
+21:27:43 |raw|<div class="infobox">Audinory has 23 Shekels.</div>
+21:31:16 |c| Bandi|audnory
+21:31:38 |c| Bandi|sorry ahd tot alk on the phone
+21:31:41 |c|+Audinory|its fine
+21:31:43 |c| Bandi|lets test somthing
+21:31:44 Bandi was appointed to Room Founder by Audinory.
+21:31:44 |N|#Bandi|bandi
+21:31:46 |c|#Bandi|u ahve 23
+21:31:48 |c|#Bandi|i ahve 502
+21:31:50 |c|+Audinory|yeah
+21:31:51 |c|+Audinory|also
+21:31:52 |c|+Audinory|!randp
+21:31:52 |raw|<div class="infobox"><table><tr><td><img src="http://play.pokemonshowdown.com/sprites/bw/s:"pikachu-libre.png" height="96" width="96"></td><td><b>Name: </b>s: "Pikachu-Libre<br/><b>Type(s): </b><img src="http://play.pokemonshowdown.com/sprites/types/s: "Pikachu-Libre".png" width="32" height="14"> <br/><b>Ability: </b>kachu-Libre<br/><b>Stats: </b>HP NaN / Atk NaN / Def NaN / SpA NaN / SpD NaN / Spe NaN / BST NaN<br/><b>Color: </b><font color="es: "Pikachu-Libre">es: "Pikachu-Libre</font><br/><b>Egg Group(s): </b>Pikachu-Libre"</td></tr></table></div>
+21:31:54 |c|+Audinory|:(
+21:31:57 |c|#Bandi|profile
+21:31:58 |c|#Bandi|is ez
+21:31:59 |c|#Bandi|to fix
+21:31:59 |c|#Bandi|lol
+21:32:02 |c|#Bandi|ik why it doesn't work
+21:32:05 |c|#Bandi|it always does that
+21:32:10 |c|+Audinory|its not profile
+21:32:13 |c|+Audinory|its !randp
+21:32:13 |c|#Bandi|o
+21:32:20 |userstats|total:4|guests:0| :1|+:2|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:0
+21:32:22 |c|#Bandi|ol
+21:32:23 |c|#Bandi|ok
+21:32:25 |c|#Bandi|well anwyay
+21:32:40 |raw|<div style=" padding: 5px, 0px; background-color: black; border: red, solid 1px; background-size: 100%; color: red; font-size: 12px; text-align: center;">The Wheel Of<br><font style="color: red;"><em><strong>SCRUBS</strong></em></font><br>Has been started and is waiting to be spun!<hr style="border: solid, 0.5px, red">The Mulitiplier is:<em><strong><font style="color: red;">1</font></em></strong><hr style="border: solid, 0.5px, red"><font style="color: blue;">-5,-4,-3,-2,-2,-1,-1,-1,-1,1,1,3,3,3,5</font><hr style="border: solid, 0.5px, red;"><button style="border: double, red, 4px; color: red; background-color: black; border-radius: 10px; font-face: serif ; font-size: 12px;" name="send" value="/wheel spin">Spin The Wheel! </button></div>
+21:32:42 |c|#Bandi|!atm
+21:32:42 |raw|<div class="infobox">Bandi has 506 Shekels.</div>
+21:32:47 |c|#Bandi|it gave me bucks
+21:32:53 |c|#Bandi|interesting
+21:32:59 |raw|<div style="padding: 5px; background-color: black; color: red; border: solid, 1px, red; font-size: 15px;">The wheel has landed on: <em><strong>-4</strong></em><br>This means you have either lost or won: -4
+21:33:01 |c|+Audinory|!atm
+21:33:01 |raw|<div class="infobox">Audinory has 19 Shekels.</div>
+21:33:02 |c|#Bandi|*4 bucks
+21:33:03 |c|#Bandi|LOL
+21:33:05 |c|+Audinory|LMAO
+21:33:05 |c|#Bandi|it reveals
+21:33:07 |c|#Bandi|what it will land on
+21:33:07 |c|+Audinory|!atm bandi
+21:33:07 |raw|<div class="infobox">bandi has 506 Shekels.</div>
+21:33:09 |c|+Audinory|LOL
+21:33:11 |c|#Bandi|and i also need it
+21:33:13 |c|#Bandi|to take them away
+21:33:20 |c|#Bandi|its really supposed
+21:33:23 |c|#Bandi|to take the bucks
+21:33:26 |c|#Bandi|when u join
+21:33:33 |c|#Bandi|and give them back when its over
+21:33:34 |c|#Bandi|or ended
+21:33:38 |c|#Bandi|lets go on the c9
+21:33:45 |c|+Audinory|ok
+21:33:47 |L|+Audinory
+21:36:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+21:38:17 |raw|<div class="broadcast-red"><b>The server is restarting soon.</b><br />Please finish your battles quickly. No new battles can be started until the server resets in a few minutes.</div>
+21:38:17 |raw|<div class="broadcast-blue"><b>We'll Brb folks</b></div>
+21:38:47 NEW CHATROOM: casino
+21:39:21 |J|#Bandi
+21:39:28 |J|+Audinory
+21:39:29 |c|+Audinory|OL
+21:39:40 |raw|<div style=" padding: 5px, 0px; background-color: black; border: red, solid 1px; background-size: 100%; color: red; font-size: 12px; text-align: center;">The Wheel Of<br><font style="color: red;"><em><strong>SCRUBS</strong></em></font><br>Has been started and is waiting to be spun!<hr style="border: solid, 0.5px, red">The Mulitiplier is:<em><strong><font style="color: red;"> 1</font></em></strong><hr style="border: solid, 0.5px, red"><font style="color: blue;">-5,-4,-3,-2,-2,-1,-1,-1,-1,1,1,3,3,3,5</font><hr style="border: solid, 0.5px, red;"><button style="border: double, red, 4px; color: red; background-color: black; border-radius: 10px; font-face: serif ; font-size: 12px;" name="send" value="/wheel spin">Spin The Wheel! </button></div>
+21:39:43 |raw|<div style="padding: 5px; background-color: black; color: red; border: solid, 1px, red; font-size: 15px;">The wheel has landed on: <em><strong>3</strong></em><br>This means you have either lost or won: 3
+21:39:46 |c|+Audinory|!atm
+21:39:46 |raw|<div class="infobox">Audinory has 22 Shekels.</div>
+21:39:50 |c|+Audinory|!atm bandi
+21:39:50 |raw|<div class="infobox">bandi has 503 Shekels.</div>
+21:40:16 |J|~Uteruya
+21:40:16 |c|#Bandi|did u gain 3?
+21:40:19 |c|#Bandi|or not
+21:40:20 |L|~Uteruya
+21:40:21 |c|#Bandi|cuz i lost 3
+21:40:22 |c|#Bandi|lol
+21:40:30 |c|#Bandi|anyway don't join this time
+21:40:33 |raw|<div style=" padding: 5px, 0px; background-color: black; border: red, solid 1px; background-size: 100%; color: red; font-size: 12px; text-align: center;">The Wheel Of<br><font style="color: red;"><em><strong>SCRUBS</strong></em></font><br>Has been started and is waiting to be spun!<hr style="border: solid, 0.5px, red">The Mulitiplier is:<em><strong><font style="color: red;"> 1</font></em></strong><hr style="border: solid, 0.5px, red"><font style="color: blue;">-5,-4,-3,-2,-2,-1,-1,-1,-1,1,1,3,3,3,5</font><hr style="border: solid, 0.5px, red;"><button style="border: double, red, 4px; color: red; background-color: black; border-radius: 10px; font-face: serif ; font-size: 12px;" name="send" value="/wheel spin">Spin The Wheel! </button></div>
+21:40:43 |c|#Bandi|wtf
+21:40:51 |c|#Bandi|ok join
+21:41:01 |c|#Bandi|Audinory
+21:41:02 |c|#Bandi|join
+21:42:28 |raw|<div style="padding: 5px; background-color: black; color: red; border: solid, 1px, red; font-size: 15px;">The wheel has landed on: <em><strong>3</strong></em><br>This means you have either lost or won: 3
+21:42:33 |c|+Audinory|!atm
+21:42:33 |raw|<div class="infobox">Audinory has 25 Shekels.</div>
+21:42:37 |c|+Audinory|!atm bandi
+21:42:37 |raw|<div class="infobox">bandi has 500 Shekels.</div>
+21:42:50 |c|#Bandi|the thign is
+21:42:54 |c|#Bandi|thats not my problem
+21:42:55 |c|#Bandi|lol
+21:42:58 |c|#Bandi|my problem is
+21:42:59 |c|+Audinory|you had 503
+21:43:10 |c|#Bandi|ye ik
+21:43:13 |c|#Bandi|so ti worked
+21:43:15 |c|#Bandi|it gave u 3
+21:43:18 |c|#Bandi|and took 3 from me
+21:43:18 |c|+Audinory|y
+21:43:19 |c|#Bandi|lol
+21:43:36 |c|#Bandi|so
+21:43:37 |c|#Bandi|my issue is
+21:43:46 |c|#Bandi|that it takes ur money at the beggiing which is what i want it to do
+21:43:50 |c|#Bandi|but it literally takes the amount
+21:43:55 |c|+Audinory|uhh
+21:43:56 |L|#Bandi
+21:43:58 |c|+Audinory|make it so
+21:44:12 |J|#Bandi
+21:44:13 |c|#Bandi|mb
+21:44:15 |c|+Audinory|!player.runBroadcast
+21:44:16 |c|#Bandi|dc'd
+21:44:19 |c|+Audinory|until games over
+21:44:22 |c|+Audinory|oh
+21:44:23 |c|+Audinory|hmm
+21:44:24 |c|#Bandi|what does that mean
+21:44:27 |c|+Audinory|well
+21:44:28 |c|#Bandi|like it ltierally takes the amount
+21:44:30 |c|#Bandi|that the wheel
+21:44:32 |c|#Bandi|is gonna land on
+21:44:40 |c|#Bandi|so users can know how much the wheel is gonna land on
+21:44:49 |c|+Audinory|they dont need to know that
+21:44:50 |c|+Audinory|:s
+21:44:51 |c|#Bandi|its supposed to take the hgihest amount on the wheel
+21:44:56 |c|#Bandi|they do trust me
+21:45:00 |c|#Bandi|dice does hte same thignon prigin
+21:45:01 |c|#Bandi|only worked
+21:45:10 |c|+Audinory|cos static
+21:45:21 |c|+Audinory|have it take the highest amount
+21:45:28 |c|#Bandi|LOL i tried
+21:45:30 |c|#Bandi|idk why ti doesnt
+21:45:35 |c|+Audinory|lemme see
+21:45:56 |c|#Bandi|tyhis whole db.set moeny shit is annoying
+21:45:58 |c|#Bandi|way too long
+21:46:02 |c|#Bandi|just make it shorter with economy
+21:46:05 |c|#Bandi|maek an economy function
+21:46:10 |c|#Bandi|that just does most of it for u
+21:46:21 |c|#Bandi|imo
+21:46:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+21:47:14 |c|+Audinory|okay
+21:47:16 |c|+Audinory|!wheel list
+21:47:16 |raw|<div class="infobox"><c>Wheel of Misfortune</c><br />Wheel of Scrubs: -5,-4,-3,-2,-2,-1,-1,-1,-1,+1,+1,+3,+3,+3,+5<br />Wheel of Balance: -30,-20,-10,-5,-5,-5,-2,-1,+3,+15,+30,+30<br />Wheel of Diversity: -50,-20,-10,-15,-4,-2,-1,+20,+30,+40<br />Wheel of Wealth: -200,-100,-100,-50,-50,-25,-25,+50,+50,+50,+300<br /></div>
+21:47:23 |c|+Audinory|im going to do wealth
+21:47:39 |raw|<div style=" padding: 5px, 0px; background-color: black; border: red, solid 1px; background-size: 100%; color: red; font-size: 12px; text-align: center;">The Wheel Of<br><font style="color: red;"><em><strong>WEALTH</strong></em></font><br>Has been started and is waiting to be spun!<hr style="border: solid, 0.5px, red">The Mulitiplier is:<em><strong><font style="color: red;"> 1</font></em></strong><hr style="border: solid, 0.5px, red"><font style="color: blue;">NaN</font><hr style="border: solid, 0.5px, red;"><button style="border: double, red, 4px; color: red; background-color: black; border-radius: 10px; font-face: serif ; font-size: 12px;" name="send" value="/wheel spin">Spin The Wheel! </button></div>
+21:47:46 |c|+Audinory|oh
+21:47:50 |c|+Audinory|ignore that
+21:47:55 |c|+Audinory|!atm
+21:47:55 |raw|<div class="infobox">Audinory has 375 Shekels.</div>
+21:47:58 |c|+Audinory|LOL
+21:48:00 |c|+Audinory|bandi
+21:48:02 |c|+Audinory|join imo
+21:48:02 |c|+Audinory|:^
+21:48:16 |raw|<div style="padding: 5px; background-color: black; color: red; border: solid, 1px, red; font-size: 15px;">The wheel has landed on: <em><strong>-50</strong></em><br>This means you have either lost or won: -50
+21:48:23 |c|+Audinory|fuck
+21:48:25 |c|#Bandi|dude also fix the message
+21:48:25 |c|+Audinory|thats not it
+21:48:31 |c|+Audinory|ik
+21:48:38 |c|+Audinory|i placed my math.max in the wrong place
+21:48:39 |c|#Bandi|put this means the host won 50 and the spinner lsot 50
+21:48:44 |c|+Audinory|yea but
+21:48:47 |userstats|total:2|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:0
+21:48:48 |c|+Audinory|icba fiddling with like
+21:48:51 |c|+Audinory|p1.win
+21:48:52 |c|+Audinory|and p2.win
+21:48:56 |c|#Bandi|no
+21:49:00 |c|#Bandi|its simple lol
+21:49:23 |c|#Bandi|an easier way is
+21:49:36 |c|#Bandi|do - = host wins money and + = spinner wins money
+21:49:38 |c|#Bandi|much easier
+21:49:49 |c|#Bandi|also i need to make it say plus behind the number
+21:49:54 |c|#Bandi|*you
+21:49:54 |c|+Audinory|okay
+21:49:55 |c|#Bandi|i don't do
+21:49:56 |c|#Bandi|the css
+21:49:57 |c|#Bandi|shit
+21:50:04 |raw|<div style=" padding: 5px, 0px; background-color: black; border: red, solid 1px; background-size: 100%; color: red; font-size: 12px; text-align: center;">The Wheel Of<br><font style="color: red;"><em><strong>WEALTH</strong></em></font><br>Has been started and is waiting to be spun!<hr style="border: solid, 0.5px, red">The Mulitiplier is:<em><strong><font style="color: red;"> 1</font></em></strong><hr style="border: solid, 0.5px, red"><font style="color: blue;">NaN</font><hr style="border: solid, 0.5px, red;"><button style="border: double, red, 4px; color: red; background-color: black; border-radius: 10px; font-face: serif ; font-size: 12px;" name="send" value="/wheel spin">Spin The Wheel! </button></div>
+21:50:06 |c|+Audinory|!atm
+21:50:06 |raw|<div class="infobox">Audinory has NaN Shekels.</div>
+21:50:08 |c|+Audinory|fuck
+21:50:15 |c|+Audinory|oh righ
+21:50:18 |c|+Audinory|parseint
+21:50:20 |c|#Bandi|lol
+21:50:28 |c|#Bandi|do utils.isNumber
+21:50:32 |c|#Bandi|much easier
+21:50:43 |c|#Bandi|u can check if smthing is a number
+21:51:03 The wheel game was ended by audinory.
+21:51:06 |c|+Audinory|!atm
+21:51:06 |raw|<div class="infobox">Audinory has NaN Shekels.</div>
+21:51:08 |c|+Audinory|.
+21:51:15 |c|+Audinory|uk
+21:51:17 |c|+Audinory|!atm
+21:51:17 |raw|<div class="infobox">Audinory has NaN Shekels.</div>
+21:51:18 |c|+Audinory|damnit
+21:51:21 |c|+Audinory|!bucks
+21:51:21 |raw|<div class="infobox">There is NaN Shekels circulating in the economy. The average user has NaN Shekels.</div>
+21:51:23 |c|+Audinory|Ey
+21:51:24 |c|+Audinory|lma0
+21:51:31 |raw|<div style=" padding: 5px, 0px; background-color: black; border: red, solid 1px; background-size: 100%; color: red; font-size: 12px; text-align: center;">The Wheel Of<br><font style="color: red;"><em><strong>WEALTH</strong></em></font><br>Has been started and is waiting to be spun!<hr style="border: solid, 0.5px, red">The Mulitiplier is:<em><strong><font style="color: red;"> 1</font></em></strong><hr style="border: solid, 0.5px, red"><font style="color: blue;">NaN</font><hr style="border: solid, 0.5px, red;"><button style="border: double, red, 4px; color: red; background-color: black; border-radius: 10px; font-face: serif ; font-size: 12px;" name="send" value="/wheel spin">Spin The Wheel! </button></div>
+21:51:36 |c|+Audinory|!atm
+21:51:36 |raw|<div class="infobox">Audinory has NaN Shekels.</div>
+21:51:39 |c|+Audinory|kay join it
+21:51:44 |c|+Audinory|idk if thisll work
+21:51:45 |raw|<div style="padding: 5px; background-color: black; color: red; border: solid, 1px, red; font-size: 15px;">The wheel has landed on: <em><strong>-100</strong></em><br>This means you have either lost or won: -100
+21:51:48 |c|#Bandi|!atm
+21:51:48 |raw|<div class="infobox">Bandi has NaN Shekels.</div>
+21:51:49 |c|+Audinory|okay
+21:51:50 |c|#Bandi|.
+21:51:50 |c|+Audinory|LOL
+21:51:51 |c|#Bandi|dude
+21:51:53 |c|#Bandi|why 
+21:51:54 |c|+Audinory|!moneyladder
+21:51:54 |raw|<center><u><b>Richest Users</b></u></center><br><table border="1" cellspacing="0" cellpadding="5" width="100%"><tbody><tr><th>Rank</th><th>Username</th><th>Money</th></tr><tr><td>1</td><td>darkangeallenqq</td><td>794</td></tr><tr><td>2</td><td>verizor</td><td>300</td></tr><tr><td>3</td><td>hurricaned</td><td>150</td></tr><tr><td>4</td><td>hirl123</td><td>144</td></tr><tr><td>5</td><td>purpledragon24</td><td>120</td></tr><tr><td>6</td><td>chiefsokka</td><td>111</td></tr><tr><td>7</td><td>shivamrustagi</td><td>101</td></tr><tr><td>8</td><td>jd</td><td>97</td></tr><tr><td>9</td><td>thesakurai</td><td>70</td></tr><tr><td>10</td><td>ithi</td><td>62</td></tr></tbody></table>
+21:51:56 |J| Boytears
+21:51:58 |c|+Audinory|fuck me
+21:52:01 |c|+Audinory|lemme go edit
+21:52:05 |c|#Bandi|ok wait
+21:52:07 |c|#Bandi|let me look
+21:52:08 |c|#Bandi|at what u did
+21:52:10 |c|+Audinory|Like
+21:52:14 |c|+Audinory|i want it to
+21:52:19 |c|#Bandi|oh shit
+21:52:21 |c|+Audinory|take the 10th value
+21:52:23 |c|#Bandi|utils.isNumber
+21:52:24 |c|+Audinory|from the array
+21:52:24 |c|#Bandi|just checks
+21:52:25 |c|+Audinory|.
+21:52:26 |c|#Bandi|if its a number
+21:52:26 |c|#Bandi|lol
+21:52:30 |c|+Audinory|thats why i said
+21:52:32 |c|+Audinory|ParseInt
+21:52:32 |c|#Bandi|doesn't make ti a nuber
+21:52:32 |c|+Audinory|lmao
+21:52:35 |c|#Bandi|ye
+21:52:37 |c|#Bandi|so why do u have
+21:52:41 |c|#Bandi|utils.isNUmber
+21:52:42 |c|#Bandi|on there
+21:53:10 |raw|<div class="broadcast-blue"><b>Bandi and Audino "can code"</b></div>
+21:53:17 |c|+Audinory|COS
+21:53:19 |c|+Audinory|YOU SAID
+21:53:21 |c|+Audinory|its easier
+21:53:21 |c|+Audinory|lma0
+21:53:31 |c|#Bandi|lol
+21:53:33 |c|#Bandi|sorry 
+21:54:13 |c|#Bandi|u know its simpler to do ctrl + f
+21:54:15 |c|#Bandi|and then replace
+21:54:18 |c|#Bandi|the ones u want to replace
+21:54:21 |c|#Bandi|and skip the ones u don't
+21:54:27 |raw|<div class="broadcast-red"><b>The server is restarting soon.</b><br />Please finish your battles quickly. No new battles can be started until the server resets in a few minutes.</div>
+21:56:06 NEW CHATROOM: casino
+21:56:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:06:06 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:06:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:16:06 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:16:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:26:06 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:26:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:30:09 |J|#Bandi
+22:30:36 |J|&TheShankSkank
+22:30:56 |c|&TheShankSkank|o_o
+22:34:32 |c|#Bandi|TheShankSkank
+22:34:34 |c|#Bandi|hep me test
+22:34:35 |c|#Bandi|wheels
+22:34:40 |raw|<div style=" padding: 5px, 0px; background-color: black; border: red, solid 1px; background-size: 100%; color: red; font-size: 12px; text-align: center;">The Wheel Of<br><font style="color: red;"><em><strong>SCRUBS</strong></em></font><br>Has been started and is waiting to be spun!<hr style="border: solid, 0.5px, red">The Mulitiplier is:<em><strong><font style="color: red;">1</font></em></strong><hr style="border: solid, 0.5px, red"><font style="color: blue;">NaN</font><hr style="border: solid, 0.5px, red;"><button style="border: double, red, 4px; color: red; background-color: black; border-radius: 10px; font-face: serif ; font-size: 12px;" name="send" value="/wheel spin">Spin The Wheel! </button></div>
+22:35:47 |c|#Bandi|!eval room.wheel.wheel
+22:35:47 ||<< NaN
+22:35:52 |c|#Bandi|!eval room.wheel
+22:35:52 ||<< [object Object]
+22:36:01 |c|#Bandi|!eval Object.keys(room.wheel);
+22:36:01 ||<< wheelMulti,wheelHost,wheel,wheelValue
+22:36:06 |userstats|total:2|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:1|#:1|♥:0|~:0
+22:36:09 |c|#Bandi|!eval typeof room.wheel
+22:36:09 ||<< object
+22:36:17 |c|#Bandi|!eval typeof room.wheel.wheel
+22:36:17 ||<< number
+22:36:20 |c|#Bandi|wdf
+22:36:21 |c|&TheShankSkank|Okie dokie
+22:36:24 |c|#Bandi|wait
+22:36:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:37:56 The wheel game was ended by bandi.
+22:37:57 |raw|<div style=" padding: 5px, 0px; background-color: black; border: red, solid 1px; background-size: 100%; color: red; font-size: 12px; text-align: center;">The Wheel Of<br><font style="color: red;"><em><strong>SCRUBS</strong></em></font><br>Has been started and is waiting to be spun!<hr style="border: solid, 0.5px, red">The Mulitiplier is:<em><strong><font style="color: red;">1</font></em></strong><hr style="border: solid, 0.5px, red"><font style="color: blue;">NaN</font><hr style="border: solid, 0.5px, red;"><button style="border: double, red, 4px; color: red; background-color: black; border-radius: 10px; font-face: serif ; font-size: 12px;" name="send" value="/wheel spin">Spin The Wheel! </button></div>
+22:38:00 |c|#Bandi|WTF
+22:39:49 The wheel game was ended by bandi.
+22:45:19 |c|&TheShankSkank|kek
+22:46:06 |L|&TheShankSkank
+22:46:06 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:0
+22:46:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:56:06 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:0
+22:56:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+23:06:06 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:0
+23:06:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+23:09:31 |L|#Bandi
+23:16:06 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+23:16:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+23:17:21 |raw|<div class="broadcast-red"><b>The server is restarting soon.</b><br />Please finish your battles quickly. No new battles can be started until the server resets in a few minutes.</div>
+23:17:33 NEW CHATROOM: casino
+23:18:58 |J|#Bandi
+23:22:42 |J|+Audinory
+23:23:45 NEW CHATROOM: casino
+23:33:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+23:43:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+23:53:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+23:55:36 |J|#Bandi
+23:58:37 |J|+Audinory
+23:59:12 |c|#Bandi|.
+23:59:14 |c|#Bandi|oh yea
+23:59:18 |c|#Bandi|u removedthe casno shit
+23:59:20 |c|#Bandi|add it back

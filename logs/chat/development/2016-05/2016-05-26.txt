@@ -1,0 +1,859 @@
+00:05:24 |L|~Bandi
+00:06:32 |userstats|total:2|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:1
+00:06:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+00:16:32 |userstats|total:2|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:1
+00:16:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+00:26:32 |userstats|total:2|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:1
+00:26:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+00:36:32 |userstats|total:2|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:1
+00:36:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+00:46:32 |userstats|total:2|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:1
+00:46:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+00:56:32 |userstats|total:2|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:1
+00:56:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+00:57:06 |J|~Bandi
+01:06:32 |userstats|total:3|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:2
+01:06:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+01:15:33 (Audinory used /hotpatch chat)
+01:16:32 |userstats|total:3|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:2
+01:16:32 (Bandi used /hotpatch chat)
+01:16:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+01:17:04 (Audinory used /hotpatch chat)
+01:22:47 (Audinory used /hotpatch chat)
+01:25:42 (DarkNightSkies ✿ used /hotpatch chat)
+01:25:47 |N|#DarkNightSkies ✿|darknightskies
+01:26:05 |N|#DarkNightSkies ✿|darknightskies
+01:26:06 (Audinory used /hotpatch chat)
+01:26:14 |N|~Audinory|audinory
+01:26:25 |N| Audinory|audinory
+01:26:28 |N|~Audinory|audinory
+01:26:32 |userstats|total:3|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:2
+01:26:37 |c|~Bandi|!wheel list
+01:26:37 |raw|<div class="infobox"><c>Wheel of Misfortune</c><br />Wheel of Scrubs: -5,-4,-3,-2,-2,-1,-1,-1,-1,+1,+1,+3,+3,+3,+5<br />Wheel of Balance: -30,-20,-10,-5,-5,-5,-2,-1,+3,+15,+30,+30<br />Wheel of Diversity: -50,-20,-10,-15,-4,-2,-1,+20,+30,+40<br />Wheel of Wealth: -200,-100,-100,-50,-50,-25,-25,+50,+50,+50,+300<br /></div>
+01:26:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+01:26:50 |raw|<div style=" padding: 5px, 0px; background-color: black; border: red, solid 1px; background-size: 100%; color: red; font-size: 12px; text-align: center;">The Wheel Of<br><font style="color: red;"><em><strong>WEALTH</strong></em></font><br>Has been started and is waiting to be spun!<hr style="border: solid, 0.5px, red">The Mulitiplier is:<em><strong><font style="color: red;">2</font></em></strong><hr style="border: solid, 0.5px, red"><font style="color: blue;">-200,-100,-100,-50,-50,-25,-25,50,50,50,300</font><hr style="border: solid, 0.5px, red;"><button style="border: double, red, 4px; color: red; background-color: black; border-radius: 10px; font-face: serif ; font-size: 12px;" name="send" value="/wheel spin">Spin The Wheel! </button></div>
+01:26:53 |c|~Bandi|!atm
+01:26:53 |raw|<div class="infobox">Bandi has 339 Shekels.</div>
+01:27:02 |c|~Bandi|!atm DarkNightSkies
+01:27:02 |raw|<div class="infobox">DarkNightSkies has 46 Shekels.</div>
+01:27:04 |c|~Bandi|dns
+01:27:05 |c|~Bandi|try to spin it
+01:27:26 |raw|<div class='chat'><small>#</small><button name='parseCommand' value='/user DarkNightSkies ✿' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#E22D8B'>DarkNightSkies ✿:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsbd.png" title="feelsbd" width="50" height="50" /></em></div>
+01:27:29 |c|~Bandi|LOL
+01:27:31 |c|#DarkNightSkies ✿|Not enough bucks 
+01:27:32 The wheel game was ended by bandi.
+01:27:40 |c|#DarkNightSkies ✿|Change the limit 
+01:27:56 |raw|<div style=" padding: 5px, 0px; background-color: black; border: red, solid 1px; background-size: 100%; color: red; font-size: 12px; text-align: center;">The Wheel Of<br><font style="color: red;"><em><strong>DIVERSITY</strong></em></font><br>Has been started and is waiting to be spun!<hr style="border: solid, 0.5px, red">The Mulitiplier is:<em><strong><font style="color: red;">1</font></em></strong><hr style="border: solid, 0.5px, red"><font style="color: blue;">-50,-20,-10,-15,-4,-2,-1,20,30,40</font><hr style="border: solid, 0.5px, red;"><button style="border: double, red, 4px; color: red; background-color: black; border-radius: 10px; font-face: serif ; font-size: 12px;" name="send" value="/wheel spin">Spin The Wheel! </button></div>
+01:27:59 |c|~Bandi|!atm DarkNightSkies
+01:27:59 |raw|<div class="infobox">DarkNightSkies has 46 Shekels.</div>
+01:28:05 |c|~Bandi|also Audinory
+01:28:07 |c|~Bandi|i notice a bug
+01:28:08 |c|~Bandi|on wheels
+01:28:32 |c|~Bandi|DarkNightSkies
+01:28:34 |c|~Bandi|join
+01:28:36 |c|~Bandi|o ye
+01:28:39 |c|~Audinory|?
+01:28:40 |c|~Audinory|what bug
+01:28:42 |c|~Audinory|Oh the fact
+01:28:43 |c|~Audinory|actually
+01:28:45 |c|~Bandi|if they start a wheel
+01:28:48 |c|~Audinory|that i done two wheels
+01:28:49 |c|~Audinory|and ended up
+01:28:50 |c|~Bandi|and make a multiplier
+01:28:52 |c|~Audinory|with -4.5k
+01:28:54 |c|~Audinory|LMAO
+01:28:58 |c|~Audinory|!atm
+01:28:58 |raw|<div class="infobox">Audinory has 0 Shekels.</div>
+01:29:01 |raw|<div class='chat'><small>#</small><button name='parseCommand' value='/user DarkNightSkies ✿' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#E22D8B'>DarkNightSkies ✿:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/xaa.png" title="xaa" width="50" height="50" /></em></div>
+01:29:02 |c|~Audinory|!bucks
+01:29:02 |raw|<div class="infobox">There is 2079 Shekels circulating in the economy. The average user has 46 Shekels.</div>
+01:29:06 |c|~Audinory|!moneyladder
+01:29:06 |raw|<center><u><b>Richest Users</b></u></center><br><table border="1" cellspacing="0" cellpadding="5" width="100%"><tbody><tr><th>Rank</th><th>Username</th><th>Money</th></tr><tr><td>1</td><td>darkangeallenqq</td><td>794</td></tr><tr><td>2</td><td>bandi</td><td>389</td></tr><tr><td>3</td><td>hurricaned</td><td>150</td></tr><tr><td>4</td><td>hirl123</td><td>144</td></tr><tr><td>5</td><td>purpledragon24</td><td>120</td></tr><tr><td>6</td><td>chiefsokka</td><td>111</td></tr><tr><td>7</td><td>shivamrustagi</td><td>65</td></tr><tr><td>8</td><td>ithi</td><td>62</td></tr><tr><td>9</td><td>hitorihanza</td><td>60</td></tr><tr><td>10</td><td>darknightskies</td><td>46</td></tr></tbody></table>
+01:29:18 |c|#DarkNightSkies ✿|I am in 10th place 
+01:29:18 |c|~Audinory|But yeah
+01:29:19 |raw|<div class='chat'><small>#</small><button name='parseCommand' value='/user DarkNightSkies ✿' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#E22D8B'>DarkNightSkies ✿:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsok.png" title="feelsok" width="50" height="50" /></em></div>
+01:29:23 |c|#DarkNightSkies ✿|Anyway 
+01:29:23 |c|~Audinory|I need to find my old /deauthall
+01:29:25 |c|~Audinory|command
+01:29:31 |c|#DarkNightSkies ✿|I can do that 
+01:29:33 |raw|<div class='chat'><small>#</small><button name='parseCommand' value='/user DarkNightSkies ✿' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#E22D8B'>DarkNightSkies ✿:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsnv.png" title="feelsnv" width="50" height="50" /></em></div>
+01:29:42 |c|~Bandi|u guys stop working on pointles stuff
+01:29:45 |c|~Bandi|imo all we need is roomfounder
+01:29:47 |c|#DarkNightSkies ✿|I can also make a /banall
+01:29:48 |c|~Bandi|then to get users
+01:29:52 |c|~Bandi|and to fix this
+01:29:55 |raw|<div class='chat'><small>#</small><button name='parseCommand' value='/user DarkNightSkies ✿' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#E22D8B'>DarkNightSkies ✿:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsgd.png" title="feelsgd" width="50" height="50" /></em></div>
+01:30:25 |c|~Bandi|anyway
+01:30:33 |c|~Bandi|dns
+01:30:34 |c|~Bandi|dice me
+01:30:37 |raw|<div class='infobox'><h2><center><font color=#24678d>Bandi has started a dice game for </font><font color=red>100000000</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+01:30:39 |c|~Audinory|also DNS
+01:30:43 |raw|<div class='chat'><small>#</small><button name='parseCommand' value='/user DarkNightSkies ✿' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#E22D8B'>DarkNightSkies ✿:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsmd.png" title="feelsmd" width="50" height="50" /></em></div>
+01:30:44 |c|~Audinory|check admincommands
+01:30:45 |raw|<b>Bandi ended the dice game.</b>
+01:30:46 |raw|<div class='infobox'><h2><center><font color=#24678d>Bandi has started a dice game for </font><font color=red>1e+52</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+01:30:48 |c|~Audinory|lmao
+01:30:50 |raw|<div class='chat'><small>#</small><button name='parseCommand' value='/user DarkNightSkies ✿' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#E22D8B'>DarkNightSkies ✿:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsmd.png" title="feelsmd" width="50" height="50" /></em></div>
+01:30:50 |raw|<b>Bandi ended the dice game.</b>
+01:30:52 |c|#DarkNightSkies ✿|!atm
+01:30:52 |raw|<div class="infobox">DarkNightSkies ✿ has 1046 Shekels.</div>
+01:31:03 |raw|<div class='infobox'><h2><center><font color=#24678d>Audinory has started a dice game for </font><font color=red>400000000000000000000</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+01:31:04 |c|~Audinory|o
+01:31:08 |c|~Audinory|thats 4e+20
+01:31:09 |c|~Audinory|btw
+01:31:11 |raw|<b>Audinory ended the dice game.</b>
+01:31:15 |raw|<div class='infobox'><h2><center><font color=#24678d>Bandi has started a dice game for </font><font color=red>Infinity</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+01:31:18 |c|~Audinory|STOP
+01:31:21 |c|~Audinory|LMAO
+01:31:21 |raw|<b>Bandi ended the dice game.</b>
+01:31:31 |c|~Audinory|how the fuck
+01:31:34 |c|~Audinory|did you get infinity?
+01:31:39 |c|~Bandi|a bunch o f9s
+01:31:42 |c|#DarkNightSkies ✿|ik how
+01:31:52 |raw|<div class='infobox'><h2><center><font color=#24678d>Audinory has started a dice game for </font><font color=red>1e+241</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+01:32:00 |raw|<b>Audinory ended the dice game.</b>
+01:32:07 |raw|<div class='infobox'><h2><center><font color=#24678d>Audinory has started a dice game for </font><font color=red>Infinity</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+01:32:09 |c|~Audinory|oh nice
+01:32:10 The wheel game was ended by bandi.
+01:32:10 |raw|<div style=" padding: 5px, 0px; background-color: black; border: red, solid 1px; background-size: 100%; color: red; font-size: 12px; text-align: center;">The Wheel Of<br><font style="color: red;"><em><strong>WEALTH</strong></em></font><br>Has been started and is waiting to be spun!<hr style="border: solid, 0.5px, red">The Mulitiplier is:<em><strong><font style="color: red;">1</font></em></strong><hr style="border: solid, 0.5px, red"><font style="color: blue;">-200,-100,-100,-50,-50,-25,-25,50,50,50,300</font><hr style="border: solid, 0.5px, red;"><button style="border: double, red, 4px; color: red; background-color: black; border-radius: 10px; font-face: serif ; font-size: 12px;" name="send" value="/wheel spin">Spin The Wheel! </button></div>
+01:32:12 |raw|<b>Audinory ended the dice game.</b>
+01:32:12 |c|~Bandi|how
+01:32:14 |c|~Bandi|did i start that
+01:32:16 |c|~Bandi|!atm
+01:32:16 |raw|<div class="infobox">Bandi has 489 Shekels.</div>
+01:32:18 |c|~Audinory|!atm
+01:32:18 |raw|<div class="infobox">Audinory has 0 Shekels.</div>
+01:32:22 |c|~Bandi|!atm wheel of welath
+01:32:22 |raw|<div class="infobox">wheel of welath has 0 Shekels.</div>
+01:32:29 |c|~Bandi|!wheel list
+01:32:29 |raw|<div class="infobox"><c>Wheel of Misfortune</c><br />Wheel of Scrubs: -5,-4,-3,-2,-2,-1,-1,-1,-1,+1,+1,+3,+3,+3,+5<br />Wheel of Balance: -30,-20,-10,-5,-5,-5,-2,-1,+3,+15,+30,+30<br />Wheel of Diversity: -50,-20,-10,-15,-4,-2,-1,+20,+30,+40<br />Wheel of Wealth: -200,-100,-100,-50,-50,-25,-25,+50,+50,+50,+300<br /></div>
+01:32:47 |raw|<div style="padding: 5px; background-color: black; color: red; border: solid, 1px, red; font-size: 15px;">The wheel has landed on: <em><strong>-100</strong></em><br>This means you have either lost or won: -100
+01:32:49 |c|~Audinory|rip
+01:32:53 |c|~Audinory|!atm
+01:32:53 |raw|<div class="infobox">Audinory has 100 Shekels.</div>
+01:32:56 |c|~Audinory|so
+01:32:59 |c|~Bandi|put this means
+01:33:03 |c|~Bandi|the host won 100
+01:33:05 |c|~Audinory|what is the minimum for each rank btw?
+01:33:08 |c|~Bandi|and the spinner won 100
+01:33:11 |c|~Bandi|*lost
+01:33:14 |c|~Bandi|!atm
+01:33:14 |raw|<div class="infobox">Bandi has 489 Shekels.</div>
+01:33:17 |c|~Audinory|like for scrubs
+01:33:17 |raw|<div class='infobox'><h2><center><font color=#24678d>DarkNightSkies ✿ has started a dice game for </font><font color=red>100</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+01:33:18 |c|~Bandi|mfw i didn't lose
+01:33:19 |raw|<b>DarkNightSkies ✿ has joined the dice game.</b>
+01:33:24 |c|~Bandi|or gain
+01:33:24 |raw|<div class='chat'><small>#</small><button name='parseCommand' value='/user DarkNightSkies ✿' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#E22D8B'>DarkNightSkies ✿:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsnv.png" title="feelsnv" width="50" height="50" /></em></div>
+01:33:30 |c|~Audinory|I mean
+01:33:32 |raw|<b>DarkNightSkies ✿ ended the dice game.</b>
+01:33:37 |c|#DarkNightSkies ✿|!richestusers 
+01:33:37 |raw|<center><u><b>Richest Users</b></u></center><br><table border="1" cellspacing="0" cellpadding="5" width="100%"><tbody><tr><th>Rank</th><th>Username</th><th>Money</th></tr><tr><td>1</td><td>darknightskies</td><td>Infinity</td></tr><tr><td>2</td><td>darkangeallenqq</td><td>794</td></tr><tr><td>3</td><td>bandi</td><td>489</td></tr><tr><td>4</td><td>hurricaned</td><td>150</td></tr><tr><td>5</td><td>hirl123</td><td>144</td></tr><tr><td>6</td><td>purpledragon24</td><td>120</td></tr><tr><td>7</td><td>chiefsokka</td><td>111</td></tr><tr><td>8</td><td>audinory</td><td>100</td></tr><tr><td>9</td><td>shivamrustagi</td><td>65</td></tr><tr><td>10</td><td>ithi</td><td>62</td></tr></tbody></table>
+01:33:38 |c|~Audinory|bandi like say
+01:33:40 |c|#DarkNightSkies ✿|fee;sgd
+01:33:42 |raw|<div class='chat'><small>#</small><button name='parseCommand' value='/user DarkNightSkies ✿' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#E22D8B'>DarkNightSkies ✿:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsgd.png" title="feelsgd" width="50" height="50" /></em></div>
+01:33:43 |c|~Audinory|LOL
+01:33:45 |c|~Audinory|SAME
+01:34:02 |c|#DarkNightSkies ✿|!bucks
+01:34:02 |raw|<div class="infobox">There is Infinity Shekels circulating in the economy. The average user has Infinity Shekels.</div>
+01:34:04 |c|~Audinory|LOL
+01:34:06 |raw|<div class='chat'><small>#</small><button name='parseCommand' value='/user DarkNightSkies ✿' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#E22D8B'>DarkNightSkies ✿:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/xaa.png" title="xaa" width="50" height="50" /></em></div>
+01:34:14 |c|~Bandi|Audinory
+01:34:15 |c|~Bandi|dude
+01:34:17 |c|~Bandi|srsly
+01:34:19 |c|~Bandi|!atm
+01:34:19 |raw|<div class="infobox">Bandi has 489 Shekels.</div>
+01:34:20 |c|#DarkNightSkies ✿|!bucks
+01:34:20 |raw|<div class="infobox">There is Infinity Shekels circulating in the economy. The average user has Infinity Shekels.</div>
+01:34:22 |c|~Bandi|where are my sheeks bro
+01:34:23 |raw|<div class='chat'><small>#</small><button name='parseCommand' value='/user DarkNightSkies ✿' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#E22D8B'>DarkNightSkies ✿:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/wtfman.png" title="wtfman" width="50" height="50" /></em></div>
+01:34:24 |c|~Bandi|XD
+01:34:28 |c|#DarkNightSkies ✿|!richestusers
+01:34:28 |raw|<center><u><b>Richest Users</b></u></center><br><table border="1" cellspacing="0" cellpadding="5" width="100%"><tbody><tr><th>Rank</th><th>Username</th><th>Money</th></tr><tr><td>1</td><td>audinory</td><td>Infinity</td></tr><tr><td>2</td><td>darkangeallenqq</td><td>794</td></tr><tr><td>3</td><td>bandi</td><td>489</td></tr><tr><td>4</td><td>hurricaned</td><td>150</td></tr><tr><td>5</td><td>hirl123</td><td>144</td></tr><tr><td>6</td><td>purpledragon24</td><td>120</td></tr><tr><td>7</td><td>chiefsokka</td><td>111</td></tr><tr><td>8</td><td>shivamrustagi</td><td>65</td></tr><tr><td>9</td><td>ithi</td><td>62</td></tr><tr><td>10</td><td>hitorihanza</td><td>60</td></tr></tbody></table>
+01:34:31 |raw|<div class='chat'><small>#</small><button name='parseCommand' value='/user DarkNightSkies ✿' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#E22D8B'>DarkNightSkies ✿:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/xaa.png" title="xaa" width="50" height="50" /></em></div>
+01:34:31 |c|~Audinory|lmao
+01:34:40 |c|#DarkNightSkies ✿|!bucks
+01:34:40 |raw|<div class="infobox">There is 2133 Shekels circulating in the economy. The average user has 47 Shekels.</div>
+01:34:42 |c|~Audinory|ty
+01:34:46 |c|#DarkNightSkies ✿|!richestusers
+01:34:46 |raw|<center><u><b>Richest Users</b></u></center><br><table border="1" cellspacing="0" cellpadding="5" width="100%"><tbody><tr><th>Rank</th><th>Username</th><th>Money</th></tr><tr><td>1</td><td>darkangeallenqq</td><td>794</td></tr><tr><td>2</td><td>bandi</td><td>489</td></tr><tr><td>3</td><td>hurricaned</td><td>150</td></tr><tr><td>4</td><td>hirl123</td><td>144</td></tr><tr><td>5</td><td>purpledragon24</td><td>120</td></tr><tr><td>6</td><td>chiefsokka</td><td>111</td></tr><tr><td>7</td><td>shivamrustagi</td><td>65</td></tr><tr><td>8</td><td>ithi</td><td>62</td></tr><tr><td>9</td><td>hitorihanza</td><td>60</td></tr><tr><td>10</td><td>hayleysworld</td><td>40</td></tr></tbody></table>
+01:34:47 |raw|<div class='chat'><small>#</small><button name='parseCommand' value='/user DarkNightSkies ✿' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#E22D8B'>DarkNightSkies ✿:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/xaa.png" title="xaa" width="50" height="50" /></em></div>
+01:34:48 |c|~Audinory|anyway
+01:34:51 |c|#DarkNightSkies ✿|Anyway 
+01:34:51 |c|~Audinory|Bandi
+01:34:54 |c|#DarkNightSkies ✿|I am logging off 
+01:34:54 |c|~Audinory|!wheel list
+01:34:54 |raw|<div class="infobox"><c>Wheel of Misfortune</c><br />Wheel of Scrubs: -5,-4,-3,-2,-2,-1,-1,-1,-1,+1,+1,+3,+3,+3,+5<br />Wheel of Balance: -30,-20,-10,-5,-5,-5,-2,-1,+3,+15,+30,+30<br />Wheel of Diversity: -50,-20,-10,-15,-4,-2,-1,+20,+30,+40<br />Wheel of Wealth: -200,-100,-100,-50,-50,-25,-25,+50,+50,+50,+300<br /></div>
+01:34:57 |c|#DarkNightSkies ✿|Its 2am 
+01:34:59 |c|~Audinory|same
+01:34:59 |c|#DarkNightSkies ✿|Night
+01:35:01 |c|~Audinory|ni
+01:35:02 |c|~Audinory|also
+01:35:12 |c|~Audinory|What are the minimum to join each wheel bandi?
+01:35:19 |c|~Bandi|if ur host
+01:35:20 |c|~Bandi|or
+01:35:22 |c|~Bandi|starter
+01:35:23 |c|~Bandi|depends
+01:35:34 |c|~Audinory|Highest Possiblity * Multiplier?
+01:36:13 |c|~Bandi|wait
+01:36:17 |c|~Bandi|let me check somthign
+01:36:28 |raw|<div style=" padding: 5px, 0px; background-color: black; border: red, solid 1px; background-size: 100%; color: red; font-size: 12px; text-align: center;">The Wheel Of<br><font style="color: red;"><em><strong>SCRUBS</strong></em></font><br>Has been started and is waiting to be spun!<hr style="border: solid, 0.5px, red">The Mulitiplier is:<em><strong><font style="color: red;">6</font></em></strong><hr style="border: solid, 0.5px, red"><font style="color: blue;">-5,-4,-3,-2,-2,-1,-1,-1,-1,1,1,3,3,3,5</font><hr style="border: solid, 0.5px, red;"><button style="border: double, red, 4px; color: red; background-color: black; border-radius: 10px; font-face: serif ; font-size: 12px;" name="send" value="/wheel spin">Spin The Wheel! </button></div>
+01:36:32 |c|~Bandi|wait
+01:36:32 |userstats|total:3|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:2
+01:36:33 |c|~Bandi|don't join
+01:36:45 |c|~Bandi|!eval room.wheelMulti
+01:36:45 ||<< undefined
+01:36:46 |c|~Bandi|.
+01:36:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+01:36:47 |c|~Bandi|wtf
+01:37:03 |c|~Audinory|lmao
+01:37:16 |c|~Bandi|!eval room.wheel
+01:37:16 ||<< [object Object]
+01:37:19 |c|~Bandi|!eval room.wheel.keys
+01:37:19 ||<< undefined
+01:37:27 |c|~Bandi|!eval Object.keys(room.wheel);
+01:37:27 ||<< wheelMulti,wheelHost,wheel,wheelValue
+01:37:39 |c|~Bandi|!eval room.wheel.wheelMulti
+01:37:39 ||<< 6
+01:37:46 |c|~Bandi|ok ye i found the multiplier error
+01:38:52 The wheel game was ended by bandi.
+01:39:05 |raw|<div style=" padding: 5px, 0px; background-color: black; border: red, solid 1px; background-size: 100%; color: red; font-size: 12px; text-align: center;">The Wheel Of<br><font style="color: red;"><em><strong>WEALTH</strong></em></font><br>Has been started and is waiting to be spun!<hr style="border: solid, 0.5px, red">The Mulitiplier is:<em><strong><font style="color: red;">10</font></em></strong><hr style="border: solid, 0.5px, red"><font style="color: blue;">-200,-100,-100,-50,-50,-25,-25,50,50,50,300</font><hr style="border: solid, 0.5px, red;"><button style="border: double, red, 4px; color: red; background-color: black; border-radius: 10px; font-face: serif ; font-size: 12px;" name="send" value="/wheel spin">Spin The Wheel! </button></div>
+01:39:10 |c|~Bandi|ye this wheel shit
+01:39:13 |c|~Bandi|needs srs work
+01:39:16 |c|~Audinory|yeah
+01:39:16 |c|~Bandi|lets get to work
+01:39:17 |c|~Bandi|audino
+01:39:22 |c|~Audinory|Bandi
+01:39:24 |c|~Bandi|!atm
+01:39:24 |raw|<div class="infobox">Bandi has 995 Shekels.</div>
+01:39:26 |c|~Audinory|it's 2:40 am
+01:39:32 |c|~Bandi|it s9:39
+01:39:38 |c|~Bandi|:]
+01:41:09 The wheel game was ended by bandi.
+01:41:22 |raw|<div style=" padding: 5px, 0px; background-color: black; border: red, solid 1px; background-size: 100%; color: red; font-size: 12px; text-align: center;">The Wheel Of<br><font style="color: red;"><em><strong>WEALTH</strong></em></font><br>Has been started and is waiting to be spun!<hr style="border: solid, 0.5px, red">The Mulitiplier is:<em><strong><font style="color: red;">10</font></em></strong><hr style="border: solid, 0.5px, red"><font style="color: blue;">-200,-100,-100,-50,-50,-25,-25,50,50,50,300</font><hr style="border: solid, 0.5px, red;"><button style="border: double, red, 4px; color: red; background-color: black; border-radius: 10px; font-face: serif ; font-size: 12px;" name="send" value="/wheel spin">Spin The Wheel! </button></div>
+01:41:24 |c|~Bandi|!atm
+01:41:24 |raw|<div class="infobox">Bandi has 495 Shekels.</div>
+01:41:27 |c|~Bandi|LOL
+01:41:30 |c|~Bandi|it takes away
+01:41:32 |c|~Bandi|and adds
+01:41:33 |c|~Bandi|somtimes
+01:41:40 The wheel game was ended by bandi.
+01:46:32 |userstats|total:3|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:2
+01:46:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+01:47:12 |c|~Audinory|oh thats good
+01:51:46 |L|#DarkNightSkies ✿
+01:56:32 |userstats|total:2|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:2
+01:56:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+01:59:47 |c|~bandi|what
+01:59:58 |c|~bandi|!atm
+01:59:58 |raw|<div class="infobox">bandi has 495 Shekels.</div>
+02:00:11 |raw|<div style=" padding: 5px, 0px; background-color: black; border: red, solid 1px; background-size: 100%; color: red; font-size: 12px; text-align: center;">The Wheel Of<br><font style="color: red;"><em><strong>SCRUBS</strong></em></font><br>Has been started and is waiting to be spun!<hr style="border: solid, 0.5px, red">The Mulitiplier is:<em><strong><font style="color: red;">1</font></em></strong><hr style="border: solid, 0.5px, red"><font style="color: blue;">-5,-4,-3,-2,-2,-1,-1,-1,-1,1,1,3,3,3,5</font><hr style="border: solid, 0.5px, red;"><button style="border: double, red, 4px; color: red; background-color: black; border-radius: 10px; font-face: serif ; font-size: 12px;" name="send" value="/wheel spin">Spin The Wheel! </button></div>
+02:01:29 |c|~bandi|join Audinory
+02:01:36 The wheel game was ended by bandi.
+02:04:47 |c|~Audinory|wut
+02:06:32 |userstats|total:2|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:2
+02:06:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+02:11:16 |c|~bandi|join
+02:12:26 |c|~Audinory|its ended
+02:13:54 |L|~bandi
+02:16:32 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:1
+02:16:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+02:26:32 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:1
+02:26:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+02:29:04 |J|&verizor
+02:29:16 |L|&verizor
+02:36:32 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:1
+02:36:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+02:46:32 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:1
+02:46:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+02:56:32 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:1
+02:56:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+03:06:32 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:1
+03:06:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+03:16:32 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:1
+03:16:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+03:26:32 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:1
+03:26:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+03:36:32 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:1
+03:36:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+03:46:32 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:1
+03:46:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+03:56:32 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:1
+03:56:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+04:06:32 |userstats|total:1|guests:0| :1|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+04:06:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+04:16:32 |userstats|total:1|guests:0| :1|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+04:16:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+04:26:32 |userstats|total:1|guests:0| :1|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+04:26:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+04:31:51 |J|♥Hayleysworld
+04:31:55 |c|♥Hayleysworld|hit me
+04:31:55 |c| Audinory|!htmlbox
+04:31:55 |raw|<div class="infobox"><div style="border: 1px, solid, #160A0B ; background-image: url('http://www.game-art-hq.com/wp-content/uploads/Arcanine-Fan-Art-by_susiron.jpg'); background-size: 100%; background-repeat: no-repeat ; width: 85% ; height: 309px; float: left;"><img src="https://i.imgur.com/KtTxgTW.png" width="230" height="101" style="float: left;"></div><div style="background-color: #FF560E ; color: #160A0B; ; border-top: 1px, solid, #160A0B ; border-right: 1px, solid, #160A0B ; width: 14.2% ; height: 292.75px ; float: right ;"><center style="font-size: 15px ; text-decoration: underline ;">Links</center><br><center style="font-size: 14px"><div style="border-top: solid, 1px, #160A0B ; border-bottom: solid, 1px, #160A0B ; width: 85% ;"><button style="font-size: 15px; background-color: rgba(0,0,0,0); color: #85482E;" name="send" value="/rules">Rules</button></div><div style="border-bottom: solid, 1px, #160A0B ; width: 85% ;"><a style="font-size: 15px; color: white; text-decoration: none;" href="http://tailzhasnowanker.weebly.com/">Website</a></div><div style="border-bottom: solid, 1px, #160A0B ; width: 85% ; padding: 3px ;"><button style="font-size: 15px; background-color: rgba(0,0,0,0); color: white;" name="send" value="/auth">Staff</button></div><br><center style="font-size: 15px ; text-decoration: underline ;">Room(s)</center><br><div style="padding: 4px ;border-top: solid, 1px, #160A0B ; border-bottom: solid, 1px, #160A0B ; width: 85% ;"><button style="font-size: 15px; background-color: rgba(0,0,0,0); color: white;" name="joinRoom" value="/leaguecentral">League</button></div><div style="border-bottom: solid, 1px, #160A0B ; width: 85% ; padding: 4px ;"><button style="font-size: 15px; background-color: rgba(0,0,0,0); color: white;" name="joinRoom" value="/monotype">Mono</button></div><img src="http://img.pokemondb.net/sprites/black-white/anim/normal/arcanine.gif" width="77" height="69"</center></div><div style="background-color: #FF560E ; border: 1px, solid, #160A0B ; width: 99.6%; height: 309px;" alt="Leave this DIV Blank. It is for spacing"></div><div style="font-size: 11px; background-color: #FF560E ; color: white ; border-bottom: 1px, solid, #160A0B ; border-right: 1px, solid, #160A0B ; border-left: 1px, solid, #160A0B ; width: 99.7% ; height: 90px ;"><center><b>Welcome to Wisp</b> <br>We're currently in the process of setting this server up! Please come in and bask in the hot fire that we spit!<br><br>If you had an established room on Origin please contact a Leader(&) or Admin(~) preferably Tailz</center></div></div>
+04:32:01 |c| Audinory|ignore the brown rules
+04:32:02 |c| Audinory|will fix
+04:32:20 |c|♥Hayleysworld|I like it
+04:32:23 |c| Audinory|:)
+04:32:27 |c|♥Hayleysworld|Thanks Kev
+04:32:40 |c| Audinory|np
+04:32:41 |c| Audinory|anytime
+04:33:00 |c|♥Hayleysworld|let me see what the nerds think
+04:33:41 |c| Audinory|oh
+04:33:42 |c| Audinory|i sent it
+04:33:44 |c| Audinory|to tailz
+04:33:44 |c| Audinory|LMAO
+04:33:59 |c|♥Hayleysworld|oh
+04:34:04 |c|♥Hayleysworld|don't say origin on it anywhere
+04:34:06 |c|♥Hayleysworld|like period
+04:34:12 |c| Audinory|oh
+04:34:13 |c| Audinory|okay
+04:34:21 |c| Audinory|rip
+04:34:22 |c| Audinory|:I
+04:34:28 |c|♥Hayleysworld|[00:33:33] jd (✿◠‿◠): "website" should probably be "forums"
+04:34:28 |c|♥Hayleysworld|[00:33:39] jd (✿◠‿◠): but link to nothing
+04:34:28 |c|♥Hayleysworld|[00:33:42] jd (✿◠‿◠): just hover "Coming Soon!"
+04:35:02 |c| Audinory|Oh so just have a href="" alt="Coming soon"
+04:35:03 |c| Audinory|kk
+04:35:27 |c| Audinory|!htmlbox
+04:35:27 |raw|<div class="infobox"><div style="border: 1px, solid, #160A0B ; background-image: url('http://www.game-art-hq.com/wp-content/uploads/Arcanine-Fan-Art-by_susiron.jpg'); background-size: 100%; background-repeat: no-repeat ; width: 85% ; height: 309px; float: left;"><img src="https://i.imgur.com/KtTxgTW.png" width="230" height="101" style="float: left;"></div><div style="background-color: #FF560E ; color: #160A0B; ; border-top: 1px, solid, #160A0B ; border-right: 1px, solid, #160A0B ; width: 14.2% ; height: 292.75px ; float: right ;"><center style="font-size: 15px ; text-decoration: underline ;">Links</center><br><center style="font-size: 14px"><div style="border-top: solid, 1px, #160A0B ; border-bottom: solid, 1px, #160A0B ; width: 85% ;"><button style="font-size: 15px; background-color: rgba(0,0,0,0); color: #85482E;" name="send" value="/rules">Rules</button></div><div style="border-bottom: solid, 1px, #160A0B ; width: 85% ;"><a style="font-size: 15px; color: white; text-decoration: none;" href="" alt="Coming Soon!">Forums</a></div><div style="border-bottom: solid, 1px, #160A0B ; width: 85% ; padding: 3px ;"><button style="font-size: 15px; background-color: rgba(0,0,0,0); color: white;" name="send" value="/auth">Staff</button></div><br><center style="font-size: 15px ; text-decoration: underline ;">Room(s)</center><br><div style="padding: 4px ;border-top: solid, 1px, #160A0B ; border-bottom: solid, 1px, #160A0B ; width: 85% ;"><button style="font-size: 15px; background-color: rgba(0,0,0,0); color: white;" name="joinRoom" value="/leaguecentral">League</button></div><div style="border-bottom: solid, 1px, #160A0B ; width: 85% ; padding: 4px ;"><button style="font-size: 15px; background-color: rgba(0,0,0,0); color: white;" name="joinRoom" value="/monotype">Mono</button></div><img src="http://img.pokemondb.net/sprites/black-white/anim/normal/arcanine.gif" width="77" height="69"</center></div><div style="background-color: #FF560E ; border: 1px, solid, #160A0B ; width: 99.6%; height: 309px;" alt="Leave this DIV Blank. It is for spacing"></div><div style="font-size: 11px; background-color: #FF560E ; color: white ; border-bottom: 1px, solid, #160A0B ; border-right: 1px, solid, #160A0B ; border-left: 1px, solid, #160A0B ; width: 99.7% ; height: 90px ;"><center><b>Welcome to Wisp</b> <br>We're currently in the process of setting this server up! Please come in and bask in the hot fire that we spit!<br><br>If you had an established room on Origin please contact a Leader(&) or Admin(~) preferably Tailz</center></div></div>
+04:35:35 |c| Audinory|:I
+04:35:41 |c|♥Hayleysworld|Apparently we spit memes, not fire lmfao
+04:35:44 |c|♥Hayleysworld|these people
+04:35:53 |c|♥Hayleysworld|I told them to talk to you directly @.@
+04:36:04 |c|♥Hayleysworld|[00:35:37] jd (✿◠‿◠): honestly can we link my mixtape in it
+04:36:05 |c|♥Hayleysworld|[00:35:38] jd (✿◠‿◠): i spit hot fire
+04:36:06 |c|♥Hayleysworld|done
+04:36:09 |c|♥Hayleysworld|goodnight Kevin
+04:36:10 |c|♥Hayleysworld|thanks again
+04:36:25 |c| Audinory|LMAO
+04:36:32 |userstats|total:2|guests:0| :1|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:1|~:0
+04:36:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+04:38:22 |c| Audinory|!htmlbox
+04:38:22 |raw|<div class="infobox"><div style="border: 1px, solid, #160A0B ; background-image: url('http://www.game-art-hq.com/wp-content/uploads/Arcanine-Fan-Art-by_susiron.jpg'); background-size: 100%; background-repeat: no-repeat ; width: 85% ; height: 309px; float: left;"><img src="https://i.imgur.com/KtTxgTW.png" width="230" height="101" style="float: left;"></div><div style="background-color: #FF560E ; color: #160A0B; ; border-top: 1px, solid, #160A0B ; border-right: 1px, solid, #160A0B ; width: 14.2% ; height: 292.75px ; float: right ;"><center style="font-size: 15px ; text-decoration: underline ;">Links</center><br><center style="font-size: 14px"><div style="border-top: solid, 1px, #160A0B ; border-bottom: solid, 1px, #160A0B ; width: 85% ;"><button style="font-size: 15px; background-color: rgba(0,0,0,0); color: #85482E;" name="send" value="/rules">Rules</button></div><div style="border-bottom: solid, 1px, #160A0B ; width: 85% ;"><a style="font-size: 15px; color: white; text-decoration: none;" href="" alt="Coming Soon!">Forums</a></div><div style="border-bottom: solid, 1px, #160A0B ; width: 85% ; padding: 3px ;"><button style="font-size: 15px; background-color: rgba(0,0,0,0); color: white;" name="send" value="/auth">Staff</button></div><div style="padding: 4px ;border-top: solid, 1px, #160A0B ; border-bottom: solid, 1px, #160A0B ; width: 85% ;"><button style="font-size: 15px; background-color: rgba(0,0,0,0); color: white;" name="joinRoom" value="/leaguecentral">League</button></div><div style="border-bottom: solid, 1px, #160A0B ; width: 85% ; padding: 4px ;"><button style="font-size: 15px; background-color: rgba(0,0,0,0); color: white;" name="joinRoom" value="/monotype">Mono</button></div><img src="http://img.pokemondb.net/sprites/black-white/anim/normal/arcanine.gif" width="77" height="69"</center></div><div style="background-color: #FF560E ; border: 1px, solid, #160A0B ; width: 99.6%; height: 309px;" alt="Leave this DIV Blank. It is for spacing"></div><div style="font-size: 11px; background-color: #FF560E ; color: white ; border-bottom: 1px, solid, #160A0B ; border-right: 1px, solid, #160A0B ; border-left: 1px, solid, #160A0B ; width: 99.7% ; height: 90px ;"><center><b>Welcome to Wisp</b> <br>We're currently in the process of setting this server up! Please come in and bask in the hot fire that we spit!<br><br>If you had an established room on Origin please contact a Leader(&) or Admin(~) preferably Tailz</center></div></div>
+04:38:37 |c| Audinory|!htmlbox
+04:38:37 |raw|<div class="infobox"><div style="border: 1px, solid, #160A0B ; background-image: url('http://www.game-art-hq.com/wp-content/uploads/Arcanine-Fan-Art-by_susiron.jpg'); background-size: 100%; background-repeat: no-repeat ; width: 85% ; height: 309px; float: left;"><img src="https://i.imgur.com/KtTxgTW.png" width="230" height="101" style="float: left;"></div><div style="background-color: #FF560E ; color: #160A0B; ; border-top: 1px, solid, #160A0B ; border-right: 1px, solid, #160A0B ; width: 14.2% ; height: 292.75px ; float: right ;"><center style="font-size: 15px ; text-decoration: underline ;">Links</center><br><center style="font-size: 14px"><div style="border-top: solid, 1px, #160A0B ; border-bottom: solid, 1px, #160A0B ; width: 85% ;"><button style="font-size: 15px; background-color: rgba(0,0,0,0); color: #85482E;" name="send" value="/rules">Rules</button></div><div style="border-bottom: solid, 1px, #160A0B ; width: 85% ;"><a style="font-size: 15px; color: white; text-decoration: none;" href="" title="Coming Soon!">Forums</a></div><div style="border-bottom: solid, 1px, #160A0B ; width: 85% ; padding: 3px ;"><button style="font-size: 15px; background-color: rgba(0,0,0,0); color: white;" name="send" value="/auth">Staff</button></div><div style="padding: 4px ;border-top: solid, 1px, #160A0B ; border-bottom: solid, 1px, #160A0B ; width: 85% ;"><button style="font-size: 15px; background-color: rgba(0,0,0,0); color: white;" name="joinRoom" value="/leaguecentral">League</button></div><div style="border-bottom: solid, 1px, #160A0B ; width: 85% ; padding: 4px ;"><button style="font-size: 15px; background-color: rgba(0,0,0,0); color: white;" name="joinRoom" value="/monotype">Mono</button></div><img src="http://img.pokemondb.net/sprites/black-white/anim/normal/arcanine.gif" width="77" height="69"</center></div><div style="background-color: #FF560E ; border: 1px, solid, #160A0B ; width: 99.6%; height: 309px;" alt="Leave this DIV Blank. It is for spacing"></div><div style="font-size: 11px; background-color: #FF560E ; color: white ; border-bottom: 1px, solid, #160A0B ; border-right: 1px, solid, #160A0B ; border-left: 1px, solid, #160A0B ; width: 99.7% ; height: 90px ;"><center><b>Welcome to Wisp</b> <br>We're currently in the process of setting this server up! Please come in and bask in the hot fire that we spit!<br><br>If you had an established room on Origin please contact a Leader(&) or Admin(~) preferably Tailz</center></div></div>
+04:38:59 |c| Audinory|!htmlbox
+04:38:59 |raw|<div class="infobox"><div style="border: 1px, solid, #160A0B ; background-image: url('http://www.game-art-hq.com/wp-content/uploads/Arcanine-Fan-Art-by_susiron.jpg'); background-size: 100%; background-repeat: no-repeat ; width: 85% ; height: 309px; float: left;"><img src="https://i.imgur.com/KtTxgTW.png" width="230" height="101" style="float: left;"></div><div style="background-color: #FF560E ; color: #160A0B; ; border-top: 1px, solid, #160A0B ; border-right: 1px, solid, #160A0B ; width: 14.2% ; height: 292.75px ; float: right ;"><center style="font-size: 15px ; text-decoration: underline ;">Links</center><br><center style="font-size: 14px"><div style="border-top: solid, 1px, #160A0B ; border-bottom: solid, 1px, #160A0B ; width: 85% ;"><button style="font-size: 15px; background-color: rgba(0,0,0,0); color: #85482E;" name="send" value="/rules">Rules</button></div><div style="border-bottom: solid, 1px, #160A0B ; width: 85% ;"><a style="font-size: 15px; color: white; text-decoration: none;" href="" title="Coming Soon!">Forums</a></div><div style="border-bottom: solid, 1px, #160A0B ; width: 85% ; padding: 3px ;"><button style="font-size: 15px; background-color: rgba(0,0,0,0); color: white;" name="send" value="/auth">Staff</button></div><div style="padding: 4px ;border-top: solid, 1px, #160A0B ; border-bottom: solid, 1px, #160A0B ; width: 85% ;"><button style="font-size: 15px; background-color: rgba(0,0,0,0); color: white;" name="joinRoom" value="/leaguecentral">League</button></div><div style="border-bottom: solid, 1px, #160A0B ; width: 85% ; padding: 4px ;"><button style="font-size: 15px; background-color: rgba(0,0,0,0); color: white;" name="joinRoom" value="/monotype">Mono</button></div><br><img src="http://img.pokemondb.net/sprites/black-white/anim/normal/arcanine.gif" width="77" height="69"</center></div><div style="background-color: #FF560E ; border: 1px, solid, #160A0B ; width: 99.6%; height: 309px;" alt="Leave this DIV Blank. It is for spacing"></div><div style="font-size: 11px; background-color: #FF560E ; color: white ; border-bottom: 1px, solid, #160A0B ; border-right: 1px, solid, #160A0B ; border-left: 1px, solid, #160A0B ; width: 99.7% ; height: 90px ;"><center><b>Welcome to Wisp</b> <br>We're currently in the process of setting this server up! Please come in and bask in the hot memes that we spit!<br><br>If you had an established room on Origin please contact a Leader(&) or Admin(~) preferably Tailz</center></div></div>
+04:39:04 |c| Audinory|!htmlbox
+04:39:04 |raw|<div class="infobox"><div style="border: 1px, solid, #160A0B ; background-image: url('http://www.game-art-hq.com/wp-content/uploads/Arcanine-Fan-Art-by_susiron.jpg'); background-size: 100%; background-repeat: no-repeat ; width: 85% ; height: 309px; float: left;"><img src="https://i.imgur.com/KtTxgTW.png" width="230" height="101" style="float: left;"></div><div style="background-color: #FF560E ; color: #160A0B; ; border-top: 1px, solid, #160A0B ; border-right: 1px, solid, #160A0B ; width: 14.2% ; height: 292.75px ; float: right ;"><center style="font-size: 15px ; text-decoration: underline ;">Links</center><br><center style="font-size: 14px"><div style="border-top: solid, 1px, #160A0B ; border-bottom: solid, 1px, #160A0B ; width: 85% ;"><button style="font-size: 15px; background-color: rgba(0,0,0,0); color: #85482E;" name="send" value="/rules">Rules</button></div><div style="border-bottom: solid, 1px, #160A0B ; width: 85% ;"><a style="font-size: 15px; color: white; text-decoration: none;" href="" title="Coming Soon!">Forums</a></div><div style="border-bottom: solid, 1px, #160A0B ; width: 85% ; padding: 3px ;"><button style="font-size: 15px; background-color: rgba(0,0,0,0); color: white;" name="send" value="/auth">Staff</button></div><div style="padding: 4px ;border-top: solid, 1px, #160A0B ; border-bottom: solid, 1px, #160A0B ; width: 85% ;"><button style="font-size: 15px; background-color: rgba(0,0,0,0); color: white;" name="joinRoom" value="/leaguecentral">League</button></div><div style="border-bottom: solid, 1px, #160A0B ; width: 85% ; padding: 4px ;"><button style="font-size: 15px; background-color: rgba(0,0,0,0); color: white;" name="joinRoom" value="/monotype">Mono</button></div><br><br><img src="http://img.pokemondb.net/sprites/black-white/anim/normal/arcanine.gif" width="77" height="69"</center></div><div style="background-color: #FF560E ; border: 1px, solid, #160A0B ; width: 99.6%; height: 309px;" alt="Leave this DIV Blank. It is for spacing"></div><div style="font-size: 11px; background-color: #FF560E ; color: white ; border-bottom: 1px, solid, #160A0B ; border-right: 1px, solid, #160A0B ; border-left: 1px, solid, #160A0B ; width: 99.7% ; height: 90px ;"><center><b>Welcome to Wisp</b> <br>We're currently in the process of setting this server up! Please come in and bask in the hot memes that we spit!<br><br>If you had an established room on Origin please contact a Leader(&) or Admin(~) preferably Tailz</center></div></div>
+04:39:09 |c| Audinory|!htmlbox
+04:39:09 |raw|<div class="infobox"><div style="border: 1px, solid, #160A0B ; background-image: url('http://www.game-art-hq.com/wp-content/uploads/Arcanine-Fan-Art-by_susiron.jpg'); background-size: 100%; background-repeat: no-repeat ; width: 85% ; height: 309px; float: left;"><img src="https://i.imgur.com/KtTxgTW.png" width="230" height="101" style="float: left;"></div><div style="background-color: #FF560E ; color: #160A0B; ; border-top: 1px, solid, #160A0B ; border-right: 1px, solid, #160A0B ; width: 14.2% ; height: 292.75px ; float: right ;"><center style="font-size: 15px ; text-decoration: underline ;">Links</center><br><center style="font-size: 14px"><div style="border-top: solid, 1px, #160A0B ; border-bottom: solid, 1px, #160A0B ; width: 85% ;"><button style="font-size: 15px; background-color: rgba(0,0,0,0); color: #85482E;" name="send" value="/rules">Rules</button></div><div style="border-bottom: solid, 1px, #160A0B ; width: 85% ;"><a style="font-size: 15px; color: white; text-decoration: none;" href="" title="Coming Soon!">Forums</a></div><div style="border-bottom: solid, 1px, #160A0B ; width: 85% ; padding: 3px ;"><button style="font-size: 15px; background-color: rgba(0,0,0,0); color: white;" name="send" value="/auth">Staff</button></div><div style="padding: 4px ;border-top: solid, 1px, #160A0B ; border-bottom: solid, 1px, #160A0B ; width: 85% ;"><button style="font-size: 15px; background-color: rgba(0,0,0,0); color: white;" name="joinRoom" value="/leaguecentral">League</button></div><div style="border-bottom: solid, 1px, #160A0B ; width: 85% ; padding: 4px ;"><button style="font-size: 15px; background-color: rgba(0,0,0,0); color: white;" name="joinRoom" value="/monotype">Mono</button></div><br><br><br><img src="http://img.pokemondb.net/sprites/black-white/anim/normal/arcanine.gif" width="77" height="69"</center></div><div style="background-color: #FF560E ; border: 1px, solid, #160A0B ; width: 99.6%; height: 309px;" alt="Leave this DIV Blank. It is for spacing"></div><div style="font-size: 11px; background-color: #FF560E ; color: white ; border-bottom: 1px, solid, #160A0B ; border-right: 1px, solid, #160A0B ; border-left: 1px, solid, #160A0B ; width: 99.7% ; height: 90px ;"><center><b>Welcome to Wisp</b> <br>We're currently in the process of setting this server up! Please come in and bask in the hot memes that we spit!<br><br>If you had an established room on Origin please contact a Leader(&) or Admin(~) preferably Tailz</center></div></div>
+04:39:23 |c| Audinory|!htmlbox
+04:39:23 |raw|<div class="infobox"><div style="border: 1px, solid, #160A0B ; background-image: url('http://www.game-art-hq.com/wp-content/uploads/Arcanine-Fan-Art-by_susiron.jpg'); background-size: 100%; background-repeat: no-repeat ; width: 85% ; height: 309px; float: left;"><img src="https://i.imgur.com/KtTxgTW.png" width="230" height="101" style="float: left;"></div><div style="background-color: #FF560E ; color: #160A0B; ; border-top: 1px, solid, #160A0B ; border-right: 1px, solid, #160A0B ; width: 14.2% ; height: 292.75px ; float: right ;"><center style="font-size: 15px ; text-decoration: underline ;">Links</center><br><center style="font-size: 14px"><div style="border-top: solid, 1px, #160A0B ; border-bottom: solid, 1px, #160A0B ; width: 85% ;"><button style="font-size: 15px; background-color: rgba(0,0,0,0); color: #85482E;" name="send" value="/rules">Rules</button></div><div style="border-bottom: solid, 1px, #160A0B ; width: 85% ;"><a style="font-size: 15px; color: white; text-decoration: none;" href="" title="Coming Soon!">Forums</a></div><div style="border-bottom: solid, 1px, #160A0B ; width: 85% ; padding: 3px ;"><button style="font-size: 15px; background-color: rgba(0,0,0,0); color: white;" name="send" value="/auth">Staff</button></div><div style="padding: 4px ;border-top: solid, 1px, #160A0B ; border-bottom: solid, 1px, #160A0B ; width: 85% ;"><button style="font-size: 15px; background-color: rgba(0,0,0,0); color: white;" name="joinRoom" value="/leaguecentral">League</button></div><div style="border-bottom: solid, 1px, #160A0B ; width: 85% ; padding: 4px ;"><button style="font-size: 15px; background-color: rgba(0,0,0,0); color: white;" name="joinRoom" value="/monotype">Mono</button></div><br><br><br><img title="Hi I'm Tailz!" src="http://img.pokemondb.net/sprites/black-white/anim/normal/arcanine.gif" width="77" height="69"</center></div><div style="background-color: #FF560E ; border: 1px, solid, #160A0B ; width: 99.6%; height: 309px;" alt="Leave this DIV Blank. It is for spacing"></div><div style="font-size: 11px; background-color: #FF560E ; color: white ; border-bottom: 1px, solid, #160A0B ; border-right: 1px, solid, #160A0B ; border-left: 1px, solid, #160A0B ; width: 99.7% ; height: 90px ;"><center><b>Welcome to Wisp</b> <br>We're currently in the process of setting this server up! Please come in and bask in the hot memes that we spit!<br><br>If you had an established room on Origin please contact a Leader(&) or Admin(~) preferably Tailz</center></div></div>
+04:39:41 |c| Audinory|!htmlbox
+04:39:41 |raw|<div class="infobox"><div style="border: 1px, solid, #160A0B ; background-image: url('http://www.game-art-hq.com/wp-content/uploads/Arcanine-Fan-Art-by_susiron.jpg'); background-size: 100%; background-repeat: no-repeat ; width: 85% ; height: 309px; float: left;"><img src="https://i.imgur.com/KtTxgTW.png" width="230" height="101" style="float: left;"></div><div style="background-color: #FF560E ; color: white; ; border-top: 1px, solid, #160A0B ; border-right: 1px, solid, #160A0B ; width: 14.2% ; height: 292.75px ; float: right ;"><center style="font-size: 15px ; text-decoration: underline ;">Links</center><br><center style="font-size: 14px"><div style="border-top: solid, 1px, #160A0B ; border-bottom: solid, 1px, #160A0B ; width: 85% ;"><button style="font-size: 15px; background-color: rgba(0,0,0,0); color: #85482E;" name="send" value="/rules">Rules</button></div><div style="border-bottom: solid, 1px, #160A0B ; width: 85% ;"><a style="font-size: 15px; color: white; text-decoration: none;" href="" title="Coming Soon!">Forums</a></div><div style="border-bottom: solid, 1px, #160A0B ; width: 85% ; padding: 3px ;"><button style="font-size: 15px; background-color: rgba(0,0,0,0); color: white;" name="send" value="/auth">Staff</button></div><div style="padding: 4px ;border-top: solid, 1px, #160A0B ; border-bottom: solid, 1px, #160A0B ; width: 85% ;"><button style="font-size: 15px; background-color: rgba(0,0,0,0); color: white;" name="joinRoom" value="/leaguecentral">League</button></div><div style="border-bottom: solid, 1px, #160A0B ; width: 85% ; padding: 4px ;"><button style="font-size: 15px; background-color: rgba(0,0,0,0); color: white;" name="joinRoom" value="/monotype">Mono</button></div><br><br><br><img title="Hi I'm Tailz!" src="http://img.pokemondb.net/sprites/black-white/anim/normal/arcanine.gif" width="77" height="69"</center></div><div style="background-color: #FF560E ; border: 1px, solid, #160A0B ; width: 99.6%; height: 309px;" alt="Leave this DIV Blank. It is for spacing"></div><div style="font-size: 11px; background-color: #FF560E ; color: white ; border-bottom: 1px, solid, #160A0B ; border-right: 1px, solid, #160A0B ; border-left: 1px, solid, #160A0B ; width: 99.7% ; height: 90px ;"><center><b>Welcome to Wisp</b> <br>We're currently in the process of setting this server up! Please come in and bask in the hot memes that we spit!<br><br>If you had an established room on Origin please contact a Leader(&) or Admin(~) preferably Tailz</center></div></div>
+04:39:44 |c| Audinory|!htmlbox
+04:39:44 |raw|<div class="infobox"><div style="border: 1px, solid, #160A0B ; background-image: url('http://www.game-art-hq.com/wp-content/uploads/Arcanine-Fan-Art-by_susiron.jpg'); background-size: 100%; background-repeat: no-repeat ; width: 85% ; height: 309px; float: left;"><img src="https://i.imgur.com/KtTxgTW.png" width="230" height="101" style="float: left;"></div><div style="background-color: #FF560E ; color: white;border-top: 1px, solid, #160A0B ; border-right: 1px, solid, #160A0B ; width: 14.2% ; height: 292.75px ; float: right ;"><center style="font-size: 15px ; text-decoration: underline ;">Links</center><br><center style="font-size: 14px"><div style="border-top: solid, 1px, #160A0B ; border-bottom: solid, 1px, #160A0B ; width: 85% ;"><button style="font-size: 15px; background-color: rgba(0,0,0,0); color: #85482E;" name="send" value="/rules">Rules</button></div><div style="border-bottom: solid, 1px, #160A0B ; width: 85% ;"><a style="font-size: 15px; color: white; text-decoration: none;" href="" title="Coming Soon!">Forums</a></div><div style="border-bottom: solid, 1px, #160A0B ; width: 85% ; padding: 3px ;"><button style="font-size: 15px; background-color: rgba(0,0,0,0); color: white;" name="send" value="/auth">Staff</button></div><div style="padding: 4px ;border-top: solid, 1px, #160A0B ; border-bottom: solid, 1px, #160A0B ; width: 85% ;"><button style="font-size: 15px; background-color: rgba(0,0,0,0); color: white;" name="joinRoom" value="/leaguecentral">League</button></div><div style="border-bottom: solid, 1px, #160A0B ; width: 85% ; padding: 4px ;"><button style="font-size: 15px; background-color: rgba(0,0,0,0); color: white;" name="joinRoom" value="/monotype">Mono</button></div><br><br><br><img title="Hi I'm Tailz!" src="http://img.pokemondb.net/sprites/black-white/anim/normal/arcanine.gif" width="77" height="69"</center></div><div style="background-color: #FF560E ; border: 1px, solid, #160A0B ; width: 99.6%; height: 309px;" alt="Leave this DIV Blank. It is for spacing"></div><div style="font-size: 11px; background-color: #FF560E ; color: white ; border-bottom: 1px, solid, #160A0B ; border-right: 1px, solid, #160A0B ; border-left: 1px, solid, #160A0B ; width: 99.7% ; height: 90px ;"><center><b>Welcome to Wisp</b> <br>We're currently in the process of setting this server up! Please come in and bask in the hot memes that we spit!<br><br>If you had an established room on Origin please contact a Leader(&) or Admin(~) preferably Tailz</center></div></div>
+04:40:02 |c| Audinory|!htmlbox
+04:40:02 |raw|<div class="infobox"><div style="border: 1px, solid, #160A0B ; background-image: url('http://www.game-art-hq.com/wp-content/uploads/Arcanine-Fan-Art-by_susiron.jpg'); background-size: 100%; background-repeat: no-repeat ; width: 85% ; height: 309px; float: left;"><img src="https://i.imgur.com/KtTxgTW.png" width="230" height="101" style="float: left;"></div><div style="background-color: #FF560E ; color: white; border-top: 1px, solid, #160A0B ; border-right: 1px, solid, #160A0B ; width: 14.2% ; height: 292.75px ; float: right ;"><center style="font-size: 16px ; text-decoration: underline ;">Links</center><br><center style="font-size: 14px"><div style="border-top: solid, 1px, #160A0B ; border-bottom: solid, 1px, #160A0B ; width: 85% ;"><button style="font-size: 15px; background-color: rgba(0,0,0,0); color: #85482E;" name="send" value="/rules">Rules</button></div><div style="border-bottom: solid, 1px, #160A0B ; width: 85% ;"><a style="font-size: 15px; color: white; text-decoration: none;" href="" title="Coming Soon!">Forums</a></div><div style="border-bottom: solid, 1px, #160A0B ; width: 85% ; padding: 3px ;"><button style="font-size: 15px; background-color: rgba(0,0,0,0); color: white;" name="send" value="/auth">Staff</button></div><div style="padding: 4px ;border-top: solid, 1px, #160A0B ; border-bottom: solid, 1px, #160A0B ; width: 85% ;"><button style="font-size: 15px; background-color: rgba(0,0,0,0); color: white;" name="joinRoom" value="/leaguecentral">League</button></div><div style="border-bottom: solid, 1px, #160A0B ; width: 85% ; padding: 4px ;"><button style="font-size: 15px; background-color: rgba(0,0,0,0); color: white;" name="joinRoom" value="/monotype">Mono</button></div><br><br><br><img title="Hi I'm Tailz!" src="http://img.pokemondb.net/sprites/black-white/anim/normal/arcanine.gif" width="77" height="69"</center></div><div style="background-color: #FF560E ; border: 1px, solid, #160A0B ; width: 99.6%; height: 309px;" alt="Leave this DIV Blank. It is for spacing"></div><div style="font-size: 11px; background-color: #FF560E ; color: white ; border-bottom: 1px, solid, #160A0B ; border-right: 1px, solid, #160A0B ; border-left: 1px, solid, #160A0B ; width: 99.7% ; height: 90px ;"><center><b>Welcome to Wisp</b> <br>We're currently in the process of setting this server up! Please come in and bask in the hot memes that we spit!<br><br>If you had an established room on Origin please contact a Leader(&) or Admin(~) preferably Tailz</center></div></div>
+04:40:25 |c| Audinory|!htmlbox
+04:40:25 |raw|<div class="infobox"><div style="border: 1px, solid, #160A0B ; background-image: url('http://www.game-art-hq.com/wp-content/uploads/Arcanine-Fan-Art-by_susiron.jpg'); background-size: 100%; background-repeat: no-repeat ; width: 85% ; height: 309px; float: left;"><img src="https://i.imgur.com/KtTxgTW.png" width="230" height="101" style="float: left;"></div><div style="background-color: #FF560E ; color: white; border-top: 1px, solid, #160A0B ; border-right: 1px, solid, #160A0B ; width: 14.2% ; height: 292.75px ; float: right ;"><center style="color: #85482E ; font-size: 17px ; text-decoration: underline ;">Links</center><br><center style="font-size: 14px"><div style="border-top: solid, 1px, #160A0B ; border-bottom: solid, 1px, #160A0B ; width: 85% ;"><button style="font-size: 15px; background-color: rgba(0,0,0,0); color: white;" name="send" value="/rules">Rules</button></div><div style="border-bottom: solid, 1px, #160A0B ; width: 85% ;"><a style="font-size: 15px; color: white; text-decoration: none;" href="" title="Coming Soon!">Forums</a></div><div style="border-bottom: solid, 1px, #160A0B ; width: 85% ; padding: 3px ;"><button style="font-size: 15px; background-color: rgba(0,0,0,0); color: white;" name="send" value="/auth">Staff</button></div><div style="padding: 4px ;border-top: solid, 1px, #160A0B ; border-bottom: solid, 1px, #160A0B ; width: 85% ;"><button style="font-size: 15px; background-color: rgba(0,0,0,0); color: white;" name="joinRoom" value="/leaguecentral">League</button></div><div style="border-bottom: solid, 1px, #160A0B ; width: 85% ; padding: 4px ;"><button style="font-size: 15px; background-color: rgba(0,0,0,0); color: white;" name="joinRoom" value="/monotype">Mono</button></div><br><br><br><img title="Hi I'm Tailz!" src="http://img.pokemondb.net/sprites/black-white/anim/normal/arcanine.gif" width="77" height="69"</center></div><div style="background-color: #FF560E ; border: 1px, solid, #160A0B ; width: 99.6%; height: 309px;" alt="Leave this DIV Blank. It is for spacing"></div><div style="font-size: 11px; background-color: #FF560E ; color: white ; border-bottom: 1px, solid, #160A0B ; border-right: 1px, solid, #160A0B ; border-left: 1px, solid, #160A0B ; width: 99.7% ; height: 90px ;"><center><b>Welcome to Wisp</b> <br>We're currently in the process of setting this server up! Please come in and bask in the hot memes that we spit!<br><br>If you had an established room on Origin please contact a Leader(&) or Admin(~) preferably Tailz</center></div></div>
+04:41:17 |c| Audinory|!htmlbox
+04:41:17 |raw|<div class="infobox"><div style="border: 1px, solid, #160A0B ; background-image: url('http://www.game-art-hq.com/wp-content/uploads/Arcanine-Fan-Art-by_susiron.jpg'); background-size: 100%; background-repeat: no-repeat ; width: 85% ; height: 309px; float: left;"><img src="https://i.imgur.com/KtTxgTW.png" width="230" height="101" style="float: left;"></div><div style="background-color: #FF560E ; color: white; border-top: 1px, solid, #160A0B ; border-right: 1px, solid, #160A0B ; width: 14.2% ; height: 292.75px ; float: right ;"><center style="color: #85482E ; font-size: 17px ; text-decoration: underline ;">Links</center><br><center style="font-size: 14px"><div style="border-top: solid, 1px, #160A0B ; border-bottom: solid, 1px, #160A0B ; width: 85% ;"><button style="font-size: 15px; background-color: rgba(0,0,0,0); color: white;" name="send" value="/rules">Rules</button></div><div style="border-bottom: solid, 1px, #160A0B ; width: 85% ;"><a style="font-size: 15px; color: white; text-decoration: none;" href="" title="Coming Soon!">Forums</a></div><div style="border-bottom: solid, 1px, #160A0B ; width: 85% ; padding: 3px ;"><button style="font-size: 15px; background-color: rgba(0,0,0,0); color: white;" name="send" value="/auth">Staff</button></div><div style="padding: 4px ; border-bottom: solid, 1px, #160A0B ; width: 85% ;"><button style="font-size: 15px; background-color: rgba(0,0,0,0); color: white;" name="joinRoom" value="/leaguecentral">League</button></div><div style="border-bottom: solid, 1px, #160A0B ; width: 85% ; padding: 4px ;"><button style="font-size: 15px; background-color: rgba(0,0,0,0); color: white;" name="joinRoom" value="/monotype">Mono</button></div><br><br><br><img title="Hi I'm Tailz!" src="http://img.pokemondb.net/sprites/black-white/anim/normal/arcanine.gif" width="77" height="69"</center></div><div style="background-color: #FF560E ; border: 1px, solid, #160A0B ; width: 99.6%; height: 309px;" alt="Leave this DIV Blank. It is for spacing"></div><div style="font-size: 11px; background-color: #FF560E ; color: white ; border-bottom: 1px, solid, #160A0B ; border-right: 1px, solid, #160A0B ; border-left: 1px, solid, #160A0B ; width: 99.7% ; height: 90px ;"><center><b>Welcome to Wisp</b> <br>We're currently in the process of setting this server up! Please come in and bask in the hot memes that we spit!<br><br>If you had an established room on Origin please contact a Leader(&) or Admin(~) preferably Tailz</center></div></div>
+04:42:00 |c| Audinory|!htmlbox
+04:42:00 |raw|<div class="infobox"><div style="border: 1px, solid, #160A0B ; background-image: url('http://www.game-art-hq.com/wp-content/uploads/Arcanine-Fan-Art-by_susiron.jpg'); background-size: 100%; background-repeat: no-repeat ; width: 85% ; height: 309px; float: left;"><img src="https://i.imgur.com/KtTxgTW.png" width="230" height="101" style="float: left;"></div><div style="background-color: #FF560E ; color: white; border-top: 1px, solid, #160A0B ; border-right: 1px, solid, #160A0B ; width: 14.2% ; height: 292.75px ; float: right ;"><center style="color: #85482E ; font-size: 17px ; text-decoration: underline ;">Links</center><br><center style="font-size: 14px"><div style="padding: 4px ; border-top: solid, 1px, #160A0B ; border-bottom: solid, 1px, #160A0B ; width: 85% ;"><button style="font-size: 15px; background-color: rgba(0,0,0,0); color: white;" name="send" value="/rules">Rules</button></div><div style="padding: 4px ; border-bottom: solid, 1px, #160A0B ; width: 85% ;"><a style="font-size: 15px; color: white; text-decoration: none;" href="" title="Coming Soon!">Forums</a></div><div style="border-bottom: solid, 1px, #160A0B ; width: 85% ; padding: 4px ;"><button style="font-size: 15px; background-color: rgba(0,0,0,0); color: white;" name="send" value="/auth">Staff</button></div><div style="padding: 4px ; border-bottom: solid, 1px, #160A0B ; width: 85% ;"><button style="font-size: 15px; background-color: rgba(0,0,0,0); color: white;" name="joinRoom" value="/leaguecentral">League</button></div><div style="border-bottom: solid, 1px, #160A0B ; width: 85% ; padding: 4px ;"><button style="font-size: 15px; background-color: rgba(0,0,0,0); color: white;" name="joinRoom" value="/monotype">Mono</button></div><br><img title="Hi I'm Tailz!" src="http://img.pokemondb.net/sprites/black-white/anim/normal/arcanine.gif" width="77" height="69"</center></div><div style="background-color: #FF560E ; border: 1px, solid, #160A0B ; width: 99.6%; height: 309px;" alt="Leave this DIV Blank. It is for spacing"></div><div style="font-size: 11px; background-color: #FF560E ; color: white ; border-bottom: 1px, solid, #160A0B ; border-right: 1px, solid, #160A0B ; border-left: 1px, solid, #160A0B ; width: 99.7% ; height: 90px ;"><center><b>Welcome to Wisp</b> <br>We're currently in the process of setting this server up! Please come in and bask in the hot memes that we spit!<br><br>If you had an established room, please contact a Leader(&) or Admin(~) preferably Tailz</center></div></div>
+04:42:39 |c| Audinory|!htmlbox
+04:42:39 |raw|<div class="infobox"><div style="border: 1px, solid, #160A0B ; background-image: url('http://www.game-art-hq.com/wp-content/uploads/Arcanine-Fan-Art-by_susiron.jpg'); background-size: 100%; background-repeat: no-repeat ; width: 85% ; height: 309px; float: left;"><img src="https://i.imgur.com/KtTxgTW.png" width="230" height="101" style="float: left;"></div><div style="background-color: #FF560E ; color: white; border-top: 1px, solid, #160A0B ; border-right: 1px, solid, #160A0B ; width: 14.2% ; height: 292.75px ; float: right ;"><center style="color: #85482E ; font-size: 17px ; text-decoration: underline ;">Links</center><br><center style="font-size: 14px"><div style="padding: 4px ; border-top: solid, 1px, #160A0B ; border-bottom: solid, 1px, #160A0B ; width: 85% ;"><button title="The Rules" style="font-size: 15px; background-color: rgba(0,0,0,0); color: white;" name="send" value="/rules">Rules</button></div><div style="padding: 4px ; border-bottom: solid, 1px, #160A0B ; width: 85% ;"><a style="font-size: 15px; color: white; text-decoration: none;" href="" title="Coming Soon!">Forums</a></div><div style="border-bottom: solid, 1px, #160A0B ; width: 85% ; padding: 4px ;"><button style="font-size: 15px; background-color: rgba(0,0,0,0); color: white;" name="send" value="/auth">Staff</button></div><div style="padding: 4px ; border-bottom: solid, 1px, #160A0B ; width: 85% ;"><button style="font-size: 15px; background-color: rgba(0,0,0,0); color: white;" name="joinRoom" value="/leaguecentral">League</button></div><div style="border-bottom: solid, 1px, #160A0B ; width: 85% ; padding: 4px ;"><button style="font-size: 15px; background-color: rgba(0,0,0,0); color: white;" name="joinRoom" value="/monotype">Mono</button></div><br><img title="Hi I'm Tailz!" src="http://img.pokemondb.net/sprites/black-white/anim/normal/arcanine.gif" width="77" height="69"</center></div><div style="background-color: #FF560E ; border: 1px, solid, #160A0B ; width: 99.6%; height: 309px;" alt="Leave this DIV Blank. It is for spacing"></div><div style="font-size: 11px; background-color: #FF560E ; color: white ; border-bottom: 1px, solid, #160A0B ; border-right: 1px, solid, #160A0B ; border-left: 1px, solid, #160A0B ; width: 99.7% ; height: 90px ;"><center><b>Welcome to Wisp</b> <br>We're currently in the process of setting this server up! Please come in and bask in the hot memes that we spit!<br><br>If you had an established room, please contact a Leader(&) or Admin(~) preferably Tailz</center></div></div>
+04:42:59 |c| Audinory|!htmlbox
+04:42:59 |raw|<div class="infobox"><div style="border: 1px, solid, #160A0B ; background-image: url('http://www.game-art-hq.com/wp-content/uploads/Arcanine-Fan-Art-by_susiron.jpg'); background-size: 100%; background-repeat: no-repeat ; width: 85% ; height: 309px; float: left;"><img src="https://i.imgur.com/KtTxgTW.png" width="230" height="101" style="float: left;"></div><div style="background-color: #FF560E ; color: white; border-top: 1px, solid, #160A0B ; border-right: 1px, solid, #160A0B ; width: 14.2% ; height: 292.75px ; float: right ;"><center style="color: #85482E ; font-size: 17px ; text-decoration: underline ;">Links</center><br><center style="font-size: 14px"><div style="padding: 4px ; border-top: solid, 1px, #160A0B ; border-bottom: solid, 1px, #160A0B ; width: 85% ;"><button title="The Rules" style="font-size: 15px; background-color: rgba(0,0,0,0); color: white;" name="send" value="/rules">Rules</button></div><div style="padding: 4px ; border-bottom: solid, 1px, #160A0B ; width: 85% ;"><a style="font-size: 15px; color: white; text-decoration: none;" href="" title="Coming Soon!">Forums</a></div><div style="border-bottom: solid, 1px, #160A0B ; width: 85% ; padding: 4px ;"><button title="Jd, Tailz & their meme team" style="font-size: 15px; background-color: rgba(0,0,0,0); color: white;" name="send" value="/auth">Staff</button></div><div style="padding: 4px ; border-bottom: solid, 1px, #160A0B ; width: 85% ;"><button style="font-size: 15px; background-color: rgba(0,0,0,0); color: white;" name="joinRoom" value="/leaguecentral">League</button></div><div style="border-bottom: solid, 1px, #160A0B ; width: 85% ; padding: 4px ;"><button style="font-size: 15px; background-color: rgba(0,0,0,0); color: white;" name="joinRoom" value="/monotype">Mono</button></div><br><img title="Hi I'm Tailz!" src="http://img.pokemondb.net/sprites/black-white/anim/normal/arcanine.gif" width="77" height="69"</center></div><div style="background-color: #FF560E ; border: 1px, solid, #160A0B ; width: 99.6%; height: 309px;" alt="Leave this DIV Blank. It is for spacing"></div><div style="font-size: 11px; background-color: #FF560E ; color: white ; border-bottom: 1px, solid, #160A0B ; border-right: 1px, solid, #160A0B ; border-left: 1px, solid, #160A0B ; width: 99.7% ; height: 90px ;"><center><b>Welcome to Wisp</b> <br>We're currently in the process of setting this server up! Please come in and bask in the hot memes that we spit!<br><br>If you had an established room, please contact a Leader(&) or Admin(~) preferably Tailz</center></div></div>
+04:43:33 |c| Audinory|!htmlbox
+04:43:33 |raw|<div class="infobox"><div style="border: 1px, solid, #160A0B ; background-image: url('http://www.game-art-hq.com/wp-content/uploads/Arcanine-Fan-Art-by_susiron.jpg'); background-size: 100%; background-repeat: no-repeat ; width: 85% ; height: 309px; float: left;"><img src="https://i.imgur.com/KtTxgTW.png" width="230" height="101" style="float: left;"></div><div style="background-color: #FF560E ; color: white; border-top: 1px, solid, #160A0B ; border-right: 1px, solid, #160A0B ; width: 14.2% ; height: 292.75px ; float: right ;"><center style="color: #85482E ; font-size: 17px ; text-decoration: underline ;">Links</center><br><center style="font-size: 14px"><div style="padding: 4px ; border-top: solid, 1px, #160A0B ; border-bottom: solid, 1px, #160A0B ; width: 85% ;"><button title="The Rules" style="font-size: 15px; background-color: rgba(0,0,0,0); color: white;" name="send" value="/rules">Rules</button></div><div style="padding: 4px ; border-bottom: solid, 1px, #160A0B ; width: 85% ;"><a style="font-size: 15px; color: white; text-decoration: none;" href="" title="Coming Soon!">Forums</a></div><div style="border-bottom: solid, 1px, #160A0B ; width: 85% ; padding: 4px ;"><button title="jd, Tailz & their meme team" style="font-size: 15px; background-color: rgba(0,0,0,0); color: white;" name="send" value="/auth">Staff</button></div><div style="padding: 4px ; border-bottom: solid, 1px, #160A0B ; width: 85% ;"><button style="font-size: 15px; background-color: rgba(0,0,0,0); color: white;"  title="Links to League Central" name="joinRoom"  value="/leaguecentral">League</button></div><div style="border-bottom: solid, 1px, #160A0B ; width: 85% ; padding: 4px ;"><button style="font-size: 15px; background-color: rgba(0,0,0,0); color: white;"  title="Links to Mono" name="joinRoom" value="/monotype">Mono</button></div><br><img title="Hi I'm Tailz!" src="http://img.pokemondb.net/sprites/black-white/anim/normal/arcanine.gif" width="77" height="69"</center></div><div style="background-color: #FF560E ; border: 1px, solid, #160A0B ; width: 99.6%; height: 309px;" alt="Leave this DIV Blank. It is for spacing"></div><div style="font-size: 11px; background-color: #FF560E ; color: white ; border-bottom: 1px, solid, #160A0B ; border-right: 1px, solid, #160A0B ; border-left: 1px, solid, #160A0B ; width: 99.7% ; height: 90px ;"><center><b>Welcome to Wisp</b> <br>We're currently in the process of setting this server up! Please come in and bask in the hot memes that we spit!<br><br>If you had an established room, please contact a Leader(&) or Admin(~) preferably Tailz</center></div></div>
+04:46:32 |userstats|total:2|guests:0| :1|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:1|~:0
+04:46:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+04:56:32 |userstats|total:2|guests:0| :1|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:1|~:0
+04:56:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+05:06:32 |userstats|total:2|guests:0| :1|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:1|~:0
+05:06:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+05:16:32 |userstats|total:2|guests:0| :1|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:1|~:0
+05:16:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+05:25:52 (Audinory used /hotpatch chat)
+05:26:20 (Audinory used /hotpatch chat)
+05:26:32 |userstats|total:2|guests:0| :1|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:1|~:0
+05:26:35 (Audinory used /hotpatch chat)
+05:26:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+05:36:32 |userstats|total:2|guests:0| :1|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:1|~:0
+05:36:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+05:41:07 |N| awwdino|audinory
+05:41:12 |N| Audinory|awwdino
+05:46:32 |userstats|total:2|guests:0| :1|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:1|~:0
+05:46:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+05:56:32 |userstats|total:2|guests:0| :1|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:1|~:0
+05:56:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+06:06:32 |userstats|total:2|guests:0| :1|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:1|~:0
+06:06:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+06:16:32 |userstats|total:2|guests:0| :1|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:1|~:0
+06:16:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+06:26:32 |userstats|total:2|guests:0| :1|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:1|~:0
+06:26:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+06:33:45 NEW CHATROOM: development
+06:36:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+06:43:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+06:46:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+06:53:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+06:56:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+07:03:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+07:06:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+07:13:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+07:16:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+07:23:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+07:26:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+07:33:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+07:36:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+07:43:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+07:46:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+07:53:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+07:56:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+08:03:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+08:06:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+08:13:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+08:16:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+08:23:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+08:26:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+08:33:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+08:36:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+08:43:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+08:46:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+08:53:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+08:56:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+09:03:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+09:06:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+09:13:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+09:16:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+09:23:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+09:26:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+09:33:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+09:36:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+09:43:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+09:46:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+09:53:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+09:56:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+10:03:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+10:06:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+10:13:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+10:16:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+10:23:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+10:26:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+10:33:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+10:36:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+10:43:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+10:46:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+10:53:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+10:56:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+11:03:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+11:06:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+11:13:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+11:16:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+11:23:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+11:26:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+11:33:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+11:36:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+11:43:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+11:46:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+11:53:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+11:56:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+12:03:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+12:06:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+12:13:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+12:16:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+12:17:24 |J|+audinory
+12:17:30 Uteruya was promoted to Room Glorified Normie by audinory.
+12:17:58 audinory turned off modjoin.
+12:18:03 |J|-Sylvie Bot
+12:18:07 |J|+Uteruya
+12:18:10 |c|+audinory|alright
+12:18:15 |c|+audinory|>esupport depression
+12:18:16 |c|-Sylvie Bot|Remember that Depression is a **Liar** it will try to convince you that nothing will get better, that you are unloved and unworthy. **NEWSFLASH** Don't fucking believe a single word that Depression tells you, Depression knows nothign about you
+12:18:16 |c|-Sylvie Bot| How special, wonderful and truly fucking amazing that you really are +audinory~!
+12:18:24 |c|+audinory|/me hugs sylvie bot
+12:18:25 |c|-Sylvie Bot|/me gets squished by you. "I-I'm only a tiny robot..H-help? D;"
+12:18:31 |c|+audinory|>pair 1, 2
+12:18:32 |c|-Sylvie Bot|``It looks like 1 and  2 have a compatibility rating of: 10%``
+12:18:38 |c|+audinory|>guide
+12:18:39 |c|-Sylvie Bot|(!this.canUse('guide', room by);
+12:18:46 |c|+audinory|>refresh
+12:18:47 |c|-Sylvie Bot|this.say(con, room, 'https://media.giphy.com/media/ktvFa67wmjDEI/giphy.gif');
+12:18:54 |c|+audinory|/me shrugs
+12:18:57 |c|+audinory|pornhub.com
+12:18:58 audinory was banned from room development by Sylvie Bot.
+12:18:58 |L|-Sylvie Bot
+12:18:58 (audinory's roombanned alts: Sylvie Bot)
+12:18:58 |unlink|sylviebot
+12:18:58 |unlink|roomhide|audinory
+12:19:17 |c|+Uteruya|it banned itself
+12:19:20 |c|+Uteruya|lol wat
+12:19:43 audinory was unbanned from room development by audinory.
+12:19:46 |J|-Sylvie Bot
+12:19:54 |c|+audinory|tfw
+12:20:01 |c|+audinory|I was on her alt
+12:20:06 |c|+audinory|but yeah
+12:20:08 |c|+audinory|;]
+12:20:18 |c|+audinory|>esupport comfort
+12:20:19 |c|-Sylvie Bot|/me Begins to dance like a silly goof with +audinory, flailing about like a silly little Sylveon~!
+12:20:22 |c|+audinory|>botrank
+12:20:23 |c|-Sylvie Bot|Hello Bot OP ♡audinory
+12:20:24 |c|+audinory|>atm
+12:20:25 |c|-Sylvie Bot|The User __audinory__ has **60** Buck(s)!
+12:20:25 |c|-Sylvie Bot|They have also had a total of: **100** Buck(s)!
+12:20:27 |c|+audinory|>roulette 10
+12:20:28 |c|-Sylvie Bot|The correct format is: ``>roulette [red, black, odd, even, col1, col2, col3, doz1, doz2, doz3, low, high, green], [wager]``
+12:20:32 |c|+audinory|>roulette red, 10
+12:20:33 |c|-Sylvie Bot|Ball has landed on: **36** || ``Black, 3rd Dozen, 3rd Column, Even, High``|| You have won nothing. Better luck next time.
+12:20:35 |c|+audinory|>slots 10
+12:20:35 |c|-Sylvie Bot|You have won 20 Bucks
+12:20:42 |c|+audinory|>randpoke
+12:20:43 |c|-Sylvie Bot|!data Haunter
+12:20:43 |c|~|/data-pokemon Haunter
+
+12:20:46 |c|+audinory|M
+12:20:46 |c|+audinory|F
+12:20:46 |c|+audinory|W
+12:20:54 |c|+audinory|anyway yeah
+12:20:56 |c|+audinory|thats all she does
+12:21:01 |c|+audinory|>add dank, memes
+12:21:01 |c|-Sylvie Bot|dank Plus memes is dank memes
+12:21:04 |c|+audinory|>poll
+12:21:05 |c|-Sylvie Bot|The correct usage is: ``>poll [title], [opt1]... [opt8]`` - Minimum of 2 options / Maximum of 8 options
+12:21:13 |c|+audinory|>poll Test, 1, 2, 3
+12:21:13 Sylvie Bot used /poll create Test,  1,  2,  3
+12:21:13 (A poll was started by Sylvie Bot.)
+12:21:18 |c|+audinory|shit like that
+12:21:23 |c|+audinory|that used to be a strawpoll api
+12:21:26 |raw|<div class='chat'><small>+</small><button name='parseCommand' value='/user audinory' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#C635E7'>audinory:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsbd.png" title="feelsbd" width="50" height="50" /></em></div>
+12:22:01 |c|+audinory|>>>> process.exit();
+12:22:01 |L|-Sylvie Bot
+12:23:45 |userstats|total:2|guests:0| :0|+:2|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+12:26:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+12:33:45 |userstats|total:2|guests:0| :0|+:2|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+12:36:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+12:43:45 |userstats|total:2|guests:0| :0|+:2|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+12:46:46 |L|+audinory
+12:46:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+12:47:48 |J|#DarkNightSkies ✿
+12:53:45 |userstats|total:2|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:0
+12:56:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+13:03:45 |userstats|total:2|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:0
+13:06:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+13:13:45 |userstats|total:2|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:0
+13:16:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+13:23:45 |userstats|total:2|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:0
+13:26:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+13:33:45 |userstats|total:2|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:0
+13:36:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+13:43:45 |userstats|total:2|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:0
+13:46:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+13:53:45 |userstats|total:2|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:0
+13:56:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+14:03:46 |userstats|total:2|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:0
+14:06:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+14:13:46 |userstats|total:2|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:0
+14:16:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+14:23:46 |userstats|total:2|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:0
+14:26:30 |L|#DarkNightSkies ✿
+14:26:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+14:33:46 |userstats|total:1|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+14:36:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+14:43:46 |userstats|total:1|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+14:46:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+14:53:46 |userstats|total:1|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+14:56:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+15:03:46 |userstats|total:1|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+15:05:43 |J|+audinory
+15:06:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+15:09:18 |c|+audinory|<div style="border: gold, solid, 1px ; background-color: white ; color: gold ; height: 250px ; width: 100% ;"><div style="border: gold, solid, 1px ; background-color: black ; color: gold ; height: 100px; width: 40%; float: right;"></div</div>   
+15:10:13 |c|+Uteruya|oy
+15:10:29 |c|+Uteruya|2nd to last div is missing >
+15:10:31 |c|+audinory|n
+15:10:35 |c|+audinory|o
+15:10:37 |c|+audinory|y
+15:10:45 |c|+Uteruya|??
+15:10:48 |c|+Uteruya|lol wut
+15:13:46 |userstats|total:2|guests:0| :0|+:2|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+15:16:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+15:18:45 |L|+audinory
+15:19:16 |J|+audinory
+15:23:46 |userstats|total:2|guests:0| :0|+:2|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+15:26:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+15:33:46 |userstats|total:2|guests:0| :0|+:2|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+15:36:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+15:43:46 |userstats|total:2|guests:0| :0|+:2|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+15:46:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+15:49:19 |c|+audinory|!htmlbox
+15:49:19 |raw|<div class="infobox"><div style="border: #90AFC5, solid, 1px ; background-image: url('http://i.imgur.com/XAFtVIM.jpg') ; background-size: 100% ; height: 275px ; width: 100% ; "><br><div style="height: 100px; width: 65% ; float: left ;"><img src="//i.imgur.com/j7NYLH8.png" width="275" height="75"></div><div style="height: 75% ; width: 33% ; float: right ; "><button style="border: #90AFC5, solid, 1px ; background-color: #336B87 ; color: #90AFC5 ; width: 85% ;">League Members</button><br><br><button style="border: #90AFC5, solid, 1px ; background-color: #336B87 ; color: #90AFC5 ; width: 85% ;">League Website</button><br><br><button style="border: #90AFC5, solid, 1px ; background-color: #336B87 ; color: #90AFC5 ; width: 85% ;">League Champion</button><br><br><button style="border: #90AFC5, solid, 1px ; background-color: #336B87 ; color: #90AFC5 ; width: 85% ;">League Rules</button></div><div style="height: 215px ; width: 100% ;"></div><center><div style="background-color: #90AFC5 ; border: #336B87, solid, 1px ; color: #336B87 ; height: 37px ; width: 99% ;">The Empire will rise strong once again or some random generic text along those lines I guess lma0</div></center></div></div>
+15:50:56 |c|+audinory|Uteruya
+15:51:05 |c|+Uteruya|hi
+15:51:09 |c|+audinory|Like?
+15:51:37 |c|+Uteruya|make a deeper border on buttons
+15:52:23 |c|+audinory|nah
+15:52:31 |c|+audinory|they dont stand out as much
+15:53:46 |userstats|total:2|guests:0| :0|+:2|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+15:54:01 |c|+Uteruya|trust me it will
+15:54:16 |c|+Uteruya|gimme the code in a pastebin I'll run a test site
+15:54:19 |c|+Uteruya|:^)
+15:55:32 |c|+audinory|its for a roomintro
+15:55:32 |c|+audinory|lmao
+15:56:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+16:01:13 |c|+audinory|!htmlbox
+16:01:13 |raw|<div class="infobox"><div style="border: #90AFC5, solid, 1px ; background-image: url('http://i.imgur.com/XAFtVIM.jpg') ; background-size: 100% ; height: 325px ; width: 100% ; "><br><div style="height: 100px; width: 65% ; float: left ;"><img src="//i.imgur.com/j7NYLH8.png" width="275" height="75"></div><div style="height: 75% ; width: 33% ; float: right ; "><button style="border: #90AFC5, solid, 1px ; background-color: #336B87 ; color: #90AFC5 ; width: 85% ;" name="send" value="/roomauth">League Members</button><br><br><button style="border: #90AFC5, solid, 1px ; background-color: #336B87 ; color: #90AFC5 ; width: 85% ;">League Website</button><br><br><button style="border: #90AFC5, solid, 1px ; background-color: #336B87 ; color: #90AFC5 ; width: 85% ;" parseCommand="send" value="Alliance*Dethroner">League Champion</button><br><br><button style="border: #90AFC5, solid, 1px ; background-color: #336B87 ; color: #90AFC5 ; width: 85% ;" name="send" value="/rules">League Rules</button></div><div style="height: 215px ; width: 100% ;"></div><center><div style="background-color: #90AFC5 ; border: #336B87, solid, 1px ; color: #336B87 ; height: 37px ; width: 99% ;">The Empire will rise strong once again or some random generic text along those lines I guess lma0 idk what u want here man.</div></center></div></div>
+16:01:17 |c|+audinory|!htmlbox
+16:01:17 |raw|<div class="infobox"><div style="border: #90AFC5, solid, 1px ; background-image: url('http://i.imgur.com/XAFtVIM.jpg') ; background-size: 100% ; height: 300px ; width: 100% ; "><br><div style="height: 100px; width: 65% ; float: left ;"><img src="//i.imgur.com/j7NYLH8.png" width="275" height="75"></div><div style="height: 75% ; width: 33% ; float: right ; "><button style="border: #90AFC5, solid, 1px ; background-color: #336B87 ; color: #90AFC5 ; width: 85% ;" name="send" value="/roomauth">League Members</button><br><br><button style="border: #90AFC5, solid, 1px ; background-color: #336B87 ; color: #90AFC5 ; width: 85% ;">League Website</button><br><br><button style="border: #90AFC5, solid, 1px ; background-color: #336B87 ; color: #90AFC5 ; width: 85% ;" parseCommand="send" value="Alliance*Dethroner">League Champion</button><br><br><button style="border: #90AFC5, solid, 1px ; background-color: #336B87 ; color: #90AFC5 ; width: 85% ;" name="send" value="/rules">League Rules</button></div><div style="height: 215px ; width: 100% ;"></div><center><div style="background-color: #90AFC5 ; border: #336B87, solid, 1px ; color: #336B87 ; height: 37px ; width: 99% ;">The Empire will rise strong once again or some random generic text along those lines I guess lma0 idk what u want here man.</div></center></div></div>
+16:02:32 |c|+audinory|!htmlbox
+16:02:32 |raw|<div class="infobox"><div style="border: #90AFC5, solid, 1px ; background-image: url('http://i.imgur.com/XAFtVIM.jpg') ; background-size: 100% ; height: 300px ; width: 100% ; "><br><div style="height: 100px; width: 65% ; float: left ;"><img src="//i.imgur.com/j7NYLH8.png" width="275" height="75"></div><div style="height: 75% ; width: 33% ; float: right ; "><button style="border: #90AFC5, solid, 1px ; background-color: #336B87 ; color: #90AFC5 ; width: 85% ;" name="send" value="/roomauth">League Members</button><br><br><button style="border: #90AFC5, solid, 1px ; background-color: #336B87 ; color: #90AFC5 ; width: 85% ;">League Website</button><br><br><button style="border: #90AFC5, solid, 1px ; background-color: #336B87 ; color: #90AFC5 ; width: 85% ;" parseCommand="send" value="Alliance*Dethroner">League Champion</button><br><br><button style="border: #90AFC5, solid, 1px ; background-color: #336B87 ; color: #90AFC5 ; width: 85% ;" name="send" value="/rules">League Rules</button></div><div style="height: 215px ; width: 100% ;"></div><center><div style="background-color: #90AFC5 ; border: #336B87, solid, 1px ; color: #336B87 ; height: 37px ; width: 99% ;">The Empire will rise strong once again or some random generic text along those lines I guess lma0 idk what u want here man.</div><br><div style="border: #90AFC5, solid, 1px ; background-color: #336B87 ; color: #90AFC5 ; width: 99% ;"><marquee>Blah Blah Something About Empire/Alliance Cup or ULC</marquee></div></center></div></div>
+16:02:38 |c|+audinory|!htmlbox
+16:02:38 |raw|<div class="infobox"><div style="border: #90AFC5, solid, 1px ; background-image: url('http://i.imgur.com/XAFtVIM.jpg') ; background-size: 100% ; height: 310px ; width: 100% ; "><br><div style="height: 100px; width: 65% ; float: left ;"><img src="//i.imgur.com/j7NYLH8.png" width="275" height="75"></div><div style="height: 75% ; width: 33% ; float: right ; "><button style="border: #90AFC5, solid, 1px ; background-color: #336B87 ; color: #90AFC5 ; width: 85% ;" name="send" value="/roomauth">League Members</button><br><br><button style="border: #90AFC5, solid, 1px ; background-color: #336B87 ; color: #90AFC5 ; width: 85% ;">League Website</button><br><br><button style="border: #90AFC5, solid, 1px ; background-color: #336B87 ; color: #90AFC5 ; width: 85% ;" parseCommand="send" value="Alliance*Dethroner">League Champion</button><br><br><button style="border: #90AFC5, solid, 1px ; background-color: #336B87 ; color: #90AFC5 ; width: 85% ;" name="send" value="/rules">League Rules</button></div><div style="height: 215px ; width: 100% ;"></div><center><div style="background-color: #90AFC5 ; border: #336B87, solid, 1px ; color: #336B87 ; height: 37px ; width: 99% ;">The Empire will rise strong once again or some random generic text along those lines I guess lma0 idk what u want here man.</div><br><div style="border: #90AFC5, solid, 1px ; background-color: #336B87 ; color: #90AFC5 ; width: 99% ;"><marquee>Blah Blah Something About Empire/Alliance Cup or ULC</marquee></div></center></div></div>
+16:02:52 |c|+audinory|!htmlbox
+16:02:52 |raw|<div class="infobox"><div style="border: #90AFC5, solid, 1px ; background-image: url('http://i.imgur.com/XAFtVIM.jpg') ; background-size: 100% ; height: 310px ; width: 100% ; "><br><div style="height: 100px; width: 65% ; float: left ;"><img src="//i.imgur.com/j7NYLH8.png" width="300" height="75"></div><div style="height: 75% ; width: 33% ; float: right ; "><button style="border: #90AFC5, solid, 1px ; background-color: #336B87 ; color: #90AFC5 ; width: 85% ;" name="send" value="/roomauth">League Members</button><br><br><button style="border: #90AFC5, solid, 1px ; background-color: #336B87 ; color: #90AFC5 ; width: 85% ;">League Website</button><br><br><button style="border: #90AFC5, solid, 1px ; background-color: #336B87 ; color: #90AFC5 ; width: 85% ;" parseCommand="send" value="Alliance*Dethroner">League Champion</button><br><br><button style="border: #90AFC5, solid, 1px ; background-color: #336B87 ; color: #90AFC5 ; width: 85% ;" name="send" value="/rules">League Rules</button></div><div style="height: 215px ; width: 100% ;"></div><center><div style="background-color: #90AFC5 ; border: #336B87, solid, 1px ; color: #336B87 ; height: 37px ; width: 99% ;">The Empire will rise strong once again or some random generic text along those lines I guess lma0 idk what u want here man.</div><br><div style="border: #90AFC5, solid, 1px ; background-color: #336B87 ; color: #90AFC5 ; width: 99% ;"><marquee>Blah Blah Something About Empire/Alliance Cup or ULC</marquee></div></center></div></div>
+16:03:46 |userstats|total:2|guests:0| :0|+:2|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+16:06:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+16:13:46 |userstats|total:2|guests:0| :0|+:2|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+16:16:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+16:23:46 |userstats|total:2|guests:0| :0|+:2|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+16:24:28 |N|~audinory|audinory
+16:26:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+16:33:11 |N|+audinory|audinory
+16:33:46 |userstats|total:2|guests:0| :0|+:2|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+16:36:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+16:43:46 |userstats|total:2|guests:0| :0|+:2|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+16:46:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+16:53:46 |userstats|total:2|guests:0| :0|+:2|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+16:56:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+17:03:46 |userstats|total:2|guests:0| :0|+:2|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+17:04:49 |L|+Uteruya
+17:04:49 |L|+audinory
+17:04:50 |J|+audinory
+17:04:50 |J|+Uteruya
+17:05:06 |c|+Uteruya|??
+17:06:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+17:13:46 |userstats|total:2|guests:0| :0|+:2|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+17:16:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+17:23:46 |userstats|total:2|guests:0| :0|+:2|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+17:26:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+17:33:46 |userstats|total:2|guests:0| :0|+:2|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+17:36:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+17:36:50 |L|+audinory
+17:36:56 |L|+Uteruya
+17:43:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+17:46:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+17:53:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+17:56:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+18:01:52 NEW CHATROOM: development
+18:03:36 NEW CHATROOM: development
+18:06:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+18:13:36 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+18:16:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+18:17:01 (A U D I N O R Y ~ used /hotpatch hat)
+18:17:04 (A U D I N O R Y ~ used /hotpatch chat)
+18:23:36 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+18:26:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+18:33:36 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+18:36:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+18:42:15 (A U D I N O R Y ~ used /hotpatch chat)
+18:43:36 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+18:44:11 (A U D I N O R Y ~ used /hotpatch chat)
+18:45:10 (A U D I N O R Y ~ used /hotpatch chat)
+18:46:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+18:50:50 (A U D I N O R Y ~ used /hotpatch chat)
+18:51:46 |raw|<div class="broadcast-red"><b>The server is restarting soon.</b><br />Please finish your battles quickly. No new battles can be started until the server resets in a few minutes.</div>
+18:52:20 NEW CHATROOM: development
+18:56:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+18:58:04 |J|-Sylvie Bot
+19:02:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:1|&:0|#:0|♥:0|~:0
+19:02:56 |raw|<div class="broadcast-blue"><b>45 bucks tour in Tours, Gen 3 randbats</b></div>
+19:06:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+19:12:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:1|&:0|#:0|♥:0|~:0
+19:16:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+19:22:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:1|&:0|#:0|♥:0|~:0
+19:26:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+19:32:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:1|&:0|#:0|♥:0|~:0
+19:36:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+19:42:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:1|&:0|#:0|♥:0|~:0
+19:46:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+19:51:26 |J|&verizor
+19:51:31 |L|&verizor
+19:52:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:1|&:0|#:0|♥:0|~:0
+19:56:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+20:02:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:1|&:0|#:0|♥:0|~:0
+20:06:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+20:11:35 (Audinory - ⓕⓞⓞⓓ used /hotpatch chat)
+20:12:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:1|&:0|#:0|♥:0|~:0
+20:16:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+20:22:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:1|&:0|#:0|♥:0|~:0
+20:26:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+20:29:52 |J|&verizor
+20:29:58 |L|&verizor
+20:32:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:1|&:0|#:0|♥:0|~:0
+20:36:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+20:42:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:1|&:0|#:0|♥:0|~:0
+20:46:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+20:52:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:1|&:0|#:0|♥:0|~:0
+20:56:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+21:01:49 (Audinory used /hotpatch chat)
+21:02:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:1|&:0|#:0|♥:0|~:0
+21:02:46 (Audinory used /hotpatch chat)
+21:04:49 (Audinory used /hotpatch chat)
+21:06:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+21:07:05 (Audinory used /hotpatch chat)
+21:08:23 |J|&Audinory
+21:08:44 |J| jd (✿◠‿◠)
+21:08:44 jd (✿◠‿◠) was appointed Room Lord by Audinory.
+21:08:44 |N|#jd (✿◠‿◠)|jd
+21:08:47 |c|&Audinory|k
+21:08:50 |c|&Audinory|!wheel list
+21:08:50 |raw|<div class="infobox"><c>Wheel of Misfortune</c><br />Wheel of Scrubs: -5,-4,-3,-2,-2,-1,-1,-1,-1,+1,+1,+3,+3,+3,+5<br />Wheel of Balance: -30,-20,-10,-5,-5,-5,-2,-1,+3,+15,+30,+30<br />Wheel of Diversity: -50,-20,-10,-15,-4,-2,-1,+20,+30,+40<br />Wheel of Wealth: -200,-100,-100,-50,-50,-25,-25,+50,+50,+50,+300<br /></div>
+21:08:59 |raw|<div style=" padding: 5px, 0px; background-color: black; border: red, solid 1px; background-size: 100%; color: red; font-size: 12px; text-align: center;">The Wheel Of<br><font style="color: red;"><em><strong>BALANCE</strong></em></font><br>Has been started and is waiting to be spun!<hr style="border: solid, 0.5px, red">The Mulitiplier is:<em><strong><font style="color: red;"> 1</font></em></strong><hr style="border: solid, 0.5px, red"><font style="color: blue;">-30,-20,-10,-5,-5,-5,-2,-1,3,15,30,30</font><hr style="border: solid, 0.5px, red;"><button style="border: double, red, 4px; color: red; background-color: black; border-radius: 10px; font-face: serif ; font-size: 12px;" name="send" value="/wheel spin">Spin The Wheel! </button></div>
+21:09:05 |raw|<div style="padding: 5px; background-color: black; color: red; border: solid, 1px, red; font-size: 15px;">The wheel has landed on: <em><strong>-5</strong></em><br>This means you have either lost or won: -5
+21:09:05 |c|&Audinory|!atm jd
+21:09:05 |raw|<div class="infobox">jd has 95 Shekels.</div>
+21:09:15 |c|&Audinory|!atm Audinory
+21:09:15 |raw|<div class="infobox">Audinory has 35 Shekels.</div>
+21:09:20 |c|&Audinory|hmm
+21:09:27 |raw|<div style=" padding: 5px, 0px; background-color: black; border: red, solid 1px; background-size: 100%; color: red; font-size: 12px; text-align: center;">The Wheel Of<br><font style="color: red;"><em><strong>SCRUBS</strong></em></font><br>Has been started and is waiting to be spun!<hr style="border: solid, 0.5px, red">The Mulitiplier is:<em><strong><font style="color: red;"> 1</font></em></strong><hr style="border: solid, 0.5px, red"><font style="color: blue;">-5,-4,-3,-2,-2,-1,-1,-1,-1,1,1,3,3,3,5</font><hr style="border: solid, 0.5px, red;"><button style="border: double, red, 4px; color: red; background-color: black; border-radius: 10px; font-face: serif ; font-size: 12px;" name="send" value="/wheel spin">Spin The Wheel! </button></div>
+21:09:30 |raw|<div style="padding: 5px; background-color: black; color: red; border: solid, 1px, red; font-size: 15px;">The wheel has landed on: <em><strong>-2</strong></em><br>This means you have either lost or won: -2
+21:09:33 |c|&Audinory|!atm jd
+21:09:33 |raw|<div class="infobox">jd has 97 Shekels.</div>
+21:09:37 |c|&Audinory|kay it works
+21:10:35 (Audinory used /hotpatch chat)
+21:10:40 |c|&Audinory|hmm
+21:10:50 (Audinory has set an symbol color to audinory)
+21:10:52 |c|&Audinory|Oh
+21:10:58 |L|&Audinory
+21:11:09 |L|#jd (✿◠‿◠)
+21:12:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:1|&:0|#:0|♥:0|~:0
+21:12:28 (Audinory used /hotpatch chat)
+21:16:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+21:16:52 (Audinory used /hotpatch chat)
+21:17:10 (Audinory used /hotpatch chat)
+21:17:32 (Audinory used /hotpatch chat)
+21:21:39 (Bandi used /hotpatch chat)
+21:22:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:1|&:0|#:0|♥:0|~:0
+21:26:14 |J|&Audinory
+21:26:19 |J|#jd (✿◠‿◠)
+21:26:23 |c|&Audinory|so
+21:26:25 |J|+Uteruya
+21:26:28 |c|&Audinory|do high and pisc still talk?
+21:26:45 |c|&Audinory|cos i may
+21:26:47 |c|&Audinory|__may__
+21:26:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+21:26:53 |c|&Audinory|be able to get it for you
+21:27:00 |c|&Audinory|and I mean if I had it
+21:27:11 |c|&Audinory|aint nothing wrong with me letting you see it to proof it
+21:27:12 |c|&Audinory|:^)
+21:27:50 |c|#jd (✿◠‿◠)|I have the code now
+21:27:54 |c|&Audinory|o
+21:27:56 |c|&Audinory|nb
+21:28:01 |c|&Audinory|Saves me
+21:28:15 |c|&Audinory|but this shit is really petty lmao
+21:28:21 |c|&Audinory|"dont let them use it"
+21:28:50 |J|+king♢DEACON
+21:30:25 (Audinory used /hotpatch chat)
+21:31:00 (Audinory used /hotpatch chat)
+21:31:04 |c|&Audinory|!randp
+21:31:04 |raw|<div class="infobox"><table><tr><td><img src="http://play.pokemonshowdown.com/sprites/bw/ecies:"pikachu.png" height="96" width="96"></td><td><b>Name: </b>ecies: "Pikachu<br/><b>Type(s): </b><img src="http://play.pokemonshowdown.com/sprites/types/ecies: "Pikachu".png" width="32" height="14"> <br/><b>Ability: </b> <br/><b>Stats: </b>HP NaN / Atk NaN / Def NaN / SpA NaN / SpD NaN / Spe NaN / BST NaN<br/><b>Color: </b><font color="pecies: "Pikachu">pecies: "Pikachu</font><br/><b>Egg Group(s): </b>s: "Pikachu"</td></tr></table></div>
+21:31:11 |c|&Audinory|Oh this is a beautiful command jd
+21:31:12 |c|&Audinory|10/10
+21:31:24 jd (✿◠‿◠) was appointed to Room Founder by Audinory.
+21:31:24 |N|#jd (✿◠‿◠)|jd
+21:32:17 |c|+Uteruya|ecies tho
+21:32:20 |userstats|total:5|guests:0| :0|+:2|%:0|@:0|★:0|-:1|&:1|#:1|♥:0|~:0
+21:32:21 |c|&Audinory|ik
+21:32:23 |c|&Audinory|fuck this plugin
+21:32:43 |c|+Uteruya|its probs old as shit
+21:32:44 (Audinory used /hotpatch chat)
+21:32:45 |c|&Audinory|it is
+21:32:48 |c|&Audinory|its irraquateds
+21:32:49 |c|&Audinory|iirc
+21:32:54 |c|&Audinory|and not jds lovely frost one
+21:33:44 |J| Bandi
+21:33:47 |L|&Audinory
+21:34:14 |J|&Audinory
+21:34:16 |c|&Audinory|.
+21:36:46 (Audinory used /hotpatch chat)
+21:36:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+21:37:18 (Audinory used /hotpatch chat)
+21:38:03 (Audinory used /hotpatch chat)
+21:38:17 |raw|<div class="broadcast-red"><b>The server is restarting soon.</b><br />Please finish your battles quickly. No new battles can be started until the server resets in a few minutes.</div>
+21:38:17 |raw|<div class="broadcast-blue"><b>We'll Brb folks</b></div>
+21:38:21 |L|-Sylvie Bot
+21:38:47 NEW CHATROOM: development
+21:41:53 |J| Bandi
+21:43:56 |L| Bandi
+21:45:34 (Bandi used /hotpatch chat)
+21:46:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+21:47:08 (Audinory used /hotpatch chat)
+21:48:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+21:49:53 (Audinory used /hotpatch chat)
+21:51:00 (Audinory used /hotpatch chat)
+21:53:10 |raw|<div class="broadcast-blue"><b>Bandi and Audino "can code"</b></div>
+21:54:17 (Audinory used /hotpatch chat)
+21:54:27 |raw|<div class="broadcast-red"><b>The server is restarting soon.</b><br />Please finish your battles quickly. No new battles can be started until the server resets in a few minutes.</div>
+21:56:06 NEW CHATROOM: development
+21:56:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:06:06 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:06:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:10:21 (Bandi used /hotpatch chat)
+22:10:23 (Audinory used /hotpatch chat)
+22:10:56 (Bandi used /hotpatch chat)
+22:11:27 (Audinory used /hotpatch chat)
+22:13:14 (Audinory used /hotpatch chat)
+22:13:38 |J|+Uteruya
+22:15:02 (Audinory used /hotpatch chat)
+22:15:17 (Audinory used /hotpatch chat)
+22:15:58 (Audinory used /hotpatch chat)
+22:16:06 |userstats|total:1|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:16:17 (Audinory used /hotpatch chat)
+22:16:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:26:06 |userstats|total:1|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:26:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:28:12 (Bandi used /hotpatch chat)
+22:36:06 |userstats|total:1|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:36:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:37:13 (Bandi used /hotpatch chat)
+22:39:44 (Bandi used /hotpatch chat)
+22:46:06 |userstats|total:1|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:46:08 (Audinory used /hotpatch chat)
+22:46:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:48:17 (Bandi used /hotpatch chat)
+22:50:23 (Audinory used /hotpatch chat)
+22:50:43 (Audinory used /hotpatch chat)
+22:51:37 (Audinory used /hotpatch chat)
+22:53:36 (Audinory used /hotpatch chat)
+22:53:55 (Audinory used /hotpatch chat)
+22:54:02 (Audinory used /hotpatch chat)
+22:54:13 (Audinory used /hotpatch chat)
+22:55:21 (Audinory used /hotpatch chat)
+22:56:06 |userstats|total:1|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:56:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+23:03:57 (Audinory used /hotpatch chat)
+23:06:06 |userstats|total:1|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+23:06:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+23:07:10 (Audinory used /hotpatch chat)
+23:08:20 (Audinory used /hotpatch chat)
+23:09:08 (Audinory used /hotpatch chat)
+23:09:37 |L|+Uteruya
+23:10:14 (Audinory used /hotpatch chat)
+23:12:42 (Audinory used /hotpatch chat)
+23:16:06 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+23:16:10 (Audinory used /hotpatch chat)
+23:16:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+23:16:55 (Audinory used /hotpatch chat)
+23:17:15 (Audinory used /hotpatch chat)
+23:17:21 |raw|<div class="broadcast-red"><b>The server is restarting soon.</b><br />Please finish your battles quickly. No new battles can be started until the server resets in a few minutes.</div>
+23:17:33 NEW CHATROOM: development
+23:18:45 (Bandi used /hotpatch chat)
+23:18:56 (Audinory used /hotpatch chat)
+23:23:45 NEW CHATROOM: development
+23:26:32 (Audinory used /hotpatch chat)
+23:27:04 (Audinory used /hotpatch chat)
+23:30:05 (Audinory used /hotpatch chat)
+23:30:50 (Audinory used /hotpatch chat)
+23:30:59 (Audinory used /hotpatch chat)
+23:31:27 (Audinory used /hotpatch chat)
+23:33:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+23:35:23 (Audinory used /hotpatch chat)
+23:40:17 (Audinory used /hotpatch chat)
+23:40:54 (Audinory used /hotpatch chat)
+23:43:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+23:48:33 |J|&verizor
+23:49:13 |L|&verizor
+23:53:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+23:57:14 (Audinory used /hotpatch chat)
+23:59:10 (Audinory used /hotpatch chat)

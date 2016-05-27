@@ -1,0 +1,53 @@
+[2016-05-21T22:22:23.584Z] (battle-monotyperandombattle-7) felicide ♥ set modjoin to ~.
+[2016-05-21T22:22:23.585Z] (battle-monotyperandombattle-7) (felicide ♥ set modchat to +)
+[2016-05-21T22:22:23.585Z] (battle-monotyperandombattle-7) felicide ♥ made this room hidden.
+[2016-05-21T23:54:08.203Z] (battle-inversebattle-12) felicide ♥ set modjoin to ~.
+[2016-05-21T23:54:08.204Z] (battle-inversebattle-12) (felicide ♥ set modchat to +)
+[2016-05-21T23:54:08.204Z] (battle-inversebattle-12) felicide ♥ made this room hidden.
+[2016-05-22T00:01:59.991Z] (battle-gen1randombattle-13) (felicide ♥ changed the roomintro.)
+[2016-05-22T00:02:09.592Z] (battle-gen1randombattle-13) (felicide ♥ changed the roomintro.)
+[2016-05-22T00:12:27.944Z] (battle-ou-14) Hirl123 was banned from room battle-ou-14 by felicide ♥.
+[2016-05-22T16:14:24.509Z] (battle-battlefactory-24) (ggdaca set modchat to ~)
+[2016-05-22T16:22:46.835Z] (battle-battlefactory-25) Mystifi was warned by ggdaca. (wow)
+[2016-05-22T16:51:37.518Z] (battle-gen1randombattle-27) (Audinory changed the roomintro.)
+[2016-05-22T16:51:48.521Z] (battle-gen1randombattle-27) (Audinory changed the roomintro.)
+[2016-05-22T17:01:30.392Z] (battle-gen1randombattle-29) Audinory forced a tie.
+[2016-05-22T21:42:25.814Z] (battle-battlefactory-56) purple❤️dragon24 was kicked from the room by Mystifi.
+[2016-05-22T21:49:59.502Z] (battle-battlefactory-56) Audinory~♥ forced a tie.
+[2016-05-22T22:19:04.497Z] (battle-randomubers-63) Audinory~♥ forced a tie.
+[2016-05-22T22:19:18.298Z] (battle-randomubers-63) Audinory~♥ forced a tie.
+[2016-05-22T22:19:38.286Z] (battle-randomubers-63) Audinory~♥ forced a win for hirl123.
+[2016-05-22T22:37:51.694Z] (battle-randomgen1doubles-67) Audinory~♥ was pinged by Mystifi
+[2016-05-22T22:38:03.353Z] (battle-randomgen1doubles-67) Mystifi was pinged by Mystifi
+[2016-05-22T22:40:33.968Z] (battle-randomgen1doubles-67) Mystifi made this room hidden.
+[2016-05-22T22:40:43.974Z] (battle-randomgen1doubles-67) Mystifi made this room public.
+[2016-05-22T22:43:21.641Z] (battle-randomgen1doubles-67) purple❤️dragon24 was pinged by Mystifi
+[2016-05-22T22:44:23.809Z] (battle-randomgen1doubles-67) purple❤️dragon24 was pinged by Mystifi
+[2016-05-22T22:49:30.576Z] (battle-randomgen1doubles-68) Mystifi made this room hidden.
+[2016-05-23T18:27:16.632Z] (battle-randombattle-100) Audinory - ⓜⓘⓒⓓⓡⓞⓟ forced a tie.
+[2016-05-23T20:38:05.984Z] (battle-challengecup1v1-105) (Audinory changed the roomintro.)
+[2016-05-24T01:38:35.163Z] (battle-randombattle-118) V A Q forced a win for vaq.
+[2016-05-24T15:27:56.335Z] (battle-challengecup1v1inverse-141) TheShankSkank forced a tie.
+[2016-05-24T17:21:13.348Z] (battle-gen3randbats-144) Audino.ry() forced a tie.
+[2016-05-24T17:25:42.505Z] (battle-gen3randbats-145) TheShankSkank forced a tie.
+[2016-05-24T18:18:52.287Z] (battle-randombattle-150) Hirl123 forced a tie.
+[2016-05-24T19:33:59.051Z] (battle-seasonalsuperstaffbrosmelee-162) TheShankSkank forced a tie.
+[2016-05-24T21:09:59.714Z] (battle-gen1randommono-167) Audinory forced a tie.
+[2016-05-25T03:08:13.187Z] (battle-monotyperandombattle-188) MrPugg turned on modjoin.
+[2016-05-25T03:08:13.188Z] (battle-monotyperandombattle-188) (MrPugg set modchat to +)
+[2016-05-25T03:08:13.188Z] (battle-monotyperandombattle-188) MrPugg made this room hidden.
+[2016-05-25T03:08:28.707Z] (battle-monotyperandombattle-188) MrPugg turned off modjoin.
+[2016-05-25T03:11:44.557Z] (battle-monotyperandombattle-188) V A Q forced a win for fairyofvalor.
+[2016-05-25T14:43:37.752Z] (battle-gen2randomtriples-199) TheShankSkank forced a tie.
+[2016-05-25T15:50:07.873Z] (battle-monotyperandombattle-204) Hirl123 was warned by ggdaca -. (no)
+[2016-05-25T16:04:26.155Z] (battle-monotyperandombattle-208) TheShankSkank forced a tie.
+[2016-05-25T20:36:54.108Z] (battle-seasonalsuperstaffbrosmelee-254) TheShankSkank forced a tie.
+[2016-05-25T22:54:35.208Z] (battle-gen1battlefactory-269) TheShankSkank forced a tie.
+[2016-05-26T01:10:39.019Z] (battle-hackmonscupgen1-275) TheShankSkank forced a tie.
+[2016-05-26T01:17:14.859Z] (battle-monotyperandominverse-276) TheShankSkank forced a tie.
+[2016-05-26T16:11:36.303Z] (battle-gen1battlefactory-287) TheShankSkank forced a tie.
+[2016-05-26T16:51:25.578Z] (battle-seasonalsuperstaffbrosmelee-290) TheShankSkank forced a tie.
+[2016-05-27T20:36:41.729Z] (battle-randombattle-355) Rainy Thunder turned on modjoin.
+[2016-05-27T20:36:41.730Z] (battle-randombattle-355) (Rainy Thunder set modchat to +)
+[2016-05-27T20:36:41.730Z] (battle-randombattle-355) Rainy Thunder made this room hidden.
+[2016-05-27T22:19:10.083Z] (battle-randomgen1doubles-363) verizor forced a win for purpledragon24.

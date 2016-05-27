@@ -1,0 +1,3 @@
+[2016-05-25T01:57:55.558Z] (rantroom) Audinory set modjoin to +.
+[2016-05-25T01:57:55.559Z] (rantroom) (Audinory set modchat to +)
+[2016-05-25T01:57:55.560Z] (rantroom) Audinory made this room hidden.

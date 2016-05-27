@@ -1,0 +1,76 @@
+[2016-05-21T19:07:55.282Z] (lobby) BAN: [ranking4] ac:[genialidad5] by The Vixen✴
+[2016-05-21T23:20:21.582Z] (lobby) BAN: [pronbitch2] by felicide ♥ - Ⓞⓢⓗⓘⓣ
+[2016-05-21T23:25:45.991Z] (lobby) BAN: [2teamsbas] by felicide ♥ - Ⓞⓢⓗⓘⓣ
+[2016-05-21T23:27:33.920Z] (lobby) BAN: [theyogscastfan] by felicide ♥ - Ⓞⓢⓗⓘⓣ
+[2016-05-21T23:27:56.167Z] (lobby) BAN: [wootmoo] by felicide ♥ - Ⓞⓢⓗⓘⓣ
+[2016-05-22T01:34:08.966Z] (lobby) BAN: [dekuhirl] by Hirl123
+[2016-05-22T01:35:03.859Z] (lobby) UNBAN: [dekuhirl] by Hirl123
+[2016-05-22T01:54:32.594Z] (lobby) UNLOCK: [snekhirl] by Hirl123
+[2016-05-22T23:03:20.413Z] (lobby) LOCK: [mosmero] by Audinory~♥
+[2016-05-23T16:20:14.961Z] (lobby) LOCK: [audinory] by Audinory~
+[2016-05-23T16:20:24.579Z] (lobby) UNLOCK: [audinory] by Audinory~
+[2016-05-23T16:20:47.490Z] (lobby) LOCK: [audinory] by Audinory~
+[2016-05-23T16:22:31.976Z] (lobby) UNLOCK: [audinory] by Audinory~
+[2016-05-23T16:25:42.382Z] (lobby) BAN: [pillsndrugs] by ggdaca: ordered
+[2016-05-23T16:26:21.284Z] (lobby) UNBAN: [pillsndrugs] by Audinory~
+[2016-05-23T16:32:35.886Z] (lobby) BAN: [chaosphere2] by Broken Hope
+[2016-05-23T16:52:39.348Z] (lobby) NAMELOCK: [dankbothirl] ac:[hirl123] by ggdaca
+[2016-05-23T16:52:55.886Z] (lobby) NAMELOCK: [ggdaca] by Audinory~
+[2016-05-23T16:57:03.585Z] (lobby) NAMELOCK: [ambah] by Audinory~
+[2016-05-23T17:28:01.954Z] (lobby) BAN: [ithi] by The Vixen
+[2016-05-23T17:28:20.045Z] (lobby) UNBAN: [ithi] by Broken Hope
+[2016-05-23T17:28:24.094Z] (lobby) UNLOCK: [ithi] by Broken Hope
+[2016-05-23T21:07:59.823Z] (lobby) BAN: [thesakurai] by Audinory: suspected of hacking users, bots; Information supplied by various users; suspected of being allied with Chirou - Permabanned
+[2016-05-23T21:14:05.882Z] (lobby) BAN: [theverizionshade] by Audinory
+[2016-05-23T22:16:07.622Z] (lobby) BAN: [kentish34] by V A Q
+[2016-05-23T22:44:46.284Z] (overused) UNBAN: [thesakurai] by The Vixen
+[2016-05-23T22:45:07.735Z] (lobby) BAN: [blackrestoration] by The Vixen
+[2016-05-23T22:45:23.387Z] (lobby) UNLOCK: [thesakurai] by The Vixen
+[2016-05-24T01:58:54.846Z] (lobby) LOCK: [championdarkrai] by Ambah
+[2016-05-24T02:02:10.863Z] (lobby) UNLOCK: [cloyy] by audinory
+[2016-05-24T02:06:51.337Z] (lobby) LOCK: [alliancedarkrai] by audinory
+[2016-05-24T02:07:22.212Z] (lobby) BAN: [alliancedarkrai] by V A Q
+[2016-05-24T02:12:37.529Z] (staff) LOCK: [cloyy] by audinory
+[2016-05-24T02:19:47.590Z] (staff) UNLOCK: [cloyy] by Japan
+[2016-05-24T02:20:31.493Z] (overused) UNLOCK: [glodarkrai] by Japan
+[2016-05-25T01:40:29.580Z] (lobby) LOCK: [executed] by Audinory
+[2016-05-25T01:41:46.245Z] (lobby) BAN: [thevixen] by Audinory
+[2016-05-25T01:41:53.392Z] (lobby) BAN: [brokenhope] by Audinory
+[2016-05-25T01:52:29.336Z] (lobby) UNBAN: [thevixen] by Ithi
+[2016-05-25T16:16:11.361Z] (lobby) BAN: [noshayminfear] by ggdaca -: will be unbanned
+[2016-05-25T16:16:20.939Z] (lobby) UNBAN: [noshayminfear] by ggdaca -
+[2016-05-25T16:16:29.251Z] (lobby) UNLOCK: [noshayminfear] by Diarmuid O'Dyna
+[2016-05-25T20:39:28.949Z] (lobby) BAN: [thesnipersbullet] by The Sakurai: Chirou evasion
+[2016-05-25T20:43:25.796Z] (lobby) BAN: [phonxnko] by The Sakurai
+[2016-05-25T20:44:02.330Z] (lobby) BAN: [m3rcury] by The Sakurai: i saw u chirou
+[2016-05-25T21:23:13.007Z] (lobby) LOCK: [hikarileron] by The Sakurai: pm rudeness
+[2016-05-25T21:23:20.123Z] (lobby) UNLOCK: [hikarileron] by TheShankSkank
+[2016-05-25T21:48:01.504Z] (lobby) BAN: [hikarileron] by Ithi: evader lol
+[2016-05-25T21:48:08.581Z] (lobby) UNBAN: [hikarileron] by TheShankSkank
+[2016-05-25T21:48:16.126Z] (lobby) UNLOCK: [hikarileron] by TheShankSkank
+[2016-05-25T21:50:41.373Z] (lobby) BAN: [quanathelira] by The Sakurai
+[2016-05-25T21:50:47.556Z] (lobby) UNBAN: [quanathelira] by The Sakurai
+[2016-05-25T22:13:22.545Z] (lobby) BAN: [brokenhope] by Audinory
+[2016-05-26T18:29:04.327Z] (lobby) BAN: [thesakurai] by A U D I N O R Y ~
+[2016-05-26T18:29:37.705Z] (lobby) UNBAN: [thesakurai] by A U D I N O R Y ~
+[2016-05-26T18:31:34.410Z] (lobby) UNLOCK: [thesakurai] by The Sakurai
+[2016-05-26T19:00:27.906Z] (lobby) BAN: [cretingamer] by Sylvie Bot
+[2016-05-26T19:04:48.123Z] (lobby) LOCK: [levviny] by verizor
+[2016-05-26T19:05:03.015Z] (lobby) BAN: [levviny] by verizor
+[2016-05-26T19:08:45.013Z] (lobby) BAN: [chappin] by thefiremage
+[2016-05-26T19:11:02.361Z] (lobby) BAN: [felbbing] by thefiremage
+[2016-05-26T19:32:34.337Z] (lobby) BAN: [skdfhskjdfsd] by verizor: advertising
+[2016-05-26T20:08:24.078Z] (lobby) LOCK: [ddddddd3] by Bandi
+[2016-05-26T20:08:29.158Z] (lobby) LOCK: [ddddddd3] by Hurricane'd: Go and hack out of this lock then
+[2016-05-26T20:09:03.069Z] (lobby) LOCK: [dfskdf] by Bandi
+[2016-05-27T14:23:33.186Z] (lobby) LOCK: [testiclies] by verizor: advertising
+[2016-05-27T14:27:51.255Z] (lobby) BAN: [testiclies] by Audinory
+[2016-05-27T14:40:58.604Z] (lobby) UNBAN: [testiclies] by verizor
+[2016-05-27T14:51:13.694Z] (lobby) LOCK: [mader4] by Audinory
+[2016-05-27T15:12:43.930Z] (groupchat-focusblasted-13556607) UNLOCK: [freddeh] by FocusBlasted
+[2016-05-27T15:13:39.176Z] (lobby) LOCK: [freddeh] by verizor: advertising
+[2016-05-27T15:14:08.197Z] (lobby) LOCK: [sylviebot] by Audinory
+[2016-05-27T15:16:40.379Z] (lobby) LOCK: [felicide] by Audinory
+[2016-05-27T20:10:12.561Z] (lobby) BAN: [uteruya] by Audinory
+[2016-05-27T20:11:46.469Z] (lobby) BAN: [leclacton] by TheShankSkank
+[2016-05-27T20:18:23.677Z] (lobby) BAN: [felicide] by Audinory

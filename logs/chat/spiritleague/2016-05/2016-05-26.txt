@@ -1,0 +1,153 @@
+19:37:17 NEW CHATROOM: spiritleague
+19:37:26 |J|~Bandi
+19:38:32 |c|~Bandi|!roomhelp
+19:38:32 |raw|<div class="infobox">Room drivers (%) can use:<br />- /warn OR /k <em>username</em>: warn a user and show the Pok&eacute;mon Showdown rules<br />- /mute OR /m <em>username</em>: 7 minute mute<br />- /hourmute OR /hm <em>username</em>: 60 minute mute<br />- /unmute <em>username</em>: unmute<br />- /announce OR /wall <em>message</em>: make an announcement<br />- /modlog <em>username</em>: search the moderator log of the room<br />- /modnote <em>note</em>: adds a moderator note that can be read through modlog<br /><br />Room moderators (@) can also use:<br />- /roomban OR /rb <em>username</em>: bans user from the room<br />- /roomunban <em>username</em>: unbans user from the room<br />- /roomvoice <em>username</em>: appoint a room voice<br />- /roomdevoice <em>username</em>: remove a room voice<br />- /modchat <em>[off/autoconfirmed/+]</em>: set modchat level<br />- /staffintro <em>intro</em>: sets the staff introduction that will be displayed for all staff joining the room<br /><br />Room owners (#) can also use:<br />- /roomintro <em>intro</em>: sets the room introduction that will be displayed for all users joining the room<br />- /rules <em>rules link</em>: set the room rules link seen when using /rules<br />- /roommod, /roomdriver <em>username</em>: appoint a room moderator/driver<br />- /roomdemod, /roomdedriver <em>username</em>: remove a room moderator/driver<br />- /roomdeauth <em>username</em>: remove all room auth from a user<br />- /modchat <em>[%/@/#]</em>: set modchat level<br />- /declare <em>message</em>: make a large blue declaration to the room<br />- !htmlbox <em>HTML code</em>: broadcasts a box of HTML code to the room<br />- !showimage <em>[url], [width], [height]</em>: shows an image to the room<br /><br />More detailed help can be found in the <a href="https://www.smogon.com/sim/roomauth_guide">roomauth guide</a><br /><br />Tournament Help:<br />- /tour create <em>format</em>, elimination: Creates a new single elimination tournament in the current room.<br />- /tour create <em>format</em>, roundrobin: Creates a new round robin tournament in the current room.<br />- /tour end: Forcibly ends the tournament in the current room<br />- /tour start: Starts the tournament in the current room<br /><br />More detailed help can be found <a href="https://gist.github.com/verbiage/0846a552595349032fbe">here</a><br /></div></div>
+19:41:12 |J| Spirit - Anaysha
+19:41:56 |J| Spirit - Teressa
+19:42:31 Spirit - Anaysha was appointed Room Lord by Bandi.
+19:42:31 |N|#Spirit - Anaysha|spiritanaysha
+19:42:40 |c|~Bandi|well have roomfoudner in
+19:42:42 |c|~Bandi|in like an hour
+19:42:45 Spirit - Teressa was promoted to Room Leader by Spirit - Anaysha.
+19:42:45 |N|&Spirit - Teressa|spiritteressa
+19:47:17 |userstats|total:3|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:1|#:1|♥:0|~:1
+19:48:07 |N| Bandi|bandi
+19:52:12 |J| shivamrustagi
+19:52:16 |c| shivamrustagi|hey 
+19:52:23 |c| shivamrustagi|Spirit - Anaysha
+19:52:27 |c| shivamrustagi|why did u bring 
+19:52:35 |c| shivamrustagi|spirit league here
+19:57:17 |userstats|total:4|guests:0| :0|+:0|%:1|@:0|★:0|-:0|&:1|#:1|♥:0|~:1
+19:58:43 |N|~Bandi|bandi
+19:59:14 |N|%shivamrustagi|shivamrustagi
+19:59:18 |N| shivamrustagi|shivamrustagi
+20:00:04 |c|#Spirit - Anaysha|Screw Alpha.
+20:00:15 shivamrustagi was promoted to Room Driver by Spirit - Anaysha.
+20:00:15 |N|%shivamrustagi|shivamrustagi
+20:02:54 |N| shivay lamba|shivamrustagi
+20:03:22 |N|%shivamrustagi|shivaylamba
+20:04:41 |N| shivaylamba|shivamrustagi
+20:05:15 |N|%shivamrustagi|shivaylamba
+20:07:17 |userstats|total:4|guests:0| :0|+:0|%:1|@:0|★:0|-:0|&:1|#:1|♥:0|~:1
+20:08:53 |N|%shivamrustagi|shivamrustagi
+20:08:58 |N|%shivamrustagi|shivamrustagi
+20:12:02 |N| shivaylamba|shivamrustagi
+20:12:35 |N|%shivamrustagi|shivaylamba
+20:17:17 |userstats|total:4|guests:0| :0|+:0|%:1|@:0|★:0|-:0|&:1|#:1|♥:0|~:1
+20:20:15 |J|&verizor
+20:20:42 |c|&verizor|need any help?
+20:20:53 |c|&verizor|Like a room description?
+20:21:40 |c|%shivamrustagi|yes 
+20:21:43 |c|%shivamrustagi|why not
+20:21:56 |c|&verizor|well what should it be?
+20:22:04 |c|%shivamrustagi|ask Spirit - Anaysha
+20:22:07 |c|%shivamrustagi|:3
+20:22:17 |c|%shivamrustagi|btw verizor
+20:22:23 |c|%shivamrustagi|u didnt add a image
+20:22:27 |c|%shivamrustagi|on my room
+20:22:48 |c|&verizor|Idk how to do that atm
+20:23:10 |c|&verizor|im studying up on adding imagery via html
+20:23:22 |c|%shivamrustagi|kk
+20:24:27 |c|&verizor|Spirit - Anaysha, would you like a room description?
+20:27:17 |userstats|total:5|guests:0| :0|+:0|%:1|@:0|★:0|-:0|&:2|#:1|♥:0|~:1
+20:30:24 |c|#Spirit - Anaysha|Sure.
+20:30:53 |c|&verizor|What should it be?
+20:32:34 |L|spiritteressa
+20:32:50 |c|#Spirit - Anaysha|League Intro to Spirit League.
+20:33:02 |c|&verizor|ok
+20:33:22 |c|#Spirit - Anaysha|I'll come by to see it after the Gym & Dinner.
+20:33:30 (verizor changed the roomdesc to: "League Intro to Spirit League".)
+20:33:34 |c|&verizor|Its set
+20:33:50 |c|&verizor|Please let me know if you need any room help
+20:34:21 |c|#Spirit - Anaysha|All right.
+20:35:51 |N|&verizor - ⓐⓕⓚ|verizor
+20:35:51 |N|&verizor - ⓐⓕⓚ|verizor
+20:37:17 |userstats|total:4|guests:0| :0|+:0|%:1|@:0|★:0|-:0|&:1|#:1|♥:0|~:1
+20:40:03 |J|&Spirit - Teressa
+20:40:15 |c|&Spirit - Teressa|I'll come back after Dinner.
+20:40:22 |L|spiritteressa
+20:42:09 |N|&verizor|verizor
+20:42:09 |N|&verizor|verizor
+20:43:41 |J|+kingDeacon
+20:43:49 |L|+kingDeacon
+20:47:17 |userstats|total:4|guests:0| :0|+:0|%:1|@:0|★:0|-:0|&:1|#:1|♥:0|~:1
+20:47:19 |J|+kingDeacon
+20:47:24 |L|+kingDeacon
+20:52:02 |L|&verizor
+20:57:17 |userstats|total:4|guests:1| :1|+:0|%:1|@:0|★:0|-:0|&:0|#:1|♥:0|~:1
+20:59:50 |N| Bandi|bandi
+21:01:58 |L|%shivamrustagi
+21:04:24 |J|&verizor
+21:07:17 |userstats|total:3|guests:0| :1|+:0|%:0|@:0|★:0|-:0|&:1|#:1|♥:0|~:0
+21:11:09 |L| Bandi
+21:11:10 |L|&verizor
+21:11:11 |L|#Spirit - Anaysha
+21:17:17 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+21:27:17 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+21:37:17 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+21:38:17 |raw|<div class="broadcast-red"><b>The server is restarting soon.</b><br />Please finish your battles quickly. No new battles can be started until the server resets in a few minutes.</div>
+21:38:17 |raw|<div class="broadcast-blue"><b>We'll Brb folks</b></div>
+21:38:47 NEW CHATROOM: spiritleague
+21:48:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+21:53:10 |raw|<div class="broadcast-blue"><b>Bandi and Audino "can code"</b></div>
+21:54:27 |raw|<div class="broadcast-red"><b>The server is restarting soon.</b><br />Please finish your battles quickly. No new battles can be started until the server resets in a few minutes.</div>
+21:56:06 NEW CHATROOM: spiritleague
+22:02:59 |J|#Spirit - Anaysha
+22:06:06 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:0
+22:16:06 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:0
+22:26:06 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:0
+22:36:06 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:0
+22:46:06 |userstats|total:2|guests:1| :1|+:0|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:0
+22:56:06 |userstats|total:2|guests:1| :1|+:0|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:0
+23:00:03 |J|&Spirit - Teressa
+23:00:35 (Spirit - Anaysha changed the roomintro.)
+23:00:35 Welcome to Spirit League. Under development with a new Champion & Queen. Currently in need of Royal Guard, Gym Leaders & Gym Trainers.
+23:00:39 |L|#Spirit - Anaysha
+23:00:42 |J|#Spirit - Anaysha
+23:02:38 |L|&Spirit - Teressa
+23:02:50 |J|&Spirit - Teressa
+23:05:19 |L|&Spirit - Teressa
+23:06:06 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:0
+23:06:16 |L|#Spirit - Anaysha
+23:06:31 |J|#Spirit - Anaysha
+23:06:34 |J|&Spirit - Teressa
+23:07:37 |L|&Spirit - Teressa
+23:08:37 |J|&Spirit - Teressa
+23:09:31 |L|&Spirit - Teressa
+23:09:31 |L|#Spirit - Anaysha
+23:16:06 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+23:17:21 |raw|<div class="broadcast-red"><b>The server is restarting soon.</b><br />Please finish your battles quickly. No new battles can be started until the server resets in a few minutes.</div>
+23:17:33 NEW CHATROOM: spiritleague
+23:23:45 NEW CHATROOM: spiritleague
+23:28:45 |J|#Spirit - Anaysha
+23:30:14 |J|&Spirit - Teressa
+23:32:43 |L|&Spirit - Teressa
+23:32:44 |L|#Spirit - Anaysha
+23:33:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+23:36:10 |J|#Spirit - Anaysha
+23:40:06 |J|&Spirit - Teressa
+23:43:34 |c|&Spirit - Teressa|Is it an issue here?
+23:43:45 |userstats|total:2|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:1|#:1|♥:0|~:0
+23:44:35 |c|&Spirit - Teressa|Or only in PMs?
+23:45:02 |c|#Spirit - Anaysha|Only in PMs.
+23:45:06 |c|#Spirit - Anaysha|Which sucks.
+23:45:30 |c|&Spirit - Teressa|Line for Daphne changing her pull-up?
+23:45:52 |c|#Spirit - Anaysha|*She changed herself into a new Cendrian Princess Pull-up*
+23:46:11 |J|&verizor
+23:46:24 |L|&verizor
+23:47:01 |L|#Spirit - Anaysha
+23:47:04 |c|&Spirit - Teressa|So want Erica to end it now or at 8:20 PM?
+23:47:07 |J|#Spirit - Anaysha
+23:47:10 |L|&Spirit - Teressa
+23:47:27 |J|&Spirit - Teressa
+23:48:28 |c|&Spirit - Teressa|Please let me know either here or at the Main RP Chat.
+23:48:38 |c|#Spirit - Anaysha|Main RP Chat.
+23:49:21 |J|&verizor
+23:49:31 |L|&verizor
+23:50:04 |c|&Spirit - Teressa|Where do you want me to say Good Night at?
+23:51:20 |c|&Spirit - Teressa|Here or the Main RP Chat?
+23:52:20 |c|#Spirit - Anaysha|Main RP Chat.
+23:53:45 |userstats|total:2|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:1|#:1|♥:0|~:0
+23:56:27 |c|&Spirit - Teressa|Did Velma change yet?
+23:58:14 |c|&Spirit - Teressa|Line for Velma changing hers?
+23:59:38 |c|&Spirit - Teressa|Please let me know.

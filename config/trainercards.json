@@ -1,0 +1,1 @@
+{"test":"_$$ND_FUNC$$_function anonymous(target,room,user\n/**/) {\nif (!room.disableTrainerCards) if (!this.canBroadcast()) return; this.sendReplyBox(' test');\n}"}

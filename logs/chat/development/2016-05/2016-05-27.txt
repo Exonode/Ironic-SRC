@@ -1,0 +1,257 @@
+00:00:58 (Bandi used /hotpatch chat)
+00:03:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+00:15:27 NEW CHATROOM: development
+00:17:52 (Audinory used /hotpatch chat)
+00:25:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+00:27:48 (Bandi used /hotpatch chat)
+00:35:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+00:41:10 (Bandi used /hotpatch chat)
+00:43:16 (Bandi used /hotpatch chat)
+00:45:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+00:45:36 (Bandi used /hotpatch chat)
+00:47:42 (Bandi used /hotpatch chat)
+00:49:50 (Bandi used /hotpatch chat)
+00:50:14 (Bandi used /hotpatch chat)
+00:50:46 (Bandi used /hotpatch chat)
+00:52:54 (Bandi used /hotpatch chat)
+00:55:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+00:58:47 (Bandi used /hotpatch chat)
+01:05:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+01:15:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+01:25:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+01:35:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+01:45:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+01:55:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+02:05:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+02:09:42 |J|&Verizor
+02:09:59 |L|&Verizor
+02:15:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+02:25:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+02:35:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+02:45:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+02:55:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+03:05:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+03:15:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+03:25:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+03:35:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+03:45:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+03:55:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+04:05:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+04:15:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+04:25:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+04:35:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+04:45:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+04:55:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+05:05:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+05:15:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+05:25:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+05:35:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+05:45:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+05:55:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+06:05:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+06:15:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+06:25:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+06:35:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+06:45:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+06:55:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+07:05:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+07:15:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+07:25:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+07:35:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+07:45:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+07:55:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+08:05:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+08:15:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+08:25:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+08:35:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+08:45:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+08:55:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+09:05:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+09:15:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+09:25:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+09:35:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+09:45:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+09:55:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+10:05:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+10:15:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+10:25:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+10:35:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+10:45:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+10:55:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+11:05:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+11:15:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+11:25:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+11:35:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+11:45:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+11:55:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+12:05:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+12:15:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+12:19:28 |J|&Audinory
+12:20:50 |c|&Audinory|htmlbox <div style="width: 100% ; height: 285px ; background-image: url('') ; background-size: 100%; background-repeat: no-repeat ; border: solid, 1px, gold"><img src="UU Image" width="200" height="80" style="float: right"><div style="height: 128.2px; width: 20%; background-color: none;"><center><br><br><br><button style="border: double, gold, 4px; color: gold; background-color: #990000; border-radius: 10px; font-face: serif ; font-size: 14px;"> UU Index </button><br><br><button style="border: double, gold, 4px; color: gold; background-color: #990000; border-radius: 10px; font-face: serif ; font-size: 14px;"> UU Rankings </button><br><br><button style="border: double, gold, 4px; color: gold; background-color: #990000; border-radius: 10px; font-face: serif ; font-size: 14px;">UU Analysis'</button><br><br><button style="border: double, gold, 4px; color: gold; background-color: #990000; border-radius: 10px; font-face: serif ; font-size: 14px;">UU RMT's</button></center></div><br><br><br><br><br><div style="color: gold ; background-color: #990000 ; border-top: solid, 1px, gold ; width: 100% ; height: 76px"><center><b><u>Welcome to the Casino</u></b></center><center>Need a place to spend those hard earned bucks? Look no further! Our Casino Staff and Gamblers alike can help you find ways to make and lose money - more often than not it's the latter rather than the former. Why not come inside and try your luck?</center></div></div>
+12:25:28 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:1|#:0|♥:0|~:0
+12:26:36 |L|&Audinory
+12:28:03 |J|&Audinory
+12:35:28 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:1|#:0|♥:0|~:0
+12:45:28 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:1|#:0|♥:0|~:0
+12:55:28 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:1|#:0|♥:0|~:0
+12:58:37 |N|~Audinory|audinory
+12:58:54 |N|♥Audinory|audinory
+13:01:04 (Audinory used /hotpatch chat)
+13:01:47 (Audinory used /hotpatch chat)
+13:02:13 |N| Audinory|audinory
+13:02:39 (Audinory used /hotpatch chat)
+13:02:42 |N|♥Audinory|audinory
+13:05:28 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:1|~:0
+13:06:22 |L|♥Audinory
+13:15:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+13:25:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+13:35:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+13:45:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+13:55:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+13:57:08 |J| Andrrew
+13:58:36 |L| Andrrew
+14:05:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+14:15:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+14:25:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+14:35:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+14:45:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+14:55:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+15:05:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+15:15:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+15:25:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+15:35:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+15:45:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+15:53:06 (Bandi used /hotpatch chat)
+15:55:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+16:05:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+16:15:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+16:25:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+16:27:10 (Audinory used /hotpatch chat)
+16:27:57 (Bandi used /hotpatch chat)
+16:31:04 (Bandi used /hotpatch chat)
+16:35:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+16:40:11 (Bandi used /hotpatch chat)
+16:45:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+16:51:05 (Audinory used /hotpatch chat)
+16:51:51 (Audinory used /hotpatch chat)
+16:52:34 (Audinory used /hotpatch chat)
+16:55:15 (Audinory used /hotpatch chat)
+16:55:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+16:55:40 (Audinory used /hotpatch chat)
+16:57:39 (Audinory used /hotpatch chat)
+16:58:33 (Audinory used /hotpatch chat)
+17:00:26 (Audinory used /hotpatch chat)
+17:01:03 (Audinory used /hotpatch chat)
+17:05:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+17:08:40 (Audinory used /hotpatch chat)
+17:08:56 (Audinory used /hotpatch chat)
+17:11:26 (Audinory used /hotpatch chat)
+17:11:52 (Audinory used /hotpatch chat)
+17:12:42 (Audinory used /hotpatch chat)
+17:15:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+17:16:26 (Audinory used /hotpatch chat)
+17:25:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+17:35:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+17:45:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+17:55:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+18:05:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+18:15:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+18:25:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+18:35:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+18:40:31 NEW CHATROOM: development
+18:45:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+18:51:19 NEW CHATROOM: development
+18:52:03 NEW CHATROOM: development
+19:01:40 NEW CHATROOM: development
+19:11:40 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+19:21:40 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+19:31:40 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+19:41:40 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+19:58:21 NEW CHATROOM: development
+20:08:21 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+20:18:21 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+20:28:21 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+20:36:11 (Bandi used /hotpatch chat)
+20:38:21 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+20:42:39 (Bandi used /hotpatch chat)
+20:48:21 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+20:48:46 (Bandi used /hotpatch chat)
+20:53:40 |J|&verizor
+20:53:44 |L|&verizor
+20:58:21 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+21:08:21 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+21:10:10 (Bandi used /hotpatch chat)
+21:18:21 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+21:18:53 |J|♥Audinory
+21:18:58 |J|~Bandi
+21:19:00 |c|~Bandi|k
+21:19:05 |c|♥Audinory|~Server Lords (2): Bandi, thefiremage ♥Cuties (5): Audinory, BlizzardQ, Mycroft, hayleysworld, piiiikachuuu ✿ &Leaders (4): TheShankSkank, verizor, Hirl123, Ransei @Le Mods (5): Mystifi - ⓝⓐⓟⓟⓘⓝⓖ, TerminalHydreigon, Ambah - ⒶⓌⒶⓎ, Connni, DarkAngeallenq.q %Drivers (8): Hurricane'd, hitorihanza, shivamrustagi, Chief Sokka, DangMashedPotato, Desokoro, FocusBlasted, Soft Lopunny +Glorified Normies (6): Spirit - Anaysha, purpledragon24, Fairy Of Valor, Spirit - Teressa, Volco, kingDeacon
+21:19:13 |c|~Bandi|mhm
+21:19:15 |c|~Bandi|demote some
+21:19:15 |c|~Bandi|right
+21:19:20 (piiiikachuuu was demoted to regular user by Audinory.)
+21:19:24 (volco was demoted to regular user by Bandi.)
+21:19:29 (hayleysworld was demoted to regular user by Audinory.)
+21:19:35 (mycroft was demoted to regular user by Audinory.)
+21:19:47 (connni was demoted to regular user by Audinory.)
+21:19:49 |c|~Bandi|ye
+21:19:51 |c|~Bandi|was gonna do conni
+21:19:52 |c|~Bandi|rfol
+21:19:57 |c|~Bandi|desokro jsut kinda
+21:19:59 |c|~Bandi|sits there
+21:20:01 (dangmashedpotato was demoted to regular user by Audinory.)
+21:20:02 |c|~Bandi|and i know him
+21:20:03 |c|~Bandi|so
+21:20:10 (ransei was demoted to regular user by Audinory.)
+21:20:10 (desokoro was demoted to regular user by Bandi.)
+21:20:15 ransei was promoted to Glorified Normie by Audinory.
+21:20:20 |c|♥Audinory|havent seen him in a while
+21:20:24 |c|♥Audinory|keeping him voice for now
+21:20:41 |c|~Bandi|why not leader
+21:20:43 |c|~Bandi|hydreigon
+21:20:43 (softlopunny was demoted to regular user by Audinory.)
+21:20:44 |c|~Bandi|hes active
+21:20:46 |c|~Bandi|and seems chill
+21:20:54 |c|♥Audinory|3 is plenty
+21:20:59 |c|~Bandi|we only have 1 leader
+21:21:00 |c|~Bandi|rofl
+21:21:02 |c|~Bandi|blizz
+21:21:06 |c|♥Audinory|TheShankSkank, verizor, Hirl123
+21:21:09 |c|~Bandi|o
+21:21:10 |c|♥Audinory|cuties = voice
+21:21:11 |c|♥Audinory|lol
+21:21:12 |c|♥Audinory|stop
+21:21:34 (spirit teressa was demoted to regular user by Audinory.)
+21:21:37 |c|~Bandi|staff looks solid
+21:21:38 |c|~Bandi|now
+21:21:39 (Spirit - Anaysha was demoted to regular user by Audinory.)
+21:21:42 |c|♥Audinory|kk
+21:21:45 |L|♥Audinory
+21:21:45 |L|~Bandi
+21:21:46 |J|~Bandi
+21:21:46 |J|♥Audinory
+21:21:49 |c|~Bandi|xd
+21:26:27 |L|♥Audinory
+21:28:21 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:1
+21:28:37 (Audinory used /hotpatch chat)
+21:28:55 |L|~Bandi
+21:30:51 (Audinory used /hotpatch chat)
+21:38:21 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+21:48:21 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+21:58:21 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:08:21 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:16:31 (Audinory used /hotpatch tournaments)
+22:16:51 (Audinory used /hotpatch tournaments)
+22:18:21 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:18:51 (Audinory used /hotpatch tournaments)
+22:19:56 (Audinory used /hotpatch chat)
+22:20:50 (Audinory used /hotpatch chat)
+22:21:20 |raw|<div class="broadcast-blue"><b>Join Tournaments for a like 25 buck tour!</b></div>
+22:26:28 |raw|<div class="broadcast-blue"><b><font style="color: pink;">Random Monotype Battle Tour In Tournaments</font><button name="joinRoom" value="tournaments">In this room</button></b></div>
+22:28:21 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:38:21 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:38:26 (Audinory used /hotpatch chat)
+22:38:38 (Audinory used /hotpatch chat)
+22:43:38 |raw|<div class="broadcast-red"><b>The server is restarting soon.</b><br />Please finish your battles quickly. No new battles can be started until the server resets in a few minutes.</div>
+22:43:50 NEW CHATROOM: development
+22:46:59 (Audinory used /hotpatch chat)

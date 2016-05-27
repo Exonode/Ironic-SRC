@@ -1,0 +1,484 @@
+02:32:32 NEW CHATROOM: casino
+02:42:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+02:52:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+03:02:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+03:12:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+03:22:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+03:32:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+03:42:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+03:52:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+04:02:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+04:12:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+04:13:18 NEW CHATROOM: casino
+04:23:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+04:33:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+04:43:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+04:53:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+05:03:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+05:13:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+05:23:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+05:33:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+05:43:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+05:53:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+06:03:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+06:13:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+06:23:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+06:33:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+06:43:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+06:53:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+07:03:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+07:13:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+14:27:04 NEW CHATROOM: casino
+14:37:04 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+14:41:58 NEW CHATROOM: casino
+14:51:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+15:01:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+15:11:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+15:21:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+15:26:34 |raw|<div class="broadcast-blue"><b>VAQ is hosting a Tournament in <button name="joinroom" value="tours">This room</button> You will win the grand prize of: <em>A private room</em></b></div>
+15:31:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+15:41:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+15:51:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+16:01:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+16:11:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+16:21:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+16:31:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+16:41:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+16:51:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+17:01:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+17:11:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+17:21:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+17:31:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+17:41:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+17:51:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+18:01:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+18:11:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+18:21:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+18:31:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+18:41:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+18:51:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+19:01:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+19:11:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+19:21:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+19:31:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+19:41:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+19:51:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+20:01:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+20:11:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+20:18:12 NEW CHATROOM: casino
+20:21:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+20:30:05 NEW CHATROOM: casino
+20:33:45 NEW CHATROOM: casino
+20:43:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+20:53:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+21:03:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+21:13:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+21:23:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+21:33:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+21:41:05 |J|+Audinory
+21:41:23 |J| Alliance Darkrai
+21:41:31 |J|~The Sakurai
+21:41:37 |L|~The Sakurai
+21:41:38 |J|~The Sakurai
+21:41:39 |L|~The Sakurai
+21:41:41 |raw|<div class='infobox'><h2><center><font color=#24678d>Audinory has started a dice game for </font><font color=red>1</font><font color=#24678d> Shekel.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+21:41:43 |raw|<b>Audinory has joined the dice game.</b>
+21:41:49 |raw|<b>Alliance Darkrai has joined the dice game.</b>
+21:41:49 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>audinory has rolled a 5.<br>alliancedarkrai has rolled a 6.<br><font color=#24678d><b>alliancedarkrai</b></font> has won <font color=#24678d><b>1</b></font> Shekel.<br>Better luck next time audinory!</div>
+21:41:52 |c|+Audinory|okay good
+21:41:53 |c|+Audinory|ty
+21:41:54 |c|+Audinory|<3
+21:41:57 |c| Alliance Darkrai|ts a set up
+21:42:05 |J|~The Sakurai
+21:42:08 |L|~The Sakurai
+21:42:10 |J|~The Sakurai
+21:42:11 |L|~The Sakurai
+21:42:12 |J|~The Sakurai
+21:42:12 |L|~The Sakurai
+21:42:15 |J|~The Sakurai
+21:42:16 |L|~The Sakurai
+21:42:24 |J|&V A Q
+21:42:29 |L|&V A Q
+21:42:37 |c| Alliance Darkrai|keep dicing
+21:42:39 |raw|<div class='chat'><small> </small><button name='parseCommand' value='/user Alliance Darkrai' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#2468B1'>Alliance Darkrai:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsgd.png" title="feelsgd" width="50" height="50" /></em></div>
+21:42:41 |c| Alliance Darkrai|imma clean u
+21:42:55 Alliance Darkrai was promoted to Room Glorified Normie by Audinory.
+21:42:55 |N|+Alliance Darkrai|alliancedarkrai
+21:43:03 |raw|<div class='infobox'><h2><center><font color=#24678d>Alliance Darkrai has started a dice game for </font><font color=red>30</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+21:43:06 |raw|<b>Alliance Darkrai has joined the dice game.</b>
+21:43:13 |raw|<b>Audinory has joined the dice game.</b>
+21:43:13 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>alliancedarkrai has rolled a 5.<br>audinory has rolled a 4.<br><font color=#24678d><b>alliancedarkrai</b></font> has won <font color=#24678d><b>30</b></font> Shekels.<br>Better luck next time audinory!</div>
+21:43:14 |c|+Audinory|.
+21:43:16 |c|+Audinory|!atm
+21:43:16 |raw|<div class="infobox">Audinory has 349 Shekels.</div>
+21:43:20 |c|+Alliance Darkrai|ez
+21:43:20 |raw|<div class='chat'><small>+</small><button name='parseCommand' value='/user Audinory' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#C635E7'>Audinory:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsgn.png" title="feelsgn" width="50" height="50" /></em></div>
+21:43:24 |raw|<div class='infobox'><h2><center><font color=#24678d>Alliance Darkrai has started a dice game for </font><font color=red>10</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+21:43:25 |c|+Audinory|!atm Alliance Darkrai
+21:43:25 |raw|<div class="infobox">Alliance Darkrai has 71 Shekels.</div>
+21:43:28 |raw|<b>Audinory has joined the dice game.</b>
+21:43:28 |raw|<b>Alliance Darkrai has joined the dice game.</b>
+21:43:28 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>audinory has rolled a 2.<br>alliancedarkrai has rolled a 1.<br><font color=#24678d><b>audinory</b></font> has won <font color=#24678d><b>10</b></font> Shekels.<br>Better luck next time alliancedarkrai!</div>
+21:43:32 |raw|<div class='infobox'><h2><center><font color=#24678d>Alliance Darkrai has started a dice game for </font><font color=red>10</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+21:43:35 |raw|<b>Alliance Darkrai has joined the dice game.</b>
+21:43:36 |raw|<b>Audinory has joined the dice game.</b>
+21:43:36 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>alliancedarkrai has rolled a 5.<br>audinory has rolled a 2.<br><font color=#24678d><b>alliancedarkrai</b></font> has won <font color=#24678d><b>10</b></font> Shekels.<br>Better luck next time audinory!</div>
+21:43:37 |raw|<div class='infobox'><h2><center><font color=#24678d>Audinory has started a dice game for </font><font color=red>60</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+21:43:38 |raw|<b>Audinory has joined the dice game.</b>
+21:43:41 |raw|<b>Alliance Darkrai has joined the dice game.</b>
+21:43:41 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>audinory has rolled a 6.<br>alliancedarkrai has rolled a 3.<br><font color=#24678d><b>audinory</b></font> has won <font color=#24678d><b>60</b></font> Shekels.<br>Better luck next time alliancedarkrai!</div>
+21:43:45 |raw|<div class='chat'><small>+</small><button name='parseCommand' value='/user Audinory' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#C635E7'>Audinory:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsgd.png" title="feelsgd" width="50" height="50" /></em></div>
+21:43:45 |userstats|total:2|guests:0| :0|+:2|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+21:43:45 |c|+Alliance Darkrai|noo
+21:43:48 |c|+Alliance Darkrai|i didnt see it
+21:43:49 |c|+Audinory|!atm Alliance Darkrai
+21:43:49 |raw|<div class="infobox">Alliance Darkrai has 11 Shekels.</div>
+21:43:52 |raw|<div class='infobox'><h2><center><font color=#24678d>Audinory has started a dice game for </font><font color=red>11</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+21:43:53 |raw|<b>Audinory has joined the dice game.</b>
+21:43:55 |raw|<b>Alliance Darkrai has joined the dice game.</b>
+21:43:55 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>audinory has rolled a 1.<br>alliancedarkrai has rolled a 3.<br><font color=#24678d><b>alliancedarkrai</b></font> has won <font color=#24678d><b>11</b></font> Shekels.<br>Better luck next time audinory!</div>
+21:43:59 |raw|<div class='infobox'><h2><center><font color=#24678d>Audinory has started a dice game for </font><font color=red>10</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+21:44:00 |raw|<b>Audinory has joined the dice game.</b>
+21:44:02 |raw|<b>Alliance Darkrai has joined the dice game.</b>
+21:44:02 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>audinory has rolled a 2.<br>alliancedarkrai has rolled a 1.<br><font color=#24678d><b>audinory</b></font> has won <font color=#24678d><b>10</b></font> Shekels.<br>Better luck next time alliancedarkrai!</div>
+21:44:03 |raw|<div class='infobox'><h2><center><font color=#24678d>Audinory has started a dice game for </font><font color=red>10</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+21:44:04 |raw|<b>Audinory has joined the dice game.</b>
+21:44:06 |raw|<b>Alliance Darkrai has joined the dice game.</b>
+21:44:06 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>audinory has rolled a 4.<br>alliancedarkrai has rolled a 6.<br><font color=#24678d><b>alliancedarkrai</b></font> has won <font color=#24678d><b>10</b></font> Shekels.<br>Better luck next time audinory!</div>
+21:44:08 |raw|<div class='infobox'><h2><center><font color=#24678d>Audinory has started a dice game for </font><font color=red>10</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+21:44:09 |raw|<b>Audinory has joined the dice game.</b>
+21:44:09 |raw|<b>Alliance Darkrai has joined the dice game.</b>
+21:44:09 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>audinory has rolled a 2.<br>alliancedarkrai has rolled a 1.<br><font color=#24678d><b>audinory</b></font> has won <font color=#24678d><b>10</b></font> Shekels.<br>Better luck next time alliancedarkrai!</div>
+21:44:12 |raw|<div class='infobox'><h2><center><font color=#24678d>Audinory has started a dice game for </font><font color=red>20</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+21:44:13 |raw|<b>Audinory has joined the dice game.</b>
+21:44:21 |raw|<div class='chat'><small>+</small><button name='parseCommand' value='/user Alliance Darkrai' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#2468B1'>Alliance Darkrai:</font></b></button><em class='mine'>wheres my refund from lobby <img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsrs.png" title="feelsrs" width="50" height="50" /></em></div>
+21:44:22 |c|+Audinory|oh
+21:44:30 |c|+Audinory|lmao
+21:44:32 |raw|<b>Alliance Darkrai has joined the dice game.</b>
+21:44:32 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>audinory has rolled a 3.<br>alliancedarkrai has rolled a 6.<br><font color=#24678d><b>alliancedarkrai</b></font> has won <font color=#24678d><b>20</b></font> Shekels.<br>Better luck next time audinory!</div>
+21:44:34 |c|+Audinory|:(
+21:44:35 |c|+Alliance Darkrai|ez
+21:44:35 |c|+Audinory|im done
+21:44:39 |c|+Audinory|go big
+21:44:41 |c|+Audinory|or go home
+21:44:41 |c|+Alliance Darkrai|.
+21:44:44 |J| Hikari Leron
+21:44:45 |raw|<div class='infobox'><h2><center><font color=#24678d>Audinory has started a dice game for </font><font color=red>42</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+21:44:46 |raw|<b>Audinory has joined the dice game.</b>
+21:44:49 |raw|<div class='chat'><small>+</small><button name='parseCommand' value='/user Alliance Darkrai' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#2468B1'>Alliance Darkrai:</font></b></button><em class='mine'>lets go <img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsgd.png" title="feelsgd" width="50" height="50" /></em></div>
+21:44:52 |raw|<b>Alliance Darkrai has joined the dice game.</b>
+21:44:52 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>audinory has rolled a 3.<br>alliancedarkrai has rolled a 3.<br>Tie... rolling again.<br>audinory has rolled a 6.<br>alliancedarkrai has rolled a 5.<br><font color=#24678d><b>audinory</b></font> has won <font color=#24678d><b>42</b></font> Shekels.<br>Better luck next time alliancedarkrai!</div>
+21:44:53 |raw|<div class='chat'><small>+</small><button name='parseCommand' value='/user Audinory' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#C635E7'>Audinory:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsgd.png" title="feelsgd" width="50" height="50" /></em></div>
+21:44:56 |c|+Alliance Darkrai|cheated
+21:44:58 |c|+Audinory|LOL
+21:44:58 |c|+Alliance Darkrai|u cheated
+21:45:00 |c|+Alliance Darkrai|rigged
+21:45:01 |c|+Alliance Darkrai|rigged af
+21:45:02 |c|+Audinory|LMAO
+21:45:06 |c|+Audinory|nah
+21:45:08 |c|+Audinory|we took that out
+21:45:11 |L| Hikari Leron
+21:45:35 |c|+Alliance Darkrai|gg
+21:46:13 |c|+Alliance Darkrai|Audino pass me 430 imo
+21:46:13 |raw|<div class="broadcast-red"><b>The server is restarting soon.</b><br />Please finish your battles quickly. No new battles can be started until the server resets in a few minutes.</div>
+21:46:17 |c|+Alliance Darkrai|and lets do a yolo
+21:46:20 |raw|<div class='chat'><small>+</small><button name='parseCommand' value='/user Alliance Darkrai' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#2468B1'>Alliance Darkrai:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsgd.png" title="feelsgd" width="50" height="50" /></em></div>
+21:46:32 NEW CHATROOM: casino
+21:46:46 NEW CHATROOM: casino
+21:47:13 |J|+Alliance Darkrai
+21:47:19 |c|+Alliance Darkrai|WHERES MY BUCKS
+21:47:24 |c|+Alliance Darkrai|o sorry
+21:56:32 |userstats|total:1|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+21:56:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:06:32 |userstats|total:1|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:06:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:16:32 |userstats|total:1|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:16:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:26:32 |userstats|total:1|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:26:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:29:33 |J| DarkNightSkies ✿
+22:33:22 |raw|<div class='chat'><small>+</small><button name='parseCommand' value='/user Alliance Darkrai' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#2468B1'>Alliance Darkrai:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsgd.png" title="feelsgd" width="50" height="50" /></em></div>
+22:33:29 |J|~Bandi
+22:33:38 |J|+Audinory
+22:33:58 |c|~Bandi|!wheel help
+22:33:58 |raw|<div class="infobox"><center>Wheel Commands:</center><br>/wheel create, [wheelname], [multiplier] - starts a wheel game<br /> /wheel join/spin/start - Joins the wheel game. <br />/wheel end - Ends the current wheel game <br /></div>
+22:34:00 |c|~Bandi|!wheel list
+22:34:00 |raw|<div class="infobox"><c>Wheel of Misfortune</c><br />Wheel of Scrubs: -5,-4,-3,-2,-2,-1,-1,-1,-1,+1,+1,+3,+3,+3,+5<br />Wheel of Balance: -30,-20,-10,-5,-5,-5,-2,-1,+3,+15,+30,+30<br />Wheel of Diversity: -50,-20,-10,-15,-4,-2,-1,+20,+30,+40<br />Wheel of Wealth: -200,-100,-100,-50,-50,-25,-25,+50,+50,+50,+300<br /></div>
+22:34:26 |c|~Bandi|k ur dy
+22:34:27 |c|~Bandi|darkrai
+22:34:30 |c|+Alliance Darkrai|ye
+22:34:59 |c|~Bandi|.
+22:35:02 |c|~Bandi|Audinory
+22:35:04 |c|~Bandi|how do i start them
+22:35:21 |c|~Bandi|also see if we can fix the comma thing
+22:35:39 |J|&TheShankSkank
+22:35:45 |c|+Audinory|oh
+22:36:09 |raw|<font color="red" size="20">The wheel of</font> <font color="green" size="20"><b>balance, 1</b></font> <font color="red" size="20">has been started and is awaiting to be spun</font><hr /><br /><img src="http://www190.lunapic.com/editor/working/145191966582031?9793635039">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src="http://www190.lunapic.com/editor/working/145191966582031?9793635039"><br /><font color="blue" size="20"> -30,-20,-10,-5,-5,-5,-2,-1,3,15,30,30
+22:36:16 |c|+Audinory|welcome to bandis nice css DarkNightSkies
+22:36:18 |c|~Bandi|how do u start it tho
+22:36:23 |c|+Alliance Darkrai|huh
+22:36:24 |c|~Bandi|thts not mine i asked somone to make the css
+22:36:24 |c|+Audinory|//wheel create
+22:36:25 |c|~Bandi|for me
+22:36:25 |c|~Bandi|lol
+22:36:27 |c|+Audinory|o
+22:36:30 |c| DarkNightSkies ✿|oh gof 
+22:36:32 |c|+Audinory|just wheel spin
+22:36:32 |c| DarkNightSkies ✿|*god
+22:36:32 |userstats|total:5|guests:0| :1|+:2|%:0|@:0|★:0|-:0|&:1|#:0|♥:0|~:1
+22:36:33 |c| DarkNightSkies ✿|wtf
+22:36:34 |c|~Bandi|we shud find
+22:36:36 |c|~Bandi|a picture
+22:36:37 |c|~Bandi|for tht shit
+22:36:40 |c|~Bandi|y/n?
+22:36:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:36:46 |c| DarkNightSkies ✿|That is horrible af
+22:36:49 |L|&TheShankSkank
+22:36:50 |raw|<div class='chat'><small> </small><button name='parseCommand' value='/user DarkNightSkies ✿' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#E22D8B'>DarkNightSkies ✿:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/wtfman.png" title="wtfman" width="50" height="50" /></em></div>
+22:36:50 |raw|<div style="background:url('http://elcortezhotelcasino.com/wp-content/uploads/2013/08/1010-ElCortez-PageHeaders-Small-Roulette1.jpg');background-size:cover;"><center><br><font size="20" color="green"><strong>The wheel landed on 30!</strong></font><br></center></div>
+22:36:53 |c|~Bandi|AY
+22:36:55 |c|~Bandi|!atm
+22:36:55 |raw|<div class="infobox">Bandi has 130 Shekels.</div>
+22:36:59 |c| DarkNightSkies ✿|Let me fix that shit 
+22:37:01 |c| DarkNightSkies ✿|like srs 
+22:37:04 |c|+Audinory|Im doing it
+22:37:04 |c|+Audinory|dw
+22:37:07 |c|~Bandi|fr dns?
+22:37:12 |c|~Bandi|lol ok Audinory
+22:37:17 |c|~Bandi|whats hte command
+22:37:19 |c|+Alliance Darkrai|dns can code
+22:37:20 |c|~Bandi|to start it wtho
+22:37:20 |raw|<div class='chat'><small>+</small><button name='parseCommand' value='/user Alliance Darkrai' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#2468B1'>Alliance Darkrai:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelstr.png" title="feelstr" width="50" height="50" /></em></div>
+22:37:43 |c|~Bandi|also Audinory
+22:37:52 |c|~Bandi|we need to have the multiplier
+22:37:53 |c|~Bandi|displayed
+22:37:56 |c|~Bandi|as the wheel is started
+22:38:07 |c|~Bandi|and have the name of the wheel on there
+22:38:59 |c| DarkNightSkies ✿|I will do it nj
+22:39:00 |c|+Audinory|Yeah
+22:39:02 |c|+Audinory|im doing it
+22:39:06 |raw|<div class="infobox" style="color: red; size: 20px;>The Wheel Of <font style="color: green;"><strong>scrubs, 1</strong></font>Has been started and is waiting to be spun!<hr><br><font style="color: blue;">-5,-4,-3,-2,-2,-1,-1,-1,-1,1,1,3,3,3,5
+22:39:11 |c|+Audinory|tfw
+22:39:37 |c|+Audinory|bandi join it pls
+22:39:44 |raw|<div style="background:url('http://elcortezhotelcasino.com/wp-content/uploads/2013/08/1010-ElCortez-PageHeaders-Small-Roulette1.jpg');background-size:cover;"><center><br><font size="15" color="green"><strong>The wheel landed on 3!</strong></font><br></center></div>
+22:39:48 |c|~Bandi|lmfao
+22:39:48 |c|+Audinory|ty
+22:39:52 |raw|<div class="infobox" style="color: red; size: 20px;">The Wheel Of <font style="color: green;"><strong>scrubs, 1</strong></font>Has been started and is waiting to be spun!<hr><br><font style="color: blue;">-5,-4,-3,-2,-2,-1,-1,-1,-1,1,1,3,3,3,5
+22:39:55 |c|+Audinory|Okay better
+22:40:14 |c|~Bandi|to capitalize the frst letter
+22:40:30 |c|~Bandi|nvm idk
+22:40:39 |c|~Bandi|when i sued to coe i had a simple way to do it tho
+22:42:39 |c|~Bandi|ay audinory
+22:42:47 |c|~Bandi|add a button
+22:42:53 |c|~Bandi|that lets u just automatically spin it
+22:43:08 |c|~Bandi|when its start
+22:43:11 |c|~Bandi|*started
+22:44:13 |c|+Audinory|Okay
+22:44:18 |c|+Audinory|!htmlbox
+22:44:18 |raw|<div class="infobox"><div class="infobox" style="color: red; font-size: 30px; text-align: center;">The Wheel Of<br><font style="color: green;"><strong>' + targets[0] + '</strong></font><br>Has been started and is waiting to be spun!<hr>The Mulitiplier is: <font style="color: green;">' + targets[1] + '</font><br><font style="color: blue;">' + this.wheel; </font></div></div>
+22:44:31 |c|+Audinory|!htmlbox
+22:44:31 |raw|<div class="infobox"><div class="infobox" style="color: red; font-size: 30px; text-align: center;">The Wheel Of<br><font style="color: green;"><strong>' + targets[0] + '</strong></font><br>Has been started and is waiting to be spun!<hr>The Mulitiplier is: <font style="color: green;">' + targets[1] + '</font><hr><font style="color: blue;">' + this.wheel; </font></div></div>
+22:44:35 |c|+Audinory|Hows that Bandi?
+22:44:38 |c|+Audinory|for starters
+22:44:40 |c|~Bandi|ye its nice
+22:44:43 |c|~Bandi|just put on this whelel
+22:44:43 |c|~Bandi|lol
+22:44:44 |c|+Audinory|:P
+22:44:48 |c|~Bandi|looks great
+22:44:50 |c|~Bandi|tho
+22:44:52 |c|+Audinory|ty
+22:44:57 |c|+Audinory|Im good at css3
+22:45:03 |c|+Audinory|as you can tell from this servers intros
+22:45:08 |c|~Bandi|lol
+22:45:16 |c|+Audinory|and fender called my css cancer
+22:45:17 |c|+Audinory|:(
+22:45:23 |c|~Bandi|LOL
+22:45:40 |c|~Bandi|we shud have a background image
+22:45:41 |c|~Bandi|tho
+22:45:43 |c|+Audinory|ik
+22:45:47 |c|+Audinory|im looking
+22:45:47 |c|~Bandi|on the server css
+22:45:50 |c|+Audinory|oh
+22:45:50 |c|+Audinory|n
+22:45:52 |c|+Audinory|i use a cstom
+22:46:00 |c|+Audinory|so i leave it off
+22:46:05 |c|~Bandi|OH
+22:46:10 |c|~Bandi|well for the other users
+22:46:14 |c|~Bandi|that we'll egt int he future
+22:46:16 |c|~Bandi|cuz no-one likes alpha
+22:46:19 |c|~Bandi|like NO-ONE
+22:46:20 |c|~Bandi|lol
+22:46:32 |userstats|total:4|guests:0| :1|+:2|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:1
+22:46:44 |c|+Audinory|!htmlbox
+22:46:44 |raw|<div class="infobox"><div class="infobox" style="background-image: url('http://www.casinonewsdaily.com/wp-content/uploads/guides/illustrations/roulette/basics/roulette-wheel.jpg') background-size: 100%; color: red; font-size: 30px; text-align: center;">The Wheel Of<br><font style="color: green;"><strong>' + targets[0] + '</strong></font><br>Has been started and is waiting to be spun!<hr>The Mulitiplier is: <font style="color: green;">' + targets[1] + '</font><hr><font style="color: blue;">' + this.wheel; </font></div></div>
+22:46:46 |c|+Audinory|where
+22:46:46 |c|+Audinory|ma
+22:46:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:46:48 |c|+Audinory|background at
+22:46:49 |c|+Audinory|nigga
+22:46:53 |raw|<div class='chat'><small>+</small><button name='parseCommand' value='/user Alliance Darkrai' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#2468B1'>Alliance Darkrai:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/wtfman.png" title="wtfman" width="50" height="50" /></em></div>
+22:46:57 |c|~Bandi|lol
+22:47:00 |c|~Bandi|also when u get all of this
+22:47:02 |c|+Audinory|!htmlbox
+22:47:02 |raw|<div class="infobox"><div class="infobox" style="background-image: url('http://www.casinonewsdaily.com/wp-content/uploads/guides/illustrations/roulette/basics/roulette-wheel.jpg'); background-size: 100%; color: red; font-size: 30px; text-align: center;">The Wheel Of<br><font style="color: green;"><strong>' + targets[0] + '</strong></font><br>Has been started and is waiting to be spun!<hr>The Mulitiplier is: <font style="color: green;">' + targets[1] + '</font><hr><font style="color: blue;">' + this.wheel; </font></div></div>
+22:47:07 |c|+Audinory|Cay
+22:47:12 |c|+Audinory|Ill fuck with the text too
+22:47:15 |c|~Bandi|imo make it at one color
+22:47:21 |c|+Audinory|!htmlbox
+22:47:21 |raw|<div class="infobox"><div class="infobox" style="background-image: url('http://www.casinonewsdaily.com/wp-content/uploads/guides/illustrations/roulette/basics/roulette-wheel.jpg'); background-size: 100%; color: white; font-size: 30px; text-align: center;">The Wheel Of<br><font style="color: green;"><strong>' + targets[0] + '</strong></font><br>Has been started and is waiting to be spun!<hr>The Mulitiplier is: <font style="color: green;">' + targets[1] + '</font><hr><font style="color: blue;">' + this.wheel; </font></div></div>
+22:47:40 |c|+Audinory|!htmlbox
+22:47:40 |raw|<div class="infobox"><div class="infobox" style="background-image: url('http://www.casinonewsdaily.com/wp-content/uploads/guides/illustrations/roulette/basics/roulette-wheel.jpg'); background-size: 100%; color: gold; font-size: 30px; text-align: center;">The Wheel Of<br><font style="color: green;"><strong>' + targets[0] + '</strong></font><br>Has been started and is waiting to be spun!<hr>The Mulitiplier is: <font style="color: green;">' + targets[1] + '</font><hr><font style="color: blue;">' + this.wheel; </font></div></div>
+22:47:45 |c|+Audinory|ugh
+22:47:46 |c|+Audinory|DNS
+22:47:47 |c|~Bandi|i likeed the white
+22:47:47 |c|+Audinory|want dev?
+22:47:50 |c|~Bandi|looks fine
+22:47:52 |c|+Audinory|DarkNightSkies
+22:47:55 |c|+Audinory|:^]
+22:47:58 |c|~Bandi|hes our last dev imo
+22:48:01 |c|+Audinory|^
+22:48:02 |c|~Bandi|except maybe like
+22:48:03 |c|~Bandi|tiny ones
+22:48:05 |c|~Bandi|contirbutors
+22:48:07 |c|+Audinory|I need DNS to prove himself
+22:48:08 |c|+Audinory|with css
+22:48:09 |c|+Audinory|:^
+22:48:09 |c|~Bandi|3 shud be enough
+22:48:10 |raw|<div class='chat'><small> </small><button name='parseCommand' value='/user DarkNightSkies ✿' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#E22D8B'>DarkNightSkies ✿:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/oshet.png" title="oshet" width="50" height="50" /></em></div>
+22:48:15 |c|+Audinory|<div class="infobox" style="background-image: url('http://www.casinonewsdaily.com/wp-content/uploads/guides/illustrations/roulette/basics/roulette-wheel.jpg') background-size: 100%; color: red; font-size: 30px; text-align: center;">The Wheel Of<br><font style="color: green;"><strong>' + targets[0] + '</strong></font><br>Has been started and is waiting to be spun!<hr>The Mulitiplier is: <font style="color: green;">' + targets[1] + '</font><hr><font style="color: blue;">' + this.wheel; </font></div>
+22:48:16 |raw|<div class='chat'><small>+</small><button name='parseCommand' value='/user Alliance Darkrai' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#2468B1'>Alliance Darkrai:</font></b></button><em class='mine'>DNS can code <img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsgd.png" title="feelsgd" width="50" height="50" /></em></div>
+22:48:17 |c|+Audinory|go make this
+22:48:18 |c|~Bandi|mfw my gradma
+22:48:20 |c|+Audinory|look pretty af
+22:48:20 |c|~Bandi|not here
+22:48:21 |c| DarkNightSkies ✿|Sorry, I was talking to Panpawn 
+22:48:22 |c|+Alliance Darkrai|He taught me how to make buttons
+22:48:25 |c|+Alliance Darkrai|and roomintros
+22:48:28 |c| DarkNightSkies ✿|about a few things 
+22:48:29 |raw|<div class='chat'><small> </small><button name='parseCommand' value='/user DarkNightSkies ✿' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#E22D8B'>DarkNightSkies ✿:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsgd.png" title="feelsgd" width="50" height="50" /></em></div>
+22:48:32 |c|~Bandi|darkrai
+22:48:34 |c|~Bandi|make me a button
+22:48:43 |c|~Bandi|that types any words
+22:48:44 Alliance Darkrai was promoted to Room Leader by Audinory.
+22:48:44 |N|&Alliance Darkrai|alliancedarkrai
+22:48:44 |c|~Bandi|when clciked
+22:48:54 |c|~Bandi|and make it nice
+22:48:55 |c|~Bandi|lol
+22:49:01 |c|~Bandi|prove urself
+22:49:10 |c|&Alliance Darkrai|Huh
+22:49:22 |c|~Bandi|like just make a button
+22:49:23 |c|&Alliance Darkrai|ok i got u
+22:49:24 |c|~Bandi|thats nice
+22:49:28 |c|~Bandi|that types anything
+22:49:29 |c|~Bandi|one that fits
+22:49:33 |c|~Bandi|witht he wheel thigny
+22:49:34 |c|+Audinory|I'll make an arifeen button
+22:49:37 |c|~Bandi|cuz its gonna be our
+22:49:43 |c|~Bandi|thing to use ont he wheels code
+22:49:44 |c|~Bandi|lol
+22:49:46 |c|~Bandi|im bad at css
+22:49:49 |c|~Bandi|so i can't do it
+22:49:52 |c|~Bandi|anyway i need to stop watching
+22:49:54 |c|~Bandi|and be productive
+22:49:58 |c|~Bandi|so untl my gradma gets here
+22:50:01 |raw|<div class="broadcast-blue"><button name="sned" value="/join lobby">Arifeen here. Here's a button to join tours room</button></div>
+22:50:03 |c|~Bandi|ima be working on shit
+22:50:04 |c|+Audinory|:^
+22:50:47 |raw|<div class="broadcast-blue">Head Drama <button name="send" value="Oh man god damn" target="_blank"><b target="_blank">Drippy Drippy</b></button> </div>
+22:50:53 |c|&Alliance Darkrai|like that?
+22:50:55 |raw|<div class='chat'><small>&</small><button name='parseCommand' value='/user Alliance Darkrai' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#2468B1'>Alliance Darkrai:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelstr.png" title="feelstr" width="50" height="50" /></em></div>
+22:51:00 |c|~Bandi|Oh man god damn
+22:51:03 |c|~Bandi|LOL
+22:51:05 |c|~Bandi|sick
+22:51:05 |c|&Alliance Darkrai|Oh man god damn
+22:51:07 |c|~Bandi|pass me the code
+22:51:11 |c|&Alliance Darkrai|aight
+22:51:14 |c|~Bandi|actually make it nice
+22:51:17 |c|~Bandi|like borders
+22:51:18 |c|~Bandi|n shit
+22:51:19 |c|&Alliance Darkrai| Head Drama <button name="send" value="Oh man god damn" target="_blank"><b target="_blank">Drippy Drippy</b></button> 
+22:51:19 |c|~Bandi|or udk how
+22:51:21 |c|&Alliance Darkrai|Idk how
+22:51:23 |c|~Bandi|ok
+22:51:24 |c|&Alliance Darkrai|yet
+22:51:28 |c|+Audinory|>target
+22:51:34 |c|&Alliance Darkrai|xd
+22:51:41 |c|&Alliance Darkrai|Aye it works tho 
+22:51:52 |raw|<div class="broadcast-blue"><button style="border: double, gold, 4px; color: gold; background-color: #990000; border-radius: 10px; font-face: serif ; font-size: 14px;"> Ca$ino Rules </button></div>
+22:51:55 |c|+Audinory|:^)
+22:51:58 |c|+Audinory|thats a nice button
+22:51:59 |c|+Audinory|imo
+22:52:00 |c|~Bandi|lol
+22:52:02 |c|~Bandi|pass it thne
+22:52:04 |c|+Audinory|<button style="border: double, gold, 4px; color: gold; background-color: #990000; border-radius: 10px; font-face: serif ; font-size: 14px;"> Ca$ino Rules </button>
+22:52:11 |c|~Bandi|and make the colors black and red
+22:52:16 |c|&Alliance Darkrai|hmm
+22:52:16 |c|~Bandi|and then we can put it below
+22:52:20 |c|~Bandi|the little thing
+22:52:23 |c|~Bandi|on the start css
+22:52:26 |c|~Bandi|of the roulette command
+22:52:30 |c|~Bandi|imo lets make our dices nice too
+22:52:35 |c|+Audinory|<button style="border: double, red, 4px; color: gold; background-color: black; border-radius: 10px; font-face: serif ; font-size: 14px;"> Ca$ino Rules </button>
+22:52:43 |c|+Audinory|!htmlbox
+22:52:43 |raw|<div class="infobox"><button style="border: double, red, 4px; color: gold; background-color: black; border-radius: 10px; font-face: serif ; font-size: 14px;"> Ca$ino Rules </button></div>
+22:52:50 |c|~Bandi|ok
+22:52:51 |c|~Bandi|ty
+22:52:52 |c|+Audinory|!htmlbox
+22:52:52 |raw|<div class="infobox"><button style="border: double, red, 4px; color: red; background-color: black; border-radius: 10px; font-face: serif ; font-size: 14px;"> Ca$ino Rules </button></div>
+22:52:54 |c|+Audinory|nice
+22:53:05 |c|~Bandi|actually make the text white
+22:53:11 |c|~Bandi|it goes good witht he roulette
+22:53:13 |c|~Bandi|imo
+22:53:17 |c|~Bandi|but if u disagree its fine as red
+22:53:57 |raw|<div class="broadcast-blue"><button style="border: double, gold, 4px; color: gold; background-color: #990000; border-radius: 10px; font-face: serif ; font-size: 14px;"> Ca$ino Rules </button>  value="Test" target="_blank"><b target="_blank">Test</b></button> test</div>
+22:54:02 |raw|<div class='chat'><small>&</small><button name='parseCommand' value='/user Alliance Darkrai' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#2468B1'>Alliance Darkrai:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelstr.png" title="feelstr" width="50" height="50" /></em></div>
+22:54:20 |c|~Bandi|whatever the final product it put it at the button of the start command css of the wheel
+22:54:23 |c|&Alliance Darkrai|let me dissect this code 
+22:54:29 |c|~Bandi|and make it so they are able to spin it
+22:54:31 |c|~Bandi|with that
+22:54:37 |c|~Bandi|anyway Audinory
+22:54:41 |c|~Bandi|whats next for us to do
+22:54:45 |c|+Audinory|not much maybe
+22:54:47 |c|&Alliance Darkrai|Audino pass me rf in my room plz
+22:54:52 |c|+Audinory|we need RF
+22:54:54 |c|~Bandi|organize the chat plugins
+22:54:55 |c|+Audinory|to be a thing
+22:54:56 |c|~Bandi|i forgot abt that
+22:54:58 |c|+Audinory|>organize
+22:55:00 |c|+Audinory|it looks fine
+22:55:02 |c|+Audinory|honestly
+22:55:03 |c|~Bandi|ok
+22:55:19 |c|+Audinory|we do need
+22:55:24 |c|+Audinory|//roomfounder tho
+22:55:36 |c|+Audinory|and i need to know how to put custom colors in the css
+22:55:40 |c|&Alliance Darkrai|Can one of u pass me auth in my room
+22:55:46 |c|~Bandi|wellsakurai
+22:55:46 |c|&Alliance Darkrai|So i can test
+22:55:48 |c|~Bandi|know show to do that
+22:55:51 |c|~Bandi|whats u rroom
+22:56:32 |userstats|total:4|guests:0| :1|+:1|%:0|@:0|★:0|-:0|&:1|#:0|♥:0|~:1
+22:56:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+23:06:03 |c| DarkNightSkies ✿|err what is the command for the wheel 
+23:06:04 |c| DarkNightSkies ✿|?
+23:06:32 |userstats|total:4|guests:0| :1|+:1|%:0|@:0|★:0|-:0|&:1|#:0|♥:0|~:1
+23:06:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+23:11:09 |raw|<div class="broadcast-blue"><button style="border: double pink, 10px; color: white; background-color: #220000; border-radius: 15px; font-face: serif ; font-size: 20px;" name="send" value="/leave"> Casino Guide </button><b target="_blank">:)</b></button>  </div>
+23:11:12 |c|&Alliance Darkrai|hot
+23:11:52 |c|+Audinory|!htmlbox
+23:11:52 |raw|<div class="infobox"><button style="border: double, red, 4px; color: gold; background-color: black; border-radius: 10px; font-face: serif ; font-size: 14px;"> Ca$ino Rules </button></div>
+23:12:12 |c|&Alliance Darkrai|click mine audino
+23:12:16 |c|&Alliance Darkrai|:)
+23:16:32 |userstats|total:4|guests:0| :1|+:1|%:0|@:0|★:0|-:0|&:1|#:0|♥:0|~:1
+23:16:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+23:17:17 |c|~Bandi|Alliance Darkrai
+23:17:29 |c|&Alliance Darkrai|yea
+23:17:33 The wheel game was ended by bandi.
+23:19:33 |L|+Audinory
+23:26:32 |userstats|total:3|guests:0| :1|+:0|%:0|@:0|★:0|-:0|&:1|#:0|♥:0|~:1
+23:26:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+23:36:32 |userstats|total:3|guests:0| :1|+:0|%:0|@:0|★:0|-:0|&:1|#:0|♥:0|~:1
+23:36:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+23:46:32 |userstats|total:3|guests:0| :1|+:0|%:0|@:0|★:0|-:0|&:1|#:0|♥:0|~:1
+23:46:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+23:56:32 |userstats|total:3|guests:0| :1|+:0|%:0|@:0|★:0|-:0|&:1|#:0|♥:0|~:1
+23:56:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0

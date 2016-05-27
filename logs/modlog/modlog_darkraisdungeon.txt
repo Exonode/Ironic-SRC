@@ -1,0 +1,31 @@
+[2016-05-24T22:21:24.067Z] (darkraisdungeon) BasedAdrian was appointed Room Lord by Audinory.
+[2016-05-24T22:21:34.030Z] (darkraisdungeon) (Audinory added the room alias 'DD'.)
+[2016-05-25T22:55:48.883Z] (darkraisdungeon) Alliance Darkrai was appointed Room Lord by Audinory.
+[2016-05-25T22:56:17.654Z] (darkraisdungeon) Alliance Darkrai declared <button style="border: triple, gold, 4px; color: gold; background-color: #990000; border-radius: 10px; font-face: serif ; font-size: 14px;"> test</button> 
+[2016-05-25T22:56:30.840Z] (darkraisdungeon) Alliance Darkrai declared <button style="border: triple, gold, 4px; color: gold; background-color: #990000; border-radius: 10px; font-face: serif ; font-size: 20px;"> test</button> 
+[2016-05-25T22:56:46.648Z] (darkraisdungeon) Alliance Darkrai declared <button style="border: triple, blue, 4px; color: gold; background-color: #990000; border-radius: 10px; font-face: serif ; font-size: 20px;"> test</button> 
+[2016-05-25T22:57:02.284Z] (darkraisdungeon) Alliance Darkrai declared <button style="border: triple, blue, 4px; color: gold; background-color: #000000; border-radius: 10px; font-face: serif ; font-size: 20px;"> test</button> 
+[2016-05-25T22:57:21.845Z] (darkraisdungeon) Alliance Darkrai declared <button style="border: triple, blue, 4px; color: blue; background-color: #000000; border-radius: 10px; font-face: serif ; font-size: 20px;"> test</button> 
+[2016-05-25T22:57:45.102Z] (darkraisdungeon) Alliance Darkrai declared <button style="border: triple, blue, 4px; color: blue; background-color: #000000; border-radius: 25px; font-face: serif ; font-size: 20px;"> test</button> 
+[2016-05-25T22:59:32.119Z] (darkraisdungeon) Alliance Darkrai declared <button style="border: double, gold, 4px; color: gold; background-color: #990000; border-radius: 10px; font-face: serif ; font-size: 14px;"> Ca$ino Rules </button> <value="Ok" target="_blank"><b target="_blank">Lucky</b></button>
+[2016-05-25T22:59:58.685Z] (darkraisdungeon) Alliance Darkrai declared <button style="border: double, gold, 4px; color: gold; background-color: #990000; border-radius: 10px; font-face: serif ; font-size: 14px;"> Ca$ino Rules </button> value="Ok" target="_blank"><b target="_blank">Lucky</b></button>
+[2016-05-25T23:00:06.148Z] (darkraisdungeon) Alliance Darkrai declared <button style="border: double, gold, 4px; color: gold; background-color: #990000; border-radius: 10px; font-face: serif ; font-size: 14px;"> Ca$ino Rules </button> <value="Ok" target="_blank"><b target="_blank">Lucky</b></button>
+[2016-05-25T23:01:11.985Z] (darkraisdungeon) Alliance Darkrai declared <button style="border: quad gold, 4px; color: gold; background-color: #990000; border-radius: 10px; font-face: serif ; font-size: 14px;"> Ca$ino Rules </button> <value="Ok" target="_blank"><b target="_blank">Lucky</b></button>
+[2016-05-25T23:01:18.690Z] (darkraisdungeon) Alliance Darkrai declared <button style="border: double gold, 4px; color: gold; background-color: #990000; border-radius: 10px; font-face: serif ; font-size: 14px;"> Ca$ino Rules </button> <value="Ok" target="_blank"><b target="_blank">Lucky</b></button>
+[2016-05-25T23:02:57.017Z] (darkraisdungeon) Alliance Darkrai declared button style="border: double blue, 15px; color: Green; background-color: #000000; border-radius: 20px; font-face: serif ; font-size: 25px;" name="send" value="Lucky"> Test </button><b target="_blank">Lucky</b></button> 
+[2016-05-25T23:03:15.685Z] (darkraisdungeon) Alliance Darkrai declared <button style="border: double gold, 4px; color: gold; background-color: #990000; border-radius: 10px; font-face: serif ; font-size: 14px;" name="send" value="Lucky"> Ca$ino Rules </button><b target="_blank">Lucky</b></button> 
+[2016-05-25T23:03:42.246Z] (darkraisdungeon) Alliance Darkrai declared <button style="border: double gold, 4px; color: gold; background-color: #990000; border-radius: 10px; font-face: serif ; font-size: 14px;" name="send" value="Lucky"> Ca$ino Rules </button><b target="_blank">:)</b></button> 
+[2016-05-25T23:03:55.980Z] (darkraisdungeon) Alliance Darkrai declared <button style="border: double gold, 4px; color: gold; background-color: #990000; border-radius: 10px; font-face: serif ; font-size: 14px;" name="send" value="Lucky"> Darkrai's Button </button><b target="_blank">:)</b></button> 
+[2016-05-25T23:04:23.889Z] (darkraisdungeon) Alliance Darkrai declared <button style="border: double blue, 10px; color: green; background-color: #000000; border-radius: 15px; font-face: serif ; font-size: 20px;" name="send" value="Lucky"> Darkrai's Button </button><b target="_blank">:)</b></button> 
+[2016-05-25T23:06:33.923Z] (darkraisdungeon) Alliance Darkrai declared <button style="border: double blue, 10px; color: green; background-color: #000000; border-radius: 15px; font-face: serif ; font-size: 20px;" name="send" value="/l"> Darkrai's Button </button><b target="_blank">:)</b></button> 
+[2016-05-25T23:07:37.219Z] (darkraisdungeon) Alliance Darkrai declared <button style="border: double blue, 10px; color: green; background-color: #000000; border-radius: 15px; font-face: serif ; font-size: 20px;" name="send" value="/leave"> Darkrai's Button </button><b target="_blank">:)</b></button> 
+[2016-05-27T22:19:02.679Z] (darkraisdungeon) MoistCheerios was promoted to Room Driver by AllianceDarkrai.
+[2016-05-27T22:19:07.749Z] (darkraisdungeon) Lil Sweet was promoted to Room Le Mod by AllianceDarkrai.
+[2016-05-27T22:23:41.759Z] (darkraisdungeon) Boytears was promoted to Room Le Mod by AllianceDarkrai.
+[2016-05-27T22:28:15.440Z] (darkraisdungeon) Ithi was promoted to Room Le Mod by AllianceDarkrai.
+[2016-05-27T22:42:07.346Z] (darkraisdungeon) AllianceDarkrai was appointed to Room Founder by TheShankSkank.
+[2016-05-27T22:42:13.569Z] (darkraisdungeon) Lil Kinky was appointed Room Owner by TheShankSkank.
+[2016-05-27T22:45:49.947Z] (darkraisdungeon) (Audinory changed the roomdesc to: "1".)
+[2016-05-27T22:47:37.814Z] (darkraisdungeon) (Alliance Darkrai changed the roomintro.)
+[2016-05-27T22:50:23.331Z] (darkraisdungeon) Thug Cry was warned by Ithi. (yeah lets not order him to do that)
+[2016-05-27T22:50:27.631Z] (darkraisdungeon) MoistCheerios was warned by Ithi. (nice meme)

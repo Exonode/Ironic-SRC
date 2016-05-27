@@ -1,0 +1,411 @@
+00:03:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+00:15:27 NEW CHATROOM: darkraisdungeon
+00:25:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+00:35:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+00:45:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+00:55:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+01:05:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+01:15:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+01:25:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+01:35:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+01:45:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+01:55:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+02:05:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+02:15:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+02:25:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+02:35:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+02:45:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+02:55:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+03:05:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+03:15:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+03:25:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+03:35:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+03:45:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+03:55:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+04:05:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+04:15:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+04:25:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+04:35:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+04:45:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+04:55:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+05:05:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+05:15:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+05:25:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+05:35:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+05:45:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+05:55:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+06:05:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+06:15:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+06:25:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+06:35:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+06:45:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+06:55:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+07:05:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+07:15:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+07:25:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+07:35:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+07:45:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+07:55:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+08:05:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+08:15:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+08:25:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+08:35:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+08:45:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+08:55:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+09:05:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+09:15:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+09:25:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+09:35:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+09:45:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+09:55:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+10:05:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+10:15:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+10:25:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+10:35:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+10:45:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+10:55:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+11:05:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+11:15:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+11:25:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+11:35:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+11:45:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+11:55:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+12:05:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+12:15:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+12:25:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+12:35:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+12:45:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+12:55:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+13:05:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+13:15:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+13:25:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+13:35:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+13:45:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+13:55:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+14:05:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+14:15:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+14:25:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+14:35:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+14:45:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+14:55:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+15:05:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+15:15:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+15:25:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+15:35:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+15:45:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+15:55:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+16:05:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+16:15:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+16:25:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+16:35:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+16:45:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+16:55:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+17:05:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+17:15:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+17:25:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+17:35:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+17:45:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+17:55:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+18:05:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+18:15:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+18:25:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+18:35:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+18:40:31 NEW CHATROOM: darkraisdungeon
+18:45:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+18:51:19 NEW CHATROOM: darkraisdungeon
+18:52:03 NEW CHATROOM: darkraisdungeon
+19:01:40 NEW CHATROOM: darkraisdungeon
+19:11:40 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+19:21:40 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+19:31:40 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+19:41:40 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+19:58:21 NEW CHATROOM: darkraisdungeon
+20:08:21 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+20:18:21 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+20:28:21 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+20:38:21 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+20:48:21 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+20:58:21 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+21:08:21 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+21:12:11 |J|#Alliance Darkrai
+21:18:21 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:0
+21:21:24 |J| Boytears
+21:21:45 |N| Alliance Dankrai|alliancedarkrai
+21:21:59 |N|#AllianceDarkrai|alliancedankrai
+21:26:32 |L|#AllianceDarkrai
+21:28:21 |userstats|total:1|guests:0| :1|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+21:28:59 |L| Boytears
+21:38:21 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+21:44:31 |J|#AllianceDarkrai
+21:48:21 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:0
+21:49:34 |L|#AllianceDarkrai
+21:58:21 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:08:21 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:10:44 |J|#AllianceDarkrai
+22:18:20 |J| MoistCheerios
+22:18:21 |userstats|total:2|guests:0| :1|+:0|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:0
+22:18:23 |c| MoistCheerios|feelssht
+22:18:35 |c|#AllianceDarkrai|who are you lmao
+22:18:36 |c|#AllianceDarkrai|yuki?
+22:18:42 |c| MoistCheerios|yeah
+22:18:46 |J|@TerminalHydreigon
+22:18:49 |c|@TerminalHydreigon|gotem'
+22:18:56 |J| Lil Sweet
+22:19:02 MoistCheerios was promoted to Room Driver by AllianceDarkrai.
+22:19:02 |N|%MoistCheerios|moistcheerios
+22:19:07 Lil Sweet was promoted to Room Le Mod by AllianceDarkrai.
+22:19:07 |N|@Lil Sweet|lilsweet
+22:19:07 |raw|<div class='chat'><small>%</small><button name='parseCommand' value='/user MoistCheerios' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#227096'>MoistCheerios:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelspink.png" title="feelspink" width="50" height="50" /></em></div>
+22:19:16 |raw|<div class='chat'><small>#</small><button name='parseCommand' value='/user AllianceDarkrai' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#2468B1'>AllianceDarkrai:</font></b></button><em class='mine'><img src="http://i1.kym-cdn.com/photos/images/newsfeed/001/121/741/012.gif" title="datBoi" width="50" height="50" /></em></div>
+22:19:22 |c|#AllianceDarkrai|This server is actually p chill
+22:19:24 |J|♪purpledragon24
+22:19:26 |c|#AllianceDarkrai|and they can code
+22:19:26 |c|♪purpledragon24|;p;
+22:19:32 |c|♪purpledragon24|lol*
+22:19:35 |raw|<div class='chat'><small>#</small><button name='parseCommand' value='/user AllianceDarkrai' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#2468B1'>AllianceDarkrai:</font></b></button><em class='mine'>Check out my name color <img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsgd.png" title="feelsgd" width="50" height="50" /></em></div>
+22:19:35 |c|♪purpledragon24|XD
+22:19:37 |c|#AllianceDarkrai|!shop
+22:19:37 |raw|<div class='infobox infobox-limited'><table border='1' cellspacing='0' cellpadding='5' width='100%'><tbody><tr><th>Command</th><th>Description</th><th>Cost</th></tr><tr><td align='center'><button name='send' value='/buy Symbol'><b>Symbol</b></button></td><td align='center'>Buys a custom symbol to go infront of name and puts you at top of userlist. (Temporary until restart, certain symbols are blocked)</td><td align='center'>5</td></tr><tr><td align='center'><button name='send' value='/buy Custom Symbol Color'><b>Custom Symbol Color</b></button></td><td align='center'>Buys you the ability to have your symbol displayed as a different colour in up to 3 rooms</td><td align='center'>15</td></tr><tr><td align='center'><button name='send' value='/buy Custom Name Color'><b>Custom Name Color</b></button></td><td align='center'>Buys you the ability to have your in-chat name color changed globally on this server</td><td align='center'>70</td></tr><tr><td align='center'><button name='send' value='/buy Fix'><b>Fix</b></button></td><td align='center'>Buys the ability to alter your current custom avatar or trainer card. (don't buy if you have neither)</td><td align='center'>10</td></tr><tr><td align='center'><button name='send' value='/buy Avatar'><b>Avatar</b></button></td><td align='center'>Buys an custom avatar to be applied to your name (You supply. Images larger than 80x80 may not show correctly)</td><td align='center'>20</td></tr><tr><td align='center'><button name='send' value='/buy Staff Help'><b>Staff Help</b></button></td><td align='center'>Staff member will help set up roomintros and anything else needed in a room. Response may not be immediate.</td><td align='center'>50</td></tr><tr><td align='center'><button name='send' value='/buy Icon'><b>Icon</b></button></td><td align='center'>Buy a custom icon that can be applied to the rooms you want. You must take into account that the provided image should be 32 x 32</td><td align='center'>75</td></tr><tr><td align='center'><button name='send' value='/buy Custom Emote'><b>Custom Emote</b></button></td><td align='center'>Buys you the ability to have a custom emote, you supply the image (Must be .jpg, .gif or .png) - Can be refused.</td><td align='center'>50</td></tr><tr><td align='center'><button name='send' value='/buy Room'><b>Room</b></button></td><td align='center'>Buys a chatroom for you to own. (within reason, can be refused)</td><td align='center'>100</td></tr><tr><td align='center'><button name='send' value='/buy Custom Command'><b>Custom Command</b></button></td><td align='center'>This is basically a Custom Emote that only you can use</td><td align='center'>100</td></tr></tbody></table><center>To buy an item from the shop, use /buy <em>command</em>.</center></div>
+22:19:37 |J| Rainy Thunder
+22:19:38 |raw|<div class='chat'><small>♪</small><button name='parseCommand' value='/user purpledragon24' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#A83BD6'>purpledragon24:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/FacePalm.png" title="FacePalm" width="50" height="50" /></em></div>
+22:20:23 |c|#AllianceDarkrai|Yo
+22:20:28 |c|#AllianceDarkrai|Pm Audino for a name color change
+22:20:46 |c|#AllianceDarkrai|!profile
+22:20:46 |raw|<div class="infobox"><button style="border:none;background:none;padding:0;float:left;" name="parseCommand" value="/user AllianceDarkrai"><img src="http://pokemonshowdownfixed-serperiorbae.c9users.io:8080/avatars/alliancedarkrai.jpg" height="80" width="80"></button>&nbsp;<b><font color="#24678d">Name:</font></b>&nbsp;<b><font color="#2468B1">AllianceDarkrai</font></b><br>&nbsp;<b><font color="#24678d">Group:</font></b>&nbsp;Regular User<br>&nbsp;<b><font color="#24678d">Money:</font></b>&nbsp;30 bucks<br>&nbsp;<b><font color="#24678d">Last Seen:</font></b>&nbsp;<font color="#2ECC40">Currently Online</font><br clear="all"></div>
+22:20:47 |raw|<div class='chat'><small>#</small><button name='parseCommand' value='/user AllianceDarkrai' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#2468B1'>AllianceDarkrai:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsgd.png" title="feelsgd" width="50" height="50" /></em></div>
+22:20:56 |N| Lil Bitter|lilsweet
+22:20:56 |c|%MoistCheerios|**Purge Darkrai**
+22:21:02 |c|#AllianceDarkrai|Nice
+22:21:17 |c|%MoistCheerios|**We need to balance the economy you have to many bucks**
+22:21:20 |raw|<div class="broadcast-blue"><b>Join Tournaments for a like 25 buck tour!</b></div>
+22:21:38 |c| Rainy Thunder|I have more than him though
+22:21:41 |c| Rainy Thunder|:<
+22:21:49 |c| Lil Bitter|I need an avatar 
+22:21:52 |c|%MoistCheerios|you'll get purged to when the time comes
+22:21:55 |J| Boytears
+22:21:57 |c| Lil Bitter|Darkrai help nigga out
+22:21:59 |raw|<div class='chat'><small>%</small><button name='parseCommand' value='/user MoistCheerios' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#227096'>MoistCheerios:</font></b></button><em class='mine'>i need one too <img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelspink.png" title="feelspink" width="50" height="50" /></em></div>
+22:22:03 |c|#AllianceDarkrai|My avatar 
+22:22:05 |c|%MoistCheerios|help a real nigga out
+22:22:08 |c|#AllianceDarkrai|is it showing for yall?
+22:22:08 |raw|<div class='chat'><small>%</small><button name='parseCommand' value='/user MoistCheerios' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#227096'>MoistCheerios:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelspink.png" title="feelspink" width="50" height="50" /></em></div>
+22:22:13 |c|%MoistCheerios|yeah
+22:22:14 |c|#AllianceDarkrai|Oh pm err
+22:22:23 |raw|Rainy Thunder has bought <b>Avatar</b> from the shop.
+22:22:44 |raw|<div class='chat'><small> </small><button name='parseCommand' value='/user Lil Bitter' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#2657DD'>Lil Bitter:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/hmmface.png" title="hmmface" width="50" height="50" /></em></div>
+22:22:51 |raw|<div class='chat'><small>#</small><button name='parseCommand' value='/user AllianceDarkrai' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#2468B1'>AllianceDarkrai:</font></b></button><em class='mine'>Aye invite people here tho <img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsgd.png" title="feelsgd" width="50" height="50" /></em></div>
+22:23:34 |c|#AllianceDarkrai|Pm shank
+22:23:41 Boytears was promoted to Room Le Mod by AllianceDarkrai.
+22:23:41 |N|@Boytears|boytears
+22:23:48 |raw|<div class='chat'><small>@</small><button name='parseCommand' value='/user Boytears' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#B54844'>Boytears:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsok.png" title="feelsok" width="50" height="50" /></em></div>
+22:23:59 |raw|<div class='chat'><small>#</small><button name='parseCommand' value='/user AllianceDarkrai' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#2468B1'>AllianceDarkrai:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsgd.png" title="feelsgd" width="50" height="50" /></em></div>
+22:24:17 |c|#AllianceDarkrai|Imma get a custom emote
+22:24:22 |N| BoiTears|moistcheerios
+22:24:30 |c| BoiTears|boytears
+22:24:33 |raw|<div class='chat'><small> </small><button name='parseCommand' value='/user BoiTears' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#E03F68'>BoiTears:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelspink.png" title="feelspink" width="50" height="50" /></em></div>
+22:24:42 |raw|<div class='chat'><small>#</small><button name='parseCommand' value='/user AllianceDarkrai' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#2468B1'>AllianceDarkrai:</font></b></button><em class='mine'><img src="http://i1.kym-cdn.com/photos/images/newsfeed/001/121/741/012.gif" title="datBoi" width="50" height="50" /></em></div>
+22:24:44 |N| BoiTears|boitears
+22:24:56 |c|@Boytears|nice BoiTears
+22:25:55 |J| Ithi
+22:25:56 |c| Lil Bitter|Avatars aren't free I can't battle on phone 
+22:25:57 |c| Ithi|feelsemo
+22:25:57 |c| Lil Bitter|rip
+22:26:00 |c| Ithi|i is here zombie boy
+22:26:05 |c| Ithi|i used to be mod here actually
+22:26:08 |c| Ithi|gave up on it
+22:26:14 |c| Ithi|cuz tbh i dont like being staff lol
+22:26:28 |raw|<div class="broadcast-blue"><b><font style="color: pink;">Random Monotype Battle Tour In Tournaments</font><button name="joinRoom" value="tournaments">In this room</button></b></div>
+22:26:34 |c| Lil Bitter|Same 
+22:26:38 |c| Lil Bitter|to much work 
+22:26:46 |N|%MoistCheerios|boitears
+22:28:15 Ithi was promoted to Room Le Mod by AllianceDarkrai.
+22:28:15 |N|@Ithi|ithi
+22:28:21 |userstats|total:8|guests:0| :2|+:1|%:1|@:3|★:0|-:0|&:0|#:1|♥:0|~:0
+22:28:47 |c| Lil Bitter|I'm bored 
+22:28:48 |c| Lil Bitter|:/
+22:29:01 |raw|<div class='chat'><small>%</small><button name='parseCommand' value='/user MoistCheerios' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#227096'>MoistCheerios:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/hmmface.png" title="hmmface" width="50" height="50" /></em></div>
+22:29:31 |c|%MoistCheerios|I eat ass
+22:34:10 |c|@TerminalHydreigon|same
+22:34:11 |c|@TerminalHydreigon|jk
+22:34:13 |c|@TerminalHydreigon|o rly
+22:35:03 |c| Lil Bitter|Nah he/she isn't joking Yuki 
+22:35:04 |c|#AllianceDarkrai|okay i bought it
+22:35:07 |raw|<div class='chat'><small> </small><button name='parseCommand' value='/user Lil Bitter' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#2657DD'>Lil Bitter:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsgd.png" title="feelsgd" width="50" height="50" /></em></div>
+22:35:10 |c|#AllianceDarkrai|I went on a gamble spree
+22:35:13 |c|#AllianceDarkrai|its gonna be lit
+22:35:23 |c| Lil Bitter|Darkrai slide 20
+22:35:25 |raw|<div class='chat'><small> </small><button name='parseCommand' value='/user Lil Bitter' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#2657DD'>Lil Bitter:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsrs.png" title="feelsrs" width="50" height="50" /></em></div>
+22:35:28 |c|%MoistCheerios|darkrai
+22:35:31 |c|#AllianceDarkrai|I only got 15
+22:35:31 |c|%MoistCheerios|slide 20
+22:35:34 |c|%MoistCheerios|15
+22:35:38 |c|%MoistCheerios|is all i need
+22:35:38 |c|#AllianceDarkrai|i just spent 50 on a emote
+22:35:42 |c| Lil Bitter|oh
+22:35:43 |raw|<div class='chat'><small> </small><button name='parseCommand' value='/user Lil Bitter' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#2657DD'>Lil Bitter:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/xaa.png" title="xaa" width="50" height="50" /></em></div>
+22:35:49 |c|%MoistCheerios|darkrai my nigga
+22:35:53 |c|%MoistCheerios|ill suck u off
+22:35:54 |raw|<div class='chat'><small>%</small><button name='parseCommand' value='/user MoistCheerios' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#227096'>MoistCheerios:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelspink.png" title="feelspink" width="50" height="50" /></em></div>
+22:36:06 |c|#AllianceDarkrai|I cleaned kathey
+22:36:08 |c|#AllianceDarkrai|both her alts
+22:36:08 |c|#AllianceDarkrai|lmao
+22:36:09 |N| Lil Kinky|lilbitter
+22:36:30 |c| Lil Kinky|Stfu Yuki you cyber Dayton got lock 
+22:36:31 |c|#AllianceDarkrai|feelskms
+22:36:31 |raw|<div class='chat'><small> </small><button name='parseCommand' value='/user Lil Kinky' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#DC2B8F'>Lil Kinky:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsrs.png" title="feelsrs" width="50" height="50" /></em></div>
+22:36:49 |J|&TheShankSkank
+22:37:07 |c|#AllianceDarkrai|!souls
+22:37:07 |raw|<div class="infobox">AllianceDarkrai has consumed 10 Souls of the Non-Believers.</div>
+22:37:09 |c|#AllianceDarkrai|!hearts
+22:37:09 |raw|<div class="infobox">AllianceDarkrai has 10 Hearts.</div>
+22:37:11 |raw|<div class='chat'><small>#</small><button name='parseCommand' value='/user AllianceDarkrai' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#2468B1'>AllianceDarkrai:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelstr.png" title="feelstr" width="50" height="50" /></em></div>
+22:37:15 |c| Lil Kinky|I want to make more alts 
+22:37:16 |raw|<div class='chat'><small> </small><button name='parseCommand' value='/user Lil Kinky' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#DC2B8F'>Lil Kinky:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsok.png" title="feelsok" width="50" height="50" /></em></div>
+22:37:21 |c|%MoistCheerios|lil kinky
+22:37:27 |c| Lil Kinky|Yea bby
+22:37:31 |raw|<div class='chat'><small>%</small><button name='parseCommand' value='/user MoistCheerios' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#227096'>MoistCheerios:</font></b></button><em class='mine'>i didnt get locked for cybering <img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsjig.png" title="feelsjig" width="50" height="50" /></em></div>
+22:37:36 |c|%MoistCheerios|i got locked for something
+22:37:40 |c|%MoistCheerios|far far worse
+22:37:41 |c| Lil Kinky|explain 
+22:37:42 |raw|<div class='chat'><small>%</small><button name='parseCommand' value='/user MoistCheerios' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#227096'>MoistCheerios:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsnv.png" title="feelsnv" width="50" height="50" /></em></div>
+22:37:42 |c|#AllianceDarkrai|!pair AllianceDarkrai, Lil sweet
+22:37:42 |raw|<div class="infobox"><div style="padding: 4px, 6px;background-color: crimson; color: white;"><font size="4">Name 1: </font> AllianceDarkrai<br><br><font size="4">Name 2: </font> Lil sweet</div><div style="padding: 4px, 6px;background-color: white; color: black;"><font size="4">Match:</font> 17%</div><div style="padding: 4px, 6px;background-color: rgb(20, 20, 20); color: white;">Well, I'm sorry to say that this relationship doesn't stand too high of a chance of surviving. Though I'm sure with a little bit of hard work, determination and perseverance that you could both make it work!</div></div>
+22:37:44 |raw|<div class='chat'><small> </small><button name='parseCommand' value='/user Lil Kinky' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#DC2B8F'>Lil Kinky:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsrs.png" title="feelsrs" width="50" height="50" /></em></div>
+22:37:45 |c|%MoistCheerios|no 
+22:37:47 |c|#AllianceDarkrai|xd
+22:37:50 |c|&TheShankSkank|!pair AllianceDarkrai, Lil Kinky
+22:37:50 |raw|<div class="infobox"><div style="padding: 4px, 6px;background-color: crimson; color: white;"><font size="4">Name 1:</font> AllianceDarkrai<br><br><font size="4">Name 2:</font> Lil Kinky</div><div style="padding: 4px, 6px;background-color: white; color: black;"><font size="4">Match:</font> 51%</div><div style="padding: 4px, 6px;background-color: rgb(20, 20, 20); color: white;">I would say that this relationship is average to above average overall. It has decent chances of survival but could use a little more work to ensure that it stays strong. Try to employ a little bit more tact and communication in your relationship to help it grow and blossom into something beautiful!</div></div>
+22:38:03 |c|#AllianceDarkrai|hot
+22:38:19 |c| Lil Kinky|I'm to good for niggas on ps
+22:38:20 |raw|<div class='chat'><small> </small><button name='parseCommand' value='/user Lil Kinky' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#DC2B8F'>Lil Kinky:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsok.png" title="feelsok" width="50" height="50" /></em></div>
+22:38:21 |userstats|total:9|guests:0| :2|+:1|%:1|@:3|★:0|-:0|&:1|#:1|♥:0|~:0
+22:38:58 |c|&TheShankSkank|Name 1: AllianceDarkrai
+22:38:59 |c|&TheShankSkank|Name 2: Kinky
+22:38:59 |c|&TheShankSkank|Match: 98%
+22:39:00 |c|&TheShankSkank|Holy Smokes! This relationship is almost perfect. I'm sure that Minnie and Mickey envy this relationship. You both must be the talk of the town wherever you go! You guys rock for having such an awesome and inspiring relationship. Woo Hoo!
+22:39:07 |c|#AllianceDarkrai|nice jokes
+22:39:11 |c|#AllianceDarkrai|TheShankSkank
+22:39:13 |raw|<div class='chat'><small>#</small><button name='parseCommand' value='/user AllianceDarkrai' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#2468B1'>AllianceDarkrai:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelstr.png" title="feelstr" width="50" height="50" /></em></div>
+22:39:21 |c|&TheShankSkank|it was the last /pair I did
+22:39:27 |c|&TheShankSkank|before audino deleted /pair
+22:39:28 |c|#AllianceDarkrai|my emote
+22:39:28 |c|&TheShankSkank|:(
+22:39:29 |raw|<div class='chat'><small>#</small><button name='parseCommand' value='/user AllianceDarkrai' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#2468B1'>AllianceDarkrai:</font></b></button><em class='mine'><img src="http://image.prntscr.com/image/893a93d654074d22be752fa4ea772776.png" title="feelskms" width="50" height="50" /></em></div>
+22:39:42 |c| Lil Kinky|Darkrai done things to this girl. Things I'm not proud of saying 
+22:39:43 |raw|<div class='chat'><small>#</small><button name='parseCommand' value='/user AllianceDarkrai' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#2468B1'>AllianceDarkrai:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsgd.png" title="feelsgd" width="50" height="50" /></em></div>
+22:39:44 |raw|<div class='chat'><small> </small><button name='parseCommand' value='/user Lil Kinky' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#DC2B8F'>Lil Kinky:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsnv.png" title="feelsnv" width="50" height="50" /></em></div>
+22:39:53 |c|%MoistCheerios|Lil Kinky: Darkrai done things to this girl. Things I'm not proud of saying
+22:39:56 |raw|<div class='chat'><small>%</small><button name='parseCommand' value='/user MoistCheerios' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#227096'>MoistCheerios:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsnv.png" title="feelsnv" width="50" height="50" /></em></div>
+22:40:12 |c| Lil Kinky|Hls are red 
+22:40:20 |raw|<div class='chat'><small> </small><button name='parseCommand' value='/user Lil Kinky' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#DC2B8F'>Lil Kinky:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/wtfman.png" title="wtfman" width="50" height="50" /> where&apos;s the white</em></div>
+22:40:20 |c|♪purpledragon24|//pair got deleted TheShankSkank??
+22:40:25 |c|&TheShankSkank|yeh purpledragon24
+22:40:27 |raw|<div class='chat'><small> </small><button name='parseCommand' value='/user Lil Kinky' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#DC2B8F'>Lil Kinky:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsrs.png" title="feelsrs" width="50" height="50" /></em></div>
+22:40:31 |c|♪purpledragon24|:C
+22:40:35 |c|&TheShankSkank|&TheShankSkank: u get rid of /pair
+22:40:35 |c|&TheShankSkank|&TheShankSkank: :(
+22:40:35 |c|&TheShankSkank|♥Audinory: save space
+22:40:41 |raw|<div class='chat'><small>#</small><button name='parseCommand' value='/user AllianceDarkrai' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#2468B1'>AllianceDarkrai:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsnv.png" title="feelsnv" width="50" height="50" /></em></div>
+22:40:43 |c|&TheShankSkank|♥Audinory: save space
+22:40:44 |c|&TheShankSkank|♥Audinory: and boring
+22:40:44 |c|&TheShankSkank|♥Audinory: I have a bot for it
+22:41:27 |c| Lil Kinky|Meant as well make me RO I'm taking over this boring ass room. Going to bring some hookers HOLLA
+22:41:27 |L|@TerminalHydreigon
+22:41:37 |raw|<div class='chat'><small> </small><button name='parseCommand' value='/user Lil Kinky' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#DC2B8F'>Lil Kinky:</font></b></button><em class='mine'>feelscool</em></div>
+22:41:54 |c|#AllianceDarkrai|huh
+22:41:56 |c|&TheShankSkank|kk
+22:41:57 |c|%MoistCheerios|nb nb
+22:42:02 |c|#AllianceDarkrai|I cant ro
+22:42:04 |raw|<div class='chat'><small>#</small><button name='parseCommand' value='/user AllianceDarkrai' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#2468B1'>AllianceDarkrai:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsbd.png" title="feelsbd" width="50" height="50" /></em></div>
+22:42:07 AllianceDarkrai was appointed to Room Founder by TheShankSkank.
+22:42:07 |N|#AllianceDarkrai|alliancedarkrai
+22:42:13 Lil Kinky was appointed Room Owner by TheShankSkank.
+22:42:13 |N|#Lil Kinky|lilkinky
+22:42:16 |c|#AllianceDarkrai|thx
+22:42:18 |c|&TheShankSkank|yw
+22:42:20 |raw|<div class='chat'><small>#</small><button name='parseCommand' value='/user Lil Kinky' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#DC2B8F'>Lil Kinky:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/xaa.png" title="xaa" width="50" height="50" /></em></div>
+22:42:25 |c|♪purpledragon24|-u-
+22:42:26 |raw|<div class='chat'><small>#</small><button name='parseCommand' value='/user AllianceDarkrai' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#2468B1'>AllianceDarkrai:</font></b></button><em class='mine'><img src="http://image.prntscr.com/image/893a93d654074d22be752fa4ea772776.png" title="feelskms" width="50" height="50" /></em></div>
+22:42:34 |L|♪purpledragon24
+22:42:35 |raw|<div class='chat'><small>#</small><button name='parseCommand' value='/user AllianceDarkrai' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#2468B1'>AllianceDarkrai:</font></b></button><em class='mine'>aye love my emote <img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsgd.png" title="feelsgd" width="50" height="50" /></em></div>
+22:42:47 |c|#Lil Kinky|Quick call Itachi hooker! Selena 
+22:42:49 |raw|<div class='chat'><small>#</small><button name='parseCommand' value='/user Lil Kinky' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#DC2B8F'>Lil Kinky:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsgd.png" title="feelsgd" width="50" height="50" /></em></div>
+22:42:54 |L|#AllianceDarkrai
+22:43:07 |J|#AllianceDarkrai
+22:43:10 |c|#AllianceDarkrai|aye
+22:43:11 |c|%MoistCheerios|ithi prolly got her on speed dile
+22:43:12 |c|#AllianceDarkrai|My avatar
+22:43:15 |c|#AllianceDarkrai|!profile
+22:43:15 |raw|<div class="infobox"><button style="border:none;background:none;padding:0;float:left;" name="parseCommand" value="/user AllianceDarkrai"><img src="http://pokemonshowdownfixed-serperiorbae.c9users.io:8080/avatars/alliancedarkrai.jpg" height="80" width="80"></button>&nbsp;<b><font color="#24678d">Name:</font></b>&nbsp;<b><font color="#2468B1">AllianceDarkrai</font></b><br>&nbsp;<b><font color="#24678d">Group:</font></b>&nbsp;Regular User<br>&nbsp;<b><font color="#24678d">Money:</font></b>&nbsp;0 bucks<br>&nbsp;<b><font color="#24678d">Last Seen:</font></b>&nbsp;<font color="#2ECC40">Currently Online</font><br clear="all"></div>
+22:43:19 |c|#AllianceDarkrai|Now its sized right
+22:43:22 |c|#AllianceDarkrai|okay
+22:43:38 |raw|<div class="broadcast-red"><b>The server is restarting soon.</b><br />Please finish your battles quickly. No new battles can be started until the server resets in a few minutes.</div>
+22:43:50 NEW CHATROOM: darkraisdungeon
+22:44:01 |J|#Lil Kinky
+22:44:08 |J|%MoistCheerios
+22:44:08 |c|#Lil Kinky|.
+22:44:10 |c|%MoistCheerios|first
+22:44:13 |c|%MoistCheerios|gdi
+22:44:14 |J|#Alliance Darkrai
+22:44:19 |c|#Alliance Darkrai|3rd
+22:44:20 |N| Thugs Cry|lilkinky
+22:44:33 |N| Thug Cry|thugscry
+22:44:39 |c|#Alliance Darkrai|I cant change the room desc
+22:44:42 |c| Thug Cry|Smh
+22:45:11 |c|#Alliance Darkrai|Can any of you make a roomintro
+22:45:12 |c|#Alliance Darkrai|xd
+22:45:29 |c|%MoistCheerios|ur mom can
+22:45:31 |raw|<div class='chat'><small>%</small><button name='parseCommand' value='/user MoistCheerios' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#227096'>MoistCheerios:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelspink.png" title="feelspink" width="50" height="50" /></em></div>
+22:45:34 |c|#Alliance Darkrai|LOL imma use the sprite website i use
+22:45:35 |c|#Alliance Darkrai|to make one
+22:45:36 |raw|<div class='chat'><small>#</small><button name='parseCommand' value='/user Alliance Darkrai' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#2468B1'>Alliance Darkrai:</font></b></button><em class='mine'><img src="http://i.imgur.com/wp51rIg.png" title="feelsbn" width="50" height="50" /></em></div>
+22:45:41 |c| Thug Cry|Nah I leave the coding to friends 
+22:45:42 |J|♥Audinory
+22:45:43 |raw|<div class='chat'><small> </small><button name='parseCommand' value='/user Thug Cry' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#8745B5'>Thug Cry:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsgd.png" title="feelsgd" width="50" height="50" /></em></div>
+22:45:45 |c|♥Audinory|Uhh
+22:45:49 (Audinory changed the roomdesc to: "1".)
+22:45:52 |c|♥Audinory|:s
+22:45:57 |c|%MoistCheerios|!roomintro
+22:45:57 This room does not have an introduction set.
+22:46:04 |c|♥Audinory|:s
+22:46:04 |c|%MoistCheerios|R.I.P.
+22:47:37 (Alliance Darkrai changed the roomintro.)
+22:47:37 <a href="http://memesvault.com/feels">http://memesvault.com/feels</a>-good-frog-meme/
+22:47:40 |raw|<div class='chat'><small>#</small><button name='parseCommand' value='/user Alliance Darkrai' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#2468B1'>Alliance Darkrai:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/wtfman.png" title="wtfman" width="50" height="50" /></em></div>
+22:47:43 |c|#Alliance Darkrai|!roomintro
+22:47:43 |raw|<div class="infobox"><a href="http://memesvault.com/feels">http://memesvault.com/feels</a>-good-frog-meme/</div>
+22:47:44 |c|#Alliance Darkrai|Sigh
+22:47:54 |c| Thug Cry|Let's go outside pick up some hookers for Darkrai Y/Y they have to be hot like around 7 maybe 8 
+22:47:59 |raw|<div class='chat'><small> </small><button name='parseCommand' value='/user Thug Cry' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#8745B5'>Thug Cry:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsok.png" title="feelsok" width="50" height="50" /></em></div>
+22:48:09 |c|#Alliance Darkrai|ok
+22:48:13 |c|%MoistCheerios|like 7 to 8 years old?
+22:48:16 |c| Thug Cry|No
+22:48:17 |c|%MoistCheerios|if so im down
+22:48:29 |raw|<div class='chat'><small>%</small><button name='parseCommand' value='/user MoistCheerios' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#227096'>MoistCheerios:</font></b></button><em class='mine'>jk <img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsnv.png" title="feelsnv" width="50" height="50" /></em></div>
+22:48:33 |c| Thug Cry|on scale of hotness 
+22:48:36 |c| Thug Cry|7-8
+22:48:39 |c|%MoistCheerios|oh
+22:48:42 |c| Thug Cry|OH IK 
+22:48:46 |c|%MoistCheerios|darkrais like 4
+22:48:54 |c| Thug Cry|lets hook him up with ~~Erica~~
+22:48:55 |c|%MoistCheerios|we gotta kick em out of his own room
+22:48:56 |raw|<div class='chat'><small>%</small><button name='parseCommand' value='/user MoistCheerios' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#227096'>MoistCheerios:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsdd.png" title="feelsdd" width="50" height="50" /></em></div>
+22:48:59 |raw|<div class='chat'><small> </small><button name='parseCommand' value='/user Thug Cry' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#8745B5'>Thug Cry:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsgd.png" title="feelsgd" width="50" height="50" /></em></div>
+22:49:10 |raw|<div class='chat'><small>%</small><button name='parseCommand' value='/user MoistCheerios' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#227096'>MoistCheerios:</font></b></button><em class='mine'>ericas liek a 2 <img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsdd.png" title="feelsdd" width="50" height="50" /></em></div>
+22:49:17 |c|%MoistCheerios|lil sweets like a 10/10
+22:49:29 |raw|<div class='chat'><small> </small><button name='parseCommand' value='/user Thug Cry' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#8745B5'>Thug Cry:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsnv.png" title="feelsnv" width="50" height="50" /></em></div>
+22:49:33 |c|%MoistCheerios|would take up the bum again
+22:49:36 |J|@Ithi
+22:49:50 |c| Thug Cry|Yuki get on your knees suck Itachi 
+22:49:52 |raw|<div class='chat'><small> </small><button name='parseCommand' value='/user Thug Cry' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#8745B5'>Thug Cry:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsrs.png" title="feelsrs" width="50" height="50" /></em></div>
+22:49:58 |c|%MoistCheerios|/me sucks off ithi
+22:50:01 |c|@Ithi|...
+22:50:03 |c|@Ithi|kys
+22:50:11 |c|#Alliance Darkrai|hot
+22:50:23 Thug Cry was warned by Ithi. (yeah lets not order him to do that)
+22:50:23 |unlink|thugcry
+22:50:27 MoistCheerios was warned by Ithi. (nice meme)
+22:50:27 |unlink|moistcheerios
+22:50:36 |c| Thug Cry|Screenshot 
+22:50:39 |raw|<div class='chat'><small>#</small><button name='parseCommand' value='/user Alliance Darkrai' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#2468B1'>Alliance Darkrai:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsrs.png" title="feelsrs" width="50" height="50" /></em></div>
+22:50:40 |raw|<div class='chat'><small> </small><button name='parseCommand' value='/user Thug Cry' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#8745B5'>Thug Cry:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsok.png" title="feelsok" width="50" height="50" /></em></div>

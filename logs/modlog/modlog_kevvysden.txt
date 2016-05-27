@@ -1,0 +1,8 @@
+[2016-05-25T23:54:18.873Z] (kevvysden) Audinory made this room hidden.
+[2016-05-25T23:54:46.872Z] (kevvysden) (Audinory changed the roomintro.)
+[2016-05-26T06:07:39.700Z] (kevvysden) Audinory declared 1
+[2016-05-26T23:46:42.762Z] (kevvysden) Audinory was appointed to Room Founder by Audinory.
+[2016-05-26T23:46:46.337Z] (kevvysden) (Audinory was demoted to Room Special Star by Audinory.)
+[2016-05-26T23:46:49.776Z] (kevvysden) hitorihanza was promoted to Room Special Star by Audinory.
+[2016-05-26T23:47:51.969Z] (kevvysden) Audinory set modjoin to ~.
+[2016-05-26T23:47:51.971Z] (kevvysden) (Audinory set modchat to +)

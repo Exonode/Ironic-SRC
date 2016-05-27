@@ -1,0 +1,422 @@
+00:06:32 |userstats|total:3|guests:0| :0|+:0|%:0|@:1|★:1|-:0|&:0|#:1|♥:0|~:0
+00:06:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+00:09:38 (verizor was demoted to Room regular user by verizor.)
+00:09:38 |N|&verizor|verizor
+00:10:17 |N| verizor|verizor
+00:16:32 |userstats|total:3|guests:0| :1|+:0|%:0|@:1|★:1|-:0|&:0|#:0|♥:0|~:0
+00:16:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+00:18:49 |L|@DarkAngeallenq.q
+00:24:27 |L| verizor
+00:26:32 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:1|-:0|&:0|#:0|♥:0|~:0
+00:26:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+00:36:32 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:1|-:0|&:0|#:0|♥:0|~:0
+00:36:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+00:46:32 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:1|-:0|&:0|#:0|♥:0|~:0
+00:46:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+00:47:35 |J|&verizor
+00:56:32 |userstats|total:2|guests:0| :0|+:0|%:0|@:0|★:1|-:0|&:1|#:0|♥:0|~:0
+00:56:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+01:06:32 |userstats|total:2|guests:0| :0|+:0|%:0|@:0|★:1|-:0|&:1|#:0|♥:0|~:0
+01:06:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+01:09:57 verizor was appointed Room Lord by verizor.
+01:09:57 |N|#verizor|verizor
+01:16:32 |userstats|total:2|guests:0| :0|+:0|%:0|@:0|★:1|-:0|&:0|#:1|♥:0|~:0
+01:16:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+01:22:42 |L|#verizor
+01:26:14 |N|★Audinory|audinory
+01:26:25 |N|★Audinory|audinory
+01:26:28 |N|★Audinory|audinory
+01:26:32 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:1|-:0|&:0|#:0|♥:0|~:0
+01:26:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+01:36:32 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:1|-:0|&:0|#:0|♥:0|~:0
+01:36:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+01:46:32 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:1|-:0|&:0|#:0|♥:0|~:0
+01:46:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+01:56:32 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:1|-:0|&:0|#:0|♥:0|~:0
+01:56:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+02:06:32 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:1|-:0|&:0|#:0|♥:0|~:0
+02:06:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+02:16:32 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:1|-:0|&:0|#:0|♥:0|~:0
+02:16:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+02:26:32 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:1|-:0|&:0|#:0|♥:0|~:0
+02:26:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+02:28:40 |J|#verizor
+02:29:33 |L|#verizor
+02:36:32 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:1|-:0|&:0|#:0|♥:0|~:0
+02:36:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+02:46:32 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:1|-:0|&:0|#:0|♥:0|~:0
+02:46:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+02:56:32 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:1|-:0|&:0|#:0|♥:0|~:0
+02:56:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+03:06:32 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:1|-:0|&:0|#:0|♥:0|~:0
+03:06:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+03:16:32 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:1|-:0|&:0|#:0|♥:0|~:0
+03:16:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+03:26:32 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:1|-:0|&:0|#:0|♥:0|~:0
+03:26:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+03:28:41 |c|★Audinory|!roomintro
+03:28:41 |raw|<div class="infobox"><div style="border-top: gold, solid, 1px ; border-left: gold, solid, 1px ; background-image: url('http://2.media.dorkly.cvcdn.com/81/32/9db00c195206418e5a3e20de138c38af.jpg') ; background-size: 85% ; background-repeat: no-repeat ; width: 100%; height: 250px ;"><img src="//i.imgur.com/HKpam0G.png" width="350" height="75"><div style="border-bottom: gold, solid, 1px ; border-right: gold, solid, 1px ; border-left: gold, solid, 1px ; background-color: black ; float: right ; width: 15% ; height: 326px"><center><img src="http://img.pokemondb.net/sprites/black-white/anim/normal/gurdurr.gif" width="70" height="81"><br><img src="http://pldh.net/media/pokemon/gen3/rusa_action/073.gif" width="71" height="75"><br><img src="http://img.pokemondb.net/sprites/black-white/anim/normal/terrakion.gif" width="81" height="61"><br><img src="http://img.pokemondb.net/sprites/black-white/anim/normal/whimsicott.gif" width="64" height="71"></center></div></div><div style="border-top: gold, solid, 1px ; border-left: gold, solid, 1px ; border-bottom: gold, solid, 1px ; color: gold ; background-color:black ; width: 85% ; height: 75px ;"><center><strong><u>Welcome to Tournaments!</u></strong><br><br>Here you will find Official Tournaments where you can play for bucks or even some special prizes if verizor can be bothered!</center></div></div>
+03:36:32 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:1|-:0|&:0|#:0|♥:0|~:0
+03:36:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+03:40:01 |raw|<div class="broadcast-green">1</div>
+03:46:32 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:1|-:0|&:0|#:0|♥:0|~:0
+03:46:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+03:56:32 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:1|-:0|&:0|#:0|♥:0|~:0
+03:56:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+04:06:32 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:1|-:0|&:0|#:0|♥:0|~:0
+04:06:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+04:16:32 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:1|-:0|&:0|#:0|♥:0|~:0
+04:16:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+04:18:04 |L|★Audinory
+04:26:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+04:26:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+04:36:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+04:36:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+04:46:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+04:46:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+04:56:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+04:56:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+05:06:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+05:06:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+05:16:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+05:16:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+05:26:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+05:26:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+05:36:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+05:36:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+05:46:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+05:46:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+05:56:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+05:56:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+06:06:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+06:06:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+06:16:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+06:16:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+06:26:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+06:26:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+06:33:45 NEW CHATROOM: tournaments
+06:36:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+06:43:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+06:46:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+06:53:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+06:56:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+07:03:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+07:06:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+07:13:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+07:16:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+07:23:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+07:26:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+07:33:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+07:36:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+07:43:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+07:46:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+07:53:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+07:56:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+08:03:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+08:06:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+08:13:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+08:16:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+08:23:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+08:26:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+08:33:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+08:36:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+08:43:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+08:46:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+08:53:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+08:56:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+09:03:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+09:06:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+09:13:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+09:16:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+09:23:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+09:26:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+09:33:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+09:36:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+09:43:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+09:46:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+09:53:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+09:56:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+10:03:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+10:06:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+10:13:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+10:16:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+10:23:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+10:26:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+10:33:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+10:36:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+10:43:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+10:46:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+10:53:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+10:56:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+11:03:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+11:06:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+11:13:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+11:16:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+11:23:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+11:26:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+11:33:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+11:36:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+11:43:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+11:46:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+11:53:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+11:56:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+12:03:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+12:06:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+12:13:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+12:16:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+12:23:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+12:26:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+12:33:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+12:36:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+12:43:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+12:46:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+12:53:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+12:56:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+13:03:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+13:06:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+13:13:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+13:16:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+13:23:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+13:26:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+13:33:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+13:36:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+13:43:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+13:46:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+13:53:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+13:56:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+14:03:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+14:06:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+14:13:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+14:16:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+14:23:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+14:26:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+14:33:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+14:36:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+14:43:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+14:46:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+14:53:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+14:56:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+15:03:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+15:06:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+15:13:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+15:16:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+15:23:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+15:26:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+15:33:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+15:36:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+15:43:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+15:46:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+15:53:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+15:56:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+16:03:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+16:06:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+16:13:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+16:16:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+16:23:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+16:26:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+16:27:43 |J| lunam00na
+16:32:37 |N|%No Shaymin Fear|lunam00na
+16:33:46 |userstats|total:1|guests:0| :0|+:0|%:1|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+16:36:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+16:43:46 |userstats|total:1|guests:0| :0|+:0|%:1|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+16:46:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+16:53:46 |userstats|total:1|guests:0| :0|+:0|%:1|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+16:56:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+17:03:46 |userstats|total:1|guests:0| :0|+:0|%:1|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+17:06:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+17:13:46 |userstats|total:1|guests:0| :0|+:0|%:1|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+17:16:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+17:23:46 |userstats|total:1|guests:0| :0|+:0|%:1|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+17:26:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+17:30:38 |N| moon1|noshayminfear
+17:31:00 |N|%No Shaymin Fear|moon1
+17:33:46 |userstats|total:1|guests:0| :0|+:0|%:1|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+17:36:20 |J|#verizor
+17:36:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+17:36:51 |L|#verizor
+17:37:13 |J|#verizor
+17:38:57 |L|#verizor
+17:42:34 |J|#verizor
+17:43:40 |L|%No Shaymin Fear
+17:43:42 |J|%No Shaymin Fear
+17:43:46 |userstats|total:2|guests:0| :0|+:0|%:1|@:0|★:0|-:0|&:0|#:1|♥:0|~:0
+17:46:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+17:51:37 |J|&TheShankSkank
+17:51:41 No Shaymin Fear used /poll create Tour Type?, Random, Smogon Based, Other Metas Based, Inverse, Host Chooses, Seasonal
+17:51:41 (A poll was started by No Shaymin Fear.)
+17:51:42 |J| The sakurai - ⓘⓛⓛ
+17:51:45 |J|+shivamrustagi
+17:51:48 |c|+shivamrustagi|tour
+17:51:50 |c|+shivamrustagi|:D
+17:51:51 The sakurai - ⓘⓛⓛ was promoted to Room Le Mod by The sakurai - ⓘⓛⓛ.
+17:51:51 |N|@The sakurai - ⓘⓛⓛ|thesakurai
+17:51:57 |c|+shivamrustagi|i love tours
+17:52:01 (The sakurai - ⓘⓛⓛ was demoted to Room regular user by The sakurai - ⓘⓛⓛ.)
+17:52:01 |N| The sakurai - ⓘⓛⓛ|thesakurai
+17:52:06 |L| The sakurai - ⓘⓛⓛ
+17:52:15 |c|#verizor|k
+17:52:44 |c|#verizor|i guess the prize will be
+17:52:51 |c|&TheShankSkank|!roll 150
+17:52:51 |raw|<div class="infobox">Roll (1 - 150): 64</div>
+17:53:01 |c|%No Shaymin Fear|:O
+17:53:05 |c|#verizor|64 moneys
+17:53:26 (kingdeacon was demoted to Room Driver by verizor.)
+17:53:39 No Shaymin Fear was promoted to Room Le Mod by verizor.
+17:53:39 |N|@No Shaymin Fear|noshayminfear
+17:53:43 |c|@No Shaymin Fear|ty.
+17:53:46 |userstats|total:4|guests:0| :0|+:1|%:0|@:1|★:0|-:0|&:1|#:1|♥:0|~:0
+17:53:54 |c|#verizor|you can make tours now
+17:53:57 |c|#verizor|iirc
+17:54:25 |c|@No Shaymin Fear|mkay. ty.
+17:54:32 |c|@No Shaymin Fear|!poll display
+17:56:31 |J| Spirit - Anaysha
+17:56:41 |L| Spirit - Anaysha
+17:56:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+17:59:46 |html|<div class="infobox"><p style="margin: 2px 0 5px 0"><span style="border:1px solid #777;color:#555;border-radius:4px;padding:0 3px"><i class="fa fa-bar-chart"></i> Poll ended</span> <strong style="font-size:11pt">Tour Type?</strong></p><div style="margin-top: 3px">1. <strong>Random</strong> <small>(3 votes)</small><br /><span style="font-size:7pt;background:#79A;padding-right:225px"></span><small>&nbsp;75%</small></div><div style="margin-top: 3px">2. <strong>Smogon Based</strong> <small>(0 votes)</small><br /><span style="font-size:7pt;background:#8A8;padding-right:0px"></span><small>&nbsp;0%</small></div><div style="margin-top: 3px">3. <strong>Other Metas Based</strong> <small>(1 vote)</small><br /><span style="font-size:7pt;background:#88B;padding-right:75px"></span><small>&nbsp;25%</small></div><div style="margin-top: 3px">4. <strong>Inverse</strong> <small>(0 votes)</small><br /><span style="font-size:7pt;background:#79A;padding-right:0px"></span><small>&nbsp;0%</small></div><div style="margin-top: 3px">5. <strong>Host Chooses</strong> <small>(0 votes)</small><br /><span style="font-size:7pt;background:#8A8;padding-right:0px"></span><small>&nbsp;0%</small></div><div style="margin-top: 3px">6. <strong>Seasonal</strong> <small>(0 votes)</small><br /><span style="font-size:7pt;background:#88B;padding-right:0px"></span><small>&nbsp;0%</small></div></div>
+17:59:46 (The poll was ended by No Shaymin Fear.)
+17:59:49 |c|@No Shaymin Fear|random it is
+18:00:14 |c|#verizor|make it round robin
+18:00:15 |c|+shivamrustagi|verizor
+18:00:21 |c|+shivamrustagi|i wanna be a tour part
+18:00:24 |c|#verizor|IM VAQ
+18:01:04 |c|+shivamrustagi|oh 
+18:01:06 |c|+shivamrustagi|r u vaq
+18:01:08 |c|+shivamrustagi|:o
+18:01:12 |c|#verizor|YES I AM
+18:01:16 |c|+shivamrustagi|why did all of u change ur names
+18:01:21 |c|+shivamrustagi|like ggdaca
+18:01:22 No Shaymin Fear used /poll create Random Tour, Random Battle, Random Monotype, Battle Factory, Hackmons Cup, CC1v1, Gen 1 Randoms, Gen 2 Randoms
+18:01:22 (A poll was started by No Shaymin Fear.)
+18:01:24 |c|+shivamrustagi|the vixen
+18:01:52 NEW CHATROOM: tournaments
+18:03:36 NEW CHATROOM: tournaments
+18:04:23 |J|#verizor
+18:05:04 |L|#verizor
+18:06:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+18:13:36 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+18:16:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+18:19:42 |J|@No Shaymin Fear
+18:23:36 |userstats|total:1|guests:0| :0|+:0|%:0|@:1|★:0|-:0|&:0|#:0|♥:0|~:0
+18:26:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+18:33:36 |userstats|total:1|guests:0| :0|+:0|%:0|@:1|★:0|-:0|&:0|#:0|♥:0|~:0
+18:36:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+18:39:45 |J|#verizor - ⓐⓕⓚ
+18:39:54 |N|#verizor|verizor
+18:39:54 |N|#verizor|verizor
+18:39:54 |raw|-- <font color='#275BD6'><strong>verizor</strong></font> is no longer afk.
+18:43:36 |userstats|total:2|guests:0| :0|+:0|%:0|@:1|★:0|-:0|&:0|#:1|♥:0|~:0
+18:46:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+18:51:46 |raw|<div class="broadcast-red"><b>The server is restarting soon.</b><br />Please finish your battles quickly. No new battles can be started until the server resets in a few minutes.</div>
+18:52:20 NEW CHATROOM: tournaments
+18:56:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+19:02:15 |J|&TheShankSkank
+19:02:15 |J|★A U D I N O R Y ~
+19:02:18 |c|★A U D I N O R Y ~|ka
+19:02:20 |userstats|total:2|guests:0| :0|+:0|%:0|@:0|★:1|-:0|&:1|#:0|♥:0|~:0
+19:02:36 |J|#verizor
+19:02:43 |c|&TheShankSkank|ye
+19:02:56 |raw|<div class="broadcast-blue"><b>45 bucks tour in Tours, Gen 3 randbats</b></div>
+19:03:07 |tournament|create|gen3randbats|Single Elimination|0
+19:03:07 (A U D I N O R Y ~ created a tournament in gen3randbats format.)
+19:03:09 |tournament|join|A U D I N O R Y ~
+19:03:15 |tournament|join|TheShankSkank
+19:03:19 |c|#verizor|Better
+19:03:31 |c|#verizor|MWHAHAHAHAHAHAHAHA
+19:04:16 |c|★A U D I N O R Y ~|brb
+19:04:32 |c|#verizor|k
+19:05:00 |J|%Hurricane'd
+19:05:13 |L|%Hurricane'd
+19:06:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+19:12:20 |userstats|total:3|guests:0| :0|+:0|%:0|@:0|★:1|-:0|&:1|#:1|♥:0|~:0
+19:13:23 |tournament|leave|A U D I N O R Y ~
+19:13:43 |N|★Audinory|audinory
+19:13:46 |N|★Audinory - ⓕⓞⓞ|audinory
+19:13:46 |N|★Audinory - ⓕⓞⓞ|audinory
+19:13:47 |N|★Audinory - ⓕⓞⓞⓓ|audinory
+19:13:47 |N|★Audinory - ⓕⓞⓞⓓ|audinory
+19:14:29 |L|&TheShankSkank
+19:16:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+19:22:20 |userstats|total:2|guests:0| :0|+:0|%:0|@:0|★:1|-:0|&:0|#:1|♥:0|~:0
+19:25:27 |L|#verizor
+19:26:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+19:32:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:1|-:0|&:0|#:0|♥:0|~:0
+19:34:35 |J|#verizor
+19:36:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+19:42:20 |userstats|total:2|guests:0| :0|+:0|%:0|@:0|★:1|-:0|&:0|#:1|♥:0|~:0
+19:46:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+19:52:20 |userstats|total:2|guests:0| :0|+:0|%:0|@:0|★:1|-:0|&:0|#:1|♥:0|~:0
+19:56:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+19:57:57 |tournament|forceend
+19:57:57 (verizor forcibly ended a tournament.)
+20:02:20 |userstats|total:2|guests:0| :0|+:0|%:0|@:0|★:1|-:0|&:0|#:1|♥:0|~:0
+20:06:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+20:12:20 |userstats|total:2|guests:0| :0|+:0|%:0|@:0|★:1|-:0|&:0|#:1|♥:0|~:0
+20:16:13 |L|#verizor
+20:16:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+20:21:36 |J|%FocusBlasted
+20:21:47 FocusBlasted used /poll create Random Tour, Random Battle, Random Monotype, Battle Factory, Hackmons Cup, CC1v1, Gen 1 Randoms, Gen 2 Randoms
+20:21:47 (A poll was started by FocusBlasted.)
+20:22:20 |userstats|total:2|guests:0| :0|+:0|%:1|@:0|★:1|-:0|&:0|#:0|♥:0|~:0
+20:24:32 |L|%FocusBlasted
+20:26:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+20:32:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:1|-:0|&:0|#:0|♥:0|~:0
+20:36:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+20:39:14 |J|#verizor - ⓐⓕⓚ
+20:39:19 |L|#verizor - ⓐⓕⓚ
+20:41:41 |N|★Audinory|audinory
+20:41:41 |N|★Audinory|audinory
+20:42:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:1|-:0|&:0|#:0|♥:0|~:0
+20:43:52 |J|%kingDeacon
+20:46:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+20:47:55 |N| Life Bish|kingdeacon
+20:48:38 |L| Life Bish
+20:52:20 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:1|-:0|&:0|#:0|♥:0|~:0
+20:56:40 |J|#verizor
+20:56:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+20:57:39 |J|%king♢DEACON
+21:02:20 |userstats|total:3|guests:0| :0|+:0|%:1|@:0|★:1|-:0|&:0|#:1|♥:0|~:0
+21:02:44 |L|#verizor
+21:03:45 |J|#verizor
+21:06:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+21:10:58 |L|★Audinory
+21:11:10 |L|%king♢DEACON
+21:11:10 |L|#verizor
+21:12:20 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+21:16:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+21:22:20 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+21:26:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+21:32:20 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+21:36:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+21:38:17 |raw|<div class="broadcast-red"><b>The server is restarting soon.</b><br />Please finish your battles quickly. No new battles can be started until the server resets in a few minutes.</div>
+21:38:17 |raw|<div class="broadcast-blue"><b>We'll Brb folks</b></div>
+21:38:47 NEW CHATROOM: tournaments
+21:46:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+21:48:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+21:53:10 |raw|<div class="broadcast-blue"><b>Bandi and Audino "can code"</b></div>
+21:54:27 |raw|<div class="broadcast-red"><b>The server is restarting soon.</b><br />Please finish your battles quickly. No new battles can be started until the server resets in a few minutes.</div>
+21:56:06 NEW CHATROOM: tournaments
+21:56:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:06:06 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:06:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:16:06 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:16:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:26:06 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:26:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:36:06 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:36:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:46:06 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:46:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:56:06 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:56:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+23:06:06 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+23:06:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+23:13:01 |J|#Verizor
+23:13:18 |L|#Verizor
+23:16:06 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+23:16:47 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+23:17:21 |raw|<div class="broadcast-red"><b>The server is restarting soon.</b><br />Please finish your battles quickly. No new battles can be started until the server resets in a few minutes.</div>
+23:17:33 NEW CHATROOM: tournaments
+23:23:45 NEW CHATROOM: tournaments
+23:33:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+23:43:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+23:53:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0

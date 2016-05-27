@@ -1,0 +1,2404 @@
+
+Error: listen EADDRINUSE 0.0.0.0:8080
+    at Object.exports._errnoException (util.js:837:11)
+    at exports._exceptionWithHostPort (util.js:860:20)
+    at Server._listen2 (net.js:1231:14)
+    at listen (net.js:1267:10)
+    at net.js:1376:9
+    at doNTCallback3 (node.js:440:9)
+    at process._tickCallback (node.js:346:17)
+    at Function.Module.runMain (module.js:477:11)
+    at startup (node.js:117:18)
+    at node.js:951:3
+
+Additional information:
+
+
+Error: listen EADDRINUSE 0.0.0.0:8080
+    at Object.exports._errnoException (util.js:837:11)
+    at exports._exceptionWithHostPort (util.js:860:20)
+    at Server._listen2 (net.js:1231:14)
+    at listen (net.js:1267:10)
+    at net.js:1376:9
+    at doNTCallback3 (node.js:440:9)
+    at process._tickCallback (node.js:346:17)
+    at Function.Module.runMain (module.js:477:11)
+    at startup (node.js:117:18)
+    at node.js:951:3
+
+Additional information:
+
+
+Error: listen EADDRINUSE 0.0.0.0:8080
+    at Object.exports._errnoException (util.js:837:11)
+    at exports._exceptionWithHostPort (util.js:860:20)
+    at Server._listen2 (net.js:1231:14)
+    at listen (net.js:1267:10)
+    at net.js:1376:9
+    at doNTCallback3 (node.js:440:9)
+    at process._tickCallback (node.js:346:17)
+    at Function.Module.runMain (module.js:477:11)
+    at startup (node.js:117:18)
+    at node.js:951:3
+
+Additional information:
+
+
+Error: listen EADDRINUSE 0.0.0.0:8080
+    at Object.exports._errnoException (util.js:837:11)
+    at exports._exceptionWithHostPort (util.js:860:20)
+    at Server._listen2 (net.js:1231:14)
+    at listen (net.js:1267:10)
+    at net.js:1376:9
+    at doNTCallback3 (node.js:440:9)
+    at process._tickCallback (node.js:346:17)
+    at Function.Module.runMain (module.js:477:11)
+    at startup (node.js:117:18)
+    at node.js:951:3
+
+Additional information:
+
+
+Error: listen EADDRINUSE 0.0.0.0:8000
+    at Object.exports._errnoException (util.js:837:11)
+    at exports._exceptionWithHostPort (util.js:860:20)
+    at Server._listen2 (net.js:1231:14)
+    at listen (net.js:1267:10)
+    at net.js:1376:9
+    at doNTCallback3 (node.js:440:9)
+    at process._tickCallback (node.js:346:17)
+    at Function.Module.runMain (module.js:477:11)
+    at startup (node.js:117:18)
+    at node.js:951:3
+
+Additional information:
+
+
+Error: listen EADDRINUSE 0.0.0.0:8000
+    at Object.exports._errnoException (util.js:837:11)
+    at exports._exceptionWithHostPort (util.js:860:20)
+    at Server._listen2 (net.js:1231:14)
+    at listen (net.js:1267:10)
+    at net.js:1376:9
+    at doNTCallback3 (node.js:440:9)
+    at process._tickCallback (node.js:346:17)
+    at Function.Module.runMain (module.js:477:11)
+    at startup (node.js:117:18)
+    at node.js:951:3
+
+Additional information:
+
+
+Error: listen EADDRINUSE 0.0.0.0:8080
+    at Object.exports._errnoException (util.js:837:11)
+    at exports._exceptionWithHostPort (util.js:860:20)
+    at Server._listen2 (net.js:1231:14)
+    at listen (net.js:1267:10)
+    at net.js:1376:9
+    at doNTCallback3 (node.js:440:9)
+    at process._tickCallback (node.js:346:17)
+    at Function.Module.runMain (module.js:477:11)
+    at startup (node.js:117:18)
+    at node.js:951:3
+
+Additional information:
+
+
+Error: Worker 1 abruptly died
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:65:32)
+    at emitNone (events.js:67:13)
+    at ChildProcess.emit (events.js:166:7)
+    at finish (internal/child_process.js:656:14)
+    at doNTCallback0 (node.js:407:9)
+    at process._tickDomainCallback (node.js:377:13)
+
+Error: listen EADDRINUSE 0.0.0.0:8080
+    at Object.exports._errnoException (util.js:837:11)
+    at exports._exceptionWithHostPort (util.js:860:20)
+    at Server._listen2 (net.js:1231:14)
+    at listen (net.js:1267:10)
+    at net.js:1376:9
+    at doNTCallback3 (node.js:440:9)
+    at process._tickCallback (node.js:346:17)
+    at Function.Module.runMain (module.js:477:11)
+    at startup (node.js:117:18)
+    at node.js:951:3
+
+Additional information:
+
+
+Error: Worker 2 abruptly died
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:65:32)
+    at emitNone (events.js:67:13)
+    at ChildProcess.emit (events.js:166:7)
+    at finish (internal/child_process.js:656:14)
+    at doNTCallback0 (node.js:407:9)
+    at process._tickDomainCallback (node.js:377:13)
+
+Error: listen EADDRINUSE 0.0.0.0:8080
+    at Object.exports._errnoException (util.js:837:11)
+    at exports._exceptionWithHostPort (util.js:860:20)
+    at Server._listen2 (net.js:1231:14)
+    at listen (net.js:1267:10)
+    at net.js:1376:9
+    at doNTCallback3 (node.js:440:9)
+    at process._tickCallback (node.js:346:17)
+    at Function.Module.runMain (module.js:477:11)
+    at startup (node.js:117:18)
+    at node.js:951:3
+
+Additional information:
+
+
+Error: listen EADDRINUSE 0.0.0.0:8080
+    at Object.exports._errnoException (util.js:837:11)
+    at exports._exceptionWithHostPort (util.js:860:20)
+    at Server._listen2 (net.js:1231:14)
+    at listen (net.js:1267:10)
+    at net.js:1376:9
+    at doNTCallback3 (node.js:440:9)
+    at process._tickCallback (node.js:346:17)
+    at Function.Module.runMain (module.js:477:11)
+    at startup (node.js:117:18)
+    at node.js:951:3
+
+Additional information:
+
+
+Error: listen EADDRINUSE 0.0.0.0:8000
+    at Object.exports._errnoException (util.js:837:11)
+    at exports._exceptionWithHostPort (util.js:860:20)
+    at Server._listen2 (net.js:1231:14)
+    at listen (net.js:1267:10)
+    at net.js:1376:9
+    at doNTCallback3 (node.js:440:9)
+    at process._tickCallback (node.js:346:17)
+    at Function.Module.runMain (module.js:477:11)
+    at startup (node.js:117:18)
+    at node.js:951:3
+
+Additional information:
+
+
+Error: listen EADDRINUSE 0.0.0.0:8000
+    at Object.exports._errnoException (util.js:837:11)
+    at exports._exceptionWithHostPort (util.js:860:20)
+    at Server._listen2 (net.js:1231:14)
+    at listen (net.js:1267:10)
+    at net.js:1376:9
+    at doNTCallback3 (node.js:440:9)
+    at process._tickCallback (node.js:346:17)
+    at Function.Module.runMain (module.js:477:11)
+    at startup (node.js:117:18)
+    at node.js:951:3
+
+Additional information:
+
+
+Error: listen EADDRINUSE 0.0.0.0:8000
+    at Object.exports._errnoException (util.js:837:11)
+    at exports._exceptionWithHostPort (util.js:860:20)
+    at Server._listen2 (net.js:1231:14)
+    at listen (net.js:1267:10)
+    at net.js:1376:9
+    at doNTCallback3 (node.js:440:9)
+    at process._tickCallback (node.js:346:17)
+    at Function.Module.runMain (module.js:477:11)
+    at startup (node.js:117:18)
+    at node.js:951:3
+
+Additional information:
+
+
+Error: listen EADDRINUSE 0.0.0.0:8000
+    at Object.exports._errnoException (util.js:837:11)
+    at exports._exceptionWithHostPort (util.js:860:20)
+    at Server._listen2 (net.js:1231:14)
+    at listen (net.js:1267:10)
+    at net.js:1376:9
+    at doNTCallback3 (node.js:440:9)
+    at process._tickCallback (node.js:346:17)
+    at Function.Module.runMain (module.js:477:11)
+    at startup (node.js:117:18)
+    at node.js:951:3
+
+Additional information:
+
+
+Error: listen EADDRINUSE 0.0.0.0:8000
+    at Object.exports._errnoException (util.js:837:11)
+    at exports._exceptionWithHostPort (util.js:860:20)
+    at Server._listen2 (net.js:1231:14)
+    at listen (net.js:1267:10)
+    at net.js:1376:9
+    at doNTCallback3 (node.js:440:9)
+    at process._tickCallback (node.js:346:17)
+    at Function.Module.runMain (module.js:477:11)
+    at startup (node.js:117:18)
+    at node.js:951:3
+
+Additional information:
+
+
+Error: listen EADDRINUSE 0.0.0.0:8000
+    at Object.exports._errnoException (util.js:837:11)
+    at exports._exceptionWithHostPort (util.js:860:20)
+    at Server._listen2 (net.js:1231:14)
+    at listen (net.js:1267:10)
+    at net.js:1376:9
+    at doNTCallback3 (node.js:440:9)
+    at process._tickCallback (node.js:346:17)
+    at Function.Module.runMain (module.js:477:11)
+    at startup (node.js:117:18)
+    at node.js:951:3
+
+Additional information:
+
+
+TypeError: Object.merge is not a function
+    at saveTrainerCards (/home/ubuntu/workspace/chat-plugins/ez-tc.js:23:9)
+    at CommandContext.exports.commands.trainercard (/home/ubuntu/workspace/chat-plugins/ez-tc.js:43:5)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:262:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:607:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1430:9)
+    at Function.fs.readFile.groupData.rename.connection.getAlts.getAll.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1650:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+
+Additional information:
+  user = Felicide ♥
+  room = lobby
+  message = /tc add, test, test
+
+
+Error: Invalid URI "play.pokemonshowdown.com/sprites/trainers/showtan.png"
+    at Request.init (/home/ubuntu/workspace/node_modules/request/request.js:286:31)
+    at new Request (/home/ubuntu/workspace/node_modules/request/request.js:140:8)
+    at request (/home/ubuntu/workspace/node_modules/request/index.js:55:10)
+    at Function.get (/home/ubuntu/workspace/node_modules/request/index.js:63:12)
+    at download_image (/home/ubuntu/workspace/chat-plugins/customavatar.js:12:4)
+    at CommandContext.exports.commands.customavatar.set (/home/ubuntu/workspace/chat-plugins/customavatar.js:62:4)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:262:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:607:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1430:9)
+
+Additional information:
+  user = Felicide ♥
+  room = lobby
+  message = /customavatar set Mystifi, play.pokemonshowdown.com/sprites/trainers/showtan.png
+
+
+TypeError: this[(teamGenerator || "randomUberTeam")] is not a function
+    at Tools.exports.BattleScripts.getTeam (/home/ubuntu/workspace/data/scripts.js:732:49)
+    at new BattleSide (/home/ubuntu/workspace/battle-engine.js:1402:27)
+    at Tools.process.on.require.start.process.on.Battle.construct.Battle.eachEvent.Battle.makeRequest.switchTable.some.switchTable.some.Battle.nextTurn.Battle.damage.Battle.resolveTarget.Battle.runDecision.Battle.parseChoice.Battle.add.Battle.join (/home/ubuntu/workspace/battle-engine.js:4655:15)
+    at Tools.process.on.require.start.process.on.Battle.construct.Battle.eachEvent.Battle.makeRequest.switchTable.some.switchTable.some.Battle.nextTurn.Battle.damage.Battle.resolveTarget.Battle.runDecision.Battle.parseChoice.Battle.add.Battle.receive (/home/ubuntu/workspace/battle-engine.js:4712:9)
+    at process.<anonymous> (/home/ubuntu/workspace/battle-engine.js:74:12)
+    at emitTwo (events.js:87:13)
+    at process.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:685:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+Additional information:
+  message = battle-randomubers-63|join|p1|Hirl123|hirl123.gif
+  currentRequest = 
+  log = 
+
+
+
+TypeError: Cannot set property 'currentRequest' of null
+    at Tools.process.on.require.start.process.on.Battle.construct.Battle.eachEvent.Battle.makeRequest.switchTable.some.switchTable.some.activeData [as makeRequest] (/home/ubuntu/workspace/battle-engine.js:2657:26)
+    at process.<anonymous> (/home/ubuntu/workspace/battle-engine.js:86:13)
+    at emitTwo (events.js:87:13)
+    at process.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:685:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+TypeError: this[(teamGenerator || "randomUberTeam")] is not a function
+    at Tools.exports.BattleScripts.getTeam (/home/ubuntu/workspace/data/scripts.js:732:49)
+    at new BattleSide (/home/ubuntu/workspace/battle-engine.js:1402:27)
+    at Tools.process.on.require.start.process.on.Battle.construct.Battle.eachEvent.Battle.makeRequest.switchTable.some.switchTable.some.Battle.nextTurn.Battle.damage.Battle.resolveTarget.Battle.runDecision.Battle.parseChoice.Battle.add.Battle.join (/home/ubuntu/workspace/battle-engine.js:4655:15)
+    at Tools.process.on.require.start.process.on.Battle.construct.Battle.eachEvent.Battle.makeRequest.switchTable.some.switchTable.some.Battle.nextTurn.Battle.damage.Battle.resolveTarget.Battle.runDecision.Battle.parseChoice.Battle.add.Battle.receive (/home/ubuntu/workspace/battle-engine.js:4712:9)
+    at process.<anonymous> (/home/ubuntu/workspace/battle-engine.js:74:12)
+    at emitTwo (events.js:87:13)
+    at process.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:685:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+Additional information:
+  message = battle-randomubers-63|join|p1|Hirl123|hirl123.gif
+  currentRequest = 
+  log = 
+|html|<div class="broadcast-red"><b>The battle crashed</b><br />You can keep playing but it might crash again.</div>
+
+
+TypeError: Cannot set property 'currentRequest' of null
+    at Tools.process.on.require.start.process.on.Battle.construct.Battle.eachEvent.Battle.makeRequest.switchTable.some.switchTable.some.activeData [as makeRequest] (/home/ubuntu/workspace/battle-engine.js:2657:26)
+    at process.<anonymous> (/home/ubuntu/workspace/battle-engine.js:86:13)
+    at emitTwo (events.js:87:13)
+    at process.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:685:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+TypeError: this[(teamGenerator || "randomUberTeam")] is not a function
+    at Tools.exports.BattleScripts.getTeam (/home/ubuntu/workspace/data/scripts.js:732:49)
+    at new BattleSide (/home/ubuntu/workspace/battle-engine.js:1402:27)
+    at Tools.process.on.require.start.process.on.Battle.construct.Battle.eachEvent.Battle.makeRequest.switchTable.some.switchTable.some.Battle.nextTurn.Battle.damage.Battle.resolveTarget.Battle.runDecision.Battle.parseChoice.Battle.add.Battle.join (/home/ubuntu/workspace/battle-engine.js:4655:15)
+    at Tools.process.on.require.start.process.on.Battle.construct.Battle.eachEvent.Battle.makeRequest.switchTable.some.switchTable.some.Battle.nextTurn.Battle.damage.Battle.resolveTarget.Battle.runDecision.Battle.parseChoice.Battle.add.Battle.receive (/home/ubuntu/workspace/battle-engine.js:4712:9)
+    at process.<anonymous> (/home/ubuntu/workspace/battle-engine.js:74:12)
+    at emitTwo (events.js:87:13)
+    at process.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:685:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+Additional information:
+  message = battle-randomubers-63|join|p1|Hirl123|hirl123.gif
+  currentRequest = 
+  log = 
+|html|<div class="broadcast-red"><b>The battle crashed</b><br />You can keep playing but it might crash again.</div>
+|html|<div class="broadcast-red"><b>The battle crashed</b><br />You can keep playing but it might crash again.</div>
+
+
+TypeError: Cannot set property 'currentRequest' of null
+    at Tools.process.on.require.start.process.on.Battle.construct.Battle.eachEvent.Battle.makeRequest.switchTable.some.switchTable.some.activeData [as makeRequest] (/home/ubuntu/workspace/battle-engine.js:2657:26)
+    at process.<anonymous> (/home/ubuntu/workspace/battle-engine.js:86:13)
+    at emitTwo (events.js:87:13)
+    at process.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:685:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+TypeError: this[(teamGenerator || "randomUberTeam")] is not a function
+    at Tools.exports.BattleScripts.getTeam (/home/ubuntu/workspace/data/scripts.js:732:49)
+    at new BattleSide (/home/ubuntu/workspace/battle-engine.js:1402:27)
+    at Tools.process.on.require.start.process.on.Battle.construct.Battle.eachEvent.Battle.makeRequest.switchTable.some.switchTable.some.Battle.nextTurn.Battle.damage.Battle.resolveTarget.Battle.runDecision.Battle.parseChoice.Battle.add.Battle.join (/home/ubuntu/workspace/battle-engine.js:4655:15)
+    at Tools.process.on.require.start.process.on.Battle.construct.Battle.eachEvent.Battle.makeRequest.switchTable.some.switchTable.some.Battle.nextTurn.Battle.damage.Battle.resolveTarget.Battle.runDecision.Battle.parseChoice.Battle.add.Battle.receive (/home/ubuntu/workspace/battle-engine.js:4712:9)
+    at process.<anonymous> (/home/ubuntu/workspace/battle-engine.js:74:12)
+    at emitTwo (events.js:87:13)
+    at process.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:685:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+Additional information:
+  message = battle-randomubers-63|join|p1|Hirl123|hirl123.gif
+  currentRequest = 
+  log = 
+|html|<div class="broadcast-red"><b>The battle crashed</b><br />You can keep playing but it might crash again.</div>
+|html|<div class="broadcast-red"><b>The battle crashed</b><br />You can keep playing but it might crash again.</div>
+|html|<div class="broadcast-red"><b>The battle crashed</b><br />You can keep playing but it might crash again.</div>
+
+
+TypeError: Cannot set property 'currentRequest' of null
+    at Tools.process.on.require.start.process.on.Battle.construct.Battle.eachEvent.Battle.makeRequest.switchTable.some.switchTable.some.activeData [as makeRequest] (/home/ubuntu/workspace/battle-engine.js:2657:26)
+    at process.<anonymous> (/home/ubuntu/workspace/battle-engine.js:86:13)
+    at emitTwo (events.js:87:13)
+    at process.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:685:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+TypeError: this[(teamGenerator || "randomUberTeam")] is not a function
+    at Tools.exports.BattleScripts.getTeam (/home/ubuntu/workspace/data/scripts.js:732:49)
+    at new BattleSide (/home/ubuntu/workspace/battle-engine.js:1402:27)
+    at Tools.process.on.require.start.process.on.Battle.construct.Battle.eachEvent.Battle.makeRequest.switchTable.some.switchTable.some.Battle.nextTurn.Battle.damage.Battle.resolveTarget.Battle.runDecision.Battle.parseChoice.Battle.add.Battle.join (/home/ubuntu/workspace/battle-engine.js:4655:15)
+    at Tools.process.on.require.start.process.on.Battle.construct.Battle.eachEvent.Battle.makeRequest.switchTable.some.switchTable.some.Battle.nextTurn.Battle.damage.Battle.resolveTarget.Battle.runDecision.Battle.parseChoice.Battle.add.Battle.receive (/home/ubuntu/workspace/battle-engine.js:4712:9)
+    at process.<anonymous> (/home/ubuntu/workspace/battle-engine.js:74:12)
+    at emitTwo (events.js:87:13)
+    at process.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:685:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+Additional information:
+  message = battle-randomubers-63|join|p1|Hirl123|hirl123.gif
+  currentRequest = 
+  log = 
+|html|<div class="broadcast-red"><b>The battle crashed</b><br />You can keep playing but it might crash again.</div>
+|html|<div class="broadcast-red"><b>The battle crashed</b><br />You can keep playing but it might crash again.</div>
+|html|<div class="broadcast-red"><b>The battle crashed</b><br />You can keep playing but it might crash again.</div>
+|html|<div class="broadcast-red"><b>The battle crashed</b><br />You can keep playing but it might crash again.</div>
+
+
+TypeError: Cannot set property 'currentRequest' of null
+    at Tools.process.on.require.start.process.on.Battle.construct.Battle.eachEvent.Battle.makeRequest.switchTable.some.switchTable.some.activeData [as makeRequest] (/home/ubuntu/workspace/battle-engine.js:2657:26)
+    at process.<anonymous> (/home/ubuntu/workspace/battle-engine.js:86:13)
+    at emitTwo (events.js:87:13)
+    at process.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:685:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+TypeError: this[(teamGenerator || "randomUberTeam")] is not a function
+    at Tools.exports.BattleScripts.getTeam (/home/ubuntu/workspace/data/scripts.js:732:49)
+    at new BattleSide (/home/ubuntu/workspace/battle-engine.js:1402:27)
+    at Tools.process.on.require.start.process.on.Battle.construct.Battle.eachEvent.Battle.makeRequest.switchTable.some.switchTable.some.Battle.nextTurn.Battle.damage.Battle.resolveTarget.Battle.runDecision.Battle.parseChoice.Battle.add.Battle.join (/home/ubuntu/workspace/battle-engine.js:4655:15)
+    at Tools.process.on.require.start.process.on.Battle.construct.Battle.eachEvent.Battle.makeRequest.switchTable.some.switchTable.some.Battle.nextTurn.Battle.damage.Battle.resolveTarget.Battle.runDecision.Battle.parseChoice.Battle.add.Battle.receive (/home/ubuntu/workspace/battle-engine.js:4712:9)
+    at process.<anonymous> (/home/ubuntu/workspace/battle-engine.js:74:12)
+    at emitTwo (events.js:87:13)
+    at process.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:685:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+Additional information:
+  message = battle-randomubers-63|join|p1|Hirl123|hirl123.gif
+  currentRequest = 
+  log = 
+|html|<div class="broadcast-red"><b>The battle crashed</b><br />You can keep playing but it might crash again.</div>
+|html|<div class="broadcast-red"><b>The battle crashed</b><br />You can keep playing but it might crash again.</div>
+|html|<div class="broadcast-red"><b>The battle crashed</b><br />You can keep playing but it might crash again.</div>
+|html|<div class="broadcast-red"><b>The battle crashed</b><br />You can keep playing but it might crash again.</div>
+|html|<div class="broadcast-red"><b>The battle crashed</b><br />You can keep playing but it might crash again.</div>
+
+
+TypeError: Cannot set property 'currentRequest' of null
+    at Tools.process.on.require.start.process.on.Battle.construct.Battle.eachEvent.Battle.makeRequest.switchTable.some.switchTable.some.activeData [as makeRequest] (/home/ubuntu/workspace/battle-engine.js:2657:26)
+    at process.<anonymous> (/home/ubuntu/workspace/battle-engine.js:86:13)
+    at emitTwo (events.js:87:13)
+    at process.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:685:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+TypeError: this[(teamGenerator || "randomUberTeam")] is not a function
+    at Tools.exports.BattleScripts.getTeam (/home/ubuntu/workspace/data/scripts.js:732:49)
+    at new BattleSide (/home/ubuntu/workspace/battle-engine.js:1402:27)
+    at Tools.process.on.require.start.process.on.Battle.construct.Battle.eachEvent.Battle.makeRequest.switchTable.some.switchTable.some.Battle.nextTurn.Battle.damage.Battle.resolveTarget.Battle.runDecision.Battle.parseChoice.Battle.add.Battle.join (/home/ubuntu/workspace/battle-engine.js:4655:15)
+    at Tools.process.on.require.start.process.on.Battle.construct.Battle.eachEvent.Battle.makeRequest.switchTable.some.switchTable.some.Battle.nextTurn.Battle.damage.Battle.resolveTarget.Battle.runDecision.Battle.parseChoice.Battle.add.Battle.receive (/home/ubuntu/workspace/battle-engine.js:4712:9)
+    at process.<anonymous> (/home/ubuntu/workspace/battle-engine.js:74:12)
+    at emitTwo (events.js:87:13)
+    at process.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:685:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+Additional information:
+  message = battle-randomubers-63|join|p1|Hirl123|hirl123.gif
+  currentRequest = 
+  log = 
+|html|<div class="broadcast-red"><b>The battle crashed</b><br />You can keep playing but it might crash again.</div>
+|html|<div class="broadcast-red"><b>The battle crashed</b><br />You can keep playing but it might crash again.</div>
+|html|<div class="broadcast-red"><b>The battle crashed</b><br />You can keep playing but it might crash again.</div>
+|html|<div class="broadcast-red"><b>The battle crashed</b><br />You can keep playing but it might crash again.</div>
+|html|<div class="broadcast-red"><b>The battle crashed</b><br />You can keep playing but it might crash again.</div>
+|html|<div class="broadcast-red"><b>The battle crashed</b><br />You can keep playing but it might crash again.</div>
+
+
+TypeError: Cannot set property 'currentRequest' of null
+    at Tools.process.on.require.start.process.on.Battle.construct.Battle.eachEvent.Battle.makeRequest.switchTable.some.switchTable.some.activeData [as makeRequest] (/home/ubuntu/workspace/battle-engine.js:2657:26)
+    at process.<anonymous> (/home/ubuntu/workspace/battle-engine.js:86:13)
+    at emitTwo (events.js:87:13)
+    at process.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:685:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+TypeError: this[(teamGenerator || "randomUberTeam")] is not a function
+    at Tools.exports.BattleScripts.getTeam (/home/ubuntu/workspace/data/scripts.js:732:49)
+    at new BattleSide (/home/ubuntu/workspace/battle-engine.js:1402:27)
+    at Tools.process.on.require.start.process.on.Battle.construct.Battle.eachEvent.Battle.makeRequest.switchTable.some.switchTable.some.Battle.nextTurn.Battle.damage.Battle.resolveTarget.Battle.runDecision.Battle.parseChoice.Battle.add.Battle.join (/home/ubuntu/workspace/battle-engine.js:4655:15)
+    at Tools.process.on.require.start.process.on.Battle.construct.Battle.eachEvent.Battle.makeRequest.switchTable.some.switchTable.some.Battle.nextTurn.Battle.damage.Battle.resolveTarget.Battle.runDecision.Battle.parseChoice.Battle.add.Battle.receive (/home/ubuntu/workspace/battle-engine.js:4712:9)
+    at process.<anonymous> (/home/ubuntu/workspace/battle-engine.js:74:12)
+    at emitTwo (events.js:87:13)
+    at process.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:685:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+Additional information:
+  message = battle-randomubers-63|join|p1|Hirl123|hirl123.gif
+  currentRequest = 
+  log = 
+|html|<div class="broadcast-red"><b>The battle crashed</b><br />You can keep playing but it might crash again.</div>
+|html|<div class="broadcast-red"><b>The battle crashed</b><br />You can keep playing but it might crash again.</div>
+|html|<div class="broadcast-red"><b>The battle crashed</b><br />You can keep playing but it might crash again.</div>
+|html|<div class="broadcast-red"><b>The battle crashed</b><br />You can keep playing but it might crash again.</div>
+|html|<div class="broadcast-red"><b>The battle crashed</b><br />You can keep playing but it might crash again.</div>
+|html|<div class="broadcast-red"><b>The battle crashed</b><br />You can keep playing but it might crash again.</div>
+|html|<div class="broadcast-red"><b>The battle crashed</b><br />You can keep playing but it might crash again.</div>
+
+
+TypeError: Cannot set property 'currentRequest' of null
+    at Tools.process.on.require.start.process.on.Battle.construct.Battle.eachEvent.Battle.makeRequest.switchTable.some.switchTable.some.activeData [as makeRequest] (/home/ubuntu/workspace/battle-engine.js:2657:26)
+    at process.<anonymous> (/home/ubuntu/workspace/battle-engine.js:86:13)
+    at emitTwo (events.js:87:13)
+    at process.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:685:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+TypeError: this[(teamGenerator || "randomUberTeam")] is not a function
+    at Tools.exports.BattleScripts.getTeam (/home/ubuntu/workspace/data/scripts.js:732:49)
+    at new BattleSide (/home/ubuntu/workspace/battle-engine.js:1402:27)
+    at Tools.process.on.require.start.process.on.Battle.construct.Battle.eachEvent.Battle.makeRequest.switchTable.some.switchTable.some.Battle.nextTurn.Battle.damage.Battle.resolveTarget.Battle.runDecision.Battle.parseChoice.Battle.add.Battle.join (/home/ubuntu/workspace/battle-engine.js:4655:15)
+    at Tools.process.on.require.start.process.on.Battle.construct.Battle.eachEvent.Battle.makeRequest.switchTable.some.switchTable.some.Battle.nextTurn.Battle.damage.Battle.resolveTarget.Battle.runDecision.Battle.parseChoice.Battle.add.Battle.receive (/home/ubuntu/workspace/battle-engine.js:4712:9)
+    at process.<anonymous> (/home/ubuntu/workspace/battle-engine.js:74:12)
+    at emitTwo (events.js:87:13)
+    at process.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:685:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+Additional information:
+  message = battle-randomubers-63|join|p1|Hirl123|hirl123.gif
+  currentRequest = 
+  log = 
+|html|<div class="broadcast-red"><b>The battle crashed</b><br />You can keep playing but it might crash again.</div>
+|html|<div class="broadcast-red"><b>The battle crashed</b><br />You can keep playing but it might crash again.</div>
+|html|<div class="broadcast-red"><b>The battle crashed</b><br />You can keep playing but it might crash again.</div>
+|html|<div class="broadcast-red"><b>The battle crashed</b><br />You can keep playing but it might crash again.</div>
+|html|<div class="broadcast-red"><b>The battle crashed</b><br />You can keep playing but it might crash again.</div>
+|html|<div class="broadcast-red"><b>The battle crashed</b><br />You can keep playing but it might crash again.</div>
+|html|<div class="broadcast-red"><b>The battle crashed</b><br />You can keep playing but it might crash again.</div>
+|html|<div class="broadcast-red"><b>The battle crashed</b><br />You can keep playing but it might crash again.</div>
+
+
+TypeError: Cannot set property 'currentRequest' of null
+    at Tools.process.on.require.start.process.on.Battle.construct.Battle.eachEvent.Battle.makeRequest.switchTable.some.switchTable.some.activeData [as makeRequest] (/home/ubuntu/workspace/battle-engine.js:2657:26)
+    at process.<anonymous> (/home/ubuntu/workspace/battle-engine.js:86:13)
+    at emitTwo (events.js:87:13)
+    at process.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:685:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+TypeError: this[(teamGenerator || "randomUberTeam")] is not a function
+    at Tools.exports.BattleScripts.getTeam (/home/ubuntu/workspace/data/scripts.js:732:49)
+    at new BattleSide (/home/ubuntu/workspace/battle-engine.js:1402:27)
+    at Tools.process.on.require.start.process.on.Battle.construct.Battle.eachEvent.Battle.makeRequest.switchTable.some.switchTable.some.Battle.nextTurn.Battle.damage.Battle.resolveTarget.Battle.runDecision.Battle.parseChoice.Battle.add.Battle.join (/home/ubuntu/workspace/battle-engine.js:4655:15)
+    at Tools.process.on.require.start.process.on.Battle.construct.Battle.eachEvent.Battle.makeRequest.switchTable.some.switchTable.some.Battle.nextTurn.Battle.damage.Battle.resolveTarget.Battle.runDecision.Battle.parseChoice.Battle.add.Battle.receive (/home/ubuntu/workspace/battle-engine.js:4712:9)
+    at process.<anonymous> (/home/ubuntu/workspace/battle-engine.js:74:12)
+    at emitTwo (events.js:87:13)
+    at process.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:685:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+Additional information:
+  message = battle-randomubers-63|join|p1|Hirl123|hirl123.gif
+  currentRequest = 
+  log = 
+|html|<div class="broadcast-red"><b>The battle crashed</b><br />You can keep playing but it might crash again.</div>
+|html|<div class="broadcast-red"><b>The battle crashed</b><br />You can keep playing but it might crash again.</div>
+|html|<div class="broadcast-red"><b>The battle crashed</b><br />You can keep playing but it might crash again.</div>
+|html|<div class="broadcast-red"><b>The battle crashed</b><br />You can keep playing but it might crash again.</div>
+|html|<div class="broadcast-red"><b>The battle crashed</b><br />You can keep playing but it might crash again.</div>
+|html|<div class="broadcast-red"><b>The battle crashed</b><br />You can keep playing but it might crash again.</div>
+|html|<div class="broadcast-red"><b>The battle crashed</b><br />You can keep playing but it might crash again.</div>
+|html|<div class="broadcast-red"><b>The battle crashed</b><br />You can keep playing but it might crash again.</div>
+|html|<div class="broadcast-red"><b>The battle crashed</b><br />You can keep playing but it might crash again.</div>
+
+
+TypeError: Cannot set property 'currentRequest' of null
+    at Tools.process.on.require.start.process.on.Battle.construct.Battle.eachEvent.Battle.makeRequest.switchTable.some.switchTable.some.activeData [as makeRequest] (/home/ubuntu/workspace/battle-engine.js:2657:26)
+    at process.<anonymous> (/home/ubuntu/workspace/battle-engine.js:86:13)
+    at emitTwo (events.js:87:13)
+    at process.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:685:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+TypeError: this[(teamGenerator || "randomUberTeam")] is not a function
+    at Tools.exports.BattleScripts.getTeam (/home/ubuntu/workspace/data/scripts.js:732:49)
+    at new BattleSide (/home/ubuntu/workspace/battle-engine.js:1402:27)
+    at Tools.process.on.require.start.process.on.Battle.construct.Battle.eachEvent.Battle.makeRequest.switchTable.some.switchTable.some.Battle.nextTurn.Battle.damage.Battle.resolveTarget.Battle.runDecision.Battle.parseChoice.Battle.add.Battle.join (/home/ubuntu/workspace/battle-engine.js:4655:15)
+    at Tools.process.on.require.start.process.on.Battle.construct.Battle.eachEvent.Battle.makeRequest.switchTable.some.switchTable.some.Battle.nextTurn.Battle.damage.Battle.resolveTarget.Battle.runDecision.Battle.parseChoice.Battle.add.Battle.receive (/home/ubuntu/workspace/battle-engine.js:4712:9)
+    at process.<anonymous> (/home/ubuntu/workspace/battle-engine.js:74:12)
+    at emitTwo (events.js:87:13)
+    at process.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:685:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+Additional information:
+  message = battle-randomubers-63|join|p1|Hirl123|hirl123.gif
+  currentRequest = 
+  log = 
+|html|<div class="broadcast-red"><b>The battle crashed</b><br />You can keep playing but it might crash again.</div>
+|html|<div class="broadcast-red"><b>The battle crashed</b><br />You can keep playing but it might crash again.</div>
+|html|<div class="broadcast-red"><b>The battle crashed</b><br />You can keep playing but it might crash again.</div>
+|html|<div class="broadcast-red"><b>The battle crashed</b><br />You can keep playing but it might crash again.</div>
+|html|<div class="broadcast-red"><b>The battle crashed</b><br />You can keep playing but it might crash again.</div>
+|html|<div class="broadcast-red"><b>The battle crashed</b><br />You can keep playing but it might crash again.</div>
+|html|<div class="broadcast-red"><b>The battle crashed</b><br />You can keep playing but it might crash again.</div>
+|html|<div class="broadcast-red"><b>The battle crashed</b><br />You can keep playing but it might crash again.</div>
+|html|<div class="broadcast-red"><b>The battle crashed</b><br />You can keep playing but it might crash again.</div>
+|html|<div class="broadcast-red"><b>The battle crashed</b><br />You can keep playing but it might crash again.</div>
+
+
+TypeError: Cannot set property 'currentRequest' of null
+    at Tools.process.on.require.start.process.on.Battle.construct.Battle.eachEvent.Battle.makeRequest.switchTable.some.switchTable.some.activeData [as makeRequest] (/home/ubuntu/workspace/battle-engine.js:2657:26)
+    at process.<anonymous> (/home/ubuntu/workspace/battle-engine.js:86:13)
+    at emitTwo (events.js:87:13)
+    at process.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:685:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+TypeError: this[(teamGenerator || "randomUberTeam")] is not a function
+    at Tools.exports.BattleScripts.getTeam (/home/ubuntu/workspace/data/scripts.js:732:49)
+    at new BattleSide (/home/ubuntu/workspace/battle-engine.js:1402:27)
+    at Tools.process.on.require.start.process.on.Battle.construct.Battle.eachEvent.Battle.makeRequest.switchTable.some.switchTable.some.Battle.nextTurn.Battle.damage.Battle.resolveTarget.Battle.runDecision.Battle.parseChoice.Battle.add.Battle.join (/home/ubuntu/workspace/battle-engine.js:4655:15)
+    at Tools.process.on.require.start.process.on.Battle.construct.Battle.eachEvent.Battle.makeRequest.switchTable.some.switchTable.some.Battle.nextTurn.Battle.damage.Battle.resolveTarget.Battle.runDecision.Battle.parseChoice.Battle.add.Battle.receive (/home/ubuntu/workspace/battle-engine.js:4712:9)
+    at process.<anonymous> (/home/ubuntu/workspace/battle-engine.js:74:12)
+    at emitTwo (events.js:87:13)
+    at process.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:685:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+Additional information:
+  message = battle-randomubers-63|join|p1|Hirl123|hirl123.gif
+  currentRequest = 
+  log = 
+|html|<div class="broadcast-red"><b>The battle crashed</b><br />You can keep playing but it might crash again.</div>
+|html|<div class="broadcast-red"><b>The battle crashed</b><br />You can keep playing but it might crash again.</div>
+|html|<div class="broadcast-red"><b>The battle crashed</b><br />You can keep playing but it might crash again.</div>
+|html|<div class="broadcast-red"><b>The battle crashed</b><br />You can keep playing but it might crash again.</div>
+|html|<div class="broadcast-red"><b>The battle crashed</b><br />You can keep playing but it might crash again.</div>
+|html|<div class="broadcast-red"><b>The battle crashed</b><br />You can keep playing but it might crash again.</div>
+|html|<div class="broadcast-red"><b>The battle crashed</b><br />You can keep playing but it might crash again.</div>
+|html|<div class="broadcast-red"><b>The battle crashed</b><br />You can keep playing but it might crash again.</div>
+|html|<div class="broadcast-red"><b>The battle crashed</b><br />You can keep playing but it might crash again.</div>
+|html|<div class="broadcast-red"><b>The battle crashed</b><br />You can keep playing but it might crash again.</div>
+|html|<div class="broadcast-red"><b>The battle crashed</b><br />You can keep playing but it might crash again.</div>
+
+
+TypeError: Cannot set property 'currentRequest' of null
+    at Tools.process.on.require.start.process.on.Battle.construct.Battle.eachEvent.Battle.makeRequest.switchTable.some.switchTable.some.activeData [as makeRequest] (/home/ubuntu/workspace/battle-engine.js:2657:26)
+    at process.<anonymous> (/home/ubuntu/workspace/battle-engine.js:86:13)
+    at emitTwo (events.js:87:13)
+    at process.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:685:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+TypeError: this[(teamGenerator || "randomUberTeam")] is not a function
+    at Tools.exports.BattleScripts.getTeam (/home/ubuntu/workspace/data/scripts.js:732:49)
+    at new BattleSide (/home/ubuntu/workspace/battle-engine.js:1402:27)
+    at Tools.process.on.require.start.process.on.Battle.construct.Battle.eachEvent.Battle.makeRequest.switchTable.some.switchTable.some.Battle.nextTurn.Battle.damage.Battle.resolveTarget.Battle.runDecision.Battle.parseChoice.Battle.add.Battle.join (/home/ubuntu/workspace/battle-engine.js:4655:15)
+    at Tools.process.on.require.start.process.on.Battle.construct.Battle.eachEvent.Battle.makeRequest.switchTable.some.switchTable.some.Battle.nextTurn.Battle.damage.Battle.resolveTarget.Battle.runDecision.Battle.parseChoice.Battle.add.Battle.receive (/home/ubuntu/workspace/battle-engine.js:4712:9)
+    at process.<anonymous> (/home/ubuntu/workspace/battle-engine.js:74:12)
+    at emitTwo (events.js:87:13)
+    at process.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:685:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+Additional information:
+  message = battle-randomubers-63|join|p1|Hirl123|hirl123.gif
+  currentRequest = 
+  log = 
+|html|<div class="broadcast-red"><b>The battle crashed</b><br />You can keep playing but it might crash again.</div>
+|html|<div class="broadcast-red"><b>The battle crashed</b><br />You can keep playing but it might crash again.</div>
+|html|<div class="broadcast-red"><b>The battle crashed</b><br />You can keep playing but it might crash again.</div>
+|html|<div class="broadcast-red"><b>The battle crashed</b><br />You can keep playing but it might crash again.</div>
+|html|<div class="broadcast-red"><b>The battle crashed</b><br />You can keep playing but it might crash again.</div>
+|html|<div class="broadcast-red"><b>The battle crashed</b><br />You can keep playing but it might crash again.</div>
+|html|<div class="broadcast-red"><b>The battle crashed</b><br />You can keep playing but it might crash again.</div>
+|html|<div class="broadcast-red"><b>The battle crashed</b><br />You can keep playing but it might crash again.</div>
+|html|<div class="broadcast-red"><b>The battle crashed</b><br />You can keep playing but it might crash again.</div>
+|html|<div class="broadcast-red"><b>The battle crashed</b><br />You can keep playing but it might crash again.</div>
+|html|<div class="broadcast-red"><b>The battle crashed</b><br />You can keep playing but it might crash again.</div>
+|html|<div class="broadcast-red"><b>The battle crashed</b><br />You can keep playing but it might crash again.</div>
+
+
+TypeError: Cannot set property 'currentRequest' of null
+    at Tools.process.on.require.start.process.on.Battle.construct.Battle.eachEvent.Battle.makeRequest.switchTable.some.switchTable.some.activeData [as makeRequest] (/home/ubuntu/workspace/battle-engine.js:2657:26)
+    at process.<anonymous> (/home/ubuntu/workspace/battle-engine.js:86:13)
+    at emitTwo (events.js:87:13)
+    at process.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:685:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+TypeError: this[(teamGenerator || "randomTeam")] is not a function
+    at Tools.exports.BattleScripts.getTeam (/home/ubuntu/workspace/data/scripts.js:721:45)
+    at new BattleSide (/home/ubuntu/workspace/battle-engine.js:1402:27)
+    at Tools.process.on.require.start.process.on.Battle.construct.Battle.eachEvent.Battle.makeRequest.switchTable.some.switchTable.some.Battle.nextTurn.Battle.damage.Battle.resolveTarget.Battle.runDecision.Battle.parseChoice.Battle.add.Battle.join (/home/ubuntu/workspace/battle-engine.js:4655:15)
+    at Tools.process.on.require.start.process.on.Battle.construct.Battle.eachEvent.Battle.makeRequest.switchTable.some.switchTable.some.Battle.nextTurn.Battle.damage.Battle.resolveTarget.Battle.runDecision.Battle.parseChoice.Battle.add.Battle.receive (/home/ubuntu/workspace/battle-engine.js:4712:9)
+    at process.<anonymous> (/home/ubuntu/workspace/battle-engine.js:74:12)
+    at emitTwo (events.js:87:13)
+    at process.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:685:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+Additional information:
+  message = battle-gen1randomtriples-71|join|p1|Audinory~♥|audinory.gif
+  currentRequest = 
+  log = 
+
+
+
+TypeError: Cannot set property 'currentRequest' of null
+    at Tools.process.on.require.start.process.on.Battle.construct.Battle.eachEvent.Battle.makeRequest.switchTable.some.switchTable.some.activeData [as makeRequest] (/home/ubuntu/workspace/battle-engine.js:2657:26)
+    at process.<anonymous> (/home/ubuntu/workspace/battle-engine.js:86:13)
+    at emitTwo (events.js:87:13)
+    at process.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:685:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+TypeError: this[(teamGenerator || "randomTeam")] is not a function
+    at Tools.exports.BattleScripts.getTeam (/home/ubuntu/workspace/data/scripts.js:721:45)
+    at new BattleSide (/home/ubuntu/workspace/battle-engine.js:1402:27)
+    at Tools.process.on.require.start.process.on.Battle.construct.Battle.eachEvent.Battle.makeRequest.switchTable.some.switchTable.some.Battle.nextTurn.Battle.damage.Battle.resolveTarget.Battle.runDecision.Battle.parseChoice.Battle.add.Battle.join (/home/ubuntu/workspace/battle-engine.js:4655:15)
+    at Tools.process.on.require.start.process.on.Battle.construct.Battle.eachEvent.Battle.makeRequest.switchTable.some.switchTable.some.Battle.nextTurn.Battle.damage.Battle.resolveTarget.Battle.runDecision.Battle.parseChoice.Battle.add.Battle.receive (/home/ubuntu/workspace/battle-engine.js:4712:9)
+    at process.<anonymous> (/home/ubuntu/workspace/battle-engine.js:74:12)
+    at emitTwo (events.js:87:13)
+    at process.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:685:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+Additional information:
+  message = battle-gen1randomtriples-71|join|p1|Audinory~♥|audinory.gif
+  currentRequest = 
+  log = 
+|html|<div class="broadcast-red"><b>The battle crashed</b><br />You can keep playing but it might crash again.</div>
+
+
+TypeError: Cannot set property 'currentRequest' of null
+    at Tools.process.on.require.start.process.on.Battle.construct.Battle.eachEvent.Battle.makeRequest.switchTable.some.switchTable.some.activeData [as makeRequest] (/home/ubuntu/workspace/battle-engine.js:2657:26)
+    at process.<anonymous> (/home/ubuntu/workspace/battle-engine.js:86:13)
+    at emitTwo (events.js:87:13)
+    at process.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:685:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+TypeError: this[(teamGenerator || "randomTeam")] is not a function
+    at Tools.exports.BattleScripts.getTeam (/home/ubuntu/workspace/data/scripts.js:721:45)
+    at new BattleSide (/home/ubuntu/workspace/battle-engine.js:1402:27)
+    at Tools.process.on.require.start.process.on.Battle.construct.Battle.eachEvent.Battle.makeRequest.switchTable.some.switchTable.some.Battle.nextTurn.Battle.damage.Battle.resolveTarget.Battle.runDecision.Battle.parseChoice.Battle.add.Battle.join (/home/ubuntu/workspace/battle-engine.js:4655:15)
+    at Tools.process.on.require.start.process.on.Battle.construct.Battle.eachEvent.Battle.makeRequest.switchTable.some.switchTable.some.Battle.nextTurn.Battle.damage.Battle.resolveTarget.Battle.runDecision.Battle.parseChoice.Battle.add.Battle.receive (/home/ubuntu/workspace/battle-engine.js:4712:9)
+    at process.<anonymous> (/home/ubuntu/workspace/battle-engine.js:74:12)
+    at emitTwo (events.js:87:13)
+    at process.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:685:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+Additional information:
+  message = battle-gen1randomtriples-71|join|p1|Audinory~♥|audinory.gif
+  currentRequest = 
+  log = 
+|html|<div class="broadcast-red"><b>The battle crashed</b><br />You can keep playing but it might crash again.</div>
+|html|<div class="broadcast-red"><b>The battle crashed</b><br />You can keep playing but it might crash again.</div>
+
+
+TypeError: Cannot set property 'currentRequest' of null
+    at Tools.process.on.require.start.process.on.Battle.construct.Battle.eachEvent.Battle.makeRequest.switchTable.some.switchTable.some.activeData [as makeRequest] (/home/ubuntu/workspace/battle-engine.js:2657:26)
+    at process.<anonymous> (/home/ubuntu/workspace/battle-engine.js:86:13)
+    at emitTwo (events.js:87:13)
+    at process.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:685:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+ReferenceError: match is not defined
+    at CommandContext.exports.commands.pair (/home/ubuntu/workspace/chat-plugins/othercommands.js:84:115)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:262:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:607:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1430:9)
+    at Function.fs.readFile.groupData.rename.connection.getAlts.getAll.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1650:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:685:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+Additional information:
+  user = Audinory~♥
+  room = shitpostlobby
+  message = /pair thevixen, audinory
+
+
+ReferenceError: send is not defined
+    at CommandContext.exports.commands.shank (/home/ubuntu/workspace/chat-plugins/Brookes Requests.js:9:25)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:262:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:607:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1430:9)
+    at Function.fs.readFile.groupData.rename.connection.getAlts.getAll.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1650:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:685:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+Additional information:
+  user = Audinory
+  room = lobby
+  message = /shank
+
+
+TypeError: Cannot read property 'send' of null
+    at CommandContext.exports.commands.refreshuser (/home/ubuntu/workspace/chat-plugins/Brookes Requests.js:25:13)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:262:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:607:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1430:9)
+    at Function.fs.readFile.groupData.rename.connection.getAlts.getAll.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1650:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:685:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+Additional information:
+  user = Audinory
+  room = othermetas
+  message = /refreshuser Audinory
+
+
+ReferenceError: userid is not defined
+    at CommandContext.exports.commands.shank (/home/ubuntu/workspace/chat-plugins/Brookes Requests.js:17:39)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:262:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:607:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1430:9)
+    at Function.fs.readFile.groupData.rename.connection.getAlts.getAll.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1650:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:685:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+Additional information:
+  user = TheShankSkank
+  room = lobby
+  message = /shank grammar
+
+
+ReferenceError: userid is not defined
+    at CommandContext.exports.commands.shank (/home/ubuntu/workspace/chat-plugins/Brookes Requests.js:17:39)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:262:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:607:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1430:9)
+    at Function.fs.readFile.groupData.rename.connection.getAlts.getAll.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1650:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:685:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+Additional information:
+  user = TheShankSkank
+  room = lobby
+  message = /shank Grammar
+
+
+ReferenceError: userid is not defined
+    at CommandContext.exports.commands.shank (/home/ubuntu/workspace/chat-plugins/Brookes Requests.js:17:39)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:262:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:607:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1430:9)
+    at Function.fs.readFile.groupData.rename.connection.getAlts.getAll.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1650:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:685:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+Additional information:
+  user = TheShankSkank
+  room = development
+  message = /shank Audinory
+
+
+ReferenceError: userid is not defined
+    at CommandContext.exports.commands.shank (/home/ubuntu/workspace/chat-plugins/Brookes Requests.js:17:39)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:262:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:607:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1430:9)
+    at Function.fs.readFile.groupData.rename.connection.getAlts.getAll.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1650:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:685:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+Additional information:
+  user = Audinory
+  room = development
+  message = /shank
+
+
+ReferenceError: userid is not defined
+    at CommandContext.exports.commands.legitstraw (/home/ubuntu/workspace/chat-plugins/Brookes Requests.js:17:39)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:262:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:607:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1430:9)
+    at Function.fs.readFile.groupData.rename.connection.getAlts.getAll.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1650:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:685:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+Additional information:
+  user = Audinory
+  room = development
+  message = /legitstraw
+
+
+ReferenceError: userid is not defined
+    at CommandContext.exports.commands.legitstraw (/home/ubuntu/workspace/chat-plugins/Brookes Requests.js:17:39)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:262:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:607:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1430:9)
+    at Function.fs.readFile.groupData.rename.connection.getAlts.getAll.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1650:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:685:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+Additional information:
+  user = Audinory
+  room = development
+  message = /legitstraw
+
+
+ReferenceError: victim is not defined
+    at CommandContext.exports.commands.legitstraw (/home/ubuntu/workspace/chat-plugins/Brookes Requests.js:20:71)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:262:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:607:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1430:9)
+    at Function.fs.readFile.groupData.rename.connection.getAlts.getAll.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1650:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:685:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+Additional information:
+  user = Audinory
+  room = development
+  message = /legitstraw
+
+
+ReferenceError: userid is not defined
+    at CommandContext.exports.commands.legitstraw (/home/ubuntu/workspace/chat-plugins/Brookes Requests.js:16:39)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:262:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:607:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1430:9)
+    at Function.fs.readFile.groupData.rename.connection.getAlts.getAll.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1650:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:685:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+Additional information:
+  user = Audinory
+  room = development
+  message = /legitstraw
+
+
+ReferenceError: math is not defined
+    at CommandContext.exports.commands.spank (/home/ubuntu/workspace/chat-plugins/Brookes Requests.js:51:25)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:262:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:607:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1430:9)
+    at Function.fs.readFile.groupData.rename.connection.getAlts.getAll.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1650:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:685:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+Additional information:
+  user = Audinory
+  room = development
+  message = /spank self
+
+
+ReferenceError: thisuser is not defined
+    at CommandContext.exports.commands.spank (/home/ubuntu/workspace/chat-plugins/Brookes Requests.js:59:18)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:262:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:607:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1430:9)
+    at Function.fs.readFile.groupData.rename.connection.getAlts.getAll.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1650:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:685:10)
+
+Additional information:
+  user = Audinory ( ͜)
+  room = lobby
+  message = /spank 1
+
+
+ReferenceError: Spanker is not defined
+    at CommandContext.exports.commands.spank (/home/ubuntu/workspace/chat-plugins/Brookes Requests.js:59:11)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:262:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:607:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1430:9)
+    at Function.fs.readFile.groupData.rename.connection.getAlts.getAll.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1650:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:685:10)
+
+Additional information:
+  user = Audinory ( ͜)
+  room = lobby
+  message = /spank 1
+
+
+ReferenceError: Spanker is not defined
+    at CommandContext.exports.commands.spank (/home/ubuntu/workspace/chat-plugins/Brookes Requests.js:59:11)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:262:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:607:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1430:9)
+    at Function.fs.readFile.groupData.rename.connection.getAlts.getAll.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1650:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:685:10)
+
+Additional information:
+  user = KatheyIsme123
+  room = lobby
+  message = /spank
+
+
+ReferenceError: p1Number is not defined
+    at CommandContext.exports.commands.joindice (/home/ubuntu/workspace/chat-plugins/economy.js:404:26)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:262:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:607:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1430:9)
+    at Function.fs.readFile.groupData.rename.connection.getAlts.getAll.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1650:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:685:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+Additional information:
+  user = Audinory
+  room = lobby
+  message = /joindice
+
+
+ReferenceError: p1Number is not defined
+    at CommandContext.exports.commands.joindice (/home/ubuntu/workspace/chat-plugins/economy.js:404:26)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:262:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:607:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1430:9)
+    at Function.fs.readFile.groupData.rename.connection.getAlts.getAll.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1650:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:685:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+Additional information:
+  user = Audinory
+  room = staff
+  message = /joindice
+
+
+Error: listen EADDRINUSE 0.0.0.0:8080
+    at Object.exports._errnoException (util.js:837:11)
+    at exports._exceptionWithHostPort (util.js:860:20)
+    at Server._listen2 (net.js:1231:14)
+    at listen (net.js:1267:10)
+    at net.js:1376:9
+    at doNTCallback3 (node.js:440:9)
+    at process._tickCallback (node.js:346:17)
+    at Function.Module.runMain (module.js:477:11)
+    at startup (node.js:117:18)
+    at node.js:951:3
+
+Additional information:
+
+
+ReferenceError: wheels is not defined
+    at CommandContext.exports.commands.wheel.create (/home/ubuntu/workspace/chat-plugins/casino.js:10:18)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:262:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:607:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1430:9)
+    at Function.fs.readFile.groupData.rename.connection.getAlts.getAll.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1650:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:685:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+Additional information:
+  user = Audinory
+  room = lobby
+  message = /wheel create Wheel of Scrubs, +5
+
+
+ReferenceError: wheels is not defined
+    at CommandContext.exports.commands.wheel.create (/home/ubuntu/workspace/chat-plugins/casino.js:10:18)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:262:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:607:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1430:9)
+    at Function.fs.readFile.groupData.rename.connection.getAlts.getAll.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1650:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:685:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+Additional information:
+  user = Bandi
+  room = lobby
+  message = /wheel create , scrubs,1
+
+
+ReferenceError: wheels is not defined
+    at CommandContext.exports.commands.wheel.create (/home/ubuntu/workspace/chat-plugins/casino.js:10:18)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:262:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:607:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1430:9)
+    at Function.fs.readFile.groupData.rename.connection.getAlts.getAll.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1650:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:685:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+Additional information:
+  user = Audinory
+  room = lobby
+  message = /wheel create wheelofscrubs, 1
+
+
+ReferenceError: economy is not defined
+    at CommandContext.exports.commands.wheel.create (/home/ubuntu/workspace/chat-plugins/casino.js:9:18)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:262:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:607:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1430:9)
+    at Function.fs.readFile.groupData.rename.connection.getAlts.getAll.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1650:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:685:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+Additional information:
+  user = Audinory
+  room = lobby
+  message = /wheel create nigger, nigger
+
+
+ReferenceError: currencyName is not defined
+    at CommandContext.exports.commands.joindice (/home/ubuntu/workspace/chat-plugins/casino.js:75:130)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:262:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:607:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1430:9)
+    at Function.fs.readFile.groupData.rename.connection.getAlts.getAll.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1650:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:685:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+Additional information:
+  user = Alliance Darkrai
+  room = lobby
+  message = /joindice
+
+
+Error: listen EADDRINUSE 0.0.0.0:8080
+    at Object.exports._errnoException (util.js:837:11)
+    at exports._exceptionWithHostPort (util.js:860:20)
+    at Server._listen2 (net.js:1231:14)
+    at listen (net.js:1267:10)
+    at net.js:1376:9
+    at doNTCallback3 (node.js:440:9)
+    at process._tickCallback (node.js:346:17)
+    at Function.Module.runMain (module.js:477:11)
+    at startup (node.js:117:18)
+    at node.js:951:3
+
+Additional information:
+
+
+TypeError: Cannot read property 'target' of undefined
+    at CommandContext.exports.commands.wheel.create (/home/ubuntu/workspace/chat-plugins/casino.js:16:32)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:262:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:607:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1430:9)
+    at Function.fs.readFile.groupData.rename.connection.getAlts.getAll.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1650:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:685:10)
+
+Additional information:
+  user = Audinory
+  room = lobby
+  message = /wheel create Wheel of Scrubs, -5
+
+
+TypeError: Cannot read property 'target' of undefined
+    at CommandContext.exports.commands.wheel.create (/home/ubuntu/workspace/chat-plugins/casino.js:16:32)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:262:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:607:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1430:9)
+    at Function.fs.readFile.groupData.rename.connection.getAlts.getAll.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1650:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:685:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+Additional information:
+  user = Audinory
+  room = lobby
+  message = /wheel create scrubs, 1
+
+
+TypeError: Cannot read property 'target' of undefined
+    at CommandContext.exports.commands.wheel.create (/home/ubuntu/workspace/chat-plugins/casino.js:16:32)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:262:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:607:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1430:9)
+    at Function.fs.readFile.groupData.rename.connection.getAlts.getAll.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1650:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:685:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+Additional information:
+  user = Bandi
+  room = lobby
+  message = /wheel create scrubs,1
+
+
+TypeError: Cannot read property 'indexOf' of undefined
+    at CommandContext.exports.commands.wheel.create (/home/ubuntu/workspace/chat-plugins/casino.js:16:31)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:262:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:607:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1430:9)
+    at Function.fs.readFile.groupData.rename.connection.getAlts.getAll.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1650:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:685:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+Additional information:
+  user = Audinory
+  room = lobby
+  message = /wheel create scrubs, 1
+
+
+TypeError: Cannot read property 'scrubs, 1' of undefined
+    at CommandContext.exports.commands.wheel.create (/home/ubuntu/workspace/chat-plugins/casino.js:16:31)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:262:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:607:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1430:9)
+    at Function.fs.readFile.groupData.rename.connection.getAlts.getAll.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1650:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:685:10)
+
+Additional information:
+  user = Audinory
+  room = lobby
+  message = /wheel create scrubs, 1
+
+
+TypeError: Cannot read property 'scrubs, 1' of undefined
+    at CommandContext.exports.commands.wheel.create (/home/ubuntu/workspace/chat-plugins/casino.js:16:39)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:262:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:607:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1430:9)
+    at Function.fs.readFile.groupData.rename.connection.getAlts.getAll.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1650:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:685:10)
+
+Additional information:
+  user = Audinory
+  room = lobby
+  message = /wheel create scrubs, 1
+
+
+ReferenceError: Wheel is not defined
+    at CommandContext.exports.commands.wheel.create (/home/ubuntu/workspace/chat-plugins/casino.js:18:30)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:262:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:607:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1430:9)
+    at Function.fs.readFile.groupData.rename.connection.getAlts.getAll.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1650:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:685:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+Additional information:
+  user = Audinory
+  room = lobby
+  message = /wheel create scrubs, 1
+
+
+TypeError: Cannot read property 'scrubs' of undefined
+    at CommandContext.exports.commands.wheel.create (/home/ubuntu/workspace/chat-plugins/casino.js:32:75)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:262:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:607:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1430:9)
+    at Function.fs.readFile.groupData.rename.connection.getAlts.getAll.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1650:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:685:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+Additional information:
+  user = Audinory
+  room = lobby
+  message = /wheel create scrubs, 1
+
+
+ReferenceError: spinWheel is not defined
+    at CommandContext.exports.commands.wheel.create (/home/ubuntu/workspace/chat-plugins/casino.js:32:96)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:262:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:607:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1430:9)
+    at Function.fs.readFile.groupData.rename.connection.getAlts.getAll.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1650:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:685:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+Additional information:
+  user = Audinory
+  room = lobby
+  message = /wheel create scrubs, 1
+
+
+ReferenceError: targets is not defined
+    at Wheel.initDisplay (/home/ubuntu/workspace/chat-plugins/casino.js:10:234)
+    at CommandContext.exports.commands.wheel.create (/home/ubuntu/workspace/chat-plugins/casino.js:37:33)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:262:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:607:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1430:9)
+    at Function.fs.readFile.groupData.rename.connection.getAlts.getAll.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1650:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+
+Additional information:
+  user = Audinory
+  room = development
+  message = /wheel create scrubs, 1
+
+
+ReferenceError: targets is not defined
+    at Wheel.initDisplay (/home/ubuntu/workspace/chat-plugins/casino.js:10:234)
+    at CommandContext.exports.commands.wheel.create (/home/ubuntu/workspace/chat-plugins/casino.js:37:33)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:262:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:607:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1430:9)
+    at Function.fs.readFile.groupData.rename.connection.getAlts.getAll.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1650:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+
+Additional information:
+  user = Bandi
+  room = casino
+  message = /wheel create balance,1
+
+
+ReferenceError: targets is not defined
+    at Wheel.initDisplay (/home/ubuntu/workspace/chat-plugins/casino.js:10:439)
+    at CommandContext.exports.commands.wheel.create (/home/ubuntu/workspace/chat-plugins/casino.js:37:33)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:262:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:607:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1430:9)
+    at Function.fs.readFile.groupData.rename.connection.getAlts.getAll.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1650:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+
+Additional information:
+  user = Audinory
+  room = darkraisdungeon
+  message = /wheel create scrubs, 1
+
+
+TypeError: Cannot read property 'contact' of undefined
+    at Tools.exports.BattleAbilities.cutecharm.onAfterDamage (/home/ubuntu/workspace/mods/gen3/abilities.js:7:26)
+    at Tools.process.on.require.start.process.on.Battle.construct.Battle.eachEvent.Battle.runEvent (/home/ubuntu/workspace/battle-engine.js:2376:38)
+    at Tools.exports.BattleScripts.damage.effect.debug [as damage] (/home/ubuntu/workspace/mods/gen2/scripts.js:533:18)
+    at Tools.exports.BattleAbilities.ironbarbs.onAfterDamage (/home/ubuntu/workspace/data/abilities.js:1268:10)
+    at Tools.process.on.require.start.process.on.Battle.construct.Battle.eachEvent.Battle.runEvent (/home/ubuntu/workspace/battle-engine.js:2376:38)
+    at Tools.exports.BattleScripts.damage.effect.debug [as damage] (/home/ubuntu/workspace/mods/gen2/scripts.js:533:18)
+    at Tools.exports.BattleScripts.moveHit (/home/ubuntu/workspace/mods/gen2/scripts.js:159:19)
+    at Tools.exports.BattleScripts.tryMoveHit (/home/ubuntu/workspace/data/scripts.js:373:18)
+    at Tools.exports.BattleScripts.useMove (/home/ubuntu/workspace/data/scripts.js:170:18)
+    at Tools.exports.BattleScripts.runMove (/home/ubuntu/workspace/mods/gen2/scripts.js:113:8)
+
+Additional information:
+  message = battle-hackmonscupgen1-275|choose|p1|move 4|18
+  currentRequest = move
+  log = 
+|player|p1|TheShankSkank|theshankskank.gif
+|player|p2|hitorihanza|hitorihanza.gif
+|gametype|singles
+|gen|2
+|tier|Hackmons Cup [Gen 1]
+|seed|18455,22534,35433,18261,2714,48588,22674,12019,17811,10867,49806,30897
+|rule|HP Percentage Mod: HP is shown in percentages
+|
+|start
+|switch|p1a: Cloyster|Cloyster, L72, F|202/202
+|switch|p2a: Rapidash|Rapidash, L74, M|186/186
+|turn|1
+|choice|move 3|move 2
+|
+|move|p1a: Cloyster|Arm Thrust|p2a: Rapidash
+|-damage|p2a: Rapidash|169/186
+|-damage|p2a: Rapidash|152/186
+|-damage|p2a: Rapidash|135/186
+|-damage|p2a: Rapidash|119/186
+|-hitcount|p2a: Rapidash|4
+|move|p2a: Rapidash|Revenge|p1a: Cloyster
+|-supereffective|p1a: Cloyster
+|-damage|p1a: Cloyster|82/202
+|
+|turn|2
+|choice|move 2|move 2
+|
+|move|p1a: Cloyster|Wild Charge|p2a: Rapidash
+|-damage|p2a: Rapidash|52/186
+|-damage|p1a: Cloyster|66/202|[from] recoil|[of] p2a: Rapidash
+|move|p2a: Rapidash|Revenge|p1a: Cloyster
+|-crit|p1a: Cloyster
+|-supereffective|p1a: Cloyster
+|-damage|p1a: Cloyster|0 fnt
+|faint|p1a: Cloyster
+|choice|switch 2|
+|
+|switch|p1a: Venomoth|Venomoth, L77, M|210/210
+|
+|turn|3
+|choice|move 2|switch 6
+|
+|switch|p2a: Archen|Archen, L81, F|210/210
+|move|p1a: Venomoth|Psywave|p2a: Archen
+|-damage|p2a: Archen|126/210
+|
+|turn|4
+|choice|move 2|move 1
+|
+|move|p1a: Venomoth|Psywave|p2a: Archen
+|-damage|p2a: Archen|54/210
+|move|p2a: Archen|Scratch|p1a: Venomoth
+|-damage|p1a: Venomoth|166/210
+|
+|turn|5
+|choice|move 2|move 3
+|
+|move|p1a: Venomoth|Psywave|p2a: Archen|[miss]
+|-miss|p1a: Venomoth|p2a: Archen
+|move|p2a: Archen|Superpower|p1a: Venomoth
+|-resisted|p1a: Venomoth
+|-damage|p1a: Venomoth|133/210
+|-unboost|p2a: Archen|atk|1
+|-unboost|p2a: Archen|def|1
+|
+|turn|6
+|choice|move 2|move 1
+|
+|move|p1a: Venomoth|Psywave|p2a: Archen|[miss]
+|-miss|p1a: Venomoth|p2a: Archen
+|move|p2a: Archen|Scratch|p1a: Venomoth
+|-damage|p1a: Venomoth|104/210
+|-enditem|p1a: Venomoth|Berry Juice
+|-heal|p1a: Venomoth|124/210|[from] item: Berry Juice
+|
+|turn|7
+|choice|move 2|move 4
+|
+|move|p2a: Archen|Mach Punch|p1a: Venomoth
+|-resisted|p1a: Venomoth
+|-damage|p1a: Venomoth|118/210
+|move|p1a: Venomoth|Psywave|p2a: Archen|[miss]
+|-miss|p1a: Venomoth|p2a: Archen
+|
+|turn|8
+|choice|move 2|move 4
+|
+|move|p2a: Archen|Mach Punch|p1a: Venomoth
+|-crit|p1a: Venomoth
+|-resisted|p1a: Venomoth
+|-damage|p1a: Venomoth|99/210
+|move|p1a: Venomoth|Psywave|p2a: Archen
+|-damage|p2a: Archen|49/210
+|
+|turn|9
+|choice|move 2|move 4
+|
+|move|p2a: Archen|Mach Punch|p1a: Venomoth
+|-resisted|p1a: Venomoth
+|-damage|p1a: Venomoth|92/210
+|move|p1a: Venomoth|Psywave|p2a: Archen
+|-damage|p2a: Archen|0 fnt
+|faint|p2a: Archen
+|choice||switch 5
+|
+|switch|p2a: Banette|Banette, L77, M|232/232
+|
+|turn|10
+|choice|move 2|move 3
+|
+|move|p1a: Venomoth|Psywave|p2a: Banette
+|-damage|p2a: Banette|157/232
+|move|p2a: Banette|Psyshock|p1a: Venomoth
+|-supereffective|p1a: Venomoth
+|-damage|p1a: Venomoth|0 fnt
+|faint|p1a: Venomoth
+|choice|switch 4|
+|
+|switch|p1a: Vaporeon|Vaporeon, L72, F|280/280
+|
+|turn|11
+|choice|move 2|move 2
+|
+|move|p1a: Vaporeon|Bug Bite|p2a: Banette
+|-resisted|p2a: Banette
+|-damage|p2a: Banette|146/232
+|-damage|p1a: Vaporeon|245/280|[from] ability: Iron Barbs|[of] p2a: Banette
+|move|p2a: Banette|Petal Blizzard|p1a: Vaporeon
+|-supereffective|p1a: Vaporeon
+|-damage|p1a: Vaporeon|122/280
+|
+|turn|12
+|choice|move 1|move 2
+|
+|move|p1a: Vaporeon|Icy Wind|p2a: Banette
+|-damage|p2a: Banette|98/232
+|-unboost|p2a: Banette|spe|1
+|move|p2a: Banette|Petal Blizzard|p1a: Vaporeon
+|-supereffective|p1a: Vaporeon
+|-damage|p1a: Vaporeon|0 fnt
+|faint|p1a: Vaporeon
+|choice|switch 3|
+|
+|switch|p1a: Honchkrow|Honchkrow, L75, M|245/245
+|
+|turn|13
+|choice|move 3|move 4
+|
+|move|p2a: Banette|Mega Kick|p1a: Honchkrow
+|-damage|p1a: Honchkrow|105/245
+|move|p1a: Honchkrow|Mirror Coat|p2a: Banette
+|-fail|p2a: Banette
+|
+|turn|14
+|choice|move 4|move 4
+|
+|move|p1a: Honchkrow|Fire Fang|p2a: Banette
+|-damage|p2a: Banette|42/232
+|-damage|p1a: Honchkrow|75/245|[from] ability: Iron Barbs|[of] p2a: Banette
+
+
+TypeError: Cannot read property 'contact' of undefined
+    at Tools.exports.BattleAbilities.static.onAfterDamage (/home/ubuntu/workspace/Server-Folder/mods/gen3/abilities.js:128:30)
+    at Tools.process.on.require.start.process.on.Battle.construct.Battle.eachEvent.Battle.runEvent (/home/ubuntu/workspace/Server-Folder/battle-engine.js:2376:38)
+    at Tools.exports.BattleScripts.damage (/home/ubuntu/workspace/Server-Folder/mods/gen1/scripts.js:676:18)
+    at Tools.exports.BattleMovedex.healingwish.lunardance.metronome.stealthrock.effect.onSwitchIn (/home/ubuntu/workspace/Server-Folder/data/moves.js:13637:10)
+    at Tools.process.on.require.start.process.on.Battle.construct.Battle.eachEvent.Battle.runEvent (/home/ubuntu/workspace/Server-Folder/battle-engine.js:2376:38)
+    at Tools.process.on.require.start.process.on.Battle.construct.Battle.eachEvent.Battle.makeRequest.switchTable.some.switchTable.some.Battle.nextTurn.Battle.damage.Battle.resolveTarget.Battle.runDecision.p1switch [as runDecision] (/home/ubuntu/workspace/Server-Folder/battle-engine.js:4055:9)
+    at Tools.process.on.require.start.process.on.Battle.construct.Battle.eachEvent.Battle.makeRequest.switchTable.some.switchTable.some.Battle.nextTurn.Battle.damage.Battle.resolveTarget.Battle.runDecision.Battle.go (/home/ubuntu/workspace/Server-Folder/battle-engine.js:4174:9)
+    at Tools.process.on.require.start.process.on.Battle.construct.Battle.eachEvent.Battle.makeRequest.switchTable.some.switchTable.some.Battle.nextTurn.Battle.damage.Battle.resolveTarget.Battle.runDecision.Battle.commitDecisions (/home/ubuntu/workspace/Server-Folder/battle-engine.js:4255:8)
+    at Tools.process.on.require.start.process.on.Battle.construct.Battle.eachEvent.Battle.makeRequest.switchTable.some.switchTable.some.Battle.nextTurn.Battle.damage.Battle.resolveTarget.Battle.runDecision.Battle.choose (/home/ubuntu/workspace/Server-Folder/battle-engine.js:4229:9)
+    at Tools.process.on.require.start.process.on.Battle.construct.Battle.eachEvent.Battle.makeRequest.switchTable.some.switchTable.some.Battle.nextTurn.Battle.damage.Battle.resolveTarget.Battle.runDecision.Battle.parseChoice.Battle.add.Battle.receive (/home/ubuntu/workspace/Server-Folder/battle-engine.js:4734:9)
+
+Additional information:
+  message = battle-gen1battlefactory-287|choose|p2|switch 6|29
+  currentRequest = switch
+  log = 
+|player|p1|hitorihanza|hitorihanza.gif
+|player|p2|TheShankSkank|theshankskank.gif
+|gametype|singles
+|gen|1
+|tier|[Gen 1] Battle Factory
+|seed|4899,4464,9060,37316,17396,4850,25262,65530,29841,698,10238,41956
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|clearpoke
+|poke|p1|Quilladin, M|item
+|poke|p1|Simisear, M|item
+|poke|p1|Audino, M|item
+|poke|p1|Misdreavus, M|item
+|poke|p1|Metang|item
+|poke|p1|Vibrava, M|item
+|poke|p2|Stunfisk, M|item
+|poke|p2|Cryogonal|item
+|poke|p2|Murkrow, M|item
+|poke|p2|Zebstrika, M|item
+|poke|p2|Articuno|item
+|poke|p2|Dusknoir, M|item
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Mega Rayquaza Clause: You cannot mega evolve Rayquaza
+|teampreview
+|choice|team 6|team 4
+|
+|start
+|switch|p1a: Vibrava|Vibrava, M|302/302
+|switch|p2a: Zebstrika|Zebstrika, M|290/290
+|turn|1
+|choice|move 1|move 4
+|
+|move|p2a: Zebstrika|Hidden Power|p1a: Vibrava
+|-damage|p1a: Vibrava|224/302
+|-damage|p2a: Zebstrika|261/290|[from] item: Life Orb
+|move|p1a: Vibrava|Earthquake|p2a: Zebstrika
+|-supereffective|p2a: Zebstrika
+|-damage|p2a: Zebstrika|0 fnt
+|faint|p2a: Zebstrika
+|choice||switch 2
+|
+|switch|p2a: Cryogonal|Cryogonal|280/280
+|turn|2
+|choice|switch 2|move 1
+|
+|switch|p1a: Simisear|Simisear, M|288/288
+|move|p2a: Cryogonal|Freeze-Dry|p1a: Simisear
+|-damage|p1a: Simisear|136/288
+|-damage|p2a: Cryogonal|252/280|[from] item: Life Orb
+|
+|turn|3
+|choice|move 3|move 1
+|
+|move|p2a: Cryogonal|Freeze-Dry|p1a: Simisear
+|-damage|p1a: Simisear|0 fnt
+|-damage|p2a: Cryogonal|224/280|[from] item: Life Orb
+|faint|p1a: Simisear
+|choice|switch 3|
+|
+|switch|p1a: Audino|Audino, M|409/409
+|turn|4
+|choice|move 3|move 2
+|
+|move|p1a: Audino|Protect|p1a: Audino
+|-singleturn|p1a: Audino|Protect
+|move|p2a: Cryogonal|Hidden Power|p1a: Audino
+|-activate|p1a: Audino|Protect
+|
+|turn|5
+|choice|move 4|move 2
+|
+|move|p2a: Cryogonal|Hidden Power|p1a: Audino
+|-supereffective|p1a: Audino
+|-damage|p1a: Audino|348/409
+|-damage|p2a: Cryogonal|196/280|[from] item: Life Orb
+|move|p1a: Audino|Encore|p2a: Cryogonal
+|-start|p2a: Cryogonal|Encore
+|
+|-heal|p1a: Audino|373/409|[from] item: Leftovers
+|turn|6
+|choice|switch 4|move 2
+|
+|switch|p1a: Misdreavus|Misdreavus, M|260/260
+|move|p2a: Cryogonal|Hidden Power|p1a: Misdreavus
+|-immune|p1a: Misdreavus|[msg]
+|
+|turn|7
+|choice|move 3|switch 3
+|
+|switch|p2a: Murkrow|Murkrow, M|260/260
+|move|p1a: Misdreavus|Shadow Ball|p2a: Murkrow
+|-damage|p2a: Murkrow|146/260
+|
+|turn|8
+|choice|move 4|move 2
+|
+|move|p2a: Murkrow|Sucker Punch|p1a: Misdreavus
+|-damage|p1a: Misdreavus|165/260
+|-damage|p2a: Murkrow|120/260|[from] item: Life Orb
+|move|p1a: Misdreavus|Thunderbolt|p2a: Murkrow
+|-supereffective|p2a: Murkrow
+|-damage|p2a: Murkrow|0 fnt
+|faint|p2a: Murkrow
+|choice||switch 3
+|
+|switch|p2a: Cryogonal|Cryogonal|196/280
+|turn|9
+|choice|move 3|move 3
+|
+|move|p2a: Cryogonal|Recover|p2a: Cryogonal
+|-heal|p2a: Cryogonal|280/280
+|move|p1a: Misdreavus|Shadow Ball|p2a: Cryogonal
+|-damage|p2a: Cryogonal|133/280
+|
+|turn|10
+|choice|move 3|move 3
+|
+|move|p2a: Cryogonal|Recover|p2a: Cryogonal
+|-heal|p2a: Cryogonal|273/280
+|move|p1a: Misdreavus|Shadow Ball|p2a: Cryogonal
+|-crit|p2a: Cryogonal
+|-damage|p2a: Cryogonal|0 fnt
+|faint|p2a: Cryogonal
+|choice||switch 4
+|
+|switch|p2a: Stunfisk|Stunfisk, M|421/421
+|turn|11
+|choice|switch 6|move 1
+|
+|switch|p1a: Quilladin|Quilladin, M|262/262
+|move|p2a: Stunfisk|Stealth Rock|p1a: Quilladin
+|-sidestart|p1: hitorihanza|move: Stealth Rock
+|
+|turn|12
+|choice|move 1|move 2
+|
+|move|p1a: Quilladin|Wood Hammer|p2a: Stunfisk
+|-supereffective|p2a: Stunfisk
+|-damage|p2a: Stunfisk|255/421
+|-damage|p1a: Quilladin|208/262|[from] recoil|[of] p2a: Stunfisk
+|move|p2a: Stunfisk|Discharge|p1a: Quilladin
+|-resisted|p1a: Quilladin
+|-damage|p1a: Quilladin|143/262
+|
+|turn|13
+|choice|move 3|move 2
+|
+|move|p1a: Quilladin|Spikes|p2a: Stunfisk
+|-sidestart|p2: TheShankSkank|Spikes
+|move|p2a: Stunfisk|Discharge|p1a: Quilladin
+|-resisted|p1a: Quilladin
+|-damage|p1a: Quilladin|82/262
+|-status|p1a: Quilladin|par
+|
+|turn|14
+|choice|move 4|move 2
+|
+|move|p2a: Stunfisk|Discharge|p1a: Quilladin
+|-resisted|p1a: Quilladin
+|-damage|p1a: Quilladin|19/262 par
+|move|p1a: Quilladin|Zen Headbutt|p2a: Stunfisk
+|-damage|p2a: Stunfisk|222/421
+|
+|turn|15
+|choice|switch 2|move 2
+|
+|switch|p1a: Vibrava|Vibrava, M|224/302
+|-damage|p1a: Vibrava|206/302|[from] Stealth Rock
+|move|p2a: Stunfisk|Discharge|p1a: Vibrava
+|-immune|p1a: Vibrava|[msg]
+|
+|turn|16
+|choice|move 3|move 3
+|
+|move|p1a: Vibrava|Defog|p2a: Stunfisk
+|-unboost|p2a: Stunfisk|evasion|1
+|-sideend|p2: TheShankSkank|Spikes|[from] move: Defog|[of] p2a: Stunfisk
+|move|p2a: Stunfisk|Earth Power|p1a: Vibrava
+|-immune|p1a: Vibrava|[msg]|[from] ability: Levitate
+|
+|turn|17
+|choice|move 1|switch 6
+|
+|switch|p2a: Dusknoir|Dusknoir, M|293/293
+|-item|p1a: Vibrava|Eviolite|[from] ability: Frisk|[of] p2a: Dusknoir
+|move|p1a: Vibrava|Earthquake|p2a: Dusknoir
+|-damage|p2a: Dusknoir|231/293
+|
+|turn|18
+|choice|move 2|move 4
+|
+|move|p1a: Vibrava|U-turn|p2a: Dusknoir
+|-resisted|p2a: Dusknoir
+|-damage|p2a: Dusknoir|217/293
+|choice|switch 5|
+|
+|switch|p1a: Metang|Metang|322/322
+|-damage|p1a: Metang|282/322|[from] Stealth Rock
+|move|p2a: Dusknoir|Will-O-Wisp|p1a: Metang|[miss]
+|-miss|p2a: Dusknoir
+|
+|turn|19
+|choice|move 3|move 3
+|
+|move|p1a: Metang|Toxic|p2a: Dusknoir
+|-status|p2a: Dusknoir|tox
+|move|p2a: Dusknoir|Earthquake|p1a: Metang
+|-damage|p1a: Metang|167/322
+|-damage|p2a: Dusknoir|199/293 tox|[from] tox|[of] p1a: Metang
+|
+|turn|20
+|choice|move 2|move 4
+|
+|move|p1a: Metang|Stealth Rock|p2a: Dusknoir
+|-sidestart|p2: TheShankSkank|move: Stealth Rock
+|move|p2a: Dusknoir|Will-O-Wisp|p1a: Metang
+|-status|p1a: Metang|brn
+|-damage|p2a: Dusknoir|163/293 tox|[from] tox|[of] p1a: Metang
+|
+|turn|21
+|choice|move 4|move 3
+|
+|move|p1a: Metang|Pursuit|p2a: Dusknoir
+|-damage|p2a: Dusknoir|148/293 tox
+|-damage|p1a: Metang|147/322 brn|[from] brn|[of] p2a: Dusknoir
+|move|p2a: Dusknoir|Earthquake|p1a: Metang
+|-damage|p1a: Metang|29/322 brn
+|-damage|p2a: Dusknoir|94/293 tox|[from] tox|[of] p1a: Metang
+|
+|turn|22
+|choice|move 1|move 3
+|
+|move|p1a: Metang|Meteor Mash|p2a: Dusknoir
+|-crit|p2a: Dusknoir
+|-damage|p2a: Dusknoir|0 fnt
+|faint|p2a: Dusknoir
+|choice||switch 6
+|
+|switch|p2a: Stunfisk|Stunfisk, M|222/421
+|-damage|p2a: Stunfisk|196/421|[from] Stealth Rock
+
+
+TypeError: Cannot read property 'wheelHost' of undefined
+    at CommandContext.exports.commands.wheel.end (/home/ubuntu/workspace/Server-Folder/chat-plugins/casino.js:53:68)
+    at CommandContext.run (/home/ubuntu/workspace/Server-Folder/command-parser.js:262:28)
+    at Object.exports.parse (/home/ubuntu/workspace/Server-Folder/command-parser.js:607:18)
+    at Room.chat (/home/ubuntu/workspace/Server-Folder/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/Server-Folder/users.js:1430:9)
+    at Function.fs.readFile.groupData.rename.connection.getAlts.getAll.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/Server-Folder/users.js:1650:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/Server-Folder/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:685:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+Additional information:
+  user = Bandi
+  room = casino
+  message = /wheel end
+
+
+TypeError: Cannot read property 'wheelHost' of undefined
+    at CommandContext.exports.commands.wheel.end (/home/ubuntu/workspace/Server-Folder/chat-plugins/casino.js:53:68)
+    at CommandContext.run (/home/ubuntu/workspace/Server-Folder/command-parser.js:262:28)
+    at Object.exports.parse (/home/ubuntu/workspace/Server-Folder/command-parser.js:607:18)
+    at Room.chat (/home/ubuntu/workspace/Server-Folder/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/Server-Folder/users.js:1430:9)
+    at Function.fs.readFile.groupData.rename.connection.getAlts.getAll.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/Server-Folder/users.js:1650:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/Server-Folder/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:685:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+Additional information:
+  user = Bandi
+  room = lobby
+  message = /wheel end
+
+
+TypeError: Cannot read property 'wheelHost' of undefined
+    at CommandContext.exports.commands.wheel.end (/home/ubuntu/workspace/Server-Folder/chat-plugins/casino.js:53:68)
+    at CommandContext.run (/home/ubuntu/workspace/Server-Folder/command-parser.js:262:28)
+    at Object.exports.parse (/home/ubuntu/workspace/Server-Folder/command-parser.js:607:18)
+    at Room.chat (/home/ubuntu/workspace/Server-Folder/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/Server-Folder/users.js:1430:9)
+    at Function.fs.readFile.groupData.rename.connection.getAlts.getAll.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/Server-Folder/users.js:1650:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/Server-Folder/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:685:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+Additional information:
+  user = Bandi
+  room = casino
+  message = /wheel end
+
+
+ReferenceError: symbolcolors is not defined
+    at CommandContext.exports.commands.symbolcolor (/home/ubuntu/workspace/Server-Folder/chat-plugins/customcolors.js:115:9)
+    at CommandContext.run (/home/ubuntu/workspace/Server-Folder/command-parser.js:262:28)
+    at Object.exports.parse (/home/ubuntu/workspace/Server-Folder/command-parser.js:607:18)
+    at Room.chat (/home/ubuntu/workspace/Server-Folder/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/Server-Folder/users.js:1430:9)
+    at Function.fs.readFile.groupData.rename.connection.getAlts.getAll.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/Server-Folder/users.js:1650:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/Server-Folder/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:685:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+Additional information:
+  user = Audinory
+  room = lobby
+  message = /symbolcolor TheShankSkank, #ff00ff
+
+
+ReferenceError: symbolcolors is not defined
+    at CommandContext.exports.commands.symbolcolor (/home/ubuntu/workspace/Server-Folder/chat-plugins/customcolors.js:116:9)
+    at CommandContext.run (/home/ubuntu/workspace/Server-Folder/command-parser.js:262:28)
+    at Object.exports.parse (/home/ubuntu/workspace/Server-Folder/command-parser.js:607:18)
+    at Room.chat (/home/ubuntu/workspace/Server-Folder/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/Server-Folder/users.js:1430:9)
+    at Function.fs.readFile.groupData.rename.connection.getAlts.getAll.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/Server-Folder/users.js:1650:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/Server-Folder/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:685:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+Additional information:
+  user = Audinory
+  room = lobby
+  message = /symbolcolor TheShankSkank, #ff00ff
+
+
+ReferenceError: writeIconCSS is not defined
+    at CommandContext.exports.commands.symbolcolor (/home/ubuntu/workspace/Server-Folder/chat-plugins/customcolors.js:101:17)
+    at CommandContext.run (/home/ubuntu/workspace/Server-Folder/command-parser.js:262:28)
+    at Object.exports.parse (/home/ubuntu/workspace/Server-Folder/command-parser.js:607:18)
+    at Room.chat (/home/ubuntu/workspace/Server-Folder/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/Server-Folder/users.js:1430:9)
+    at Function.fs.readFile.groupData.rename.connection.getAlts.getAll.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/Server-Folder/users.js:1650:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/Server-Folder/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:685:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+Additional information:
+  user = Audinory
+  room = lobby
+  message = /symbolcolor TheShankSkank, #fof
+
+
+ReferenceError: writeIconCSS is not defined
+    at CommandContext.exports.commands.symbolcolor (/home/ubuntu/workspace/Server-Folder/chat-plugins/customcolors.js:97:17)
+    at CommandContext.run (/home/ubuntu/workspace/Server-Folder/command-parser.js:262:28)
+    at Object.exports.parse (/home/ubuntu/workspace/Server-Folder/command-parser.js:607:18)
+    at Room.chat (/home/ubuntu/workspace/Server-Folder/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/Server-Folder/users.js:1430:9)
+    at Function.fs.readFile.groupData.rename.connection.getAlts.getAll.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/Server-Folder/users.js:1650:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/Server-Folder/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:685:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+Additional information:
+  user = Audinory
+  room = lobby
+  message = /symbolcolor TheShankSkank, #fof, lobby
+
+
+ReferenceError: wheelHost is not defined
+    at CommandContext.exports.commands.wheel.join (/home/ubuntu/workspace/Server-Folder/chat-plugins/casino.js:40:29)
+    at CommandContext.run (/home/ubuntu/workspace/Server-Folder/command-parser.js:262:28)
+    at Object.exports.parse (/home/ubuntu/workspace/Server-Folder/command-parser.js:607:18)
+    at Room.chat (/home/ubuntu/workspace/Server-Folder/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/Server-Folder/users.js:1430:9)
+    at Function.fs.readFile.groupData.rename.connection.getAlts.getAll.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/Server-Folder/users.js:1650:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/Server-Folder/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:685:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+Additional information:
+  user = TerminalHydreigon
+  room = casino
+  message = /wheel spin
+
+
+ReferenceError: wheelHost is not defined
+    at CommandContext.exports.commands.wheel.join (/home/ubuntu/workspace/Server-Folder/chat-plugins/casino.js:40:29)
+    at CommandContext.run (/home/ubuntu/workspace/Server-Folder/command-parser.js:262:28)
+    at Object.exports.parse (/home/ubuntu/workspace/Server-Folder/command-parser.js:607:18)
+    at Room.chat (/home/ubuntu/workspace/Server-Folder/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/Server-Folder/users.js:1430:9)
+    at Function.fs.readFile.groupData.rename.connection.getAlts.getAll.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/Server-Folder/users.js:1650:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/Server-Folder/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:685:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+Additional information:
+  user = TerminalHydreigon
+  room = casino
+  message = /wheel spin
+
+
+TypeError: WheelBucks.trim is not a function
+    at new Wheel (/home/ubuntu/workspace/Server-Folder/chat-plugins/casino.js:13:32)
+    at CommandContext.exports.commands.wheel.create (/home/ubuntu/workspace/Server-Folder/chat-plugins/casino.js:39:26)
+    at CommandContext.run (/home/ubuntu/workspace/Server-Folder/command-parser.js:262:28)
+    at Object.exports.parse (/home/ubuntu/workspace/Server-Folder/command-parser.js:607:18)
+    at Room.chat (/home/ubuntu/workspace/Server-Folder/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/Server-Folder/users.js:1430:9)
+    at Function.fs.readFile.groupData.rename.connection.getAlts.getAll.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/Server-Folder/users.js:1650:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/Server-Folder/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+
+Additional information:
+  user = Audinory
+  room = lobby
+  message = /wheel create scrubs, 1
+
+
+ReferenceError: CssWin is not defined
+    at Wheel.endDisplay (/home/ubuntu/workspace/Server-Folder/chat-plugins/casino.js:25:17)
+    at CommandContext.exports.commands.wheel.join (/home/ubuntu/workspace/Server-Folder/chat-plugins/casino.js:53:33)
+    at CommandContext.run (/home/ubuntu/workspace/Server-Folder/command-parser.js:262:28)
+    at Object.exports.parse (/home/ubuntu/workspace/Server-Folder/command-parser.js:607:18)
+    at Room.chat (/home/ubuntu/workspace/Server-Folder/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/Server-Folder/users.js:1430:9)
+    at Function.fs.readFile.groupData.rename.connection.getAlts.getAll.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/Server-Folder/users.js:1650:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/Server-Folder/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+
+Additional information:
+  user = Bandi
+  room = lobby
+  message = /wheel spin
+
+
+ReferenceError: CssWin is not defined
+    at Wheel.endDisplay (/home/ubuntu/workspace/Server-Folder/chat-plugins/casino.js:25:17)
+    at CommandContext.exports.commands.wheel.join (/home/ubuntu/workspace/Server-Folder/chat-plugins/casino.js:53:33)
+    at CommandContext.run (/home/ubuntu/workspace/Server-Folder/command-parser.js:262:28)
+    at Object.exports.parse (/home/ubuntu/workspace/Server-Folder/command-parser.js:607:18)
+    at CommandContext.exports.commands.sudo (/home/ubuntu/workspace/Server-Folder/chat-plugins/sudo-hashcolor.js:33:23)
+    at CommandContext.run (/home/ubuntu/workspace/Server-Folder/command-parser.js:262:28)
+    at Object.exports.parse (/home/ubuntu/workspace/Server-Folder/command-parser.js:607:18)
+    at Room.chat (/home/ubuntu/workspace/Server-Folder/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/Server-Folder/users.js:1430:9)
+    at Function.fs.readFile.groupData.rename.connection.getAlts.getAll.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/Server-Folder/users.js:1650:12)
+
+Additional information:
+  user = Bandi
+  room = lobby
+  message = /wheel spin
+
+
+ReferenceError: CssWin is not defined
+    at Wheel.endDisplay (/home/ubuntu/workspace/Server-Folder/chat-plugins/casino.js:25:17)
+    at CommandContext.exports.commands.wheel.join (/home/ubuntu/workspace/Server-Folder/chat-plugins/casino.js:53:33)
+    at CommandContext.run (/home/ubuntu/workspace/Server-Folder/command-parser.js:262:28)
+    at Object.exports.parse (/home/ubuntu/workspace/Server-Folder/command-parser.js:607:18)
+    at CommandContext.exports.commands.sudo (/home/ubuntu/workspace/Server-Folder/chat-plugins/sudo-hashcolor.js:33:23)
+    at CommandContext.run (/home/ubuntu/workspace/Server-Folder/command-parser.js:262:28)
+    at Object.exports.parse (/home/ubuntu/workspace/Server-Folder/command-parser.js:607:18)
+    at Room.chat (/home/ubuntu/workspace/Server-Folder/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/Server-Folder/users.js:1430:9)
+    at Function.fs.readFile.groupData.rename.connection.getAlts.getAll.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/Server-Folder/users.js:1650:12)
+
+Additional information:
+  user = Bandi
+  room = lobby
+  message = /wheel spin
+
+
+ReferenceError: CssWin is not defined
+    at Wheel.endDisplay (/home/ubuntu/workspace/Server-Folder/chat-plugins/casino.js:25:17)
+    at CommandContext.exports.commands.wheel.join (/home/ubuntu/workspace/Server-Folder/chat-plugins/casino.js:53:33)
+    at CommandContext.run (/home/ubuntu/workspace/Server-Folder/command-parser.js:262:28)
+    at Object.exports.parse (/home/ubuntu/workspace/Server-Folder/command-parser.js:607:18)
+    at CommandContext.exports.commands.sudo (/home/ubuntu/workspace/Server-Folder/chat-plugins/sudo-hashcolor.js:33:23)
+    at CommandContext.run (/home/ubuntu/workspace/Server-Folder/command-parser.js:262:28)
+    at Object.exports.parse (/home/ubuntu/workspace/Server-Folder/command-parser.js:607:18)
+    at Room.chat (/home/ubuntu/workspace/Server-Folder/rooms.js:103:27)
+    at User.processChatQueue (/home/ubuntu/workspace/Server-Folder/users.js:1449:14)
+    at null._onTimeout (/home/ubuntu/workspace/Server-Folder/users.js:1425:16)
+
+Additional information:
+  user = Bandi
+  room = lobby
+  message = /wheel spin
+
+
+ReferenceError: CssWin is not defined
+    at Wheel.endDisplay (/home/ubuntu/workspace/Server-Folder/chat-plugins/casino.js:25:17)
+    at CommandContext.exports.commands.wheel.join (/home/ubuntu/workspace/Server-Folder/chat-plugins/casino.js:53:33)
+    at CommandContext.run (/home/ubuntu/workspace/Server-Folder/command-parser.js:262:28)
+    at Object.exports.parse (/home/ubuntu/workspace/Server-Folder/command-parser.js:607:18)
+    at CommandContext.exports.commands.sudo (/home/ubuntu/workspace/Server-Folder/chat-plugins/sudo-hashcolor.js:33:23)
+    at CommandContext.run (/home/ubuntu/workspace/Server-Folder/command-parser.js:262:28)
+    at Object.exports.parse (/home/ubuntu/workspace/Server-Folder/command-parser.js:607:18)
+    at Room.chat (/home/ubuntu/workspace/Server-Folder/rooms.js:103:27)
+    at User.processChatQueue (/home/ubuntu/workspace/Server-Folder/users.js:1449:14)
+    at null._onTimeout (/home/ubuntu/workspace/Server-Folder/users.js:1460:16)
+
+Additional information:
+  user = Bandi
+  room = lobby
+  message = /wheel spin
+
+
+ReferenceError: CssWin is not defined
+    at Wheel.endDisplay (/home/ubuntu/workspace/Server-Folder/chat-plugins/casino.js:25:17)
+    at CommandContext.exports.commands.wheel.join (/home/ubuntu/workspace/Server-Folder/chat-plugins/casino.js:53:33)
+    at CommandContext.run (/home/ubuntu/workspace/Server-Folder/command-parser.js:262:28)
+    at Object.exports.parse (/home/ubuntu/workspace/Server-Folder/command-parser.js:607:18)
+    at CommandContext.exports.commands.sudo (/home/ubuntu/workspace/Server-Folder/chat-plugins/sudo-hashcolor.js:33:23)
+    at CommandContext.run (/home/ubuntu/workspace/Server-Folder/command-parser.js:262:28)
+    at Object.exports.parse (/home/ubuntu/workspace/Server-Folder/command-parser.js:607:18)
+    at Room.chat (/home/ubuntu/workspace/Server-Folder/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/Server-Folder/users.js:1430:9)
+    at Function.fs.readFile.groupData.rename.connection.getAlts.getAll.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/Server-Folder/users.js:1650:12)
+
+Additional information:
+  user = Bandi
+  room = lobby
+  message = /wheel spin
+
+
+ReferenceError: room is not defined
+    at Wheel.endDisplay (/home/ubuntu/workspace/Server-Folder/chat-plugins/casino.js:31:16)
+    at CommandContext.exports.commands.wheel.join (/home/ubuntu/workspace/Server-Folder/chat-plugins/casino.js:59:33)
+    at CommandContext.run (/home/ubuntu/workspace/Server-Folder/command-parser.js:262:28)
+    at Object.exports.parse (/home/ubuntu/workspace/Server-Folder/command-parser.js:607:18)
+    at CommandContext.exports.commands.sudo (/home/ubuntu/workspace/Server-Folder/chat-plugins/sudo-hashcolor.js:33:23)
+    at CommandContext.run (/home/ubuntu/workspace/Server-Folder/command-parser.js:262:28)
+    at Object.exports.parse (/home/ubuntu/workspace/Server-Folder/command-parser.js:607:18)
+    at Room.chat (/home/ubuntu/workspace/Server-Folder/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/Server-Folder/users.js:1430:9)
+    at Function.fs.readFile.groupData.rename.connection.getAlts.getAll.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/Server-Folder/users.js:1650:12)
+
+Additional information:
+  user = Bandi
+  room = lobby
+  message = /wheel spin
+
+
+ReferenceError: room is not defined
+    at Wheel.endDisplay (/home/ubuntu/workspace/Server-Folder/chat-plugins/casino.js:31:16)
+    at CommandContext.exports.commands.wheel.join (/home/ubuntu/workspace/Server-Folder/chat-plugins/casino.js:59:33)
+    at CommandContext.run (/home/ubuntu/workspace/Server-Folder/command-parser.js:262:28)
+    at Object.exports.parse (/home/ubuntu/workspace/Server-Folder/command-parser.js:607:18)
+    at CommandContext.exports.commands.sudo (/home/ubuntu/workspace/Server-Folder/chat-plugins/sudo-hashcolor.js:33:23)
+    at CommandContext.run (/home/ubuntu/workspace/Server-Folder/command-parser.js:262:28)
+    at Object.exports.parse (/home/ubuntu/workspace/Server-Folder/command-parser.js:607:18)
+    at Room.chat (/home/ubuntu/workspace/Server-Folder/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/Server-Folder/users.js:1430:9)
+    at Function.fs.readFile.groupData.rename.connection.getAlts.getAll.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/Server-Folder/users.js:1650:12)
+
+Additional information:
+  user = Bandi
+  room = lobby
+  message = /wheel spin
+
+
+ReferenceError: room is not defined
+    at Wheel.endDisplay (/home/ubuntu/workspace/Server-Folder/chat-plugins/casino.js:31:16)
+    at CommandContext.exports.commands.wheel.join (/home/ubuntu/workspace/Server-Folder/chat-plugins/casino.js:59:33)
+    at CommandContext.run (/home/ubuntu/workspace/Server-Folder/command-parser.js:262:28)
+    at Object.exports.parse (/home/ubuntu/workspace/Server-Folder/command-parser.js:607:18)
+    at CommandContext.exports.commands.sudo (/home/ubuntu/workspace/Server-Folder/chat-plugins/sudo-hashcolor.js:33:23)
+    at CommandContext.run (/home/ubuntu/workspace/Server-Folder/command-parser.js:262:28)
+    at Object.exports.parse (/home/ubuntu/workspace/Server-Folder/command-parser.js:607:18)
+    at Room.chat (/home/ubuntu/workspace/Server-Folder/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/Server-Folder/users.js:1430:9)
+    at Function.fs.readFile.groupData.rename.connection.getAlts.getAll.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/Server-Folder/users.js:1650:12)
+
+Additional information:
+  user = Bandi
+  room = lobby
+  message = /wheel spin
+
+
+ReferenceError: room is not defined
+    at Wheel.endDisplay (/home/ubuntu/workspace/Server-Folder/chat-plugins/casino.js:31:16)
+    at CommandContext.exports.commands.wheel.join (/home/ubuntu/workspace/Server-Folder/chat-plugins/casino.js:59:33)
+    at CommandContext.run (/home/ubuntu/workspace/Server-Folder/command-parser.js:262:28)
+    at Object.exports.parse (/home/ubuntu/workspace/Server-Folder/command-parser.js:607:18)
+    at CommandContext.exports.commands.sudo (/home/ubuntu/workspace/Server-Folder/chat-plugins/sudo-hashcolor.js:33:23)
+    at CommandContext.run (/home/ubuntu/workspace/Server-Folder/command-parser.js:262:28)
+    at Object.exports.parse (/home/ubuntu/workspace/Server-Folder/command-parser.js:607:18)
+    at Room.chat (/home/ubuntu/workspace/Server-Folder/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/Server-Folder/users.js:1430:9)
+    at Function.fs.readFile.groupData.rename.connection.getAlts.getAll.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/Server-Folder/users.js:1650:12)
+
+Additional information:
+  user = Bandi
+  room = lobby
+  message = /wheel spin
+
+
+ReferenceError: room is not defined
+    at Wheel.endDisplay (/home/ubuntu/workspace/Server-Folder/chat-plugins/casino.js:31:16)
+    at CommandContext.exports.commands.wheel.join (/home/ubuntu/workspace/Server-Folder/chat-plugins/casino.js:59:33)
+    at CommandContext.run (/home/ubuntu/workspace/Server-Folder/command-parser.js:262:28)
+    at Object.exports.parse (/home/ubuntu/workspace/Server-Folder/command-parser.js:607:18)
+    at CommandContext.exports.commands.sudo (/home/ubuntu/workspace/Server-Folder/chat-plugins/sudo-hashcolor.js:33:23)
+    at CommandContext.run (/home/ubuntu/workspace/Server-Folder/command-parser.js:262:28)
+    at Object.exports.parse (/home/ubuntu/workspace/Server-Folder/command-parser.js:607:18)
+    at Room.chat (/home/ubuntu/workspace/Server-Folder/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/Server-Folder/users.js:1430:9)
+    at Function.fs.readFile.groupData.rename.connection.getAlts.getAll.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/Server-Folder/users.js:1650:12)
+
+Additional information:
+  user = Bandi
+  room = lobby
+  message = /wheel spin
+
+
+ReferenceError: room is not defined
+    at Wheel.endDisplay (/home/ubuntu/workspace/Server-Folder/chat-plugins/casino.js:31:16)
+    at CommandContext.exports.commands.wheel.join (/home/ubuntu/workspace/Server-Folder/chat-plugins/casino.js:59:33)
+    at CommandContext.run (/home/ubuntu/workspace/Server-Folder/command-parser.js:262:28)
+    at Object.exports.parse (/home/ubuntu/workspace/Server-Folder/command-parser.js:607:18)
+    at CommandContext.exports.commands.sudo (/home/ubuntu/workspace/Server-Folder/chat-plugins/sudo-hashcolor.js:33:23)
+    at CommandContext.run (/home/ubuntu/workspace/Server-Folder/command-parser.js:262:28)
+    at Object.exports.parse (/home/ubuntu/workspace/Server-Folder/command-parser.js:607:18)
+    at Room.chat (/home/ubuntu/workspace/Server-Folder/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/Server-Folder/users.js:1430:9)
+    at Function.fs.readFile.groupData.rename.connection.getAlts.getAll.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/Server-Folder/users.js:1650:12)
+
+Additional information:
+  user = Bandi
+  room = lobby
+  message = /wheel spin
+
+
+ReferenceError: room is not defined
+    at Wheel.endDisplay (/home/ubuntu/workspace/Server-Folder/chat-plugins/casino.js:31:16)
+    at CommandContext.exports.commands.wheel.join (/home/ubuntu/workspace/Server-Folder/chat-plugins/casino.js:60:33)
+    at CommandContext.run (/home/ubuntu/workspace/Server-Folder/command-parser.js:262:28)
+    at Object.exports.parse (/home/ubuntu/workspace/Server-Folder/command-parser.js:607:18)
+    at CommandContext.exports.commands.sudo (/home/ubuntu/workspace/Server-Folder/chat-plugins/sudo-hashcolor.js:33:23)
+    at CommandContext.run (/home/ubuntu/workspace/Server-Folder/command-parser.js:262:28)
+    at Object.exports.parse (/home/ubuntu/workspace/Server-Folder/command-parser.js:607:18)
+    at Room.chat (/home/ubuntu/workspace/Server-Folder/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/Server-Folder/users.js:1430:9)
+    at Function.fs.readFile.groupData.rename.connection.getAlts.getAll.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/Server-Folder/users.js:1650:12)
+
+Additional information:
+  user = Bandi
+  room = lobby
+  message = /wheel spin
+
+
+ReferenceError: room is not defined
+    at Wheel.endDisplay (/home/ubuntu/workspace/Server-Folder/chat-plugins/casino.js:31:16)
+    at CommandContext.exports.commands.wheel.join (/home/ubuntu/workspace/Server-Folder/chat-plugins/casino.js:60:33)
+    at CommandContext.run (/home/ubuntu/workspace/Server-Folder/command-parser.js:262:28)
+    at Object.exports.parse (/home/ubuntu/workspace/Server-Folder/command-parser.js:607:18)
+    at CommandContext.exports.commands.sudo (/home/ubuntu/workspace/Server-Folder/chat-plugins/sudo-hashcolor.js:33:23)
+    at CommandContext.run (/home/ubuntu/workspace/Server-Folder/command-parser.js:262:28)
+    at Object.exports.parse (/home/ubuntu/workspace/Server-Folder/command-parser.js:607:18)
+    at Room.chat (/home/ubuntu/workspace/Server-Folder/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/Server-Folder/users.js:1430:9)
+    at Function.fs.readFile.groupData.rename.connection.getAlts.getAll.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/Server-Folder/users.js:1650:12)
+
+Additional information:
+  user = Bandi
+  room = lobby
+  message = /wheel spin
+
+
+ReferenceError: room is not defined
+    at Wheel.endDisplay (/home/ubuntu/workspace/Server-Folder/chat-plugins/casino.js:31:16)
+    at CommandContext.exports.commands.wheel.join (/home/ubuntu/workspace/Server-Folder/chat-plugins/casino.js:55:33)
+    at CommandContext.run (/home/ubuntu/workspace/Server-Folder/command-parser.js:262:28)
+    at Object.exports.parse (/home/ubuntu/workspace/Server-Folder/command-parser.js:607:18)
+    at CommandContext.exports.commands.sudo (/home/ubuntu/workspace/Server-Folder/chat-plugins/sudo-hashcolor.js:33:23)
+    at CommandContext.run (/home/ubuntu/workspace/Server-Folder/command-parser.js:262:28)
+    at Object.exports.parse (/home/ubuntu/workspace/Server-Folder/command-parser.js:607:18)
+    at Room.chat (/home/ubuntu/workspace/Server-Folder/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/Server-Folder/users.js:1430:9)
+    at Function.fs.readFile.groupData.rename.connection.getAlts.getAll.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/Server-Folder/users.js:1650:12)
+
+Additional information:
+  user = Bandi
+  room = lobby
+  message = /wheel spin
+
+
+ReferenceError: room is not defined
+    at Wheel.endDisplay (/home/ubuntu/workspace/Server-Folder/chat-plugins/casino.js:31:16)
+    at CommandContext.exports.commands.wheel.join (/home/ubuntu/workspace/Server-Folder/chat-plugins/casino.js:55:33)
+    at CommandContext.run (/home/ubuntu/workspace/Server-Folder/command-parser.js:262:28)
+    at Object.exports.parse (/home/ubuntu/workspace/Server-Folder/command-parser.js:607:18)
+    at CommandContext.exports.commands.sudo (/home/ubuntu/workspace/Server-Folder/chat-plugins/sudo-hashcolor.js:33:23)
+    at CommandContext.run (/home/ubuntu/workspace/Server-Folder/command-parser.js:262:28)
+    at Object.exports.parse (/home/ubuntu/workspace/Server-Folder/command-parser.js:607:18)
+    at Room.chat (/home/ubuntu/workspace/Server-Folder/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/Server-Folder/users.js:1430:9)
+    at Function.fs.readFile.groupData.rename.connection.getAlts.getAll.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/Server-Folder/users.js:1650:12)
+
+Additional information:
+  user = Bandi
+  room = lobby
+  message = /wheel spin
+
+
+Error: listen EADDRINUSE 0.0.0.0:8080
+    at Object.exports._errnoException (util.js:837:11)
+    at exports._exceptionWithHostPort (util.js:860:20)
+    at Server._listen2 (net.js:1231:14)
+    at listen (net.js:1267:10)
+    at net.js:1376:9
+    at doNTCallback3 (node.js:440:9)
+    at process._tickCallback (node.js:346:17)
+    at Function.Module.runMain (module.js:477:11)
+    at startup (node.js:117:18)
+    at node.js:951:3
+
+Additional information:
+
+
+TypeError: users.popup is not a function
+    at CommandContext.users.map.setGenerator.output.forceEnd.update.targetUser.availableMatchesCache.challenges.forEach.getBracketData.node.children.forEach.data.tableContents.forEach.startTournament.output.getAvailableMatches.users.forEach.matches.forEach.disqualifyUser.reason.runAutoDisqualify.output.challenge.output.acceptChallenge.output.errorReply.Valid formats: .Object.values.filter.commands.basic.remind (/home/ubuntu/workspace/Server-Folder/Server-Folder/tournaments/index.js:922:22)
+    at CommandContext.users.map.setGenerator.output.forceEnd.update.targetUser.availableMatchesCache.challenges.forEach.getBracketData.node.children.forEach.data.tableContents.forEach.startTournament.output.getAvailableMatches.users.forEach.matches.forEach.disqualifyUser.reason.runAutoDisqualify.output.challenge.output.acceptChallenge.output.errorReply.Valid formats: .Object.values.filter.CommandParser.commands.tournament.params.sendReply (/home/ubuntu/workspace/Server-Folder/Server-Folder/tournaments/index.js:1227:19)
+    at CommandContext.run (/home/ubuntu/workspace/Server-Folder/Server-Folder/command-parser.js:262:28)
+    at Object.exports.parse (/home/ubuntu/workspace/Server-Folder/Server-Folder/command-parser.js:607:18)
+    at Room.chat (/home/ubuntu/workspace/Server-Folder/Server-Folder/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/Server-Folder/Server-Folder/users.js:1430:9)
+    at Function.fs.readFile.groupData.rename.connection.getAlts.getAll.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/Server-Folder/Server-Folder/users.js:1650:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/Server-Folder/Server-Folder/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+
+Additional information:
+  user = Audinory
+  room = lobby
+  message = /tour remind
+
+
+TypeError: users.popup is not a function
+    at CommandContext.users.map.setGenerator.output.forceEnd.update.targetUser.availableMatchesCache.challenges.forEach.getBracketData.node.children.forEach.data.tableContents.forEach.startTournament.output.getAvailableMatches.users.forEach.matches.forEach.disqualifyUser.reason.runAutoDisqualify.output.challenge.output.acceptChallenge.output.errorReply.Valid formats: .Object.values.filter.commands.basic.remind (/home/ubuntu/workspace/Server-Folder/Server-Folder/tournaments/index.js:922:22)
+    at CommandContext.users.map.setGenerator.output.forceEnd.update.targetUser.availableMatchesCache.challenges.forEach.getBracketData.node.children.forEach.data.tableContents.forEach.startTournament.output.getAvailableMatches.users.forEach.matches.forEach.disqualifyUser.reason.runAutoDisqualify.output.challenge.output.acceptChallenge.output.errorReply.Valid formats: .Object.values.filter.CommandParser.commands.tournament.params.sendReply (/home/ubuntu/workspace/Server-Folder/Server-Folder/tournaments/index.js:1227:19)
+    at CommandContext.run (/home/ubuntu/workspace/Server-Folder/Server-Folder/command-parser.js:262:28)
+    at Object.exports.parse (/home/ubuntu/workspace/Server-Folder/Server-Folder/command-parser.js:607:18)
+    at Room.chat (/home/ubuntu/workspace/Server-Folder/Server-Folder/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/Server-Folder/Server-Folder/users.js:1430:9)
+    at Function.fs.readFile.groupData.rename.connection.getAlts.getAll.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/Server-Folder/Server-Folder/users.js:1650:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/Server-Folder/Server-Folder/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+
+Additional information:
+  user = Audinory
+  room = staff
+  message = /tour remind
+

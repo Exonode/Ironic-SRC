@@ -1,0 +1,508 @@
+01:34:46 NEW CHATROOM: valorleague
+01:34:58 |J|&V A Q
+01:35:08 |J| Fairy Of Valor
+01:35:12 |c| Fairy Of Valor|Yay :D
+01:35:21 Fairy Of Valor was appointed Room Lord by V A Q.
+01:35:21 |N|#Fairy Of Valor|fairyofvalor
+01:35:35 |c|#Fairy Of Valor|Lol I need to know all the commands :p
+01:35:38 |c|&V A Q|what do want ur room description to be?
+01:35:43 |c|&V A Q|!roomhelp
+01:35:43 |raw|<div class="infobox">Room drivers (%) can use:<br />- /warn OR /k <em>username</em>: warn a user and show the Pok&eacute;mon Showdown rules<br />- /mute OR /m <em>username</em>: 7 minute mute<br />- /hourmute OR /hm <em>username</em>: 60 minute mute<br />- /unmute <em>username</em>: unmute<br />- /announce OR /wall <em>message</em>: make an announcement<br />- /modlog <em>username</em>: search the moderator log of the room<br />- /modnote <em>note</em>: adds a moderator note that can be read through modlog<br /><br />Room moderators (@) can also use:<br />- /roomban OR /rb <em>username</em>: bans user from the room<br />- /roomunban <em>username</em>: unbans user from the room<br />- /roomvoice <em>username</em>: appoint a room voice<br />- /roomdevoice <em>username</em>: remove a room voice<br />- /modchat <em>[off/autoconfirmed/+]</em>: set modchat level<br />- /staffintro <em>intro</em>: sets the staff introduction that will be displayed for all staff joining the room<br /><br />Room owners (#) can also use:<br />- /roomintro <em>intro</em>: sets the room introduction that will be displayed for all users joining the room<br />- /rules <em>rules link</em>: set the room rules link seen when using /rules<br />- /roommod, /roomdriver <em>username</em>: appoint a room moderator/driver<br />- /roomdemod, /roomdedriver <em>username</em>: remove a room moderator/driver<br />- /roomdeauth <em>username</em>: remove all room auth from a user<br />- /modchat <em>[%/@/#]</em>: set modchat level<br />- /declare <em>message</em>: make a large blue declaration to the room<br />- !htmlbox <em>HTML code</em>: broadcasts a box of HTML code to the room<br />- !showimage <em>[url], [width], [height]</em>: shows an image to the room<br /><br />More detailed help can be found in the <a href="https://www.smogon.com/sim/roomauth_guide">roomauth guide</a><br /><br />Tournament Help:<br />- /tour create <em>format</em>, elimination: Creates a new single elimination tournament in the current room.<br />- /tour create <em>format</em>, roundrobin: Creates a new round robin tournament in the current room.<br />- /tour end: Forcibly ends the tournament in the current room<br />- /tour start: Starts the tournament in the current room<br /><br />More detailed help can be found <a href="https://gist.github.com/verbiage/0846a552595349032fbe">here</a><br /></div></div>
+01:36:01 |c|#Fairy Of Valor|Thx
+01:36:04 |c|&V A Q|so room desc?
+01:36:21 |c|#Fairy Of Valor|desc?
+01:36:31 |c|&V A Q|your room decsription
+01:36:47 |c|#Fairy Of Valor|Ohh
+01:37:11 |c|#Fairy Of Valor|Just put for right now "League is still under construction"?
+01:37:18 |c|&V A Q|oki
+01:37:26 |J|@Mystifi
+01:37:35 (V A Q changed the roomdesc to: "League is still under construction.".)
+01:37:44 |c|&V A Q|anything else?
+01:37:57 |c|@Mystifi|I can set a roomintro tomorrow
+01:38:02 |c|@Mystifi|if you want
+01:38:02 |c|#Fairy Of Valor|Nah that's good for now, thanks :)
+01:38:14 |c|&V A Q|well im not good with room intros
+01:38:17 |c|#Fairy Of Valor|I can do the room intro can't I? :P
+01:38:25 |c|&V A Q|yes you can
+01:38:29 |c|#Fairy Of Valor|Kk
+01:38:48 |c|&V A Q|ok lemme know if you need more help
+01:39:05 |c|#Fairy Of Valor|Mk
+01:41:02 |raw|<div class="broadcast-red"><b>Moderated chat was set to autoconfirmed!</b><br />Only users of rank autoconfirmed and higher can talk.</div>
+01:41:02 (Fairy Of Valor set modchat to autoconfirmed)
+01:41:50 |c|#Fairy Of Valor|I can still talk with this on right?
+01:41:52 |c|#Fairy Of Valor|K
+01:41:54 |c|#Fairy Of Valor|Good
+01:43:15 |c|&V A Q|yes you can lol
+01:43:43 |c|#Fairy Of Valor|Just wanted to make sure, this acc isn't a week old :p
+01:43:57 |c|&V A Q|ur rank in higher than ac
+01:44:01 |c|&V A Q|thats why
+01:44:15 |c|#Fairy Of Valor|Ohh
+01:44:21 |c|#Fairy Of Valor|Tru
+01:44:46 |userstats|total:3|guests:0| :0|+:0|%:0|@:1|★:0|-:0|&:1|#:1|♥:0|~:0
+01:48:14 |J|@Connni
+01:48:17 |L|@Connni
+01:52:25 |L|&V A Q
+01:53:57 |J|&V A Q
+01:54:46 |userstats|total:3|guests:0| :0|+:0|%:0|@:1|★:0|-:0|&:1|#:1|♥:0|~:0
+01:55:24 |L|#Fairy Of Valor
+01:59:33 |N|@Mystifi - ⒶⓌⒶⓎ|mystifi
+01:59:33 |N|@Mystifi - ⒶⓌⒶⓎ|mystifi
+02:00:14 |J|#Fairy Of Valor
+02:02:04 |c|#Fairy Of Valor|Nobody wants to join my league :c
+02:02:12 |c|#Fairy Of Valor|Ive asked several good players in battles 
+02:03:16 |c|&V A Q|well leagues start out small
+02:03:28 |c|&V A Q|but evantually more ppl join
+02:03:55 |c|#Fairy Of Valor|Tru
+02:04:17 |c|#Fairy Of Valor|Ive got somebody interested. They got me down to 2 mons with dark mono, I was using fairy.
+02:04:46 |userstats|total:3|guests:0| :0|+:0|%:0|@:1|★:0|-:0|&:1|#:1|♥:0|~:0
+02:06:52 |J| Sitth Ari
+02:07:46 |c|#Fairy Of Valor|Yayy 
+02:10:01 |c|#Fairy Of Valor|Sitth do you accept the spot as a gym leader?
+02:11:02 Sitth Ari was promoted to Room Glorified Normie by Fairy Of Valor.
+02:11:02 |N|+Sitth Ari|sitthari
+02:11:16 |c|#Fairy Of Valor|LOL WUT
+02:11:23 |c|#Fairy Of Valor|Room Glorified Normie?
+02:11:35 |c|+Sitth Ari|waddup
+02:12:05 |c|&V A Q|Thats what its called here
+02:12:09 |c|&V A Q|kek
+02:12:16 |c|#Fairy Of Valor|xD Ok then
+02:12:21 |c|#Fairy Of Valor|Nm, u?
+02:12:25 |c|#Fairy Of Valor|One sec trying something
+02:12:29 |c|+Sitth Ari|doing some testing
+02:13:18 |tournament|create|monotype|Single Elimination|0
+02:13:18 (Fairy Of Valor created a tournament in monotype format.)
+02:13:22 |c|#Fairy Of Valor|YAY I DID IT
+02:13:29 |c|#Fairy Of Valor|tour end
+02:13:34 |tournament|forceend
+02:13:34 (Fairy Of Valor forcibly ended a tournament.)
+02:13:38 |c|#Fairy Of Valor|forgot the slash
+02:14:19 |L|@Mystifi - ⒶⓌⒶⓎ
+02:14:46 |userstats|total:3|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:1|#:1|♥:0|~:0
+02:14:59 |c|+Sitth Ari|this a new server
+02:15:26 |c|&V A Q|yes
+02:15:31 |c|&V A Q|!uptime
+02:15:31 |raw|<div class="infobox">Uptime: <b>4 hours 24 minutes 10 seconds</b></div>
+02:15:36 |c|#Fairy Of Valor|Huh?
+02:15:39 |c|#Fairy Of Valor|4hrs?
+02:15:48 |c|&V A Q|its been around since saturday
+02:16:00 |c|#Fairy Of Valor|This chat has?
+02:16:04 |c|&V A Q|that was since the last reset
+02:16:10 |c|&V A Q|no the server
+02:16:59 |J| Mushkteer
+02:17:08 |c|#Fairy Of Valor|Ohh
+02:17:23 |c|#Fairy Of Valor|So we have two leaders so far :D
+02:17:29 |c|#Fairy Of Valor|Steel & Dark
+02:18:50 |c| Mushkteer|Hi everyone :) 
+02:19:06 |c|&V A Q|Hello
+02:20:16 (Fairy Of Valor changed the roomintro.)
+02:20:16 Welcome to the Valor League! Here we enjoy fun tourneys, chats, and if you're up to it you can challenge the league! Hope you enjoy your stay! :)
+02:21:55 |tournament|create|monotyperandombattle|Single Elimination|0
+02:21:55 (Fairy Of Valor created a tournament in monotyperandombattle format.)
+02:21:59 |c|#Fairy Of Valor|YAS
+02:22:02 |c|#Fairy Of Valor|Join it ppls
+02:22:06 |tournament|join|Fairy Of Valor
+02:22:18 |tournament|join|Mushkteer
+02:22:21 |tournament|join|Sitth Ari
+02:22:30 |tournament|leave|Sitth Ari
+02:22:46 |c|#Fairy Of Valor|Why, Sitth? ;-;
+02:22:49 |c|#Fairy Of Valor|Oh forgot
+02:22:54 Mushkteer was promoted to Room Glorified Normie by Fairy Of Valor.
+02:22:54 |N|+Mushkteer|mushkteer
+02:24:15 |c|#Fairy Of Valor|Ppls join it ;-;
+02:24:34 |J| MrPugg
+02:24:40 |c| MrPugg|Hah
+02:24:42 |tournament|join|MrPugg
+02:24:46 |userstats|total:5|guests:0| :1|+:2|%:0|@:0|★:0|-:0|&:1|#:1|♥:0|~:0
+02:24:52 |c| MrPugg|Oh cool im ac
+02:24:56 |c|#Fairy Of Valor|Yay
+02:25:05 |c|&V A Q|No youre not
+02:25:12 |c|#Fairy Of Valor|ac?
+02:25:15 |c|#Fairy Of Valor|Whats that?
+02:25:21 |c|&V A Q|its because you have room rank mrpugg
+02:25:32 |c| MrPugg|aw biscuits
+02:27:04 |tournament|start
+02:28:46 |tournament|autodq|on|180000
+02:28:46 (The tournament auto disqualify timer was set to 3 by Fairy Of Valor)
+02:29:05 |tournament|disqualify|MrPugg
+02:29:05 (MrPugg was disqualified from the tournament by V A Q)
+02:29:25 |c| MrPugg|sorry 
+02:29:26 |c|#Fairy Of Valor|V A Q you didn't have to lol
+02:29:31 |c|#Fairy Of Valor|Its fine
+02:29:36 |c|&V A Q|its ok
+02:29:44 |c|&V A Q|plus he requested it
+02:29:53 |tournament|battlestart|Fairy Of Valor|Mushkteer|battle-monotyperandombattle-183
+02:29:59 |c| MrPugg|...yeah
+02:30:06 |c|#Fairy Of Valor|He requested disqualification?
+02:30:11 |c| MrPugg|i can still be in the league?
+02:30:35 |c|#Fairy Of Valor|I didn't every promote you to a leader xD I gotta test battle u
+02:30:48 |c| MrPugg|ok
+02:31:16 |c| MrPugg|i just suck at mono
+02:31:21 |c|#Fairy Of Valor|;-;
+02:31:25 |c|#Fairy Of Valor|Its a monotype league
+02:31:37 |c| MrPugg|then ill practice
+02:31:48 |c| MrPugg|i wanna be in the league
+02:32:32 NEW CHATROOM: valorleague
+02:32:44 |J| MrPugg
+02:32:56 |c| MrPugg|what happened
+02:33:04 |J|+Mushkteer
+02:33:30 |J|#Fairy Of Valor
+02:33:34 |c|#Fairy Of Valor|Idk
+02:33:34 |c|+Mushkteer|somehow I got disconnected ?
+02:33:40 |c|#Fairy Of Valor|The whole thing crashed
+02:33:40 |c| MrPugg|Oh restart
+02:33:50 |c|#Fairy Of Valor|I guess
+02:34:00 |L|+Mushkteer
+02:40:10 |raw|<div class="broadcast-blue">I am officially bored</div>
+02:40:21 |c| MrPugg|hey
+02:40:32 |c|#Fairy Of Valor|Hey
+02:40:34 |c| MrPugg|turn that frown upside down
+02:40:49 |tournament|create|monotyperandombattle|Single Elimination|2
+02:40:49 (Fairy Of Valor created a tournament in monotyperandombattle format.)
+02:40:58 |c| MrPugg|...
+02:41:02 |c| MrPugg|should i
+02:41:04 |c|#Fairy Of Valor|I'm figuring out all the commands lol
+02:41:21 |c| MrPugg|og
+02:41:31 |c| MrPugg|You can do /roomhelp
+02:41:35 |tournament|join|Fairy Of Valor
+02:42:20 |c| MrPugg|SHOULD I??
+02:42:21 |tournament|forceend
+02:42:21 (Fairy Of Valor forcibly ended a tournament.)
+02:42:25 |c| MrPugg|lol k
+02:42:28 |c|#Fairy Of Valor|Should u what?
+02:42:32 |userstats|total:2|guests:0| :1|+:0|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:0
+02:42:34 MrPugg was muted by Fairy Of Valor for 7 minutes.
+02:42:34 |unlink|mrpugg
+02:42:34 |N|!MrPugg|mrpugg
+02:42:38 |N| MrPugg|mrpugg
+02:42:38 MrPugg was unmuted by Fairy Of Valor.
+02:42:45 |c| MrPugg|uh
+02:42:52 |c|#Fairy Of Valor|Figuring it out lol
+02:42:54 |c|#Fairy Of Valor|Don't worry
+02:42:59 |c| MrPugg|k
+02:43:17 MrPugg was warned by Fairy Of Valor. (lol still figuring things out)
+02:43:17 |unlink|mrpugg
+02:43:28 |c|#Fairy Of Valor|Ok I thing I've got it down pat
+02:43:29 |c| MrPugg|k??
+02:43:38 |J|&V A Q
+02:43:48 |c| MrPugg|oh shit vaq
+02:43:49 |c|#Fairy Of Valor|I don't have anyone else to figuring things out on, sorry lol
+02:44:01 |c| MrPugg|ok
+02:44:25 MrPugg was pinged by V A Q
+02:44:25 |c|#Fairy Of Valor|Wait a second
+02:44:27 |c|#Fairy Of Valor|V A Q
+02:44:33 |c|&V A Q|mhm
+02:44:40 |c|#Fairy Of Valor|Does my room have a separate currency thing than the lobby?
+02:44:48 |c|&V A Q|no
+02:44:59 |c|#Fairy Of Valor|Than why do I have 0 shekels xD
+02:45:11 |c|&V A Q|!atm fairy of valor
+02:45:11 |raw|<div class="infobox">fairy of valor has 0 Shekels.</div>
+02:45:15 |c|#Fairy Of Valor|I swear somebody gave me 2 ;-;
+02:45:21 |c|#Fairy Of Valor|In the lobby
+02:45:29 |c|&V A Q|its cause of the reset
+02:45:33 |c|#Fairy Of Valor|Ohh ok
+02:45:53 |c| MrPugg|dont ping me vaq
+02:46:11 |c| MrPugg|Why cant i ping you
+02:46:25 |c|&V A Q|cause its a staff thing
+02:46:32 MrPugg was pinged by V A Q
+02:46:50 |c|&V A Q|its like a warn tbh
+02:46:55 |c|&V A Q|or imo
+02:47:08 |c|&V A Q|anyway holler if you need me 
+02:47:08 |J| Spirit - Anaysha
+02:47:19 |c|&V A Q|since im the only active auth
+02:47:22 |L|&V A Q
+02:47:33 |c|#Fairy Of Valor|Kk
+02:47:45 |c| MrPugg|kool
+02:47:57 |c|#Fairy Of Valor|MrPugg you ready to be tested?
+02:48:06 |c|#Fairy Of Valor|Dark, Steel, and Fairy are taken 
+02:48:15 |c| MrPugg|/me begrudgely accepts
+02:48:30 |c| MrPugg|hi spirit anashaya
+02:48:43 |c|#Fairy Of Valor|Hi spirit - anaysha :)
+02:48:47 |c| MrPugg|oops i spelt it wrong
+02:49:10 |c|#Fairy Of Valor|Lol
+02:49:49 |c|#Fairy Of Valor|MrPugg accept the challenge
+02:49:49 |c| MrPugg|you should probably get a room intro
+02:49:54 |c| MrPugg|huh?
+02:50:07 |raw|<div class='chat'><small> </small><button name='parseCommand' value='/user MrPugg' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#BB34E8'>MrPugg:</font></b></button><em class='mine'>I dont see it <img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/xaa.png" title="xaa" width="50" height="50" /></em></div>
+02:50:14 |c| MrPugg|lets just tour
+02:50:53 |c| MrPugg|thats what id do
+02:51:47 |L| Spirit - Anaysha
+02:51:59 |c|#Fairy Of Valor|!roomintro
+02:51:59 |raw|<div class="infobox">Welcome to the Valor League! Here we enjoy fun tourneys, chats, and if you're up to it you can challenge the league! Hope you enjoy your stay! :)</div>
+02:52:26 |tournament|create|monotype|Single Elimination|0
+02:52:26 (Fairy Of Valor created a tournament in monotype format.)
+02:52:32 |userstats|total:2|guests:0| :1|+:0|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:0
+02:52:47 |tournament|join|Fairy Of Valor
+02:52:48 |tournament|join|MrPugg
+02:53:00 |c| MrPugg|i like it so far
+02:53:33 |c| MrPugg|you should see what vaq made in <<techcoding>>
+02:53:45 |c| MrPugg|simplest room intro ever
+02:54:23 |tournament|start
+02:55:38 |tournament|autodq|on|180000
+02:55:38 (The tournament auto disqualify timer was set to 3 by Fairy Of Valor)
+02:56:21 |c| MrPugg|why cant i fight
+02:56:21 |c|#Fairy Of Valor|MrPugg
+02:56:33 |c| MrPugg|theres no buttob
+02:56:34 |c|#Fairy Of Valor|type /tour join
+02:56:53 |c| MrPugg|hmm
+02:57:20 |c| MrPugg|Why cant i play
+02:57:24 |c|#Fairy Of Valor|Idk
+02:57:27 |c| MrPugg|im in the tour
+02:57:38 |tournament|autodq|off
+02:57:38 (The tournament auto disqualify timer was set to off by Fairy Of Valor)
+02:57:42 |c| MrPugg|But thres no button
+02:57:49 |c|#Fairy Of Valor|type in /tour join
+02:57:53 |c|#Fairy Of Valor|Wait
+02:58:03 |c|#Fairy Of Valor|type /tour begin?
+02:58:08 |c|#Fairy Of Valor|//tour ready?
+02:58:09 |c|#Fairy Of Valor|idk
+02:58:40 |tournament|forceend
+02:58:40 (Fairy Of Valor forcibly ended a tournament.)
+02:58:41 |c|#Fairy Of Valor|:/
+02:58:42 |c| MrPugg|aw buscuits
+02:58:49 |c| MrPugg|>.<
+02:58:54 |c|#Fairy Of Valor|Lol I love it when you say that
+02:59:01 |c| MrPugg|ty 
+02:59:10 |c| MrPugg|Lemme get help
+02:59:16 |c|#Fairy Of Valor|Kk
+02:59:28 |c|#Fairy Of Valor|Hmm
+03:00:42 |L| MrPugg
+03:01:42 |c|#Fairy Of Valor|MrPugg
+03:01:46 |c|#Fairy Of Valor|Send me a battle request
+03:01:49 |c|#Fairy Of Valor|in monotype
+03:02:32 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:0
+03:02:41 |J| MrPugg
+03:02:46 |c| MrPugg|ok
+03:02:54 |c| MrPugg|I had lag
+03:02:59 |c|#Fairy Of Valor|/me is waiting
+03:03:00 |c|#Fairy Of Valor|xD
+03:03:38 |c| MrPugg|oh my bad
+03:03:54 |c|#Fairy Of Valor|Lol
+03:03:59 |c|#Fairy Of Valor|Its fine
+03:10:39 |L| MrPugg
+03:12:32 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:0
+03:18:32 |L|#Fairy Of Valor
+03:22:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+03:32:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+03:42:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+03:52:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+04:02:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+04:12:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+04:13:18 NEW CHATROOM: valorleague
+04:23:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+04:33:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+04:43:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+04:53:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+05:03:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+05:13:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+05:23:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+05:33:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+05:43:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+05:53:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+06:03:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+06:13:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+06:23:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+06:33:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+06:43:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+06:53:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+07:03:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+07:13:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+14:27:04 NEW CHATROOM: valorleague
+14:37:04 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+14:41:58 NEW CHATROOM: valorleague
+14:51:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+15:01:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+15:09:54 |J| Broken Shadows
+15:09:58 |N| The Vixen|brokenshadows
+15:10:12 diarmuidodyna was promoted to Server Lord by The Vixen.
+15:10:18 Broken Hope was promoted to Server Lord by The Vixen.
+15:10:26 |N|~Diarmuid O'Dyna|thevixen
+15:10:27 |L|~Diarmuid O'Dyna
+15:11:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+15:21:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+15:26:34 |raw|<div class="broadcast-blue"><b>VAQ is hosting a Tournament in <button name="joinroom" value="tours">This room</button> You will win the grand prize of: <em>A private room</em></b></div>
+15:31:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+15:41:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+15:51:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+16:01:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+16:11:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+16:21:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+16:31:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+16:41:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+16:51:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+17:01:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+17:11:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+17:21:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+17:31:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+17:41:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+17:51:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+17:57:22 |J| Raptor Fairy
+17:58:21 |N|#Fairy Of Valor|raptorfairy
+17:59:06 |J| Audinory
+17:59:16 |c| Audinory|oh there isnt
+17:59:22 |c| Audinory|//roomauth
+17:59:24 |J|~Diarmuid O'Dyna
+17:59:27 |J| shivamrustagi
+17:59:38 |L| shivamrustagi
+17:59:40 |L| Audinory
+17:59:43 |L|~Diarmuid O'Dyna
+18:00:12 |c|#Fairy Of Valor|Thanks :)
+18:00:38 |J| shivamrustagi
+18:00:40 |J| TheSnipersBullet
+18:00:42 |c| shivamrustagi|Fairy Of Valor
+18:00:50 |c| shivamrustagi|i wanna join ur league buddy
+18:00:55 |c| shivamrustagi|seems dope
+18:00:59 |c| shivamrustagi|by the title
+18:01:13 |c| shivamrustagi|league of the invicibles
+18:01:39 |c|#Fairy Of Valor|Oh sorry didn't see this
+18:01:45 |c| shivamrustagi|lol np
+18:01:58 |userstats|total:3|guests:0| :2|+:0|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:0
+18:02:27 |J|&V A Q
+18:02:34 |c|&V A Q|Let me see
+18:03:08 |c|#Fairy Of Valor|V A Q let you see what lol?
+18:03:53 |c|&V A Q|Those promos
+18:04:05 |c|&V A Q|Nvm
+18:04:11 |c|#Fairy Of Valor|Ohh lol
+18:04:18 |c|&V A Q|Vixen explianed it :|
+18:04:45 |c|#Fairy Of Valor|Why did vixen do it
+18:05:14 |c|#Fairy Of Valor|;-;
+18:05:34 |c|&V A Q|its a staff only thing
+18:05:37 |c|&V A Q|sorry
+18:05:47 |c|#Fairy Of Valor|Ohh ok
+18:11:58 |userstats|total:4|guests:0| :2|+:0|%:0|@:0|★:0|-:0|&:1|#:1|♥:0|~:0
+18:17:48 shivamrustagi was promoted to Room Glorified Normie by Fairy Of Valor.
+18:17:48 |N|+shivamrustagi|shivamrustagi
+18:17:56 |c|+shivamrustagi|thanks buddy
+18:17:59 |c|+shivamrustagi|:D
+18:18:15 |c|+shivamrustagi|i thougth i was given global voice xD
+18:18:35 |c|#Fairy Of Valor|Nah lol room voice :p
+18:18:49 |c|+shivamrustagi|yeah didnt expect that after 1 game
+18:18:52 |c|#Fairy Of Valor|To signify you're a leader
+18:18:56 |c|+shivamrustagi|ok
+18:19:03 |c|&V A Q|in that case
+18:19:07 |c|#Fairy Of Valor|Or I could auto promote you to E4, you're the first to beat me
+18:19:09 V A Q was promoted to Room Glorified Normie by V A Q.
+18:19:09 |N|+V A Q|vaq
+18:19:16 |c|+V A Q|-_-
+18:19:18 |c|#Fairy Of Valor|Huh?
+18:19:19 |c|+shivamrustagi|lol
+18:19:23 |raw|<div class='chat'><small>+</small><button name='parseCommand' value='/user shivamrustagi' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#13C196'>shivamrustagi:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/xaa.png" title="xaa" width="50" height="50" /></em></div>
+18:19:29 |c|+shivamrustagi|if u want u can buddy
+18:19:35 |c|#Fairy Of Valor|I meant in the league, V A Q lol
+18:19:40 |c|+shivamrustagi|lol
+18:20:14 |c|+V A Q|ik lol
+18:20:17 |L| TheSnipersBullet
+18:20:24 |c|+shivamrustagi|V A Q check ur pm
+18:21:23 |c|#Fairy Of Valor|Lol you're not a gl tho
+18:21:58 |userstats|total:3|guests:0| :0|+:2|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:0
+18:22:08 |c|+shivamrustagi|if u want u can promote me to e4
+18:22:33 shivamrustagi was promoted to Room Le Mod by Fairy Of Valor.
+18:22:33 |N|@shivamrustagi|shivamrustagi
+18:23:10 V A Q was appointed Room Lord by V A Q.
+18:23:10 |N|#V A Q|vaq
+18:23:17 |c|#V A Q|;)
+18:23:38 (V A Q was demoted to Room regular user by V A Q.)
+18:23:38 |N|&V A Q|vaq
+18:23:46 |c|#Fairy Of Valor|Lol
+18:24:00 |J|%Hurricane'd
+18:24:04 |L|%Hurricane'd
+18:25:16 |c|#Fairy Of Valor|V A Q
+18:25:24 |c|#Fairy Of Valor|What does coding do to the room intro lol?
+18:26:02 |c|&V A Q|a lot
+18:26:12 |c|&V A Q|its made using html code
+18:30:32 |L|&V A Q
+18:31:58 |userstats|total:2|guests:0| :0|+:0|%:0|@:1|★:0|-:0|&:0|#:1|♥:0|~:0
+18:34:43 |L|@shivamrustagi
+18:34:50 |J|@shivamrustagi
+18:36:47 |c|#Fairy Of Valor|Oh?
+18:38:23 |N|#Fairy Of Valor|fairyofvalor
+18:41:58 |userstats|total:2|guests:0| :0|+:0|%:0|@:1|★:0|-:0|&:0|#:1|♥:0|~:0
+18:45:17 |raw|<div class="broadcast-red"><b>Moderated chat was set to #!</b><br />Only users of rank # and higher can talk.</div>
+18:45:17 (Fairy Of Valor set modchat to #)
+18:45:19 |c|#Fairy Of Valor|hehehe
+18:45:21 |c|#Fairy Of Valor|xD
+18:45:37 |raw|<div class="broadcast-blue"><b>Moderated chat was disabled!</b><br />Anyone may talk now.</div>
+18:45:37 (Fairy Of Valor set modchat to false)
+18:46:05 |raw|<div class="broadcast-blue">I AM GROOT.</div>
+18:47:15 |c|#Fairy Of Valor|Woah I can do that?
+18:47:23 |c|#Fairy Of Valor|Kewl
+18:51:58 |userstats|total:2|guests:0| :0|+:0|%:0|@:1|★:0|-:0|&:0|#:1|♥:0|~:0
+19:01:58 |userstats|total:2|guests:0| :0|+:0|%:0|@:1|★:0|-:0|&:0|#:1|♥:0|~:0
+19:09:23 |L|@shivamrustagi
+19:11:58 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:0
+19:21:58 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:0
+19:28:24 |c|#Fairy Of Valor|!roomintro
+19:28:24 |raw|<div class="infobox">Welcome to the Valor League! Here we enjoy fun tourneys, chats, and if you're up to it you can challenge the league! Hope you enjoy your stay! :)</div>
+19:31:58 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:0
+19:41:58 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:0
+19:51:58 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:0
+19:55:22 |J|+hitorihanza
+19:56:04 hitorihanza was promoted to Room Glorified Normie by Fairy Of Valor.
+19:56:04 |N|+hitorihanza|hitorihanza
+19:56:12 |c|#Fairy Of Valor|:)
+20:01:58 |userstats|total:2|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:0
+20:03:56 |J|+purpledragon24
+20:04:04 |L|+purpledragon24
+20:11:58 |userstats|total:2|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:0
+20:15:51 |J|&V A Q
+20:18:12 NEW CHATROOM: valorleague
+20:19:12 (V A Q changed the roomintro.)
+20:19:12 <h1> <center> <b> Welcome to the Valor League!. </b> </center></h1> Here we enjoy fun tourneys, discuss topics, and if you're up for it, you can challenge or enter the league! Hope you enjoy your stay! :D <p> <b> NOTE: WE DO NOT ALLOW OR CONDONE HACKING OR USERS OR SERVERS. </b> </p>
+20:19:19 |c|&V A Q|dammit
+20:21:30 |c|#Fairy Of Valor|Huh?
+20:21:32 (V A Q changed the roomintro.)
+20:21:32 <h1> <center> <b> Welcome to the Valor League! </b> </center></h1> Here we enjoy fun tourneys, discuss topics, and if you're up for it, you can challenge or enter the league! Hope you enjoy your stay! :D <p> <b>Try doing /roomauth to see the members of the league!. </b> </p>
+20:21:46 |c|#Fairy Of Valor|thanks! :)
+20:21:52 |c|&V A Q|I keep doing that lol
+20:21:58 |userstats|total:3|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:1|#:1|♥:0|~:0
+20:22:03 |c|#Fairy Of Valor|Keep doing what? ;-;
+20:22:03 |c|&V A Q|I need to fix one more thing
+20:22:07 |c|#Fairy Of Valor|kk
+20:22:33 (V A Q changed the roomintro.)
+20:22:33 <h1> <center> <b> Welcome to the Valor League! </b> </center></h1> Here we enjoy fun tourneys, discuss topics, and if you're up for it, you can challenge or enter the league! Hope you enjoy your stay! :D <p> <b>Try doing /roomauth to see the members of the league!</b> </p>
+20:22:38 |c|&V A Q|!topic
+20:22:38 |raw|<div class="infobox"><h1> <center> <b> Welcome to the Valor League! </b> </center></h1> Here we enjoy fun tourneys, discuss topics, and if you're up for it, you can challenge or enter the league! Hope you enjoy your stay! :D <p> <b>Try doing /roomauth to see the members of the league!</b> </p></div>
+20:22:43 |c|&V A Q|k
+20:22:49 |c|&V A Q|its done
+20:24:08 |c|&V A Q|/me fades into the darkness
+20:24:51 |c|#Fairy Of Valor|:D
+20:24:59 |c|#Fairy Of Valor|TY V A Q
+20:25:52 |c|&V A Q|np
+20:28:53 |L|#Fairy Of Valor
+20:30:05 NEW CHATROOM: valorleague
+20:33:45 NEW CHATROOM: valorleague
+20:43:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+20:53:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+21:03:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+21:13:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+21:23:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+21:33:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+21:43:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+21:46:13 |raw|<div class="broadcast-red"><b>The server is restarting soon.</b><br />Please finish your battles quickly. No new battles can be started until the server resets in a few minutes.</div>
+21:46:32 NEW CHATROOM: valorleague
+21:46:46 NEW CHATROOM: valorleague
+21:56:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+21:56:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:06:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:06:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:16:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:16:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:26:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:26:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:36:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:36:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:46:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:46:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:56:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:56:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+23:06:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+23:06:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+23:16:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+23:16:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+23:26:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+23:26:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+23:36:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+23:36:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+23:46:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+23:46:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+23:56:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+23:56:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0

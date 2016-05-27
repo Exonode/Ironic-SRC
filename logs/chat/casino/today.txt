@@ -1,0 +1,1556 @@
+00:01:01 |c|#Bandi|.
+00:01:52 |c|+Audinory|will do
+00:02:18 |c|#Bandi|u ahhve to reset
+00:02:19 |c|#Bandi|to 
+00:02:22 |c|#Bandi|update it lol
+00:02:31 |c|#Bandi|hotpatch is broken because of somtthing in some other file
+00:03:45 |userstats|total:2|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:0
+00:15:27 NEW CHATROOM: casino
+00:25:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+00:27:59 |J|#Bandi
+00:28:19 |J|&Verizor
+00:28:28 |L|&Verizor
+00:28:29 |J|%hitorihanza
+00:35:27 |userstats|total:2|guests:0| :0|+:0|%:1|@:0|★:0|-:0|&:0|#:1|♥:0|~:0
+00:41:53 |J|@TerminalHydreigon
+00:41:57 |c|#Bandi|ok
+00:41:57 |c|#Bandi|so
+00:42:14 |raw|<div style=" padding: 5px, 0px; background-color: black; border: red, solid 1px; background-size: 100%; color: red; font-size: 12px; text-align: center;">The Wheel Of<br><font style="color: red;"><em><strong>SCRUBS</strong></em></font><br>Has been started and is waiting to be spun!<hr style="border: solid, 0.5px, red">The Mulitiplier is:<em><strong><font style="color: red;">1</font></em></strong><hr style="border: solid, 0.5px, red"><font style="color: blue;">-5,-4,-3,-2,-2,-1,-1,-1,-1,1,1,3,3,3,5</font><hr style="border: solid, 0.5px, red;"><button style="border: double, red, 4px; color: red; background-color: black; border-radius: 10px; font-face: serif ; font-size: 12px;" name="send" value="/wheel spin">Spin The Wheel! </button></div>
+00:42:25 |c|#Bandi|join
+00:42:26 |c|#Bandi|TerminalHydreigon
+00:42:31 The wheel game was ended by bandi.
+00:42:36 |c|#Bandi|lol
+00:42:42 |c|@TerminalHydreigon|yes
+00:42:55 |c|@TerminalHydreigon|how do  i put a wheel
+00:42:57 |c|@TerminalHydreigon|of scrubs
+00:43:03 |c|#Bandi|sorry
+00:43:05 |c|#Bandi|lol i ended it
+00:43:06 |c|#Bandi|to test
+00:43:10 |raw|<div style=" padding: 5px, 0px; background-color: black; border: red, solid 1px; background-size: 100%; color: red; font-size: 12px; text-align: center;">The Wheel Of<br><font style="color: red;"><em><strong>SCRUBS</strong></em></font><br>Has been started and is waiting to be spun!<hr style="border: solid, 0.5px, red">The Mulitiplier is:<em><strong><font style="color: red;">1</font></em></strong><hr style="border: solid, 0.5px, red"><font style="color: blue;">-5,-4,-3,-2,-2,-1,-1,-1,-1,1,1,3,3,3,5</font><hr style="border: solid, 0.5px, red;"><button style="border: double, red, 4px; color: red; background-color: black; border-radius: 10px; font-face: serif ; font-size: 12px;" name="send" value="/wheel spin">Spin The Wheel! </button></div>
+00:43:12 |c|#Bandi|join
+00:43:18 |raw|<div style="padding: 5px; background-color: black; color: red; border: solid, 1px, red; font-size: 15px;">The wheel has landed on: <em><strong>-4</strong></em><br>This means you have either lost or won: -4
+00:43:22 |c|#Bandi|!atm
+00:43:22 |raw|<div class="infobox">Bandi has 985 Shekels.</div>
+00:43:24 |c|@TerminalHydreigon|what is this lol
+00:43:28 |c|@TerminalHydreigon|!Atm
+00:43:28 |raw|<div class="infobox">TerminalHydreigon has 976 Shekels.</div>
+00:43:37 |c|#Bandi|u lost 5
+00:43:40 |c|#Bandi|so did i
+00:43:40 |c|@TerminalHydreigon|o
+00:43:42 |c|#Bandi|wait a sec
+00:45:20 |c|#Bandi|sorry
+00:45:23 |c|#Bandi|there was a error
+00:45:24 |c|#Bandi|lol
+00:45:27 |userstats|total:3|guests:0| :0|+:0|%:1|@:1|★:0|-:0|&:0|#:1|♥:0|~:0
+00:45:29 |c|#Bandi|u ehre still
+00:45:29 |c|#Bandi|TerminalHydreigon
+00:46:21 |c|@TerminalHydreigon|ye
+00:46:29 |raw|<div style=" padding: 5px, 0px; background-color: black; border: red, solid 1px; background-size: 100%; color: red; font-size: 12px; text-align: center;">The Wheel Of<br><font style="color: red;"><em><strong>SCRUBS</strong></em></font><br>Has been started and is waiting to be spun!<hr style="border: solid, 0.5px, red">The Mulitiplier is:<em><strong><font style="color: red;">1</font></em></strong><hr style="border: solid, 0.5px, red"><font style="color: blue;">-5,-4,-3,-2,-2,-1,-1,-1,-1,1,1,3,3,3,5</font><hr style="border: solid, 0.5px, red;"><button style="border: double, red, 4px; color: red; background-color: black; border-radius: 10px; font-face: serif ; font-size: 12px;" name="send" value="/wheel spin">Spin The Wheel! </button></div>
+00:46:31 |c|#Bandi|don't join
+00:46:34 |c|#Bandi|!atm
+00:46:34 |raw|<div class="infobox">Bandi has 980 Shekels.</div>
+00:46:37 The wheel game was ended by bandi.
+00:46:38 |c|#Bandi|!atm
+00:46:38 |raw|<div class="infobox">Bandi has 985 Shekels.</div>
+00:46:40 |c|#Bandi|k thats working
+00:46:55 |c|#Bandi|now i need to fix somthingelse
+00:47:46 |raw|<div style=" padding: 5px, 0px; background-color: black; border: red, solid 1px; background-size: 100%; color: red; font-size: 12px; text-align: center;">The Wheel Of<br><font style="color: red;"><em><strong>SCRUBS</strong></em></font><br>Has been started and is waiting to be spun!<hr style="border: solid, 0.5px, red">The Mulitiplier is:<em><strong><font style="color: red;">1</font></em></strong><hr style="border: solid, 0.5px, red"><font style="color: blue;">-5,-4,-3,-2,-2,-1,-1,-1,-1,1,1,3,3,3,5</font><hr style="border: solid, 0.5px, red;"><button style="border: double, red, 4px; color: red; background-color: black; border-radius: 10px; font-face: serif ; font-size: 12px;" name="send" value="/wheel spin">Spin The Wheel! </button></div>
+00:47:46 |c|#Bandi|ok
+00:47:47 |c|#Bandi|join
+00:47:48 |c|#Bandi|!atm
+00:47:48 |raw|<div class="infobox">Bandi has 980 Shekels.</div>
+00:47:49 |raw|<div style="padding: 5px; background-color: black; color: red; border: solid, 1px, red; font-size: 15px;">The wheel has landed on: <em><strong>-5</strong></em><br>This means you have either lost or won: -5
+00:47:55 |c|#Bandi|!atm
+00:47:55 |raw|<div class="infobox">Bandi has 980 Shekels.</div>
+00:48:02 |c|#Bandi|ok i lost my 5
+00:48:04 |c|#Bandi|now let me see if u got it
+00:48:06 |c|#Bandi|!atm TerminalHydreigon
+00:48:06 |raw|<div class="infobox">TerminalHydreigon has 976 Shekels.</div>
+00:48:08 |c|#Bandi|.
+00:48:12 |c|#Bandi|nope u didn't get it
+00:48:12 |c|#Bandi|mfw
+00:48:55 |c|@TerminalHydreigon|fk
+00:50:57 The wheel game was ended by bandi.
+00:51:23 |raw|<div style=" padding: 5px, 0px; background-color: black; border: red, solid 1px; background-size: 100%; color: red; font-size: 12px; text-align: center;">The Wheel Of<br><font style="color: red;"><em><strong>SCRUBS</strong></em></font><br>Has been started and is waiting to be spun!<hr style="border: solid, 0.5px, red">The Mulitiplier is:<em><strong><font style="color: red;">1</font></em></strong><hr style="border: solid, 0.5px, red"><font style="color: blue;">-5,-4,-3,-2,-2,-1,-1,-1,-1,1,1,3,3,3,5</font><hr style="border: solid, 0.5px, red;"><button style="border: double, red, 4px; color: red; background-color: black; border-radius: 10px; font-face: serif ; font-size: 12px;" name="send" value="/wheel spin">Spin The Wheel! </button></div>
+00:51:25 |c|#Bandi|join
+00:51:26 |c|#Bandi|TerminalHydreigon
+00:51:29 |c|#Bandi|wait
+00:51:30 |c|#Bandi|!atm
+00:51:30 |raw|<div class="infobox">Bandi has 980 Shekels.</div>
+00:51:37 The wheel game was ended by bandi.
+00:51:39 |c|#Bandi|!atm
+00:51:39 |raw|<div class="infobox">Bandi has 985 Shekels.</div>
+00:51:47 |raw|<div style=" padding: 5px, 0px; background-color: black; border: red, solid 1px; background-size: 100%; color: red; font-size: 12px; text-align: center;">The Wheel Of<br><font style="color: red;"><em><strong>SCRUBS</strong></em></font><br>Has been started and is waiting to be spun!<hr style="border: solid, 0.5px, red">The Mulitiplier is:<em><strong><font style="color: red;">1</font></em></strong><hr style="border: solid, 0.5px, red"><font style="color: blue;">-5,-4,-3,-2,-2,-1,-1,-1,-1,1,1,3,3,3,5</font><hr style="border: solid, 0.5px, red;"><button style="border: double, red, 4px; color: red; background-color: black; border-radius: 10px; font-face: serif ; font-size: 12px;" name="send" value="/wheel spin">Spin The Wheel! </button></div>
+00:51:48 |c|#Bandi|!atm
+00:51:48 |raw|<div class="infobox">Bandi has 980 Shekels.</div>
+00:51:51 |c|#Bandi|!atm TerminalHydreigon
+00:51:51 |raw|<div class="infobox">TerminalHydreigon has 976 Shekels.</div>
+00:51:52 |c|#Bandi|ok
+00:51:53 |c|#Bandi|TerminalHydreigon
+00:51:54 |c|#Bandi|join
+00:52:16 |raw|<div style="padding: 5px; background-color: black; color: red; border: solid, 1px, red; font-size: 15px;">The wheel has landed on: <em><strong>3</strong></em><br>This means you have either lost or won: 3
+00:52:24 |c|@TerminalHydreigon|!atm
+00:52:24 |raw|<div class="infobox">TerminalHydreigon has 976 Shekels.</div>
+00:52:27 |c|@TerminalHydreigon|what
+00:52:29 |c|@TerminalHydreigon|lol
+00:53:08 |c|#Bandi|ok
+00:53:48 |c|#Bandi|th
+00:53:51 |c|#Bandi|u here still right
+00:54:05 The wheel game was ended by bandi.
+00:54:08 |raw|<div style=" padding: 5px, 0px; background-color: black; border: red, solid 1px; background-size: 100%; color: red; font-size: 12px; text-align: center;">The Wheel Of<br><font style="color: red;"><em><strong>SCRUBS</strong></em></font><br>Has been started and is waiting to be spun!<hr style="border: solid, 0.5px, red">The Mulitiplier is:<em><strong><font style="color: red;">1</font></em></strong><hr style="border: solid, 0.5px, red"><font style="color: blue;">-5,-4,-3,-2,-2,-1,-1,-1,-1,1,1,3,3,3,5</font><hr style="border: solid, 0.5px, red;"><button style="border: double, red, 4px; color: red; background-color: black; border-radius: 10px; font-face: serif ; font-size: 12px;" name="send" value="/wheel spin">Spin The Wheel! </button></div>
+00:54:26 |c|#Bandi|join TerminalHydreigon
+00:54:45 |J|+Audinory
+00:54:47 |c|+Audinory|!atm
+00:54:47 |raw|<div class="infobox">Audinory has NaN Shekels.</div>
+00:54:51 |raw|<div style="padding: 5px; background-color: black; color: red; border: solid, 1px, red; font-size: 15px;">The wheel has landed on: <em><strong>-2</strong></em><br>This means you have either lost or won: -2
+00:54:53 |c|#Bandi|fix tht shit
+00:54:58 |c|+Audinory|im rich tho
+00:55:02 |c|#Bandi|!atm TerminalHydreigon
+00:55:02 |raw|<div class="infobox">TerminalHydreigon has 976 Shekels.</div>
+00:55:06 |c|+Audinory|!atm
+00:55:06 |raw|<div class="infobox">Audinory has NaN Shekels.</div>
+00:55:08 |c|+Audinory|infinite
+00:55:09 |c|#Bandi|who joined
+00:55:10 |c|#Bandi|was it u?
+00:55:11 |c|+Audinory|me
+00:55:14 |c|#Bandi|u joined
+00:55:15 |c|#Bandi|lol
+00:55:19 |c|@TerminalHydreigon|sry im playing a game
+00:55:20 |c|#Bandi|fix ur bucks then
+00:55:22 |c|#Bandi|!atm
+00:55:22 |raw|<div class="infobox">Bandi has 985 Shekels.</div>
+00:55:24 |c|@TerminalHydreigon|now i died
+00:55:24 |c|@TerminalHydreigon|fok
+00:55:25 |c|#Bandi|ur fine TerminalHydreigon
+00:55:27 |userstats|total:4|guests:0| :0|+:1|%:1|@:1|★:0|-:0|&:0|#:1|♥:0|~:0
+00:55:45 |c|#Bandi|Audinory
+00:55:47 |c|#Bandi|fix ur money pls
+00:55:48 |L|%hitorihanza
+00:56:09 |c|+Audinory|i cant
+00:56:12 |c|+Audinory|without restart
+00:56:14 |c|+Audinory|and no mre
+00:56:15 |c|+Audinory|more
+00:56:17 |c|+Audinory|of those
+00:58:04 |c|#Bandi|u don't need to
+00:58:05 |c|#Bandi|LOL
+00:58:08 |c|#Bandi|just do db
+00:58:13 |c|#Bandi|dude why don't u just mkae shortcuts
+00:58:15 |c|#Bandi|witht he db code
+00:58:18 |c|#Bandi|it'd be so much easier
+01:01:49 |c|@TerminalHydreigon|back
+01:05:27 |userstats|total:3|guests:0| :0|+:1|%:0|@:1|★:0|-:0|&:0|#:1|♥:0|~:0
+01:05:36 |L|@TerminalHydreigon
+01:07:31 |J|%hitorihanza
+01:09:21 |J|&Verizor
+01:09:43 |L|&Verizor
+01:13:33 |c|#Bandi|k
+01:13:35 |c|#Bandi|lets test
+01:13:36 |c|#Bandi|t
+01:13:37 |c|#Bandi|.
+01:15:27 |userstats|total:3|guests:0| :0|+:1|%:1|@:0|★:0|-:0|&:0|#:1|♥:0|~:0
+01:15:59 |J|&Alliance Darkrai
+01:25:27 |userstats|total:4|guests:0| :0|+:1|%:1|@:0|★:0|-:0|&:1|#:1|♥:0|~:0
+01:27:12 |J|&Verizor
+01:27:31 |L|&Verizor
+01:35:27 |userstats|total:4|guests:0| :0|+:1|%:1|@:0|★:0|-:0|&:1|#:1|♥:0|~:0
+01:43:12 |L|&Alliance Darkrai
+01:45:27 |userstats|total:3|guests:0| :0|+:1|%:1|@:0|★:0|-:0|&:0|#:1|♥:0|~:0
+01:49:04 |c|#Bandi|Audinory
+01:51:20 |L|#Bandi
+01:55:27 |userstats|total:2|guests:0| :0|+:1|%:1|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+01:59:14 |J| Camilas
+02:00:39 |J|&Verizor
+02:00:49 |L|&Verizor
+02:00:53 |L| Camilas
+02:05:27 |userstats|total:2|guests:0| :0|+:1|%:1|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+02:15:27 |userstats|total:2|guests:0| :0|+:1|%:1|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+02:25:27 |userstats|total:2|guests:0| :0|+:1|%:1|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+02:35:27 |userstats|total:2|guests:0| :0|+:1|%:1|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+02:38:17 |L|%hitorihanza
+02:45:27 |userstats|total:1|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+02:55:27 |userstats|total:1|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+03:05:27 |userstats|total:1|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+03:15:27 |userstats|total:1|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+03:25:27 |userstats|total:1|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+03:35:27 |userstats|total:1|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+03:45:27 |userstats|total:1|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+03:55:27 |userstats|total:1|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+04:05:27 |userstats|total:1|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+04:15:27 |userstats|total:1|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+04:25:27 |userstats|total:1|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+04:35:27 |userstats|total:1|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+04:45:27 |userstats|total:1|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+04:55:27 |userstats|total:1|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+05:05:27 |userstats|total:1|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+05:15:27 |userstats|total:1|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+05:25:27 |userstats|total:1|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+05:35:27 |userstats|total:1|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+05:45:27 |userstats|total:1|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+05:55:27 |userstats|total:1|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+06:05:27 |userstats|total:1|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+06:15:27 |userstats|total:1|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+06:21:46 |L|+Audinory
+06:25:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+06:35:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+06:45:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+06:55:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+07:05:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+07:15:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+07:25:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+07:35:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+07:45:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+07:55:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+08:05:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+08:15:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+08:25:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+08:35:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+08:45:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+08:55:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+09:05:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+09:15:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+09:25:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+09:35:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+09:45:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+09:55:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+10:05:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+10:15:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+10:25:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+10:35:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+10:45:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+10:55:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+11:05:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+11:15:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+11:24:00 |J| ESPIRIT
+11:25:27 |userstats|total:1|guests:0| :1|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+11:35:27 |userstats|total:1|guests:0| :1|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+11:42:43 |L| ESPIRIT
+11:45:27 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+11:55:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+12:05:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+12:15:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+12:19:38 |J|+Audinory
+12:25:28 |userstats|total:1|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+12:26:36 |L|+Audinory
+12:35:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+12:45:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+12:55:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+13:05:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+13:15:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+13:25:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+13:35:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+13:45:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+13:55:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+14:05:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+14:15:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+14:18:15 |J|+Audinory
+14:19:27 |L|+Audinory
+14:25:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+14:35:28 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+14:38:27 |J|+Audinory
+14:45:28 |userstats|total:1|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+14:50:52 (Audinory changed the roomintro.)
+14:50:52 <div style="background-image: url('http://visitnatchez.org/wp-content/uploads/2016/02/MagBluff-Casino.png') ; background-size: 100%; background-repeat: no-repeat ;  border: solid, gold, 1px; height: 250px; width: 100%;"><div title="THIS DIV IS FOR SPACING" style="width: 100%; height: 2%; float: left;"></div><div  title="THIS DIV IS FOR SPACING" style="width: 1%; height: 70%; float: left;"></div><div style="width: 25%; height: 70%; float: left;"><br><button style="padding: 2px;border: double, 3px, gold; background-color: #990000; color: gold;  width: 75%;" name="send" value="/rules">Room Rules</button><br><br><button style="padding: 2px;border: double, 3px, gold; background-color: #990000; color: gold;  width: 75%;" name="send" value="/roomauth">Room Staff</button><br><br><a href="" title="coming soon"><button style="padding: 2px;border: double, 3px, gold; background-color: #990000; color: gold;  width: 75%;">Website</button></a><br><br><button style="padding: 2px;border: double, 3px, gold; background-color: #990000; color: gold;  width: 75%;" name="send" value="/dicegame">Start Dice (1)</button></div><div title="THIS DIV IS FOR SPACING" style="width: 1%; height: 70%; float: left;"></div><div  title="THIS DIV IS FOR SPACING" style="width: 1%; height: 40%; float: right;"></div><div style="width: 60%; height: 40%; float: right; text-align: center;"><img src="//i.imgur.com/pSuDgur.png" width="300" height="75"></div><div style="width: 1%; height: 40%; float: right;"></div><div style="width: 100%; height: 78%;"></div><center><div style="border: solid, 1px, gold; background-color: #990000; color: gold;  width: 98%; height: 23%;"><strong><u>Welcome to Casino</u></strong><br>Here you can spend all those hard earned bucks on some dice games and try to win some extra shekels! Oy vey~♥</div></center></div>
+14:55:28 |userstats|total:1|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+15:05:28 |userstats|total:1|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+15:15:28 |userstats|total:1|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+15:25:28 |userstats|total:1|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+15:35:28 |userstats|total:1|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+15:39:25 |J|#Bandi
+15:39:29 |c|#Bandi|k
+15:39:30 Mycroft was promoted to Cutie by Audinory.
+15:39:30 |c|#Bandi|audinory
+15:39:37 |c|#Bandi|!atm
+15:39:37 |raw|<div class="infobox">Bandi has 985 Shekels.</div>
+15:39:39 |c|#Bandi|!atm Audinory
+15:39:39 |raw|<div class="infobox">Audinory has NaN Shekels.</div>
+15:39:42 |c|+Audinory|I know
+15:39:48 |c|+Audinory|ill fix it when i deal with this
+15:40:13 |c|#Bandi|!atm Audinory
+15:40:13 |raw|<div class="infobox">Audinory has 100 Shekels.</div>
+15:40:16 |c|#Bandi|ez
+15:40:20 |c|#Bandi|ive mastered
+15:40:23 |c|#Bandi|the Db
+15:40:24 |c|#Bandi|code now
+15:40:33 |c|#Bandi|im gonna make some economy functions out of it now
+15:40:37 |c|#Bandi|but thts later
+15:40:41 |c|#Bandi|i jsut fixed ur moeny tho
+15:40:52 |c|#Bandi|Audinory u here
+15:41:00 |c|+Audinory|!atm
+15:41:00 |raw|<div class="infobox">Audinory has 100 Shekels.</div>
+15:41:01 |c|+Audinory|oh
+15:41:03 |c|+Audinory|thaks
+15:41:09 |c|+Audinory|im doing this mess
+15:41:10 |c|+Audinory|dw
+15:43:26 |c|#Bandi|lol
+15:43:27 |c|#Bandi|ok
+15:45:19 |c|#Bandi|well ima be
+15:45:21 |c|#Bandi|fixing
+15:45:23 |c|+Audinory|okay
+15:45:24 |c|+Audinory|lets test
+15:45:26 |c|#Bandi|nvm
+15:45:28 |userstats|total:2|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:0
+15:45:30 |c|#Bandi|and by ficing i mena
+15:45:38 |c|#Bandi|!eval economy.giveMoney
+15:45:38 ||<< function giveMoney(user, amount) {
+    user.money = getMoney + amount;
+}
+15:45:42 |c|#Bandi|making that
+15:45:43 |c|#Bandi|actually
+15:45:44 |c|#Bandi|work
+15:45:44 |c|#Bandi|lol
+15:45:51 |c|#Bandi|anyway
+15:45:55 |raw|<div style=" padding: 5px, 0px; background-color: black; border: red, solid 1px; background-size: 100%; color: red; font-size: 12px; text-align: center;">The Wheel Of<br><font style="color: red;"><em><strong>SCRUBS</strong></em></font><br>Has been started and is waiting to be spun!<hr style="border: solid, 0.5px, red">The Mulitiplier is:<em><strong><font style="color: red;">1</font></em></strong><hr style="border: solid, 0.5px, red"><font style="color: blue;">-5,-4,-3,-2,-2,-1,-1,-1,-1,1,1,3,3,3,5</font><hr style="border: solid, 0.5px, red;"><button style="border: double, red, 4px; color: red; background-color: black; border-radius: 10px; font-face: serif ; font-size: 12px;" name="send" value="/wheel spin">Spin The Wheel! </button></div>
+15:45:58 |c|#Bandi|!atm
+15:45:58 |raw|<div class="infobox">Bandi has 980 Shekels.</div>
+15:46:00 |c|#Bandi|good
+15:46:03 |c|+Audinory|btw vacate may ask you if Sanctioned is Sakurais C9 Name
+15:46:03 |c|#Bandi|it took away 5 of my bucks
+15:46:14 |c|#Bandi|ik it is
+15:46:14 |c|#Bandi|him
+15:46:15 |c|#Bandi|lol
+15:46:19 |c|+Audinory|dw 
+15:46:22 |c|+Audinory|ill pm
+15:46:24 |c|#Bandi|k
+15:48:22 |c|#Bandi|join the wheel
+15:48:52 |raw|<div style="padding: 5px; background-color: black; color: red; border: solid, 1px, red; font-size: 15px;">The wheel has landed on: <em><strong>-3</strong></em><br>This means you have either lost or won: -3
+15:48:56 |c|+Audinory|!atm
+15:48:56 |raw|<div class="infobox">Audinory has 97 Shekels.</div>
+15:48:59 |c|+Audinory|!atm bandi
+15:48:59 |raw|<div class="infobox">bandi has 985 Shekels.</div>
+15:49:02 |c|+Audinory|LOL
+15:49:02 |c|#Bandi|.
+15:49:05 |c|#Bandi|didn't work
+15:49:07 |c|#Bandi|so basically
+15:49:09 |c|#Bandi|as of now
+15:49:14 |c|+Audinory|you get max
+15:49:16 |c|#Bandi|it works in essence
+15:49:19 |c|#Bandi|no
+15:49:24 |c|#Bandi|audinory basically
+15:49:28 |c|#Bandi|it takes the max from u
+15:49:29 |c|#Bandi|when u host
+15:49:33 |c|#Bandi|so u can't just transfer ur bucks
+15:49:36 |c|#Bandi|to another account
+15:49:44 |c|+Audinory|ahh
+15:49:46 |c|#Bandi|ye
+15:49:48 |c|#Bandi|thats how dice was
+15:49:51 |c|#Bandi|in origin too
+15:49:55 |c|#Bandi|but rn it gave me my bucks back
+15:49:57 |c|#Bandi|after the wheel
+15:50:02 |c|#Bandi|but it didn't give me my reward
+15:50:05 |c|#Bandi|i need to see why
+15:50:30 |c|#Bandi|Db('money').set(room.wheelHost, Db('money').get(room.wheelHost) + payout * -1);
+15:50:32 |c|#Bandi|and that is why
+15:50:41 |c|#Bandi|room.wheelHost
+15:50:49 |c|#Bandi|it shud be room.wheel.wheelHost
+15:50:52 |c|#Bandi|!atm undefined
+15:50:52 |raw|<div class="infobox">undefined has 5 Shekels.</div>
+15:50:58 |c|#Bandi|XD
+15:50:59 |c|+Audinory|LOL
+15:51:07 |c|+Audinory|!atm false
+15:51:07 |raw|<div class="infobox">false has 0 Shekels.</div>
+15:51:36 |c|#Bandi|ok completely
+15:51:37 |c|#Bandi|sure all of it
+15:51:38 |c|#Bandi|works
+15:51:42 |c|#Bandi|but elt me test one thing
+15:51:53 |raw|<div style=" padding: 5px, 0px; background-color: black; border: red, solid 1px; background-size: 100%; color: red; font-size: 12px; text-align: center;">The Wheel Of<br><font style="color: red;"><em><strong>SCRUBS</strong></em></font><br>Has been started and is waiting to be spun!<hr style="border: solid, 0.5px, red">The Mulitiplier is:<em><strong><font style="color: red;">1</font></em></strong><hr style="border: solid, 0.5px, red"><font style="color: blue;">-5,-4,-3,-2,-2,-1,-1,-1,-1,1,1,3,3,3,5</font><hr style="border: solid, 0.5px, red;"><button style="border: double, red, 4px; color: red; background-color: black; border-radius: 10px; font-face: serif ; font-size: 12px;" name="send" value="/wheel spin">Spin The Wheel! </button></div>
+15:51:56 |c|#Bandi|!atm
+15:51:56 |raw|<div class="infobox">Bandi has 980 Shekels.</div>
+15:51:57 The wheel game was ended by bandi.
+15:51:59 |c|#Bandi|!atm
+15:51:59 |raw|<div class="infobox">Bandi has 985 Shekels.</div>
+15:52:00 |c|#Bandi|k
+15:52:01 |c|#Bandi|that works
+15:52:06 |c|#Bandi|ok i think its error proof
+15:52:07 |c|#Bandi|now
+15:52:15 |c|#Bandi|Audinory
+15:52:20 |c|#Bandi|actually wait
+15:52:27 |raw|<div style=" padding: 5px, 0px; background-color: black; border: red, solid 1px; background-size: 100%; color: red; font-size: 12px; text-align: center;">The Wheel Of<br><font style="color: red;"><em><strong>SCRUBS</strong></em></font><br>Has been started and is waiting to be spun!<hr style="border: solid, 0.5px, red">The Mulitiplier is:<em><strong><font style="color: red;">2</font></em></strong><hr style="border: solid, 0.5px, red"><font style="color: blue;">-5,-4,-3,-2,-2,-1,-1,-1,-1,1,1,3,3,3,5</font><hr style="border: solid, 0.5px, red;"><button style="border: double, red, 4px; color: red; background-color: black; border-radius: 10px; font-face: serif ; font-size: 12px;" name="send" value="/wheel spin">Spin The Wheel! </button></div>
+15:52:28 |c|#Bandi|!atm
+15:52:28 |raw|<div class="infobox">Bandi has 975 Shekels.</div>
+15:52:30 |c|#Bandi|ok
+15:52:31 The wheel game was ended by bandi.
+15:52:33 |c|#Bandi|!atm
+15:52:33 |raw|<div class="infobox">Bandi has 985 Shekels.</div>
+15:52:34 |c|#Bandi|k
+15:52:34 |c|#Bandi|good
+15:52:37 |c|+Audinory|nice!
+15:53:02 |c|#Bandi|ok also
+15:53:08 |c|#Bandi|lets see
+15:53:13 |c|#Bandi|if it rewards wiht multipliers too
+15:53:19 |raw|<div style=" padding: 5px, 0px; background-color: black; border: red, solid 1px; background-size: 100%; color: red; font-size: 12px; text-align: center;">The Wheel Of<br><font style="color: red;"><em><strong>SCRUBS</strong></em></font><br>Has been started and is waiting to be spun!<hr style="border: solid, 0.5px, red">The Mulitiplier is:<em><strong><font style="color: red;">2</font></em></strong><hr style="border: solid, 0.5px, red"><font style="color: blue;">-5,-4,-3,-2,-2,-1,-1,-1,-1,1,1,3,3,3,5</font><hr style="border: solid, 0.5px, red;"><button style="border: double, red, 4px; color: red; background-color: black; border-radius: 10px; font-face: serif ; font-size: 12px;" name="send" value="/wheel spin">Spin The Wheel! </button></div>
+15:53:42 |c|#Bandi|Audinory
+15:53:45 |c|#Bandi|join rofl
+15:53:55 |raw|<div style="padding: 5px; background-color: black; color: red; border: solid, 1px, red; font-size: 15px;">The wheel has landed on: <em><strong>-2</strong></em><br>This means you have either lost or won: -2
+15:53:57 |c|+Audinory|!atm
+15:53:57 |raw|<div class="infobox">Audinory has 93 Shekels.</div>
+15:54:10 |c|#Bandi|!atm
+15:54:10 |raw|<div class="infobox">Bandi has 989 Shekels.</div>
+15:54:17 |c|#Bandi|ay
+15:54:26 |c|#Bandi|worked
+15:54:29 |c|#Bandi|k we're good
+15:54:32 |c|#Bandi|now on this code
+15:54:36 |c|#Bandi|just d me  a favor
+15:54:39 |c|#Bandi|and make it so
+15:54:47 |c|#Bandi|when it lets on +
+15:54:49 |c|#Bandi|it shows as +
+15:54:56 |c|#Bandi|and on the wheel css it shows as +
+15:54:58 |c|#Bandi|actually idk
+15:55:01 |c|#Bandi|if that'd be easy
+15:55:28 |userstats|total:2|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:0
+15:55:36 |c|+Audinory|uhh what do you mean?
+15:55:39 |c|+Audinory|like wincon?
+15:55:42 |c|#Bandi|like no
+15:55:50 |c|#Bandi|-5,-4,-3,-2,-2,-1,-1,-1,-1,1,1,3,3,3,5
+15:55:54 |c|+Audinory|Oh
+15:55:58 |c|#Bandi|ye
+15:56:01 |c|+Audinory|that'd be
+15:56:01 |c|+Audinory|hmm
+15:56:04 |c|#Bandi|its supposed to say +
+15:56:07 |c|#Bandi|because normally
+15:56:09 |c|#Bandi|onf rost
+15:56:11 |c|#Bandi|it was bot ran
+15:56:15 |c|+Audinory|I mean
+15:56:16 |c|#Bandi|so they just made it  as tring
+15:56:20 |c|#Bandi|and u had to manually transfer
+15:56:21 |c|+Audinory|you could just have it
+15:56:21 |c|#Bandi|and all
+15:56:43 |c|+Audinory|so if Number >= 0 "+ " WinValue
+15:56:53 |c|+Audinory|and if >= -1 "WinValue"
+15:56:54 |c|+Audinory|ex
+15:56:56 |c|+Audinory|ez
+15:56:59 |c|#Bandi|ye
+15:57:04 |c|#Bandi|just do
+15:57:19 |c|#Bandi|if >= -1 String(WinValue)
+15:57:25 |c|#Bandi|!eval String(5)
+15:57:25 ||<< 5
+15:57:39 |c|#Bandi|!eval  var  y = String(5); typeof y
+15:57:39 ||<< string
+15:57:43 |c|#Bandi|;]
+15:58:19 |c|#Bandi|Audinory u saw what i put right?
+15:58:34 |c|+Audinory|!eval let WinValue = -1  if (WinValue >= 0) return  "+ " + WinValue; else return WinVale
+15:58:34 || << SyntaxError: Unexpected token if
+15:58:36 |c|+Audinory|fck
+15:58:40 |c|+Audinory|!eval let WinValue = -1;  if (WinValue >= 0) return  "+ " + WinValue; else return WinVale
+15:58:40 || << SyntaxError: Illegal return statement
+15:58:42 |c|+Audinory|.
+15:58:49 |c|+Audinory|!eval let WinValue = -1;  if (WinValue >= 0) return  "+ " + WinValue; else WinValue
+15:58:49 || << SyntaxError: Illegal return statement
+15:58:58 |c|+Audinory|!eval let WinValue = -1;  if (WinValue >= 0) "+ " + WinValue; else WinValue
+15:58:58 ||<< -1
+15:59:03 |c|+Audinory|!eval let WinValue = 10;  if (WinValue >= 0) "+ " + WinValue; else WinValue
+15:59:03 ||<< + 10
+15:59:05 |c|+Audinory|:^)
+15:59:21 |c|+Audinory|Bandi pls
+15:59:28 |c|+Audinory|admit mines is cuter
+15:59:55 |c|#Bandi|it sure is
+15:59:58 |c|#Bandi|lol
+16:00:07 |c|+Audinory|I mean
+16:00:25 |c|#Bandi|also on the end message
+16:00:30 |c|#Bandi|make sure it sayys
+16:00:51 |c|+Audinory|!eval let CssWin = ""; let WinValue = 10;  if (WinValue >= 0) CssWin += "+ " + WinValue; else CssWin += WinValue;
+16:00:51 ||<< + 10
+16:00:59 |c|#Bandi|+ = Spinner wins
+16:01:00 |c|#Bandi|- = Host wins
+16:01:02 |c|#Bandi|add that
+16:01:09 |c|#Bandi|into the css on the end spin message
+16:01:10 |c|+Audinory|I mean I could just do
+16:01:13 |c|#Bandi|also im gonna add it so
+16:01:17 |c|#Bandi|it says who joined
+16:01:19 |c|#Bandi|and who hsoted
+16:01:20 |c|#Bandi|lol
+16:03:38 |c|+Audinory|!eval let Host = 'Bandi' ; let Player = 'Audinory'; let CssWin = ""; let WinValue = 10;  if (WinValue >= 0) CssWin += "+" + WinValue; else CssWin += WinValue; if parseInt(CssWin) > 0) Host + " Wins " + WinValue + "!" else  Player + " Wins " + WinValue + "!";
+16:03:38 || << SyntaxError: Unexpected identifier
+16:03:41 |c|+Audinory|wait where
+16:03:51 |c|#Bandi|lol
+16:03:53 |c|+Audinory|Oh
+16:03:54 |c|+Audinory|1 sec
+16:04:48 |c|#Bandi|llllllllllllllllllllllllllllllllllllllllllllllllllllllllllll.
+16:05:28 |userstats|total:2|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:0
+16:05:50 |N|#Bandi|bandi
+16:07:14 |c|+Audinory|!eval 'use strict'; let Host = 'Bandi' ; let Player = 'Audinory'; let CssWin = ""; let WinValue = 10;  if (WinValue >= 0) CssWin += "+" + WinValue; else CssWin += WinValue;  if (WinValue >=0) let Winner = Host; else let Winner = Player;  let WinMsg = Winner + " Wins " + WinValue + " Bucks!" this.sendReply(WinMsg) 
+16:07:14 || << SyntaxError: Unexpected strict mode reserved word
+16:07:26 |c|+Audinory|ignoreing use strict bandi
+16:07:34 |c|+Audinory|where is the reserved word?
+16:07:38 |c|#Bandi|idk
+16:07:41 |c|#Bandi|is use strict even
+16:07:43 |c|#Bandi|really needed
+16:07:48 |c|#Bandi|c9 just told me
+16:07:50 |c|#Bandi|to put it in there
+16:07:51 |c|#Bandi|so
+16:08:05 |c|+Audinory|!eval 'use strict'; let Host = 'Bandi' ; let Player = 'Audinory'; let CssWin = ""; let WinValue = 10;  if (WinValue >= 0) CssWin += "+" + WinValue; else CssWin += WinValue;  if (WinValue >=0) { Winner = Host; } else { let Winner = Player; }  let WinMsg = Winner + " Wins " + WinValue + " Bucks!" this.sendReply(WinMsg) 
+16:08:05 || << SyntaxError: Unexpected token this
+16:08:11 |c|#Bandi|k'
+16:08:13 |c|+Audinory|!eval 'use strict'; let Host = 'Bandi' ; let Player = 'Audinory'; let CssWin = ""; let WinValue = 10;  if (WinValue >= 0) CssWin += "+" + WinValue; else CssWin += WinValue;  if (WinValue >=0) { Winner = Host; } else { let Winner = Player; }  let WinMsg = Winner + " Wins " + WinValue + " Bucks!" (WinMsg) 
+16:08:13 || << ReferenceError: Winner is not defined
+||    at eval (eval at <anonymous> (/home/ubuntu/workspace/Server-Folder/commands.js:2404:34), <anonymous>:1:196)
+16:08:17 |c|+Audinory|k
+16:08:17 |c|#Bandi|if thats the only error
+16:08:22 |c|#Bandi|then its fine
+16:08:30 |c|+Audinory|!eval 'let Winner = ""; let Host = 'Bandi' ; let Player = 'Audinory'; let CssWin = ""; let WinValue = 10;  if (WinValue >= 0) CssWin += "+" + WinValue; else CssWin += WinValue;  if (WinValue >=0) { Winner = Host; } else { let Winner = Player; }  let WinMsg = Winner + " Wins " + WinValue + " Bucks!" (WinMsg) 
+16:08:30 || << SyntaxError: Unexpected identifier
+16:08:34 |c|+Audinory|WHY
+16:08:35 |c|+Audinory|what
+16:08:36 |c|+Audinory|is
+16:08:37 |c|+Audinory|it
+16:08:37 |c|#Bandi|LOL
+16:08:55 |c|+Audinory|!eval 'let Winner = ""; let Host = 'Bandi' ; let Player = 'Audinory'; let CssWin = ""; let WinValue = 10;  if (WinValue >= 0) CssWin += "+" + WinValue; else CssWin += WinValue;  if (WinValue >=0) { let Winner = Host; } else { let Winner = Player; }  let WinMsg = Winner + " Wins " + WinValue + " Bucks!" (WinMsg) 
+16:08:55 || << SyntaxError: Unexpected identifier
+16:09:09 |c|#Bandi|tfw
+16:09:09 |c|+Audinory|!eval 'let Winner = ""; let Host = 'Bandi' ; let Player = 'Audinory'; let CssWin = ""; let WinValue = 10;  if (WinValue >= 0) CssWin += "+" + WinValue; else CssWin += WinValue;  if (WinValue >=0) Winner = Host; else Winner = Player; let WinMsg = Winner + " Wins " + WinValue + " Bucks!" (WinMsg) 
+16:09:09 || << SyntaxError: Unexpected identifier
+16:09:11 |c|#Bandi|udk the error
+16:09:15 |c|+Audinory|tfw I dont
+16:09:20 |c|#Bandi|add  a ;
+16:09:21 |c|#Bandi|at the end
+16:09:23 |c|+Audinory|!eval 'let Winner = ""; let Host = 'Bandi' ; let Player = 'Audinory'; let CssWin = ""; let WinValue = 10;  if (WinValue >= 0) CssWin += "+" + WinValue; else CssWin += WinValue;  if (WinValue >=0) Winner = Host; else Winner = Player; let WinMsg = Winner + " Wins " + WinValue + " Bucks!" (WinMsg) 
+16:09:23 || << SyntaxError: Unexpected identifier
+16:09:23 |c|#Bandi|iirc
+16:09:25 |c|+Audinory|o
+16:09:28 |c|+Audinory|!eval 'let Winner = ""; let Host = 'Bandi' ; let Player = 'Audinory'; let CssWin = ""; let WinValue = 10;  if (WinValue >= 0) CssWin += "+" + WinValue; else CssWin += WinValue;  if (WinValue >=0) Winner = Host; else Winner = Player; let WinMsg = Winner + " Wins " + WinValue + " Bucks!"; (WinMsg) 
+16:09:28 || << SyntaxError: Unexpected identifier
+16:09:30 |c|+Audinory|n
+16:09:36 |c|+Audinory|!eval 'let Winner = ""; let Host = 'Bandi' ; let Player = 'Audinory'; let CssWin = ""; let WinValue = 10;  if (WinValue >= 0) CssWin += "+" + WinValue; else CssWin += WinValue;  if (WinValue >=0) Winner = Host; else Winner = Player; let WinMsg = Winner + " Wins " + WinValue + " Bucks!";) 
+16:09:36 || << SyntaxError: Unexpected identifier
+16:09:41 |c|+Audinory|!eval 'let Winner = ""; let Host = 'Bandi' ; let Player = 'Audinory'; let CssWin = ""; let WinValue = 10;  if (WinValue >= 0) CssWin += "+" + WinValue; else CssWin += WinValue;  if (WinValue >=0) Winner = Host; else Winner = Player; let WinMsg = Winner + " Wins " + WinValue + " Bucks!";
+16:09:41 || << SyntaxError: Unexpected identifier
+16:09:42 |c|#Bandi|add it
+16:09:43 |c|#Bandi|at the end
+16:09:46 |c|#Bandi|fo the parentesis
+16:09:52 |c|+Audinory|o
+16:10:00 |c|+Audinory|there are none
+16:10:24 |c|#Bandi|on the line
+16:10:27 |c|#Bandi|up there
+16:10:28 |c|#Bandi|there are
+16:11:38 |c|+Audinory|bandi
+16:11:45 |c|+Audinory|!eval let Winner = ""; let Host = 'Bandi' ; let Player = 'Audinory'; let CssWin = ""; let WinValue = 10;  if (WinValue >= 0) CssWin += "+" + WinValue; else CssWin += WinValue;  if (WinValue >=0) Winner = Host; else Winner = Player; let WinMsg = Winner + " Wins " + WinValue + " Bucks!";
+16:11:45 ||<< Bandi
+16:11:48 |c|+Audinory|There we go
+16:11:51 |c|+Audinory|it was a stray '
+16:11:56 |c|#Bandi|lol
+16:11:57 |c|#Bandi|k
+16:11:59 |c|+Audinory|!eval let Winner = ""; let Host = 'Bandi' ; let Player = 'Audinory'; let CssWin = ""; let WinValue = 10;  if (WinValue >= 0) CssWin += "+" + WinValue; else CssWin += WinValue;  if (WinValue >=0) Winner = Host; else Winner = Player; let WinMsg = Winner + " Wins " + WinValue + " Bucks!"; (WinMsg)
+16:11:59 ||<< Bandi Wins 10 Bucks!
+16:12:00 |c|+Audinory|See
+16:12:00 |c|#Bandi|this shud work
+16:12:06 |c|+Audinory|Wait
+16:12:18 |c|+Audinory|!eval let Winner = ""; let Host = 'Bandi' ; let Player = 'Audinory'; let CssWin = ""; let WinValue = 10;  if (WinValue >= 0) CssWin += "+" + WinValue; else CssWin += WinValue;  if (WinValue <=0) Winner = Host; else Winner = Player; let WinMsg = Winner + " Wins " + WinValue + " Bucks!"; (WinMsg)
+16:12:18 ||<< Audinory Wins 10 Bucks!
+16:12:21 |c|+Audinory|There we go
+16:12:34 |c|+Audinory|fuck all the positive an negative shit
+16:12:37 |c|+Audinory|just have it do that
+16:12:38 |c|+Audinory|Lmao
+16:12:47 |c|+Audinory|Wait I can improve
+16:12:59 |c|#Bandi|lol yea but dw i have an idea
+16:13:09 |c|#Bandi|for the toher thing
+16:13:24 |c|#Bandi|nvm i don't
+16:15:27 |c|+Audinory|!eval   let Winner = ""; let Host = 'Bandi' ; let Player = 'Audinory'; let CssWin = ""; let WinValue = 10;  if (WinValue >= 0) CssWin += "+" + WinValue; else CssWin += WinValue;  if (WinValue <=0) Winner = Host; else Winner = Player; let WinMsg = Winner + " Wins " + WinValue + " Bucks!"; if Host = Winner) let Loser = Player; else let Loser = Host;  let LoseMsg = Loser + " Has Lost " + WinValue + " Bucks!"; (WinMsg)(LoseMsg)
+16:15:27 || << SyntaxError: Unexpected identifier
+16:15:28 |userstats|total:2|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:0
+16:16:21 |c|#Bandi|don't see
+16:16:25 |c|#Bandi|any errors
+16:16:26 |c|#Bandi|lol
+16:16:28 |c|+Audinory|i do
+16:16:31 |c|+Audinory|!eval  let Loser = ""; let Winner = ""; let Host = 'Bandi' ; let Player = 'Audinory'; let CssWin = ""; let WinValue = 10;  if (WinValue >= 0) CssWin += "+" + WinValue; else CssWin += WinValue;  if (WinValue <=0) Winner = Host; else Winner = Player; let WinMsg = Winner + " Wins " + WinValue + " Bucks!"; if (Host = Winner) Loser = Player; else Loser = Host;  let LoseMsg = Loser + " Has Lost " + WinValue + " Bucks!"; (WinMsg) + (LoseMsg)
+16:16:31 ||<< Audinory Wins 10 Bucks!Audinory Has Lost 10 Bucks!
+16:16:33 |c|+Audinory|.
+16:16:49 |c|+Audinory|!eval  let Loser = ""; let Winner = ""; let Host = 'Bandi' ; let Player = 'Audinory'; let CssWin = ""; let WinValue = 10;  if (WinValue >= 0) CssWin += "+" + WinValue; else CssWin += WinValue;  if (WinValue <=0) Winner = Host; else Winner = Player; let WinMsg = Winner + " Wins " + WinValue + " Bucks!"; if (Host === Winner) Loser = Player; else Loser = Host;  let LoseMsg = Loser + " Has Lost " + WinValue + " Bucks!"; (WinMsg) + (LoseMsg)
+16:16:49 ||<< Audinory Wins 10 Bucks!Bandi Has Lost 10 Bucks!
+16:16:52 |c|+Audinory|:^)
+16:17:06 |c|+Audinory|!eval  let Loser = ""; let Winner = ""; let Host = 'Bandi' ; let Player = 'Audinory'; let CssWin = ""; let WinValue = 10;  if (WinValue >= 0) CssWin += "+" + WinValue; else CssWin += WinValue;  if (WinValue <=0) Winner = Host; else Winner = Player; let WinMsg = Winner + " Wins " + WinValue + " Bucks!"; if (Host === Winner) Loser = Player; else Loser = Host;  let LoseMsg = Loser + " Has Lost " + WinValue + " Bucks!"; (WinMsg) + "\n\n" + (LoseMsg)
+16:17:06 ||<< Audinory Wins 10 Bucks!
+
+Bandi Has Lost 10 Bucks!
+16:17:08 |c|+Audinory|Bae af
+16:17:25 |c|#Bandi|lol
+16:17:55 |c|+Audinory|I mean the easier way would be to make it so
+16:18:08 |c|+Audinory|player.Wins
+16:18:10 |c|+Audinory|or host.wins
+16:18:15 |c|#Bandi|lol
+16:25:28 |userstats|total:2|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:0
+16:32:21 |N| VKO|audinory
+16:32:28 |N|+Audinory|vko
+16:35:28 |userstats|total:2|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:0
+16:45:28 |userstats|total:2|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:0
+16:55:28 |userstats|total:2|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:0
+17:05:28 |userstats|total:2|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:0
+17:15:28 |userstats|total:2|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:0
+17:25:28 |userstats|total:2|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:0
+17:35:28 |userstats|total:2|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:0
+17:39:45 |L|#Bandi
+17:45:28 |userstats|total:1|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+17:55:04 |N| Awwdino|audinory
+17:55:12 |N|+Audinory|awwdino
+17:55:28 |userstats|total:1|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+18:05:28 |userstats|total:1|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+18:15:28 |userstats|total:1|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+18:25:28 |userstats|total:1|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+18:35:28 |userstats|total:1|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+18:40:31 NEW CHATROOM: casino
+18:45:28 |userstats|total:1|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+18:51:19 NEW CHATROOM: casino
+18:52:03 NEW CHATROOM: casino
+19:01:40 NEW CHATROOM: casino
+19:11:40 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+19:21:40 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+19:31:40 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+19:41:40 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+19:58:21 NEW CHATROOM: casino
+20:08:21 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+20:18:21 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+20:28:21 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+20:38:21 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+20:38:42 |J|#Bandi
+20:48:21 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:0
+20:52:26 |J|+purpledragon24
+20:52:48 |raw|<div style=" padding: 5px, 0px; background-color: black; border: red, solid 1px; background-size: 100%; color: red; font-size: 12px; text-align: center;">The Wheel Of<br><font style="color: red;"><em><strong>SCRUBS</strong></em></font><br>Has been started and is waiting to be spun!<hr style="border: solid, 0.5px, red">The Mulitiplier is:<em><strong><font style="color: red;">1</font></em></strong><hr style="border: solid, 0.5px, red"><font style="color: blue;">-5,-4,-3,-2,-2,-1,-1,-1,-1,1,1,3,3,3,5</font><hr style="border: solid, 0.5px, red;"><button style="border: double, red, 4px; color: red; background-color: black; border-radius: 10px; font-face: serif ; font-size: 12px;" name="send" value="/wheel spin">Spin The Wheel! </button></div>
+20:52:48 |raw|<b><font color="blue">purpledragon24 is hosting the wheel.</font></b>
+20:52:50 |raw|<b><font color="blue">Bandi has spun the wheel.</font></b>
+20:52:50 |raw|<div style="padding: 5px; background-color: black; color: red; border: solid, 1px, red; font-size: 15px;">The wheel has landed on: <em><strong>-1</strong></em><br>Positive Numbers = Spinner win<br /> Negative Numbers = Host win</div>
+20:52:53 |c|+purpledragon24|:D
+20:52:56 |raw|<div style=" padding: 5px, 0px; background-color: black; border: red, solid 1px; background-size: 100%; color: red; font-size: 12px; text-align: center;">The Wheel Of<br><font style="color: red;"><em><strong>SCRUBS</strong></em></font><br>Has been started and is waiting to be spun!<hr style="border: solid, 0.5px, red">The Mulitiplier is:<em><strong><font style="color: red;">1</font></em></strong><hr style="border: solid, 0.5px, red"><font style="color: blue;">-5,-4,-3,-2,-2,-1,-1,-1,-1,1,1,3,3,3,5</font><hr style="border: solid, 0.5px, red;"><button style="border: double, red, 4px; color: red; background-color: black; border-radius: 10px; font-face: serif ; font-size: 12px;" name="send" value="/wheel spin">Spin The Wheel! </button></div>
+20:52:56 |raw|<b><font color="blue">purpledragon24 is hosting the wheel.</font></b>
+20:52:58 |raw|<b><font color="blue">Bandi has spun the wheel.</font></b>
+20:52:58 |raw|<div style="padding: 5px; background-color: black; color: red; border: solid, 1px, red; font-size: 15px;">The wheel has landed on: <em><strong>3</strong></em><br>Positive Numbers = Spinner win<br /> Negative Numbers = Host win</div>
+20:53:03 |c|+purpledragon24|D:
+20:53:04 |c|#Bandi|too ez
+20:53:08 |raw|<div style=" padding: 5px, 0px; background-color: black; border: red, solid 1px; background-size: 100%; color: red; font-size: 12px; text-align: center;">The Wheel Of<br><font style="color: red;"><em><strong>SCRUBS</strong></em></font><br>Has been started and is waiting to be spun!<hr style="border: solid, 0.5px, red">The Mulitiplier is:<em><strong><font style="color: red;">1</font></em></strong><hr style="border: solid, 0.5px, red"><font style="color: blue;">-5,-4,-3,-2,-2,-1,-1,-1,-1,1,1,3,3,3,5</font><hr style="border: solid, 0.5px, red;"><button style="border: double, red, 4px; color: red; background-color: black; border-radius: 10px; font-face: serif ; font-size: 12px;" name="send" value="/wheel spin">Spin The Wheel! </button></div>
+20:53:08 |raw|<b><font color="blue">purpledragon24 is hosting the wheel.</font></b>
+20:53:12 |raw|<b><font color="blue">Bandi has spun the wheel.</font></b>
+20:53:12 |raw|<div style="padding: 5px; background-color: black; color: red; border: solid, 1px, red; font-size: 15px;">The wheel has landed on: <em><strong>-2</strong></em><br>Positive Numbers = Spinner win<br /> Negative Numbers = Host win</div>
+20:53:14 |c|+purpledragon24|:D
+20:53:22 |c|#Bandi|lol wait
+20:53:24 |c|#Bandi|let me make the wheels
+20:53:25 |c|#Bandi|more fair
+20:53:26 |c|+purpledragon24|ok
+20:53:27 |c|+purpledragon24|lol
+20:53:28 |c|#Bandi|cuz the idea is
+20:53:46 |c|#Bandi|that there are less higher numbers
+20:53:50 |c|#Bandi|but they are higher still
+20:53:54 |c|#Bandi|so they are worth more
+20:53:55 |c|#Bandi|lol
+20:54:20 |c|+purpledragon24|lol ok?
+20:54:58 |J|%FocusBlasted
+20:57:23 |J|+Audinory
+20:58:21 |userstats|total:4|guests:0| :0|+:2|%:1|@:0|★:0|-:0|&:0|#:1|♥:0|~:0
+20:58:53 |J|&Alliance Darkrai
+20:59:01 |N|#Bandi|bandi
+20:59:21 |L|+Audinory
+21:07:33 |J|+KatheyIsme123
+21:08:12 |L|+KatheyIsme123
+21:08:15 |J|+KatheyIsme123
+21:08:21 |c|+KatheyIsme123|Lol
+21:08:21 |userstats|total:5|guests:0| :0|+:2|%:1|@:0|★:0|-:0|&:1|#:1|♥:0|~:0
+21:08:27 |c|+KatheyIsme123|Ohshet
+21:08:31 |c|+KatheyIsme123|I WANNA PLAY
+21:08:34 |c|+KatheyIsme123|Bandi 
+21:08:37 |c|+KatheyIsme123|Pretty Please?
+21:08:56 |c|+KatheyIsme123|/me looks for boas
+21:08:58 |c|+KatheyIsme123|/me boss
+21:09:49 |c|#Bandi|ok
+21:09:50 |c|&Alliance Darkrai|Kathey
+21:09:52 |raw|<div class='chat'><small>&</small><button name='parseCommand' value='/user Alliance Darkrai' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#2468B1'>Alliance Darkrai:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsnv.png" title="feelsnv" width="50" height="50" /></em></div>
+21:10:03 |c|#Bandi|!wheel help
+21:10:03 |raw|<div class="infobox"><center>Wheel Commands:</center><br>/wheel create [wheelname], [multiplier] - starts a wheel game<br /> /wheel join/spin/start - Joins the wheel game. <br />/wheel end - Ends the current wheel game <br /></div>
+21:10:05 |c|#Bandi|!wheel list
+21:10:05 |raw|<div class="infobox"><center>Wheels of Misfortune :]</center><hr /><br />Wheel of Scrubs: -5,-4,-3,-2,-2,-1,-1,-1,-1,+1,+1,+3,+3,+3,+5<br />Wheel of Balance: -30,-20,-10,-5,-5,-5,-2,-1,+3,+15,+30,+30<br />Wheel of Diversity: -50,-20,-10,-15,-4,-2,-1,+20,+30,+40<br />Wheel of Wealth: -200,-100,-100,-50,-50,-25,-25,+50,+50,+50,+300<br /></div>
+21:10:11 |c|#Bandi|!wheel list
+21:10:11 |raw|<div class="infobox"><center>Wheels of Misfortune :]</center><hr />Wheel of Scrubs: -5,-4,-3,-2,-2,-1,-1,-1,-1,+1,+1,+3,+3,+3,+5<br />Wheel of Balance: -30,-20,-10,-5,-5,-5,-2,-1,+3,+15,+30,+30<br />Wheel of Diversity: -50,-20,-10,-15,-4,-2,-1,+20,+30,+40<br />Wheel of Wealth: -200,-100,-100,-50,-50,-25,-25,+50,+50,+50,+300<br /></div>
+21:10:20 |c|#Bandi|fixed the extra space
+21:10:21 |c|#Bandi|lol
+21:10:23 |c|+KatheyIsme123|Lol
+21:10:35 |c|+KatheyIsme123|Create a wheel or something 
+21:10:36 |c|+KatheyIsme123|:s
+21:11:25 |c|+KatheyIsme123|/me can't /wheel end
+21:11:26 |c|+KatheyIsme123|:/
+21:12:04 |c|+KatheyIsme123|Alliance Darkrai
+21:12:06 |c|+KatheyIsme123|End it
+21:12:07 |c|+KatheyIsme123|._.
+21:12:17 The wheel game was ended by alliancedarkrai.
+21:12:30 |raw|<div style=" padding: 5px, 0px; background-color: black; border: red, solid 1px; background-size: 100%; color: red; font-size: 12px; text-align: center;">The Wheel Of<br><font style="color: red;"><em><strong>SCRUBS</strong></em></font><br>Has been started and is waiting to be spun!<hr style="border: solid, 0.5px, red">The Mulitiplier is:<em><strong><font style="color: red;"> 1</font></em></strong><hr style="border: solid, 0.5px, red"><font style="color: blue;">-5,-4,-3,-2,-2,-1,-1,-1,-1,1,1,3,3,3,5</font><hr style="border: solid, 0.5px, red;"><button style="border: double, red, 4px; color: red; background-color: black; border-radius: 10px; font-face: serif ; font-size: 12px;" name="send" value="/wheel spin">Spin The Wheel! </button></div>
+21:12:30 |raw|<b><font color="blue">KatheyIsme123 is hosting the wheel.</font></b>
+21:12:36 |c|+KatheyIsme123|.
+21:12:38 |c|+KatheyIsme123|Cant join 
+21:12:48 |raw|<div class='chat'><small>+</small><button name='parseCommand' value='/user KatheyIsme123' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#3265A4'>KatheyIsme123:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/hmmface.png" title="hmmface" width="50" height="50" /></em></div>
+21:12:49 |L|%FocusBlasted
+21:12:59 The wheel game was ended by katheyisme123.
+21:13:02 |c|&Alliance Darkrai|Tell bandi's dumbass
+21:13:11 |c|+KatheyIsme123|dark
+21:13:11 |c|#Bandi|KatheyIsme123
+21:13:12 |c|#Bandi|ur nto suppsoed
+21:13:14 |c|#Bandi|to be able to join
+21:13:17 |c|#Bandi|ur own wheel
+21:13:18 |c|+KatheyIsme123|ic
+21:13:20 |c|+KatheyIsme123|:s
+21:13:25 |c|+KatheyIsme123|make one
+21:13:28 |c|#Bandi|u make one
+21:13:30 |c|#Bandi|!atm Alliance Darkrai
+21:13:30 |raw|<div class="infobox">Alliance Darkrai has 0 Shekels.</div>
+21:13:37 |c|#Bandi|u and darkrai
+21:13:38 |c|#Bandi|have it
+21:13:43 |c|#Bandi|Alliance Darkrai
+21:13:45 |c|#Bandi|wheelw ith her
+21:13:47 |c|&Alliance Darkrai|okay
+21:13:51 |raw|<div style=" padding: 5px, 0px; background-color: black; border: red, solid 1px; background-size: 100%; color: red; font-size: 12px; text-align: center;">The Wheel Of<br><font style="color: red;"><em><strong>SCRUBS</strong></em></font><br>Has been started and is waiting to be spun!<hr style="border: solid, 0.5px, red">The Mulitiplier is:<em><strong><font style="color: red;"> 1</font></em></strong><hr style="border: solid, 0.5px, red"><font style="color: blue;">-5,-4,-3,-2,-2,-1,-1,-1,-1,1,1,3,3,3,5</font><hr style="border: solid, 0.5px, red;"><button style="border: double, red, 4px; color: red; background-color: black; border-radius: 10px; font-face: serif ; font-size: 12px;" name="send" value="/wheel spin">Spin The Wheel! </button></div>
+21:13:51 |raw|<b><font color="blue">KatheyIsme123 is hosting the wheel.</font></b>
+21:13:53 |raw|<b><font color="blue">Alliance Darkrai has spun the wheel.</font></b>
+21:13:53 |raw|<div style="padding: 5px; background-color: black; color: red; border: solid, 1px, red; font-size: 15px;">The wheel has landed on: <em><strong>3</strong></em><br>Positive Numbers = Spinner win<br /> Negative Numbers = Host win</div>
+21:13:55 |c|#Bandi|im busy
+21:13:57 |c|#Bandi|trying to get users
+21:13:57 |c|#Bandi|rofl
+21:14:01 |c|&Alliance Darkrai|Huh
+21:14:04 |c|+KatheyIsme123|?
+21:14:06 |c|&Alliance Darkrai|Aye i won
+21:14:07 |c|&Alliance Darkrai|3
+21:14:10 |c|+KatheyIsme123|ripperoni
+21:14:15 |c|&Alliance Darkrai|so did you kathey
+21:14:21 |c|+KatheyIsme123|?
+21:14:22 |c|+KatheyIsme123|!atm 
+21:14:22 |raw|<div class="infobox">KatheyIsme123 has 17 Shekels.</div>
+21:14:27 |c|&Alliance Darkrai|2
+21:14:35 |c|&Alliance Darkrai|idk the wheel commands
+21:14:37 |c|&Alliance Darkrai|teach me kathey xd
+21:14:40 |raw|<div style=" padding: 5px, 0px; background-color: black; border: red, solid 1px; background-size: 100%; color: red; font-size: 12px; text-align: center;">The Wheel Of<br><font style="color: red;"><em><strong>SCRUBS</strong></em></font><br>Has been started and is waiting to be spun!<hr style="border: solid, 0.5px, red">The Mulitiplier is:<em><strong><font style="color: red;"> 2</font></em></strong><hr style="border: solid, 0.5px, red"><font style="color: blue;">-5,-4,-3,-2,-2,-1,-1,-1,-1,1,1,3,3,3,5</font><hr style="border: solid, 0.5px, red;"><button style="border: double, red, 4px; color: red; background-color: black; border-radius: 10px; font-face: serif ; font-size: 12px;" name="send" value="/wheel spin">Spin The Wheel! </button></div>
+21:14:40 |raw|<b><font color="blue">KatheyIsme123 is hosting the wheel.</font></b>
+21:14:43 |raw|<b><font color="blue">Alliance Darkrai has spun the wheel.</font></b>
+21:14:43 |raw|<div style="padding: 5px; background-color: black; color: red; border: solid, 1px, red; font-size: 15px;">The wheel has landed on: <em><strong>-1</strong></em><br>Positive Numbers = Spinner win<br /> Negative Numbers = Host win</div>
+21:14:47 |c|+KatheyIsme123|!atm
+21:14:47 |raw|<div class="infobox">KatheyIsme123 has 19 Shekels.</div>
+21:14:49 |c|+KatheyIsme123|:I
+21:14:50 |c|&Alliance Darkrai|!atm
+21:14:50 |raw|<div class="infobox">Alliance Darkrai has 21 Shekels.</div>
+21:14:51 |c|&Alliance Darkrai|ez
+21:14:51 |c|+KatheyIsme123|Look above 
+21:14:52 |c|+KatheyIsme123|lmao
+21:14:54 |c|+purpledragon24|I dont. Has enough money.
+21:14:55 |c|+purpledragon24|:P
+21:15:11 |c|#Bandi|darkrai
+21:15:12 |raw|<div style=" padding: 5px, 0px; background-color: black; border: red, solid 1px; background-size: 100%; color: red; font-size: 12px; text-align: center;">The Wheel Of<br><font style="color: red;"><em><strong>SCRUBS</strong></em></font><br>Has been started and is waiting to be spun!<hr style="border: solid, 0.5px, red">The Mulitiplier is:<em><strong><font style="color: red;"> 2</font></em></strong><hr style="border: solid, 0.5px, red"><font style="color: blue;">-5,-4,-3,-2,-2,-1,-1,-1,-1,1,1,3,3,3,5</font><hr style="border: solid, 0.5px, red;"><button style="border: double, red, 4px; color: red; background-color: black; border-radius: 10px; font-face: serif ; font-size: 12px;" name="send" value="/wheel spin">Spin The Wheel! </button></div>
+21:15:12 |raw|<b><font color="blue">KatheyIsme123 is hosting the wheel.</font></b>
+21:15:13 |c|#Bandi|convince yniyang
+21:15:16 |c|#Bandi|to come here
+21:15:21 |c|+KatheyIsme123|Alliance Darkrai
+21:15:29 |c|+KatheyIsme123|Dankrai
+21:15:30 |c|+KatheyIsme123|:/
+21:15:32 |raw|<b><font color="blue">Alliance Darkrai has spun the wheel.</font></b>
+21:15:32 |raw|<div style="padding: 5px; background-color: black; color: red; border: solid, 1px, red; font-size: 15px;">The wheel has landed on: <em><strong>5</strong></em><br>Positive Numbers = Spinner win<br /> Negative Numbers = Host win</div>
+21:15:35 |c|&Alliance Darkrai|Sorry
+21:15:35 |c|#Bandi|also im bsessed
+21:15:36 |c|&Alliance Darkrai|!atm
+21:15:36 |raw|<div class="infobox">Alliance Darkrai has 31 Shekels.</div>
+21:15:37 |c|#Bandi|with kodak black
+21:15:38 |c|#Bandi|now
+21:15:39 |c|&Alliance Darkrai|AYEE
+21:15:39 |c|#Bandi|lol
+21:15:40 |c|+KatheyIsme123|ripperoni
+21:15:44 |c|&Alliance Darkrai|I gained like 10
+21:15:52 |c|&Alliance Darkrai|Bandi he is alright
+21:15:53 |c|#Bandi|also yall shud dice too
+21:15:56 |c|#Bandi|ima give yall both
+21:15:56 |raw|<div style=" padding: 5px, 0px; background-color: black; border: red, solid 1px; background-size: 100%; color: red; font-size: 12px; text-align: center;">The Wheel Of<br><font style="color: red;"><em><strong>SCRUBS</strong></em></font><br>Has been started and is waiting to be spun!<hr style="border: solid, 0.5px, red">The Mulitiplier is:<em><strong><font style="color: red;"> 1</font></em></strong><hr style="border: solid, 0.5px, red"><font style="color: blue;">-5,-4,-3,-2,-2,-1,-1,-1,-1,1,1,3,3,3,5</font><hr style="border: solid, 0.5px, red;"><button style="border: double, red, 4px; color: red; background-color: black; border-radius: 10px; font-face: serif ; font-size: 12px;" name="send" value="/wheel spin">Spin The Wheel! </button></div>
+21:15:56 |raw|<b><font color="blue">KatheyIsme123 is hosting the wheel.</font></b>
+21:15:57 |c|#Bandi|400
+21:16:00 |c|#Bandi|do higher wheels
+21:16:01 |c|+KatheyIsme123|Ok
+21:16:03 The wheel game was ended by bandi.
+21:16:19 |c|&Alliance Darkrai|!atm
+21:16:19 |raw|<div class="infobox">Alliance Darkrai has 431 Shekels.</div>
+21:16:20 |raw|<div class='chat'><small>&</small><button name='parseCommand' value='/user Alliance Darkrai' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#2468B1'>Alliance Darkrai:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsgd.png" title="feelsgd" width="50" height="50" /></em></div>
+21:16:21 |c|+KatheyIsme123|Now?
+21:16:24 |c|+KatheyIsme123|Or later? 
+21:16:24 |c|#Bandi|!wheel list
+21:16:24 |raw|<div class="infobox"><center>Wheels of Misfortune :]</center><hr />Wheel of Scrubs: -5,-4,-3,-2,-2,-1,-1,-1,-1,+1,+1,+3,+3,+3,+5<br />Wheel of Balance: -30,-20,-10,-5,-5,-5,-2,-1,+3,+15,+30,+30<br />Wheel of Diversity: -50,-20,-10,-15,-4,-2,-1,+20,+30,+40<br />Wheel of Wealth: -200,-100,-100,-50,-50,-25,-25,+50,+50,+50,+300<br /></div>
+21:16:27 |c|#Bandi|do some higher wheels
+21:16:28 |c|+KatheyIsme123|Lol
+21:16:28 |c|&Alliance Darkrai|thanks bandi
+21:16:28 |c|#Bandi|xd
+21:16:32 |c|#Bandi|yw
+21:16:33 |c|+purpledragon24|I have no moneyyy
+21:16:33 |raw|<div class='chat'><small>&</small><button name='parseCommand' value='/user Alliance Darkrai' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#2468B1'>Alliance Darkrai:</font></b></button><em class='mine'>Thx ugly god <img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsgd.png" title="feelsgd" width="50" height="50" /></em></div>
+21:16:35 |c|+purpledragon24|to do those
+21:16:45 |raw|<div style=" padding: 5px, 0px; background-color: black; border: red, solid 1px; background-size: 100%; color: red; font-size: 12px; text-align: center;">The Wheel Of<br><font style="color: red;"><em><strong>WEALTH</strong></em></font><br>Has been started and is waiting to be spun!<hr style="border: solid, 0.5px, red">The Mulitiplier is:<em><strong><font style="color: red;"> 1</font></em></strong><hr style="border: solid, 0.5px, red"><font style="color: blue;">-400,-100,-100,-50,-50,-25,-25,50,200,200,300</font><hr style="border: solid, 0.5px, red;"><button style="border: double, red, 4px; color: red; background-color: black; border-radius: 10px; font-face: serif ; font-size: 12px;" name="send" value="/wheel spin">Spin The Wheel! </button></div>
+21:16:45 |raw|<b><font color="blue">KatheyIsme123 is hosting the wheel.</font></b>
+21:16:48 |raw|<b><font color="blue">Alliance Darkrai has spun the wheel.</font></b>
+21:16:48 |raw|<div style="padding: 5px; background-color: black; color: red; border: solid, 1px, red; font-size: 15px;">The wheel has landed on: <em><strong>-100</strong></em><br>Positive Numbers = Spinner win<br /> Negative Numbers = Host win</div>
+21:16:49 |c|+purpledragon24|:O
+21:16:50 |c|+KatheyIsme123|:]
+21:16:51 |c|+purpledragon24|whoaa
+21:16:52 |c|&Alliance Darkrai|wtf
+21:16:53 |c|+purpledragon24|thx?
+21:16:54 |c|#Bandi|also u can
+21:16:55 |c|&Alliance Darkrai|i lost 100
+21:16:58 |c|#Bandi|ye
+21:17:00 |raw|<div class='chat'><small>+</small><button name='parseCommand' value='/user KatheyIsme123' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#3265A4'>KatheyIsme123:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsgd.png" title="feelsgd" width="50" height="50" /></em></div>
+21:17:00 |c|#Bandi|its a diff wheel
+21:17:02 |c|#Bandi|!wheel list
+21:17:02 |raw|<div class="infobox"><center>Wheels of Misfortune :]</center><hr />Wheel of Scrubs: -5,-4,-3,-2,-2,-1,-1,-1,-1,+1,+1,+3,+3,+3,+5<br />Wheel of Balance: -30,-20,-10,-5,-5,-5,-2,-1,+3,+15,+30,+30<br />Wheel of Diversity: -50,-20,-10,-15,-4,-2,-1,+20,+30,+40<br />Wheel of Wealth: -200,-100,-100,-50,-50,-25,-25,+50,+50,+50,+300<br /></div>
+21:17:06 |c|+purpledragon24|bandi gave me. moneys
+21:17:11 |c|#Bandi|also
+21:17:12 |raw|<div style=" padding: 5px, 0px; background-color: black; border: red, solid 1px; background-size: 100%; color: red; font-size: 12px; text-align: center;">The Wheel Of<br><font style="color: red;"><em><strong>WEALTH</strong></em></font><br>Has been started and is waiting to be spun!<hr style="border: solid, 0.5px, red">The Mulitiplier is:<em><strong><font style="color: red;"> 1</font></em></strong><hr style="border: solid, 0.5px, red"><font style="color: blue;">-400,-100,-100,-50,-50,-25,-25,50,200,200,300</font><hr style="border: solid, 0.5px, red;"><button style="border: double, red, 4px; color: red; background-color: black; border-radius: 10px; font-face: serif ; font-size: 12px;" name="send" value="/wheel spin">Spin The Wheel! </button></div>
+21:17:12 |raw|<b><font color="blue">KatheyIsme123 is hosting the wheel.</font></b>
+21:17:14 |c|#Bandi|u can add multipliers
+21:17:16 |c|#Bandi|like where the win amount
+21:17:17 |raw|<b><font color="blue">purpledragon24 has spun the wheel.</font></b>
+21:17:17 |raw|<div style="padding: 5px; background-color: black; color: red; border: solid, 1px, red; font-size: 15px;">The wheel has landed on: <em><strong>-50</strong></em><br>Positive Numbers = Spinner win<br /> Negative Numbers = Host win</div>
+21:17:19 |c|#Bandi|will be multiplied
+21:17:19 |c|+KatheyIsme123|:] 
+21:17:20 |c|+purpledragon24|D:
+21:17:20 |c|#Bandi|by one
+21:17:21 |c|&Alliance Darkrai|Not enough bucks
+21:17:22 |c|&Alliance Darkrai|tf
+21:17:23 |c|+purpledragon24|D:
+21:17:25 |c|#Bandi|more than one
+21:17:32 |c|#Bandi|darkrai
+21:17:38 |c|#Bandi|u need 400
+21:17:38 |L|+purpledragon24
+21:17:40 |c|#Bandi|to be able to join
+21:17:40 |J|+purpledragon24
+21:17:41 |c|&Alliance Darkrai|kathey dice me
+21:17:41 |c|#Bandi|do lower ones
+21:17:45 |c|+KatheyIsme123|ok
+21:17:47 |raw|<div class='infobox'><h2><center><font color=#24678d>KatheyIsme123 has started a dice game for </font><font color=red>9</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+21:17:48 |raw|<b>KatheyIsme123 has joined the dice game.</b>
+21:17:50 |raw|<b>Alliance Darkrai has joined the dice game.</b>
+21:17:50 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>katheyisme123 has rolled a 6.<br>alliancedarkrai has rolled a 4.<br><font color=#24678d><b>katheyisme123</b></font> has won <font color=#24678d><b>9</b></font> Shekels.<br>Better luck next time alliancedarkrai!</div>
+21:17:52 |raw|<div class='infobox'><h2><center><font color=#24678d>KatheyIsme123 has started a dice game for </font><font color=red>18</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+21:17:53 |raw|<b>KatheyIsme123 has joined the dice game.</b>
+21:17:53 |raw|<b>Alliance Darkrai has joined the dice game.</b>
+21:17:53 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>katheyisme123 has rolled a 6.<br>alliancedarkrai has rolled a 4.<br><font color=#24678d><b>katheyisme123</b></font> has won <font color=#24678d><b>18</b></font> Shekels.<br>Better luck next time alliancedarkrai!</div>
+21:17:57 |raw|<div class='infobox'><h2><center><font color=#24678d>KatheyIsme123 has started a dice game for </font><font color=red>25</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+21:17:59 |raw|<b>Alliance Darkrai has joined the dice game.</b>
+21:18:00 |raw|<b>KatheyIsme123 has joined the dice game.</b>
+21:18:00 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>alliancedarkrai has rolled a 2.<br>katheyisme123 has rolled a 6.<br><font color=#24678d><b>katheyisme123</b></font> has won <font color=#24678d><b>25</b></font> Shekels.<br>Better luck next time alliancedarkrai!</div>
+21:18:04 |raw|<div class='infobox'><h2><center><font color=#24678d>KatheyIsme123 has started a dice game for </font><font color=red>25</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+21:18:05 |raw|<b>KatheyIsme123 has joined the dice game.</b>
+21:18:06 |raw|<b>Alliance Darkrai has joined the dice game.</b>
+21:18:06 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>katheyisme123 has rolled a 3.<br>alliancedarkrai has rolled a 4.<br><font color=#24678d><b>alliancedarkrai</b></font> has won <font color=#24678d><b>25</b></font> Shekels.<br>Better luck next time katheyisme123!</div>
+21:18:10 |raw|<div class='infobox'><h2><center><font color=#24678d>KatheyIsme123 has started a dice game for </font><font color=red>16</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+21:18:11 |raw|<b>Alliance Darkrai has joined the dice game.</b>
+21:18:13 |raw|<b>KatheyIsme123 has joined the dice game.</b>
+21:18:13 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>alliancedarkrai has rolled a 2.<br>katheyisme123 has rolled a 3.<br><font color=#24678d><b>katheyisme123</b></font> has won <font color=#24678d><b>16</b></font> Shekels.<br>Better luck next time alliancedarkrai!</div>
+21:18:17 |raw|<div class='infobox'><h2><center><font color=#24678d>KatheyIsme123 has started a dice game for </font><font color=red>32</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+21:18:17 |J| Mighty Sciz
+21:18:18 |raw|<b>Alliance Darkrai has joined the dice game.</b>
+21:18:21 |userstats|total:5|guests:0| :1|+:2|%:0|@:0|★:0|-:0|&:1|#:1|♥:0|~:0
+21:18:22 |raw|<b>KatheyIsme123 has joined the dice game.</b>
+21:18:22 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>alliancedarkrai has rolled a 5.<br>katheyisme123 has rolled a 5.<br>Tie... rolling again.<br>alliancedarkrai has rolled a 2.<br>katheyisme123 has rolled a 1.<br><font color=#24678d><b>alliancedarkrai</b></font> has won <font color=#24678d><b>32</b></font> Shekels.<br>Better luck next time katheyisme123!</div>
+21:18:23 |c|&Alliance Darkrai|bang
+21:18:27 |raw|<div class='infobox'><h2><center><font color=#24678d>KatheyIsme123 has started a dice game for </font><font color=red>20</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+21:18:28 |raw|<b>KatheyIsme123 has joined the dice game.</b>
+21:18:29 |raw|<b>Alliance Darkrai has joined the dice game.</b>
+21:18:29 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>katheyisme123 has rolled a 1.<br>alliancedarkrai has rolled a 6.<br><font color=#24678d><b>alliancedarkrai</b></font> has won <font color=#24678d><b>20</b></font> Shekels.<br>Better luck next time katheyisme123!</div>
+21:18:31 |c|&Alliance Darkrai|bang
+21:18:35 |c|+KatheyIsme123|Lol
+21:18:38 |raw|<div class='infobox'><h2><center><font color=#24678d>KatheyIsme123 has started a dice game for </font><font color=red>25</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+21:18:40 |raw|<b>Alliance Darkrai has joined the dice game.</b>
+21:18:44 |L| Mighty Sciz
+21:18:46 |raw|<b>KatheyIsme123 has joined the dice game.</b>
+21:18:46 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>alliancedarkrai has rolled a 1.<br>katheyisme123 has rolled a 5.<br><font color=#24678d><b>katheyisme123</b></font> has won <font color=#24678d><b>25</b></font> Shekels.<br>Better luck next time alliancedarkrai!</div>
+21:18:50 |raw|<div class='infobox'><h2><center><font color=#24678d>KatheyIsme123 has started a dice game for </font><font color=red>25</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+21:18:51 |raw|<b>Alliance Darkrai has joined the dice game.</b>
+21:19:00 |raw|<b>KatheyIsme123 has joined the dice game.</b>
+21:19:00 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>alliancedarkrai has rolled a 4.<br>katheyisme123 has rolled a 6.<br><font color=#24678d><b>katheyisme123</b></font> has won <font color=#24678d><b>25</b></font> Shekels.<br>Better luck next time alliancedarkrai!</div>
+21:19:05 |raw|<div class='infobox'><h2><center><font color=#24678d>KatheyIsme123 has started a dice game for </font><font color=red>25</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+21:19:06 |raw|<b>Alliance Darkrai has joined the dice game.</b>
+21:19:09 |raw|<b>KatheyIsme123 has joined the dice game.</b>
+21:19:09 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>alliancedarkrai has rolled a 5.<br>katheyisme123 has rolled a 6.<br><font color=#24678d><b>katheyisme123</b></font> has won <font color=#24678d><b>25</b></font> Shekels.<br>Better luck next time alliancedarkrai!</div>
+21:19:11 |c|&Alliance Darkrai|damn
+21:19:13 |raw|<div class='infobox'><h2><center><font color=#24678d>KatheyIsme123 has started a dice game for </font><font color=red>25</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+21:19:15 |raw|<b>Alliance Darkrai has joined the dice game.</b>
+21:19:16 |raw|<b>KatheyIsme123 has joined the dice game.</b>
+21:19:16 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>alliancedarkrai has rolled a 1.<br>katheyisme123 has rolled a 5.<br><font color=#24678d><b>katheyisme123</b></font> has won <font color=#24678d><b>25</b></font> Shekels.<br>Better luck next time alliancedarkrai!</div>
+21:19:21 |raw|<div class='infobox'><h2><center><font color=#24678d>KatheyIsme123 has started a dice game for </font><font color=red>25</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+21:19:22 |raw|<b>Alliance Darkrai has joined the dice game.</b>
+21:19:22 |raw|<b>KatheyIsme123 has joined the dice game.</b>
+21:19:22 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>alliancedarkrai has rolled a 6.<br>katheyisme123 has rolled a 5.<br><font color=#24678d><b>alliancedarkrai</b></font> has won <font color=#24678d><b>25</b></font> Shekels.<br>Better luck next time katheyisme123!</div>
+21:19:29 |raw|<div class='infobox'><h2><center><font color=#24678d>KatheyIsme123 has started a dice game for </font><font color=red>25</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+21:19:30 |raw|<b>Alliance Darkrai has joined the dice game.</b>
+21:19:30 |raw|<b>KatheyIsme123 has joined the dice game.</b>
+21:19:30 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>alliancedarkrai has rolled a 5.<br>katheyisme123 has rolled a 2.<br><font color=#24678d><b>alliancedarkrai</b></font> has won <font color=#24678d><b>25</b></font> Shekels.<br>Better luck next time katheyisme123!</div>
+21:19:39 |raw|<div class='infobox'><h2><center><font color=#24678d>KatheyIsme123 has started a dice game for </font><font color=red>25</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+21:19:40 |raw|<b>KatheyIsme123 has joined the dice game.</b>
+21:19:41 |raw|<b>Alliance Darkrai has joined the dice game.</b>
+21:19:41 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>katheyisme123 has rolled a 1.<br>alliancedarkrai has rolled a 1.<br>Tie... rolling again.<br>katheyisme123 has rolled a 6.<br>alliancedarkrai has rolled a 4.<br><font color=#24678d><b>katheyisme123</b></font> has won <font color=#24678d><b>25</b></font> Shekels.<br>Better luck next time alliancedarkrai!</div>
+21:19:49 |raw|<div class='infobox'><h2><center><font color=#24678d>KatheyIsme123 has started a dice game for </font><font color=red>25</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+21:19:50 |raw|<b>KatheyIsme123 has joined the dice game.</b>
+21:19:51 |raw|<b>Alliance Darkrai has joined the dice game.</b>
+21:19:51 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>katheyisme123 has rolled a 3.<br>alliancedarkrai has rolled a 1.<br><font color=#24678d><b>katheyisme123</b></font> has won <font color=#24678d><b>25</b></font> Shekels.<br>Better luck next time alliancedarkrai!</div>
+21:19:54 |raw|<div class='infobox'><h2><center><font color=#24678d>Alliance Darkrai has started a dice game for </font><font color=red>25</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+21:19:55 |raw|<b>Alliance Darkrai has joined the dice game.</b>
+21:19:57 |raw|<b>KatheyIsme123 has joined the dice game.</b>
+21:19:57 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>alliancedarkrai has rolled a 4.<br>katheyisme123 has rolled a 4.<br>Tie... rolling again.<br>alliancedarkrai has rolled a 3.<br>katheyisme123 has rolled a 6.<br><font color=#24678d><b>katheyisme123</b></font> has won <font color=#24678d><b>25</b></font> Shekels.<br>Better luck next time alliancedarkrai!</div>
+21:19:58 |raw|<div class='infobox'><h2><center><font color=#24678d>Alliance Darkrai has started a dice game for </font><font color=red>25</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+21:19:59 |raw|<b>Alliance Darkrai has joined the dice game.</b>
+21:19:59 |raw|<b>KatheyIsme123 has joined the dice game.</b>
+21:19:59 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>alliancedarkrai has rolled a 1.<br>katheyisme123 has rolled a 1.<br>Tie... rolling again.<br>alliancedarkrai has rolled a 5.<br>katheyisme123 has rolled a 4.<br><font color=#24678d><b>alliancedarkrai</b></font> has won <font color=#24678d><b>25</b></font> Shekels.<br>Better luck next time katheyisme123!</div>
+21:20:00 |raw|<div class='infobox'><h2><center><font color=#24678d>Alliance Darkrai has started a dice game for </font><font color=red>25</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+21:20:01 |raw|<b>Alliance Darkrai has joined the dice game.</b>
+21:20:01 |raw|<b>KatheyIsme123 has joined the dice game.</b>
+21:20:01 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>alliancedarkrai has rolled a 1.<br>katheyisme123 has rolled a 2.<br><font color=#24678d><b>katheyisme123</b></font> has won <font color=#24678d><b>25</b></font> Shekels.<br>Better luck next time alliancedarkrai!</div>
+21:20:03 |raw|<div class='infobox'><h2><center><font color=#24678d>Alliance Darkrai has started a dice game for </font><font color=red>25</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+21:20:03 |raw|<b>KatheyIsme123 has joined the dice game.</b>
+21:20:04 |raw|<b>Alliance Darkrai has joined the dice game.</b>
+21:20:04 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>katheyisme123 has rolled a 3.<br>alliancedarkrai has rolled a 2.<br><font color=#24678d><b>katheyisme123</b></font> has won <font color=#24678d><b>25</b></font> Shekels.<br>Better luck next time alliancedarkrai!</div>
+21:20:06 |raw|<div class='infobox'><h2><center><font color=#24678d>Alliance Darkrai has started a dice game for </font><font color=red>25</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+21:20:06 |raw|<b>Alliance Darkrai has joined the dice game.</b>
+21:20:09 |raw|<b>KatheyIsme123 has joined the dice game.</b>
+21:20:09 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>alliancedarkrai has rolled a 3.<br>katheyisme123 has rolled a 4.<br><font color=#24678d><b>katheyisme123</b></font> has won <font color=#24678d><b>25</b></font> Shekels.<br>Better luck next time alliancedarkrai!</div>
+21:20:12 |c|&Alliance Darkrai|damn
+21:20:15 |raw|<div class='infobox'><h2><center><font color=#24678d>purpledragon24 has started a dice game for </font><font color=red>25</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+21:20:16 |raw|<b>purpledragon24 has joined the dice game.</b>
+21:20:17 |raw|<b>Alliance Darkrai has joined the dice game.</b>
+21:20:17 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>purpledragon24 has rolled a 6.<br>alliancedarkrai has rolled a 5.<br><font color=#24678d><b>purpledragon24</b></font> has won <font color=#24678d><b>25</b></font> Shekels.<br>Better luck next time alliancedarkrai!</div>
+21:20:18 |raw|<div class='infobox'><h2><center><font color=#24678d>Alliance Darkrai has started a dice game for </font><font color=red>100</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+21:20:19 |raw|<b>Alliance Darkrai has joined the dice game.</b>
+21:20:19 |c|+purpledragon24|:D
+21:20:20 |raw|<b>KatheyIsme123 has joined the dice game.</b>
+21:20:20 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>alliancedarkrai has rolled a 2.<br>katheyisme123 has rolled a 3.<br><font color=#24678d><b>katheyisme123</b></font> has won <font color=#24678d><b>100</b></font> Shekels.<br>Better luck next time alliancedarkrai!</div>
+21:20:22 |c|+purpledragon24|D:
+21:20:25 |c|+purpledragon24|poor guy
+21:20:26 |raw|<div class='infobox'><h2><center><font color=#24678d>Alliance Darkrai has started a dice game for </font><font color=red>40</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+21:20:27 |raw|<b>Alliance Darkrai has joined the dice game.</b>
+21:20:28 |raw|<b>purpledragon24 has joined the dice game.</b>
+21:20:28 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>alliancedarkrai has rolled a 5.<br>purpledragon24 has rolled a 2.<br><font color=#24678d><b>alliancedarkrai</b></font> has won <font color=#24678d><b>40</b></font> Shekels.<br>Better luck next time purpledragon24!</div>
+21:20:30 |c|+purpledragon24|there
+21:20:30 |raw|<div class='infobox'><h2><center><font color=#24678d>Alliance Darkrai has started a dice game for </font><font color=red>40</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+21:20:31 |raw|<b>Alliance Darkrai has joined the dice game.</b>
+21:20:32 |raw|<b>purpledragon24 has joined the dice game.</b>
+21:20:32 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>alliancedarkrai has rolled a 5.<br>purpledragon24 has rolled a 3.<br><font color=#24678d><b>alliancedarkrai</b></font> has won <font color=#24678d><b>40</b></font> Shekels.<br>Better luck next time purpledragon24!</div>
+21:20:34 |c|+KatheyIsme123|I'm too good for that 
+21:20:34 |raw|<div class='infobox'><h2><center><font color=#24678d>Alliance Darkrai has started a dice game for </font><font color=red>40</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+21:20:34 |c|+purpledragon24|D:
+21:20:35 |J| Crystal gray
+21:20:36 |raw|<b>Alliance Darkrai has joined the dice game.</b>
+21:20:36 |raw|<b>purpledragon24 has joined the dice game.</b>
+21:20:36 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>alliancedarkrai has rolled a 4.<br>purpledragon24 has rolled a 6.<br><font color=#24678d><b>purpledragon24</b></font> has won <font color=#24678d><b>40</b></font> Shekels.<br>Better luck next time alliancedarkrai!</div>
+21:20:38 |c|+purpledragon24|:D
+21:20:38 |raw|<div class='infobox'><h2><center><font color=#24678d>Alliance Darkrai has started a dice game for </font><font color=red>40</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+21:20:39 |raw|<b>Alliance Darkrai has joined the dice game.</b>
+21:20:43 |raw|<b>purpledragon24 has joined the dice game.</b>
+21:20:43 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>alliancedarkrai has rolled a 1.<br>purpledragon24 has rolled a 2.<br><font color=#24678d><b>purpledragon24</b></font> has won <font color=#24678d><b>40</b></font> Shekels.<br>Better luck next time alliancedarkrai!</div>
+21:20:47 |c|+KatheyIsme123|lol
+21:20:47 |raw|<div class='infobox'><h2><center><font color=#24678d>Alliance Darkrai has started a dice game for </font><font color=red>40</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+21:20:48 |raw|<b>Alliance Darkrai has joined the dice game.</b>
+21:20:52 |raw|<b>purpledragon24 has joined the dice game.</b>
+21:20:52 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>alliancedarkrai has rolled a 1.<br>purpledragon24 has rolled a 6.<br><font color=#24678d><b>purpledragon24</b></font> has won <font color=#24678d><b>40</b></font> Shekels.<br>Better luck next time alliancedarkrai!</div>
+21:20:54 |c|+KatheyIsme123|GG 
+21:20:54 |c|+purpledragon24|:/
+21:20:55 |c|&Alliance Darkrai|gone
+21:20:55 |c|+KatheyIsme123|:I
+21:21:00 |c|&Alliance Darkrai|gg
+21:21:01 |c|+purpledragon24|lol
+21:21:04 |c|+purpledragon24|want it bak
+21:21:10 |c|+KatheyIsme123|lol
+21:21:11 |c|&Alliance Darkrai|sure
+21:21:12 |raw|<div class='chat'><small>&</small><button name='parseCommand' value='/user Alliance Darkrai' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#2468B1'>Alliance Darkrai:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsgd.png" title="feelsgd" width="50" height="50" /></em></div>
+21:21:16 |c|+purpledragon24|:^)
+21:21:28 |c|+purpledragon24|~~if you change to Alliance Dankrai you can have it back~~
+21:21:35 |c|&Alliance Darkrai|ok
+21:21:36 |c|+KatheyIsme123|:I
+21:21:40 |c|+purpledragon24|:/
+21:21:43 |c|+KatheyIsme123|lol
+21:21:45 |N| Alliance Dankrai|alliancedarkrai
+21:21:46 |c|+purpledragon24|i gave some anyway
+21:21:48 |c|+purpledragon24|...
+21:21:49 |c| Alliance Dankrai|:)
+21:21:49 |c|+purpledragon24|HE DID I
+21:21:53 |c|+purpledragon24|HE DID IT
+21:21:59 |N|&AllianceDarkrai|alliancedankrai
+21:22:00 |c|+KatheyIsme123|Dankrai
+21:22:02 |raw|<div class='chat'><small>&</small><button name='parseCommand' value='/user AllianceDarkrai' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#2468B1'>AllianceDarkrai:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsnv.png" title="feelsnv" width="50" height="50" /></em></div>
+21:22:02 |c|+KatheyIsme123|:O
+21:22:42 |c|+KatheyIsme123|Mami needs to hug you all 
+21:22:44 |c|+KatheyIsme123|:I
+21:23:35 |c|&AllianceDarkrai|ok
+21:23:46 |c|+KatheyIsme123|:P
+21:24:38 |L| Crystal gray
+21:26:07 |c|+KatheyIsme123|PurpleDragon24
+21:26:14 |c|+purpledragon24|wat
+21:26:32 |L|&AllianceDarkrai
+21:26:37 |c|+KatheyIsme123|!wheel list
+21:26:37 |raw|<div class="infobox"><center>Wheels of Misfortune :]</center><hr />Wheel of Scrubs: -5,-4,-3,-2,-2,-1,-1,-1,-1,+1,+1,+3,+3,+3,+5<br />Wheel of Balance: -30,-20,-10,-5,-5,-5,-2,-1,+3,+15,+30,+30<br />Wheel of Diversity: -50,-20,-10,-15,-4,-2,-1,+20,+30,+40<br />Wheel of Wealth: -200,-100,-100,-50,-50,-25,-25,+50,+50,+50,+300<br /></div>
+21:26:53 The wheel game was ended by katheyisme123.
+21:27:00 |raw|<div style=" padding: 5px, 0px; background-color: black; border: red, solid 1px; background-size: 100%; color: red; font-size: 12px; text-align: center;">The Wheel Of<br><font style="color: red;"><em><strong>DIVERSITY</strong></em></font><br>Has been started and is waiting to be spun!<hr style="border: solid, 0.5px, red">The Mulitiplier is:<em><strong><font style="color: red;"> 1</font></em></strong><hr style="border: solid, 0.5px, red"><font style="color: blue;">-40,-20,-10,-15,-4,-2,-1,2,20,30,50</font><hr style="border: solid, 0.5px, red;"><button style="border: double, red, 4px; color: red; background-color: black; border-radius: 10px; font-face: serif ; font-size: 12px;" name="send" value="/wheel spin">Spin The Wheel! </button></div>
+21:27:00 |raw|<b><font color="blue">KatheyIsme123 is hosting the wheel.</font></b>
+21:27:08 |c|+KatheyIsme123|PurpleDragon24?
+21:28:21 |userstats|total:3|guests:0| :0|+:2|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:0
+21:28:27 |raw|<b><font color="blue">purpledragon24 has spun the wheel.</font></b>
+21:28:27 |raw|<div style="padding: 5px; background-color: black; color: red; border: solid, 1px, red; font-size: 15px;">The wheel has landed on: <em><strong>30</strong></em><br>Positive Numbers = Spinner win<br /> Negative Numbers = Host win</div>
+21:28:30 |c|+purpledragon24|Im alive
+21:28:33 |c|+KatheyIsme123|Lol
+21:28:46 |raw|<div style=" padding: 5px, 0px; background-color: black; border: red, solid 1px; background-size: 100%; color: red; font-size: 12px; text-align: center;">The Wheel Of<br><font style="color: red;"><em><strong>DIVERSITY</strong></em></font><br>Has been started and is waiting to be spun!<hr style="border: solid, 0.5px, red">The Mulitiplier is:<em><strong><font style="color: red;"> 2</font></em></strong><hr style="border: solid, 0.5px, red"><font style="color: blue;">-40,-20,-10,-15,-4,-2,-1,2,20,30,50</font><hr style="border: solid, 0.5px, red;"><button style="border: double, red, 4px; color: red; background-color: black; border-radius: 10px; font-face: serif ; font-size: 12px;" name="send" value="/wheel spin">Spin The Wheel! </button></div>
+21:28:46 |raw|<b><font color="blue">KatheyIsme123 is hosting the wheel.</font></b>
+21:28:55 |L|+purpledragon24
+21:28:55 |L|#Bandi
+21:28:55 |L|+KatheyIsme123
+21:29:08 |J|+KatheyIsme123
+21:29:52 |J|+purpledragon24
+21:29:56 |raw|<b><font color="blue">purpledragon24 has spun the wheel.</font></b>
+21:29:56 |raw|<div style="padding: 5px; background-color: black; color: red; border: solid, 1px, red; font-size: 15px;">The wheel has landed on: <em><strong>20</strong></em><br>Positive Numbers = Spinner win<br /> Negative Numbers = Host win</div>
+21:30:00 |c|+purpledragon24|lol
+21:30:20 |raw|<div style=" padding: 5px, 0px; background-color: black; border: red, solid 1px; background-size: 100%; color: red; font-size: 12px; text-align: center;">The Wheel Of<br><font style="color: red;"><em><strong>DIVERSITY</strong></em></font><br>Has been started and is waiting to be spun!<hr style="border: solid, 0.5px, red">The Mulitiplier is:<em><strong><font style="color: red;"> 3</font></em></strong><hr style="border: solid, 0.5px, red"><font style="color: blue;">-40,-20,-10,-15,-4,-2,-1,2,20,30,50</font><hr style="border: solid, 0.5px, red;"><button style="border: double, red, 4px; color: red; background-color: black; border-radius: 10px; font-face: serif ; font-size: 12px;" name="send" value="/wheel spin">Spin The Wheel! </button></div>
+21:30:20 |raw|<b><font color="blue">KatheyIsme123 is hosting the wheel.</font></b>
+21:30:35 |J|&AllianceDarkrai
+21:30:45 |c|+KatheyIsme123|PurpleDragon
+21:30:50 |c|+KatheyIsme123|#JustDoIt
+21:31:08 |c|+KatheyIsme123| PurpleDragon24
+21:31:41 |raw|<b><font color="blue">purpledragon24 has spun the wheel.</font></b>
+21:31:41 |raw|<div style="padding: 5px; background-color: black; color: red; border: solid, 1px, red; font-size: 15px;">The wheel has landed on: <em><strong>-40</strong></em><br>Positive Numbers = Spinner win<br /> Negative Numbers = Host win</div>
+21:31:42 |c|+purpledragon24|:/
+21:32:23 |L|&AllianceDarkrai
+21:32:32 |N|♥purpledragon24|purpledragon24
+21:33:25 |N|♪purpledragon24|purpledragon24
+21:34:27 |J|&verizor
+21:38:21 |userstats|total:3|guests:0| :0|+:2|%:0|@:0|★:0|-:0|&:1|#:0|♥:0|~:0
+21:38:33 |J| Pen Jewel Skull
+21:38:44 |c| Pen Jewel Skull|I need voice. Do I?
+21:38:58 |c|+KatheyIsme123|Yes
+21:39:00 |c|+KatheyIsme123|Verizor
+21:39:39 |c|&verizor|hmm?
+21:40:53 |L|+KatheyIsme123
+21:40:57 |J|+KatheyIsme123
+21:41:05 |c|+KatheyIsme123|Room voice him
+21:41:06 |c|+KatheyIsme123|Verizor
+21:41:08 |J|#Bandi
+21:41:09 Pen Jewel Skull was promoted to Room Glorified Normie by verizor.
+21:41:09 |N|+Pen Jewel Skull|penjewelskull
+21:41:13 |c|+KatheyIsme123|ty
+21:41:19 |c|&verizor|k
+21:41:33 |c|#Bandi|didn't know u alrdy had 175
+21:41:43 |c|+KatheyIsme123|I give him
+21:41:44 |c|+KatheyIsme123|:s
+21:41:51 |c|#Bandi|o
+21:42:24 |raw|<div class='chat'><small>+</small><button name='parseCommand' value='/user Pen Jewel Skull' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#E23695'>Pen Jewel Skull:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsgn.png" title="feelsgn" width="50" height="50" /></em></div>
+21:42:37 |c|+Pen Jewel Skull|Kathey, want to gamble?
+21:42:41 |c|+KatheyIsme123|Sure
+21:42:45 |c|+Pen Jewel Skull|You can start
+21:42:45 |c|+KatheyIsme123|start a dice. 
+21:42:49 |c|+KatheyIsme123|xa
+21:42:49 |c|+KatheyIsme123|ok
+21:42:53 |raw|<div class='infobox'><h2><center><font color=#24678d>KatheyIsme123 has started a dice game for </font><font color=red>25</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+21:42:56 |raw|<b>KatheyIsme123 has joined the dice game.</b>
+21:42:57 |raw|<b>Pen Jewel Skull has joined the dice game.</b>
+21:42:57 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>katheyisme123 has rolled a 5.<br>penjewelskull has rolled a 5.<br>Tie... rolling again.<br>katheyisme123 has rolled a 4.<br>penjewelskull has rolled a 1.<br><font color=#24678d><b>katheyisme123</b></font> has won <font color=#24678d><b>25</b></font> Shekels.<br>Better luck next time penjewelskull!</div>
+21:43:04 |raw|<div class='infobox'><h2><center><font color=#24678d>KatheyIsme123 has started a dice game for </font><font color=red>25</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+21:43:07 |raw|<b>KatheyIsme123 has joined the dice game.</b>
+21:43:08 |raw|<b>Pen Jewel Skull has joined the dice game.</b>
+21:43:08 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>katheyisme123 has rolled a 6.<br>penjewelskull has rolled a 4.<br><font color=#24678d><b>katheyisme123</b></font> has won <font color=#24678d><b>25</b></font> Shekels.<br>Better luck next time penjewelskull!</div>
+21:43:12 |raw|<div class='infobox'><h2><center><font color=#24678d>KatheyIsme123 has started a dice game for </font><font color=red>25</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+21:43:15 |raw|<b>KatheyIsme123 has joined the dice game.</b>
+21:43:16 |raw|<b>Pen Jewel Skull has joined the dice game.</b>
+21:43:16 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>katheyisme123 has rolled a 5.<br>penjewelskull has rolled a 3.<br><font color=#24678d><b>katheyisme123</b></font> has won <font color=#24678d><b>25</b></font> Shekels.<br>Better luck next time penjewelskull!</div>
+21:43:20 |raw|<div class='infobox'><h2><center><font color=#24678d>KatheyIsme123 has started a dice game for </font><font color=red>75</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+21:43:28 |raw|<b>KatheyIsme123 has joined the dice game.</b>
+21:43:30 |raw|<b>Pen Jewel Skull has joined the dice game.</b>
+21:43:30 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>katheyisme123 has rolled a 1.<br>penjewelskull has rolled a 2.<br><font color=#24678d><b>penjewelskull</b></font> has won <font color=#24678d><b>75</b></font> Shekels.<br>Better luck next time katheyisme123!</div>
+21:43:41 |raw|<div class='infobox'><h2><center><font color=#24678d>KatheyIsme123 has started a dice game for </font><font color=red>25</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+21:43:43 |raw|<b>KatheyIsme123 has joined the dice game.</b>
+21:43:44 |raw|<b>Pen Jewel Skull has joined the dice game.</b>
+21:43:44 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>katheyisme123 has rolled a 3.<br>penjewelskull has rolled a 5.<br><font color=#24678d><b>penjewelskull</b></font> has won <font color=#24678d><b>25</b></font> Shekels.<br>Better luck next time katheyisme123!</div>
+21:43:47 |raw|<div class='infobox'><h2><center><font color=#24678d>KatheyIsme123 has started a dice game for </font><font color=red>25</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+21:43:52 |raw|<b>KatheyIsme123 has joined the dice game.</b>
+21:43:53 |raw|<b>Pen Jewel Skull has joined the dice game.</b>
+21:43:53 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>katheyisme123 has rolled a 6.<br>penjewelskull has rolled a 2.<br><font color=#24678d><b>katheyisme123</b></font> has won <font color=#24678d><b>25</b></font> Shekels.<br>Better luck next time penjewelskull!</div>
+21:44:06 |raw|<div class='infobox'><h2><center><font color=#24678d>KatheyIsme123 has started a dice game for </font><font color=red>25</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+21:44:08 |raw|<b>KatheyIsme123 has joined the dice game.</b>
+21:44:09 |raw|<b>Pen Jewel Skull has joined the dice game.</b>
+21:44:09 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>katheyisme123 has rolled a 3.<br>penjewelskull has rolled a 4.<br><font color=#24678d><b>penjewelskull</b></font> has won <font color=#24678d><b>25</b></font> Shekels.<br>Better luck next time katheyisme123!</div>
+21:44:20 |raw|<div class='infobox'><h2><center><font color=#24678d>purpledragon24 has started a dice game for </font><font color=red>10</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+21:44:21 |raw|<b>purpledragon24 has joined the dice game.</b>
+21:44:23 |raw|<b>Pen Jewel Skull has joined the dice game.</b>
+21:44:23 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>purpledragon24 has rolled a 2.<br>penjewelskull has rolled a 5.<br><font color=#24678d><b>penjewelskull</b></font> has won <font color=#24678d><b>10</b></font> Shekels.<br>Better luck next time purpledragon24!</div>
+21:44:29 |J|&AllianceDarkrai
+21:44:33 |c|+KatheyIsme123| It's hard for me to make a dice
+21:44:34 |c|+KatheyIsme123|._.
+21:44:38 |raw|<div class='infobox'><h2><center><font color=#24678d>KatheyIsme123 has started a dice game for </font><font color=red>25</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+21:44:40 |raw|<b>KatheyIsme123 has joined the dice game.</b>
+21:44:41 |raw|<b>AllianceDarkrai has joined the dice game.</b>
+21:44:41 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>katheyisme123 has rolled a 5.<br>alliancedarkrai has rolled a 3.<br><font color=#24678d><b>katheyisme123</b></font> has won <font color=#24678d><b>25</b></font> Shekels.<br>Better luck next time alliancedarkrai!</div>
+21:44:45 |c|&AllianceDarkrai|sniped
+21:44:54 |c|+KatheyIsme123|Lol
+21:45:06 |raw|<div class='infobox'><h2><center><font color=#24678d>KatheyIsme123 has started a dice game for </font><font color=red>50</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+21:45:11 |raw|<b>KatheyIsme123 has joined the dice game.</b>
+21:45:12 |raw|<b>Pen Jewel Skull has joined the dice game.</b>
+21:45:12 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>katheyisme123 has rolled a 1.<br>penjewelskull has rolled a 5.<br><font color=#24678d><b>penjewelskull</b></font> has won <font color=#24678d><b>50</b></font> Shekels.<br>Better luck next time katheyisme123!</div>
+21:45:21 |raw|<div class='infobox'><h2><center><font color=#24678d>KatheyIsme123 has started a dice game for </font><font color=red>100</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+21:45:27 |raw|<b>KatheyIsme123 has joined the dice game.</b>
+21:45:33 |raw|<div class='chat'><small>+</small><button name='parseCommand' value='/user Pen Jewel Skull' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#E23695'>Pen Jewel Skull:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsgn.png" title="feelsgn" width="50" height="50" /></em></div>
+21:46:04 |c|+KatheyIsme123|Lol
+21:46:06 |raw|<b>KatheyIsme123 ended the dice game.</b>
+21:46:10 |raw|<div class='infobox'><h2><center><font color=#24678d>KatheyIsme123 has started a dice game for </font><font color=red>50</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+21:46:11 |raw|<b>KatheyIsme123 has joined the dice game.</b>
+21:46:13 |raw|<b>Pen Jewel Skull has joined the dice game.</b>
+21:46:13 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>katheyisme123 has rolled a 5.<br>penjewelskull has rolled a 6.<br><font color=#24678d><b>penjewelskull</b></font> has won <font color=#24678d><b>50</b></font> Shekels.<br>Better luck next time katheyisme123!</div>
+21:46:34 |raw|<div class='infobox'><h2><center><font color=#24678d>KatheyIsme123 has started a dice game for </font><font color=red>50</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+21:46:35 |raw|<b>KatheyIsme123 has joined the dice game.</b>
+21:46:49 |raw|<b>Pen Jewel Skull has joined the dice game.</b>
+21:46:49 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>katheyisme123 has rolled a 3.<br>penjewelskull has rolled a 6.<br><font color=#24678d><b>penjewelskull</b></font> has won <font color=#24678d><b>50</b></font> Shekels.<br>Better luck next time katheyisme123!</div>
+21:47:06 |raw|<div class='infobox'><h2><center><font color=#24678d>KatheyIsme123 has started a dice game for </font><font color=red>100</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+21:47:17 |raw|<b>Pen Jewel Skull has joined the dice game.</b>
+21:47:28 |raw|<b>KatheyIsme123 has joined the dice game.</b>
+21:47:28 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>penjewelskull has rolled a 1.<br>katheyisme123 has rolled a 4.<br><font color=#24678d><b>katheyisme123</b></font> has won <font color=#24678d><b>100</b></font> Shekels.<br>Better luck next time penjewelskull!</div>
+21:47:53 |raw|<div class='infobox'><h2><center><font color=#24678d>KatheyIsme123 has started a dice game for </font><font color=red>75</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+21:47:57 |raw|<b>KatheyIsme123 has joined the dice game.</b>
+21:47:58 |raw|<b>Pen Jewel Skull has joined the dice game.</b>
+21:47:58 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>katheyisme123 has rolled a 4.<br>penjewelskull has rolled a 6.<br><font color=#24678d><b>penjewelskull</b></font> has won <font color=#24678d><b>75</b></font> Shekels.<br>Better luck next time katheyisme123!</div>
+21:48:01 |raw|<div class='infobox'><h2><center><font color=#24678d>AllianceDarkrai has started a dice game for </font><font color=red>5</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+21:48:02 |raw|<b>AllianceDarkrai has joined the dice game.</b>
+21:48:21 |userstats|total:6|guests:0| :0|+:3|%:0|@:0|★:0|-:0|&:2|#:1|♥:0|~:0
+21:48:30 |c|+Pen Jewel Skull|Kathey, you got this
+21:48:30 |raw|<b>KatheyIsme123 has joined the dice game.</b>
+21:48:30 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>alliancedarkrai has rolled a 4.<br>katheyisme123 has rolled a 6.<br><font color=#24678d><b>katheyisme123</b></font> has won <font color=#24678d><b>5</b></font> Shekels.<br>Better luck next time alliancedarkrai!</div>
+21:48:32 |raw|<div class='infobox'><h2><center><font color=#24678d>AllianceDarkrai has started a dice game for </font><font color=red>10</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+21:48:34 |raw|<b>AllianceDarkrai has joined the dice game.</b>
+21:48:37 |raw|<b>Pen Jewel Skull has joined the dice game.</b>
+21:48:37 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>alliancedarkrai has rolled a 4.<br>penjewelskull has rolled a 5.<br><font color=#24678d><b>penjewelskull</b></font> has won <font color=#24678d><b>10</b></font> Shekels.<br>Better luck next time alliancedarkrai!</div>
+21:48:42 |raw|<div class='infobox'><h2><center><font color=#24678d>KatheyIsme123 has started a dice game for </font><font color=red>50</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+21:48:42 |c|&AllianceDarkrai|gg
+21:48:45 |raw|<b>KatheyIsme123 has joined the dice game.</b>
+21:48:46 |raw|<b>Pen Jewel Skull has joined the dice game.</b>
+21:48:46 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>katheyisme123 has rolled a 4.<br>penjewelskull has rolled a 2.<br><font color=#24678d><b>katheyisme123</b></font> has won <font color=#24678d><b>50</b></font> Shekels.<br>Better luck next time penjewelskull!</div>
+21:48:57 |raw|<div class='infobox'><h2><center><font color=#24678d>KatheyIsme123 has started a dice game for </font><font color=red>70</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+21:48:59 |raw|<b>KatheyIsme123 has joined the dice game.</b>
+21:49:00 |raw|<b>Pen Jewel Skull has joined the dice game.</b>
+21:49:00 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>katheyisme123 has rolled a 5.<br>penjewelskull has rolled a 3.<br><font color=#24678d><b>katheyisme123</b></font> has won <font color=#24678d><b>70</b></font> Shekels.<br>Better luck next time penjewelskull!</div>
+21:49:09 |c|+Pen Jewel Skull|Maybe Kathey should dice all my bucks
+21:49:21 |c|+KatheyIsme123|Ok
+21:49:25 |raw|<div class='infobox'><h2><center><font color=#24678d>KatheyIsme123 has started a dice game for </font><font color=red>245</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+21:49:28 |raw|<b>KatheyIsme123 has joined the dice game.</b>
+21:49:29 |raw|<b>Pen Jewel Skull has joined the dice game.</b>
+21:49:29 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>katheyisme123 has rolled a 1.<br>penjewelskull has rolled a 5.<br><font color=#24678d><b>penjewelskull</b></font> has won <font color=#24678d><b>245</b></font> Shekels.<br>Better luck next time katheyisme123!</div>
+21:49:34 |L|&AllianceDarkrai
+21:49:35 |c|+Pen Jewel Skull|I knew it
+21:49:35 |c|+KatheyIsme123|@9@
+21:49:39 |raw|<div class='infobox'><h2><center><font color=#24678d>KatheyIsme123 has started a dice game for </font><font color=red>190</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+21:49:45 |raw|<b>KatheyIsme123 has joined the dice game.</b>
+21:49:51 |raw|<div class='chat'><small>+</small><button name='parseCommand' value='/user Pen Jewel Skull' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#E23695'>Pen Jewel Skull:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsgn.png" title="feelsgn" width="50" height="50" /></em></div>
+21:50:05 |raw|<b>Pen Jewel Skull has joined the dice game.</b>
+21:50:05 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>katheyisme123 has rolled a 3.<br>penjewelskull has rolled a 6.<br><font color=#24678d><b>penjewelskull</b></font> has won <font color=#24678d><b>190</b></font> Shekels.<br>Better luck next time katheyisme123!</div>
+21:50:08 |c|+KatheyIsme123|Lol
+21:50:13 |raw|<div class='infobox'><h2><center><font color=#24678d>KatheyIsme123 has started a dice game for </font><font color=red>65</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+21:50:15 |raw|<b>KatheyIsme123 has joined the dice game.</b>
+21:50:17 |raw|<b>Pen Jewel Skull has joined the dice game.</b>
+21:50:17 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>katheyisme123 has rolled a 1.<br>penjewelskull has rolled a 5.<br><font color=#24678d><b>penjewelskull</b></font> has won <font color=#24678d><b>65</b></font> Shekels.<br>Better luck next time katheyisme123!</div>
+21:50:38 |raw|<div class='infobox'><h2><center><font color=#24678d>KatheyIsme123 has started a dice game for </font><font color=red>145</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+21:50:46 |raw|<b>KatheyIsme123 has joined the dice game.</b>
+21:50:58 |raw|<div class='chat'><small>+</small><button name='parseCommand' value='/user Pen Jewel Skull' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#E23695'>Pen Jewel Skull:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelscr.png" title="feelscr" width="50" height="50" /> No</em></div>
+21:51:01 |c|+KatheyIsme123|Wynaut
+21:51:03 |c|+KatheyIsme123|:I
+21:51:05 |raw|<div class='chat'><small>♪</small><button name='parseCommand' value='/user purpledragon24' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#A83BD6'>purpledragon24:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsrg.png" title="feelsrg" width="50" height="50" /></em></div>
+21:51:16 |raw|<b>KatheyIsme123 ended the dice game.</b>
+21:51:19 |raw|<div class='infobox'><h2><center><font color=#24678d>KatheyIsme123 has started a dice game for </font><font color=red>100</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+21:51:20 |raw|<b>KatheyIsme123 has joined the dice game.</b>
+21:51:32 |raw|<b>Pen Jewel Skull has joined the dice game.</b>
+21:51:32 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>katheyisme123 has rolled a 1.<br>penjewelskull has rolled a 2.<br><font color=#24678d><b>penjewelskull</b></font> has won <font color=#24678d><b>100</b></font> Shekels.<br>Better luck next time katheyisme123!</div>
+21:51:41 |raw|<div class='infobox'><h2><center><font color=#24678d>KatheyIsme123 has started a dice game for </font><font color=red>250</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+21:51:57 |raw|<b>KatheyIsme123 has joined the dice game.</b>
+21:52:15 |raw|<b>KatheyIsme123 ended the dice game.</b>
+21:52:18 |raw|<div class='infobox'><h2><center><font color=#24678d>KatheyIsme123 has started a dice game for </font><font color=red>100</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+21:52:22 |raw|<b>KatheyIsme123 has joined the dice game.</b>
+21:52:38 |raw|<b>Pen Jewel Skull has joined the dice game.</b>
+21:52:38 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>katheyisme123 has rolled a 4.<br>penjewelskull has rolled a 6.<br><font color=#24678d><b>penjewelskull</b></font> has won <font color=#24678d><b>100</b></font> Shekels.<br>Better luck next time katheyisme123!</div>
+21:53:20 |c|+Pen Jewel Skull|Who the hell is theshankskank
+21:53:33 |raw|<div class='infobox'><h2><center><font color=#24678d>KatheyIsme123 has started a dice game for </font><font color=red>150</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+21:53:35 |raw|<b>KatheyIsme123 has joined the dice game.</b>
+21:53:38 |raw|<b>Pen Jewel Skull has joined the dice game.</b>
+21:53:38 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>katheyisme123 has rolled a 1.<br>penjewelskull has rolled a 3.<br><font color=#24678d><b>penjewelskull</b></font> has won <font color=#24678d><b>150</b></font> Shekels.<br>Better luck next time katheyisme123!</div>
+21:53:43 |c|+Pen Jewel Skull|Doesn't is kind of destroy the point of the richestusers list?
+21:54:03 |c|&verizor|not really
+21:54:05 |c|♪purpledragon24|There is no point
+21:54:05 |raw|<div class='infobox'><h2><center><font color=#24678d>KatheyIsme123 has started a dice game for </font><font color=red>150</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+21:54:06 |c|♪purpledragon24|to that
+21:54:07 |raw|<b>KatheyIsme123 has joined the dice game.</b>
+21:54:08 |raw|<b>Pen Jewel Skull has joined the dice game.</b>
+21:54:08 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>katheyisme123 has rolled a 4.<br>penjewelskull has rolled a 5.<br><font color=#24678d><b>penjewelskull</b></font> has won <font color=#24678d><b>150</b></font> Shekels.<br>Better luck next time katheyisme123!</div>
+21:54:43 |raw|<div class='infobox'><h2><center><font color=#24678d>KatheyIsme123 has started a dice game for </font><font color=red>100</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+21:54:45 |raw|<b>KatheyIsme123 has joined the dice game.</b>
+21:54:59 |raw|<b>Pen Jewel Skull has joined the dice game.</b>
+21:54:59 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>katheyisme123 has rolled a 5.<br>penjewelskull has rolled a 3.<br><font color=#24678d><b>katheyisme123</b></font> has won <font color=#24678d><b>100</b></font> Shekels.<br>Better luck next time penjewelskull!</div>
+21:55:23 |raw|<div class='infobox'><h2><center><font color=#24678d>KatheyIsme123 has started a dice game for </font><font color=red>15</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+21:55:25 |raw|<b>KatheyIsme123 ended the dice game.</b>
+21:55:30 |raw|<div class='infobox'><h2><center><font color=#24678d>KatheyIsme123 has started a dice game for </font><font color=red>150</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+21:55:39 |raw|<b>KatheyIsme123 has joined the dice game.</b>
+21:55:43 |raw|<b>Pen Jewel Skull has joined the dice game.</b>
+21:55:43 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>katheyisme123 has rolled a 6.<br>penjewelskull has rolled a 3.<br><font color=#24678d><b>katheyisme123</b></font> has won <font color=#24678d><b>150</b></font> Shekels.<br>Better luck next time penjewelskull!</div>
+21:55:51 |c|+Pen Jewel Skull|Go all in
+21:55:59 |raw|<div class='infobox'><h2><center><font color=#24678d>KatheyIsme123 has started a dice game for </font><font color=red>500</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+21:56:12 |raw|<b>KatheyIsme123 has joined the dice game.</b>
+21:56:14 |raw|<b>Pen Jewel Skull has joined the dice game.</b>
+21:56:14 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>katheyisme123 has rolled a 4.<br>penjewelskull has rolled a 5.<br><font color=#24678d><b>penjewelskull</b></font> has won <font color=#24678d><b>500</b></font> Shekels.<br>Better luck next time katheyisme123!</div>
+21:56:17 |c|+KatheyIsme123|Lol
+21:56:21 |raw|<div class='infobox'><h2><center><font color=#24678d>KatheyIsme123 has started a dice game for </font><font color=red>250</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+21:56:23 |raw|<b>KatheyIsme123 has joined the dice game.</b>
+21:56:25 |raw|<b>Pen Jewel Skull has joined the dice game.</b>
+21:56:25 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>katheyisme123 has rolled a 1.<br>penjewelskull has rolled a 6.<br><font color=#24678d><b>penjewelskull</b></font> has won <font color=#24678d><b>250</b></font> Shekels.<br>Better luck next time katheyisme123!</div>
+21:56:28 |c|+Pen Jewel Skull|gg
+21:58:21 |userstats|total:5|guests:0| :0|+:3|%:0|@:0|★:0|-:0|&:1|#:1|♥:0|~:0
+21:59:43 |c|♪purpledragon24|lol
+22:04:35 |J| Boytears
+22:05:40 |J|&TheShankSkank
+22:05:42 |J|%hitorihanza
+22:05:52 |L|%hitorihanza
+22:06:17 |raw|<div class='infobox'><h2><center><font color=#24678d>KatheyIsme123 has started a dice game for </font><font color=red>5</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+22:06:18 |J|+Audinory
+22:06:19 |raw|<b>KatheyIsme123 has joined the dice game.</b>
+22:06:27 Boytears was promoted to Room Glorified Normie by Audinory.
+22:06:27 |N|+Boytears|boytears
+22:06:39 |c|+Boytears|nb
+22:06:42 |raw|<b>Boytears has joined the dice game.</b>
+22:06:42 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>katheyisme123 has rolled a 5.<br>boytears has rolled a 5.<br>Tie... rolling again.<br>katheyisme123 has rolled a 5.<br>boytears has rolled a 2.<br><font color=#24678d><b>katheyisme123</b></font> has won <font color=#24678d><b>5</b></font> Shekels.<br>Better luck next time boytears!</div>
+22:06:47 |raw|<div class='infobox'><h2><center><font color=#24678d>Boytears has started a dice game for </font><font color=red>10</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+22:06:48 |raw|<b>Boytears has joined the dice game.</b>
+22:06:58 |raw|<b>KatheyIsme123 has joined the dice game.</b>
+22:06:58 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>boytears has rolled a 5.<br>katheyisme123 has rolled a 1.<br><font color=#24678d><b>boytears</b></font> has won <font color=#24678d><b>10</b></font> Shekels.<br>Better luck next time katheyisme123!</div>
+22:07:05 |raw|<div class='infobox'><h2><center><font color=#24678d>Boytears has started a dice game for </font><font color=red>10</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+22:07:06 |raw|<b>Boytears has joined the dice game.</b>
+22:07:16 |raw|<b>TheShankSkank has joined the dice game.</b>
+22:07:16 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>boytears has rolled a 6.<br>theshankskank has rolled a 6.<br>Tie... rolling again.<br>boytears has rolled a 6.<br>theshankskank has rolled a 4.<br><font color=#24678d><b>boytears</b></font> has won <font color=#24678d><b>10</b></font> Shekels.<br>Better luck next time theshankskank!</div>
+22:07:18 |raw|<div class='infobox'><h2><center><font color=#24678d>Boytears has started a dice game for </font><font color=red>10</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+22:07:20 |raw|<b>Boytears has joined the dice game.</b>
+22:07:21 |raw|<b>TheShankSkank has joined the dice game.</b>
+22:07:21 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>boytears has rolled a 4.<br>theshankskank has rolled a 2.<br><font color=#24678d><b>boytears</b></font> has won <font color=#24678d><b>10</b></font> Shekels.<br>Better luck next time theshankskank!</div>
+22:07:23 |raw|<div class='infobox'><h2><center><font color=#24678d>Boytears has started a dice game for </font><font color=red>10</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+22:07:23 |c|&TheShankSkank|k
+22:07:24 |raw|<b>Boytears has joined the dice game.</b>
+22:07:24 |raw|<b>TheShankSkank has joined the dice game.</b>
+22:07:24 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>boytears has rolled a 3.<br>theshankskank has rolled a 2.<br><font color=#24678d><b>boytears</b></font> has won <font color=#24678d><b>10</b></font> Shekels.<br>Better luck next time theshankskank!</div>
+22:07:27 |c|&TheShankSkank|K
+22:07:28 |c|+Boytears|lol
+22:07:34 |raw|<div class='infobox'><h2><center><font color=#24678d>Boytears has started a dice game for </font><font color=red>10</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+22:07:36 |raw|<b>Boytears has joined the dice game.</b>
+22:07:37 |raw|<b>TheShankSkank has joined the dice game.</b>
+22:07:37 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>boytears has rolled a 4.<br>theshankskank has rolled a 2.<br><font color=#24678d><b>boytears</b></font> has won <font color=#24678d><b>10</b></font> Shekels.<br>Better luck next time theshankskank!</div>
+22:07:39 |c|+Boytears|omg
+22:07:40 |raw|<div class='infobox'><h2><center><font color=#24678d>Boytears has started a dice game for </font><font color=red>10</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+22:07:41 |raw|<b>Boytears has joined the dice game.</b>
+22:07:49 |raw|<b>TheShankSkank has joined the dice game.</b>
+22:07:49 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>boytears has rolled a 2.<br>theshankskank has rolled a 2.<br>Tie... rolling again.<br>boytears has rolled a 5.<br>theshankskank has rolled a 6.<br><font color=#24678d><b>theshankskank</b></font> has won <font color=#24678d><b>10</b></font> Shekels.<br>Better luck next time boytears!</div>
+22:07:51 |raw|<div class='infobox'><h2><center><font color=#24678d>Boytears has started a dice game for </font><font color=red>10</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+22:07:52 |raw|<b>Boytears has joined the dice game.</b>
+22:07:59 |raw|<b>KatheyIsme123 has joined the dice game.</b>
+22:07:59 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>boytears has rolled a 4.<br>katheyisme123 has rolled a 2.<br><font color=#24678d><b>boytears</b></font> has won <font color=#24678d><b>10</b></font> Shekels.<br>Better luck next time katheyisme123!</div>
+22:08:02 |raw|<div class='infobox'><h2><center><font color=#24678d>TheShankSkank has started a dice game for </font><font color=red>20</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+22:08:03 |raw|<b>TheShankSkank has joined the dice game.</b>
+22:08:04 |raw|<b>Boytears has joined the dice game.</b>
+22:08:04 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>theshankskank has rolled a 5.<br>boytears has rolled a 4.<br><font color=#24678d><b>theshankskank</b></font> has won <font color=#24678d><b>20</b></font> Shekels.<br>Better luck next time boytears!</div>
+22:08:06 |raw|<div class='infobox'><h2><center><font color=#24678d>Boytears has started a dice game for </font><font color=red>10</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+22:08:07 |c|&TheShankSkank|yeee
+22:08:07 |raw|<b>Boytears has joined the dice game.</b>
+22:08:15 |raw|<b>KatheyIsme123 has joined the dice game.</b>
+22:08:15 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>boytears has rolled a 2.<br>katheyisme123 has rolled a 3.<br><font color=#24678d><b>katheyisme123</b></font> has won <font color=#24678d><b>10</b></font> Shekels.<br>Better luck next time boytears!</div>
+22:08:18 |raw|<div class='chat'><small>+</small><button name='parseCommand' value='/user Boytears' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#B54844'>Boytears:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/xaa.png" title="xaa" width="50" height="50" /></em></div>
+22:08:21 |userstats|total:8|guests:0| :0|+:5|%:0|@:0|★:0|-:0|&:2|#:1|♥:0|~:0
+22:08:30 |raw|<div class='infobox'><h2><center><font color=#24678d>Boytears has started a dice game for </font><font color=red>32</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+22:08:31 |raw|<b>Boytears has joined the dice game.</b>
+22:08:48 |c|&TheShankSkank|nahh
+22:08:53 |raw|<div class='chat'><small>+</small><button name='parseCommand' value='/user Boytears' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#B54844'>Boytears:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsjig.png" title="feelsjig" width="50" height="50" /></em></div>
+22:09:01 |raw|<b>KatheyIsme123 has joined the dice game.</b>
+22:09:01 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>boytears has rolled a 4.<br>katheyisme123 has rolled a 5.<br><font color=#24678d><b>katheyisme123</b></font> has won <font color=#24678d><b>32</b></font> Shekels.<br>Better luck next time boytears!</div>
+22:09:04 |raw|<div class='chat'><small>+</small><button name='parseCommand' value='/user Boytears' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#B54844'>Boytears:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/xaa.png" title="xaa" width="50" height="50" /></em></div>
+22:09:06 |raw|<div class='infobox'><h2><center><font color=#24678d>Boytears has started a dice game for </font><font color=red>32</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+22:09:07 |raw|<b>Boytears has joined the dice game.</b>
+22:09:11 |raw|<b>TheShankSkank has joined the dice game.</b>
+22:09:11 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>boytears has rolled a 1.<br>theshankskank has rolled a 4.<br><font color=#24678d><b>theshankskank</b></font> has won <font color=#24678d><b>32</b></font> Shekels.<br>Better luck next time boytears!</div>
+22:09:14 |c|+Boytears|damn
+22:09:22 |raw|<div class='infobox'><h2><center><font color=#24678d>Boytears has started a dice game for </font><font color=red>1</font><font color=#24678d> Shekel.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+22:09:24 |raw|<b>Boytears has joined the dice game.</b>
+22:09:26 |raw|<b>TheShankSkank has joined the dice game.</b>
+22:09:26 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>boytears has rolled a 4.<br>theshankskank has rolled a 4.<br>Tie... rolling again.<br>boytears has rolled a 5.<br>theshankskank has rolled a 3.<br><font color=#24678d><b>boytears</b></font> has won <font color=#24678d><b>1</b></font> Shekel.<br>Better luck next time theshankskank!</div>
+22:09:30 |raw|<div class='infobox'><h2><center><font color=#24678d>Boytears has started a dice game for </font><font color=red>2</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+22:09:30 |raw|<b>Boytears has joined the dice game.</b>
+22:09:31 |raw|<b>TheShankSkank has joined the dice game.</b>
+22:09:31 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>boytears has rolled a 3.<br>theshankskank has rolled a 3.<br>Tie... rolling again.<br>boytears has rolled a 3.<br>theshankskank has rolled a 3.<br>Tie... rolling again.<br>boytears has rolled a 5.<br>theshankskank has rolled a 1.<br><font color=#24678d><b>boytears</b></font> has won <font color=#24678d><b>2</b></font> Shekels.<br>Better luck next time theshankskank!</div>
+22:09:34 |c|&TheShankSkank|k
+22:09:35 |raw|<div class='infobox'><h2><center><font color=#24678d>Boytears has started a dice game for </font><font color=red>4</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+22:09:36 |raw|<b>Boytears has joined the dice game.</b>
+22:09:37 |raw|<b>TheShankSkank has joined the dice game.</b>
+22:09:37 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>boytears has rolled a 5.<br>theshankskank has rolled a 3.<br><font color=#24678d><b>boytears</b></font> has won <font color=#24678d><b>4</b></font> Shekels.<br>Better luck next time theshankskank!</div>
+22:09:39 |c|&TheShankSkank|K
+22:09:41 |raw|<div class='infobox'><h2><center><font color=#24678d>Boytears has started a dice game for </font><font color=red>8</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+22:09:42 |raw|<b>Boytears has joined the dice game.</b>
+22:09:42 |raw|<b>TheShankSkank has joined the dice game.</b>
+22:09:42 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>boytears has rolled a 2.<br>theshankskank has rolled a 2.<br>Tie... rolling again.<br>boytears has rolled a 5.<br>theshankskank has rolled a 5.<br>Tie... rolling again.<br>boytears has rolled a 4.<br>theshankskank has rolled a 5.<br><font color=#24678d><b>theshankskank</b></font> has won <font color=#24678d><b>8</b></font> Shekels.<br>Better luck next time boytears!</div>
+22:09:44 |c|&TheShankSkank|yay
+22:09:45 |c|+Boytears|gg
+22:09:46 |c|+Pen Jewel Skull|YO
+22:10:01 |c|&TheShankSkank|hi
+22:10:08 |c|+Pen Jewel Skull|It is our turn buddy
+22:10:11 |c|&TheShankSkank|nah
+22:10:12 |c|+Pen Jewel Skull|Start the dice
+22:10:16 Boytears was promoted to Room Le Mod by Audinory.
+22:10:16 |N|@Boytears|boytears
+22:10:17 |c|+Audinory|gratz
+22:10:23 |c|&TheShankSkank|nah
+22:10:24 |c|+Audinory|also
+22:10:25 |c|@Boytears|ty
+22:10:28 |c|+Audinory|refresh bt
+22:10:31 |c|+Audinory|symbols there
+22:10:32 |c|@Boytears|ah ok
+22:10:34 |c|@Boytears|thanks
+22:10:37 |L|@Boytears
+22:10:38 |J|&AllianceDarkrai
+22:10:53 |raw|<div class='chat'><small>+</small><button name='parseCommand' value='/user Pen Jewel Skull' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#E23695'>Pen Jewel Skull:</font></b></button><em class='mine'>I want mod <img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsbd.png" title="feelsbd" width="50" height="50" /></em></div>
+22:10:55 |J|@Boytears
+22:11:08 |raw|<div class='infobox'><h2><center><font color=#24678d>Pen Jewel Skull has started a dice game for </font><font color=red>20</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+22:11:09 |raw|<b>Pen Jewel Skull has joined the dice game.</b>
+22:11:13 |c|@Boytears|hmm
+22:11:24 |c|+Pen Jewel Skull|Not you Boytears. This is for Shank
+22:11:40 |c|@Boytears|im cleaned
+22:11:57 |c|&TheShankSkank|nah
+22:11:58 |raw|<b>AllianceDarkrai has joined the dice game.</b>
+22:11:58 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>penjewelskull has rolled a 1.<br>alliancedarkrai has rolled a 5.<br><font color=#24678d><b>alliancedarkrai</b></font> has won <font color=#24678d><b>20</b></font> Shekels.<br>Better luck next time penjewelskull!</div>
+22:12:05 |c|&TheShankSkank|thanks for putting me on top
+22:12:13 |c|+Pen Jewel Skull|You bastard
+22:12:28 |c|@Boytears|mhm
+22:13:51 |raw|<div class='infobox'><h2><center><font color=#24678d>Pen Jewel Skull has started a dice game for </font><font color=red>40</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+22:13:53 |raw|<b>Pen Jewel Skull has joined the dice game.</b>
+22:14:10 |raw|<b>AllianceDarkrai has joined the dice game.</b>
+22:14:10 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>penjewelskull has rolled a 6.<br>alliancedarkrai has rolled a 3.<br><font color=#24678d><b>penjewelskull</b></font> has won <font color=#24678d><b>40</b></font> Shekels.<br>Better luck next time alliancedarkrai!</div>
+22:14:14 |c|&AllianceDarkrai|yolo
+22:14:47 |c|&TheShankSkank|kek
+22:16:35 |raw|<div class='infobox'><h2><center><font color=#24678d>TheShankSkank has started a dice game for </font><font color=red>60</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+22:16:37 |raw|<b>TheShankSkank has joined the dice game.</b>
+22:16:53 |c|♪purpledragon24|...
+22:16:55 |c|♪purpledragon24|No money
+22:17:10 |c|&TheShankSkank|Pen Jewel Skull
+22:17:30 |raw|<b>KatheyIsme123 has joined the dice game.</b>
+22:17:30 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>theshankskank has rolled a 2.<br>katheyisme123 has rolled a 2.<br>Tie... rolling again.<br>theshankskank has rolled a 6.<br>katheyisme123 has rolled a 1.<br><font color=#24678d><b>theshankskank</b></font> has won <font color=#24678d><b>60</b></font> Shekels.<br>Better luck next time katheyisme123!</div>
+22:17:35 |c|&TheShankSkank|ty KatheyIsme123
+22:17:57 |c|&AllianceDarkrai|someone dice me
+22:17:57 |raw|<div class='infobox'><h2><center><font color=#24678d>KatheyIsme123 has started a dice game for </font><font color=red>13</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+22:18:01 |raw|<b>TheShankSkank has joined the dice game.</b>
+22:18:05 |raw|<b>KatheyIsme123 has joined the dice game.</b>
+22:18:05 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>theshankskank has rolled a 2.<br>katheyisme123 has rolled a 5.<br><font color=#24678d><b>katheyisme123</b></font> has won <font color=#24678d><b>13</b></font> Shekels.<br>Better luck next time theshankskank!</div>
+22:18:09 |c|&TheShankSkank|aww
+22:18:12 |raw|<div class='infobox'><h2><center><font color=#24678d>KatheyIsme123 has started a dice game for </font><font color=red>26</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+22:18:14 |raw|<b>TheShankSkank has joined the dice game.</b>
+22:18:15 |raw|<b>Pen Jewel Skull has joined the dice game.</b>
+22:18:15 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>theshankskank has rolled a 2.<br>penjewelskull has rolled a 3.<br><font color=#24678d><b>penjewelskull</b></font> has won <font color=#24678d><b>26</b></font> Shekels.<br>Better luck next time theshankskank!</div>
+22:18:20 |c|&TheShankSkank|sadface
+22:18:21 |userstats|total:9|guests:0| :0|+:4|%:0|@:1|★:0|-:0|&:3|#:1|♥:0|~:0
+22:18:24 |raw|<div class='infobox'><h2><center><font color=#24678d>TheShankSkank has started a dice game for </font><font color=red>75</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+22:18:26 |raw|<b>TheShankSkank has joined the dice game.</b>
+22:18:41 |L|&verizor
+22:18:44 |c|♪purpledragon24|//rb TheShankSkank
+22:18:53 |c|♪purpledragon24|//flee
+22:18:54 |L|♪purpledragon24
+22:19:05 |c|+Audinory|!atm TheShankSkank
+22:19:05 |raw|<div class="infobox">TheShankSkank has 79 Shekels.</div>
+22:19:10 |c|+Audinory|!atm Pen Jewel Skull
+22:19:10 |raw|<div class="infobox">Pen Jewel Skull has 186 Shekels.</div>
+22:19:11 |c|+Audinory|nice
+22:19:52 |c|&TheShankSkank|Pen Jewel Skull
+22:20:15 |c|+Pen Jewel Skull|Hmm
+22:20:35 |N| Angel And Panda|katheyisme123
+22:20:42 |raw|<b>Pen Jewel Skull has joined the dice game.</b>
+22:20:42 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>theshankskank has rolled a 6.<br>penjewelskull has rolled a 3.<br><font color=#24678d><b>theshankskank</b></font> has won <font color=#24678d><b>75</b></font> Shekels.<br>Better luck next time penjewelskull!</div>
+22:20:46 |c|+Pen Jewel Skull|Whoops
+22:20:47 |c|&TheShankSkank|ye
+22:20:48 |raw|<div class='chat'><small>+</small><button name='parseCommand' value='/user Pen Jewel Skull' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#E23695'>Pen Jewel Skull:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsgd.png" title="feelsgd" width="50" height="50" /></em></div>
+22:20:53 |raw|<div class='infobox'><h2><center><font color=#24678d>Pen Jewel Skull has started a dice game for </font><font color=red>111</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+22:20:53 |raw|<b>Pen Jewel Skull has joined the dice game.</b>
+22:21:18 |c|+Pen Jewel Skull|TheShankSkank
+22:21:20 |raw|<div class="broadcast-blue"><b>Join Tournaments for a like 25 buck tour!</b></div>
+22:21:24 |L| Angel And Panda
+22:21:35 |c|&TheShankSkank|pan
+22:21:37 |c|&TheShankSkank|oops
+22:21:38 |c|&TheShankSkank|Pen Jewel Skull
+22:21:49 |c|+Pen Jewel Skull|Join
+22:22:12 |c|&TheShankSkank|nuh
+22:22:47 |c|+Pen Jewel Skull|If I can join your's then you can join mine
+22:22:49 |c|+Pen Jewel Skull|Fair game
+22:22:52 |J| Angel And Panda
+22:23:15 |L| Angel And Panda
+22:23:20 |raw|<b>AllianceDarkrai ended the dice game.</b>
+22:23:23 |raw|<div class='infobox'><h2><center><font color=#24678d>AllianceDarkrai has started a dice game for </font><font color=red>5</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+22:23:25 |raw|<b>AllianceDarkrai has joined the dice game.</b>
+22:23:38 |raw|<b>TheShankSkank has joined the dice game.</b>
+22:23:38 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>alliancedarkrai has rolled a 5.<br>theshankskank has rolled a 2.<br><font color=#24678d><b>alliancedarkrai</b></font> has won <font color=#24678d><b>5</b></font> Shekels.<br>Better luck next time theshankskank!</div>
+22:23:42 |c|&TheShankSkank|sadfrog
+22:23:49 |raw|<div class='chat'><small>&</small><button name='parseCommand' value='/user AllianceDarkrai' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#2468B1'>AllianceDarkrai:</font></b></button><em class='mine'><img src="http://i1.kym-cdn.com/photos/images/newsfeed/001/121/741/012.gif" title="datBoi" width="50" height="50" /></em></div>
+22:23:49 |J| Angel And Panda
+22:24:05 |c| Angel And Panda|Dark
+22:24:08 |c| Angel And Panda|voice me
+22:24:30 Angel And Panda was promoted to Room Glorified Normie by TheShankSkank.
+22:24:30 |N|+Angel And Panda|angelandpanda
+22:24:34 |c|&AllianceDarkrai|sniped
+22:26:11 |raw|<div class='infobox'><h2><center><font color=#24678d>TheShankSkank has started a dice game for </font><font color=red>50</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+22:26:13 |raw|<b>TheShankSkank has joined the dice game.</b>
+22:26:26 |c|+Angel And Panda|Dark 
+22:26:27 |c|+Angel And Panda|pm
+22:26:28 |raw|<div class="broadcast-blue"><b><font style="color: pink;">Random Monotype Battle Tour In Tournaments</font><button name="joinRoom" value="tournaments">In this room</button></b></div>
+22:26:47 |c|+Angel And Panda|I need to show you something 
+22:27:01 |c|+Angel And Panda|feelshd
+22:27:03 |raw|<div class='chat'><small>+</small><button name='parseCommand' value='/user Angel And Panda' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#1370B2'>Angel And Panda:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsgd.png" title="feelsgd" width="50" height="50" /></em></div>
+22:28:21 |userstats|total:7|guests:0| :0|+:3|%:0|@:1|★:0|-:0|&:2|#:1|♥:0|~:0
+22:28:58 |c|&TheShankSkank|AllianceDarkrai end my dice game plz
+22:29:04 |raw|<b>Angel And Panda ended the dice game.</b>
+22:29:08 |c|+Angel And Panda|<3
+22:29:15 |raw|<div class='infobox'><h2><center><font color=#24678d>Angel And Panda has started a dice game for </font><font color=red>5</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+22:29:17 |raw|<b>Angel And Panda has joined the dice game.</b>
+22:29:18 |raw|<b>Pen Jewel Skull has joined the dice game.</b>
+22:29:18 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>angelandpanda has rolled a 1.<br>penjewelskull has rolled a 2.<br><font color=#24678d><b>penjewelskull</b></font> has won <font color=#24678d><b>5</b></font> Shekels.<br>Better luck next time angelandpanda!</div>
+22:29:27 |c|&TheShankSkank|ty ang
+22:29:33 |c|&TheShankSkank|dunno the command kek
+22:29:40 |J| MoistCheerios
+22:29:51 |c| MoistCheerios|where my nigga tye dolla at
+22:30:05 |c|&TheShankSkank|!richestuser
+22:30:05 |raw|<center><u><b>Richest Users</b></u></center><br><table border="1" cellspacing="0" cellpadding="5" width="100%"><tbody><tr><th>Rank</th><th>Username</th><th>Money</th></tr><tr><td>1</td><td>theshankskank</td><td>224</td></tr><tr><td>2</td><td>penjewelskull</td><td>116</td></tr><tr><td>3</td><td>verizor</td><td>80</td></tr><tr><td>4</td><td>audinory</td><td>69</td></tr><tr><td>5</td><td>shivamrustagi</td><td>51</td></tr><tr><td>6</td><td>purpledragon24</td><td>50</td></tr><tr><td>7</td><td>zerostorm</td><td>50</td></tr><tr><td>8</td><td>spiritanaysha</td><td>50</td></tr><tr><td>9</td><td>lunterik</td><td>50</td></tr><tr><td>10</td><td>bandi</td><td>50</td></tr></tbody></table>
+22:30:05 |J| Lil Bitter
+22:30:06 |c|&AllianceDarkrai|huh
+22:30:21 |c|&TheShankSkank|ah
+22:30:31 |raw|<div class='infobox'><h2><center><font color=#24678d>AllianceDarkrai has started a dice game for </font><font color=red>5</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+22:30:32 |raw|<b>AllianceDarkrai has joined the dice game.</b>
+22:30:38 |raw|<b>Angel And Panda has joined the dice game.</b>
+22:30:38 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>alliancedarkrai has rolled a 5.<br>angelandpanda has rolled a 4.<br><font color=#24678d><b>alliancedarkrai</b></font> has won <font color=#24678d><b>5</b></font> Shekels.<br>Better luck next time angelandpanda!</div>
+22:30:42 |raw|<div class='infobox'><h2><center><font color=#24678d>Angel And Panda has started a dice game for </font><font color=red>20</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+22:30:43 |raw|<b>Angel And Panda has joined the dice game.</b>
+22:30:48 |c|&AllianceDarkrai|Im working for a emote
+22:31:01 |raw|<b>AllianceDarkrai ended the dice game.</b>
+22:31:03 |raw|<div class='infobox'><h2><center><font color=#24678d>AllianceDarkrai has started a dice game for </font><font color=red>5</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+22:31:04 |raw|<b>AllianceDarkrai has joined the dice game.</b>
+22:31:06 |raw|<b>Pen Jewel Skull has joined the dice game.</b>
+22:31:06 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>alliancedarkrai has rolled a 6.<br>penjewelskull has rolled a 4.<br><font color=#24678d><b>alliancedarkrai</b></font> has won <font color=#24678d><b>5</b></font> Shekels.<br>Better luck next time penjewelskull!</div>
+22:31:12 |raw|<div class='infobox'><h2><center><font color=#24678d>AllianceDarkrai has started a dice game for </font><font color=red>5</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+22:31:13 |raw|<b>AllianceDarkrai has joined the dice game.</b>
+22:31:16 |c|&TheShankSkank|!profile AllianceDarkrai
+22:31:16 |raw|<div class="infobox"><button style="border:none;background:none;padding:0;float:left;" name="parseCommand" value="/user AllianceDarkrai"><img src="http://pokemonshowdownfixed-serperiorbae.c9users.io:8080/avatars/alliancedarkrai.jpg" height="80" width="80"></button>&nbsp;<b><font color="#24678d">Name:</font></b>&nbsp;<b><font color="#2468B1">AllianceDarkrai</font></b><br>&nbsp;<b><font color="#24678d">Group:</font></b>&nbsp;Regular User<br>&nbsp;<b><font color="#24678d">Money:</font></b>&nbsp;40 bucks<br>&nbsp;<b><font color="#24678d">Last Seen:</font></b>&nbsp;<font color="#2ECC40">Currently Online</font><br clear="all"></div>
+22:31:20 |c|&TheShankSkank|!shop
+22:31:20 |raw|<div class='infobox infobox-limited'><table border='1' cellspacing='0' cellpadding='5' width='100%'><tbody><tr><th>Command</th><th>Description</th><th>Cost</th></tr><tr><td align='center'><button name='send' value='/buy Symbol'><b>Symbol</b></button></td><td align='center'>Buys a custom symbol to go infront of name and puts you at top of userlist. (Temporary until restart, certain symbols are blocked)</td><td align='center'>5</td></tr><tr><td align='center'><button name='send' value='/buy Custom Symbol Color'><b>Custom Symbol Color</b></button></td><td align='center'>Buys you the ability to have your symbol displayed as a different colour in up to 3 rooms</td><td align='center'>15</td></tr><tr><td align='center'><button name='send' value='/buy Custom Name Color'><b>Custom Name Color</b></button></td><td align='center'>Buys you the ability to have your in-chat name color changed globally on this server</td><td align='center'>70</td></tr><tr><td align='center'><button name='send' value='/buy Fix'><b>Fix</b></button></td><td align='center'>Buys the ability to alter your current custom avatar or trainer card. (don't buy if you have neither)</td><td align='center'>10</td></tr><tr><td align='center'><button name='send' value='/buy Avatar'><b>Avatar</b></button></td><td align='center'>Buys an custom avatar to be applied to your name (You supply. Images larger than 80x80 may not show correctly)</td><td align='center'>20</td></tr><tr><td align='center'><button name='send' value='/buy Staff Help'><b>Staff Help</b></button></td><td align='center'>Staff member will help set up roomintros and anything else needed in a room. Response may not be immediate.</td><td align='center'>50</td></tr><tr><td align='center'><button name='send' value='/buy Icon'><b>Icon</b></button></td><td align='center'>Buy a custom icon that can be applied to the rooms you want. You must take into account that the provided image should be 32 x 32</td><td align='center'>75</td></tr><tr><td align='center'><button name='send' value='/buy Custom Emote'><b>Custom Emote</b></button></td><td align='center'>Buys you the ability to have a custom emote, you supply the image (Must be .jpg, .gif or .png) - Can be refused.</td><td align='center'>50</td></tr><tr><td align='center'><button name='send' value='/buy Room'><b>Room</b></button></td><td align='center'>Buys a chatroom for you to own. (within reason, can be refused)</td><td align='center'>100</td></tr><tr><td align='center'><button name='send' value='/buy Custom Command'><b>Custom Command</b></button></td><td align='center'>This is basically a Custom Emote that only you can use</td><td align='center'>100</td></tr></tbody></table><center>To buy an item from the shop, use /buy <em>command</em>.</center></div>
+22:31:23 |raw|<b>Angel And Panda has joined the dice game.</b>
+22:31:23 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>alliancedarkrai has rolled a 1.<br>angelandpanda has rolled a 4.<br><font color=#24678d><b>angelandpanda</b></font> has won <font color=#24678d><b>5</b></font> Shekels.<br>Better luck next time alliancedarkrai!</div>
+22:31:23 |c|&AllianceDarkrai|is my avatar showing up
+22:31:25 |raw|<div class='infobox'><h2><center><font color=#24678d>AllianceDarkrai has started a dice game for </font><font color=red>5</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+22:31:26 |raw|<b>AllianceDarkrai has joined the dice game.</b>
+22:31:28 |raw|<b>Angel And Panda has joined the dice game.</b>
+22:31:28 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>alliancedarkrai has rolled a 5.<br>angelandpanda has rolled a 6.<br><font color=#24678d><b>angelandpanda</b></font> has won <font color=#24678d><b>5</b></font> Shekels.<br>Better luck next time alliancedarkrai!</div>
+22:31:33 |raw|<div class='infobox'><h2><center><font color=#24678d>AllianceDarkrai has started a dice game for </font><font color=red>5</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+22:31:34 |raw|<b>AllianceDarkrai has joined the dice game.</b>
+22:31:35 |raw|<b>Angel And Panda has joined the dice game.</b>
+22:31:35 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>alliancedarkrai has rolled a 2.<br>angelandpanda has rolled a 3.<br><font color=#24678d><b>angelandpanda</b></font> has won <font color=#24678d><b>5</b></font> Shekels.<br>Better luck next time alliancedarkrai!</div>
+22:31:37 |raw|<div class='infobox'><h2><center><font color=#24678d>TheShankSkank has started a dice game for </font><font color=red>20</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+22:31:38 |raw|<b>TheShankSkank has joined the dice game.</b>
+22:31:40 |c|&AllianceDarkrai|bruh my emote is gonna be bae
+22:31:41 |raw|<b>AllianceDarkrai has joined the dice game.</b>
+22:31:41 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>theshankskank has rolled a 4.<br>alliancedarkrai has rolled a 4.<br>Tie... rolling again.<br>theshankskank has rolled a 5.<br>alliancedarkrai has rolled a 2.<br><font color=#24678d><b>theshankskank</b></font> has won <font color=#24678d><b>20</b></font> Shekels.<br>Better luck next time alliancedarkrai!</div>
+22:31:44 |c|&AllianceDarkrai|bruh
+22:31:46 |c|&TheShankSkank|lmao
+22:31:46 |raw|<div class='infobox'><h2><center><font color=#24678d>AllianceDarkrai has started a dice game for </font><font color=red>10</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+22:31:47 |raw|<b>AllianceDarkrai has joined the dice game.</b>
+22:31:47 |c|+Angel And Panda|lol
+22:31:49 |J| Rainy Thunder
+22:31:49 |c|&AllianceDarkrai|My emote
+22:31:49 |raw|<b>Angel And Panda has joined the dice game.</b>
+22:31:49 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>alliancedarkrai has rolled a 2.<br>angelandpanda has rolled a 1.<br><font color=#24678d><b>alliancedarkrai</b></font> has won <font color=#24678d><b>10</b></font> Shekels.<br>Better luck next time angelandpanda!</div>
+22:31:50 |c|&TheShankSkank|I'm sorry
+22:31:52 |c|+Angel And Panda|Rip
+22:31:53 |raw|<div class='infobox'><h2><center><font color=#24678d>AllianceDarkrai has started a dice game for </font><font color=red>10</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+22:31:54 |raw|<b>AllianceDarkrai has joined the dice game.</b>
+22:31:56 |c|&AllianceDarkrai|my emote
+22:31:58 |raw|<b>Angel And Panda has joined the dice game.</b>
+22:31:58 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>alliancedarkrai has rolled a 4.<br>angelandpanda has rolled a 1.<br><font color=#24678d><b>alliancedarkrai</b></font> has won <font color=#24678d><b>10</b></font> Shekels.<br>Better luck next time angelandpanda!</div>
+22:32:01 |c|+Angel And Panda|Lol
+22:32:03 |raw|<div class='infobox'><h2><center><font color=#24678d>AllianceDarkrai has started a dice game for </font><font color=red>5</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+22:32:04 |raw|<b>AllianceDarkrai has joined the dice game.</b>
+22:32:12 |raw|<b>Angel And Panda has joined the dice game.</b>
+22:32:12 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>alliancedarkrai has rolled a 4.<br>angelandpanda has rolled a 2.<br><font color=#24678d><b>alliancedarkrai</b></font> has won <font color=#24678d><b>5</b></font> Shekels.<br>Better luck next time angelandpanda!</div>
+22:32:17 |raw|<div class='infobox'><h2><center><font color=#24678d>AllianceDarkrai has started a dice game for </font><font color=red>5</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+22:32:18 |raw|<b>AllianceDarkrai has joined the dice game.</b>
+22:32:19 |raw|<b>Angel And Panda has joined the dice game.</b>
+22:32:19 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>alliancedarkrai has rolled a 5.<br>angelandpanda has rolled a 5.<br>Tie... rolling again.<br>alliancedarkrai has rolled a 1.<br>angelandpanda has rolled a 2.<br><font color=#24678d><b>angelandpanda</b></font> has won <font color=#24678d><b>5</b></font> Shekels.<br>Better luck next time alliancedarkrai!</div>
+22:32:20 |c|&AllianceDarkrai|emote
+22:32:24 |raw|<div class='infobox'><h2><center><font color=#24678d>AllianceDarkrai has started a dice game for </font><font color=red>5</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+22:32:25 |raw|<b>AllianceDarkrai has joined the dice game.</b>
+22:32:26 |raw|<b>Rainy Thunder has joined the dice game.</b>
+22:32:26 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>alliancedarkrai has rolled a 6.<br>rainythunder has rolled a 1.<br><font color=#24678d><b>alliancedarkrai</b></font> has won <font color=#24678d><b>5</b></font> Shekels.<br>Better luck next time rainythunder!</div>
+22:32:32 |raw|<div class='infobox'><h2><center><font color=#24678d>AllianceDarkrai has started a dice game for </font><font color=red>5</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+22:32:33 |raw|<b>AllianceDarkrai has joined the dice game.</b>
+22:32:34 |raw|<b>Rainy Thunder has joined the dice game.</b>
+22:32:34 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>alliancedarkrai has rolled a 6.<br>rainythunder has rolled a 2.<br><font color=#24678d><b>alliancedarkrai</b></font> has won <font color=#24678d><b>5</b></font> Shekels.<br>Better luck next time rainythunder!</div>
+22:32:40 |raw|<div class='infobox'><h2><center><font color=#24678d>AllianceDarkrai has started a dice game for </font><font color=red>5</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+22:32:41 |raw|<b>AllianceDarkrai has joined the dice game.</b>
+22:32:42 |raw|<b>Rainy Thunder has joined the dice game.</b>
+22:32:42 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>alliancedarkrai has rolled a 3.<br>rainythunder has rolled a 1.<br><font color=#24678d><b>alliancedarkrai</b></font> has won <font color=#24678d><b>5</b></font> Shekels.<br>Better luck next time rainythunder!</div>
+22:32:43 |c|&TheShankSkank|!profile AllianceDarkrai
+22:32:43 |raw|<div class="infobox"><button style="border:none;background:none;padding:0;float:left;" name="parseCommand" value="/user AllianceDarkrai"><img src="http://pokemonshowdownfixed-serperiorbae.c9users.io:8080/avatars/alliancedarkrai.jpg" height="80" width="80"></button>&nbsp;<b><font color="#24678d">Name:</font></b>&nbsp;<b><font color="#2468B1">AllianceDarkrai</font></b><br>&nbsp;<b><font color="#24678d">Group:</font></b>&nbsp;Regular User<br>&nbsp;<b><font color="#24678d">Money:</font></b>&nbsp;45 bucks<br>&nbsp;<b><font color="#24678d">Last Seen:</font></b>&nbsp;<font color="#2ECC40">Currently Online</font><br clear="all"></div>
+22:32:46 |raw|<div class='infobox'><h2><center><font color=#24678d>AllianceDarkrai has started a dice game for </font><font color=red>5</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+22:32:47 |raw|<b>AllianceDarkrai has joined the dice game.</b>
+22:32:48 |raw|<b>Rainy Thunder has joined the dice game.</b>
+22:32:48 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>alliancedarkrai has rolled a 3.<br>rainythunder has rolled a 2.<br><font color=#24678d><b>alliancedarkrai</b></font> has won <font color=#24678d><b>5</b></font> Shekels.<br>Better luck next time rainythunder!</div>
+22:32:48 |c|&AllianceDarkrai|emote
+22:32:51 |c|&AllianceDarkrai|ty
+22:32:52 |c|&TheShankSkank|gg
+22:32:54 |c|&TheShankSkank|!shop
+22:32:54 |raw|<div class='infobox infobox-limited'><table border='1' cellspacing='0' cellpadding='5' width='100%'><tbody><tr><th>Command</th><th>Description</th><th>Cost</th></tr><tr><td align='center'><button name='send' value='/buy Symbol'><b>Symbol</b></button></td><td align='center'>Buys a custom symbol to go infront of name and puts you at top of userlist. (Temporary until restart, certain symbols are blocked)</td><td align='center'>5</td></tr><tr><td align='center'><button name='send' value='/buy Custom Symbol Color'><b>Custom Symbol Color</b></button></td><td align='center'>Buys you the ability to have your symbol displayed as a different colour in up to 3 rooms</td><td align='center'>15</td></tr><tr><td align='center'><button name='send' value='/buy Custom Name Color'><b>Custom Name Color</b></button></td><td align='center'>Buys you the ability to have your in-chat name color changed globally on this server</td><td align='center'>70</td></tr><tr><td align='center'><button name='send' value='/buy Fix'><b>Fix</b></button></td><td align='center'>Buys the ability to alter your current custom avatar or trainer card. (don't buy if you have neither)</td><td align='center'>10</td></tr><tr><td align='center'><button name='send' value='/buy Avatar'><b>Avatar</b></button></td><td align='center'>Buys an custom avatar to be applied to your name (You supply. Images larger than 80x80 may not show correctly)</td><td align='center'>20</td></tr><tr><td align='center'><button name='send' value='/buy Staff Help'><b>Staff Help</b></button></td><td align='center'>Staff member will help set up roomintros and anything else needed in a room. Response may not be immediate.</td><td align='center'>50</td></tr><tr><td align='center'><button name='send' value='/buy Icon'><b>Icon</b></button></td><td align='center'>Buy a custom icon that can be applied to the rooms you want. You must take into account that the provided image should be 32 x 32</td><td align='center'>75</td></tr><tr><td align='center'><button name='send' value='/buy Custom Emote'><b>Custom Emote</b></button></td><td align='center'>Buys you the ability to have a custom emote, you supply the image (Must be .jpg, .gif or .png) - Can be refused.</td><td align='center'>50</td></tr><tr><td align='center'><button name='send' value='/buy Room'><b>Room</b></button></td><td align='center'>Buys a chatroom for you to own. (within reason, can be refused)</td><td align='center'>100</td></tr><tr><td align='center'><button name='send' value='/buy Custom Command'><b>Custom Command</b></button></td><td align='center'>This is basically a Custom Emote that only you can use</td><td align='center'>100</td></tr></tbody></table><center>To buy an item from the shop, use /buy <em>command</em>.</center></div>
+22:32:55 |c|&AllianceDarkrai|Can you guys see my avatar?
+22:32:58 |c|+Angel And Panda|Lol
+22:32:59 |c|+Audinory|y
+22:33:02 |c|&TheShankSkank|yes AllianceDarkrai
+22:33:03 |raw|<div class='infobox'><h2><center><font color=#24678d>Angel And Panda has started a dice game for </font><font color=red>15</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+22:33:05 |c|&AllianceDarkrai|Okay cool
+22:33:07 |raw|<b>Angel And Panda has joined the dice game.</b>
+22:33:13 |c|+Angel And Panda|TheShankShank
+22:33:14 |raw|<strong><font color="#FF00FF"><img src="http://i.imgur.com/wgHnKC2.jpg"><br><em>I'm a strawberry!</em></font></strong>
+22:33:16 |c|&TheShankSkank|yes Angel And Panda?
+22:33:21 |c|+Angel And Panda|Join 
+22:33:33 |raw|<b>AllianceDarkrai ended the dice game.</b>
+22:33:36 |raw|<div class='infobox'><h2><center><font color=#24678d>AllianceDarkrai has started a dice game for </font><font color=red>5</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+22:33:38 |raw|<b>AllianceDarkrai has joined the dice game.</b>
+22:33:42 |raw|<b>Angel And Panda has joined the dice game.</b>
+22:33:42 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>alliancedarkrai has rolled a 2.<br>angelandpanda has rolled a 5.<br><font color=#24678d><b>angelandpanda</b></font> has won <font color=#24678d><b>5</b></font> Shekels.<br>Better luck next time alliancedarkrai!</div>
+22:33:44 |raw|<div class='infobox'><h2><center><font color=#24678d>AllianceDarkrai has started a dice game for </font><font color=red>5</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+22:33:45 |raw|<b>Angel And Panda has joined the dice game.</b>
+22:33:47 |raw|<b>AllianceDarkrai has joined the dice game.</b>
+22:33:47 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>angelandpanda has rolled a 2.<br>alliancedarkrai has rolled a 5.<br><font color=#24678d><b>alliancedarkrai</b></font> has won <font color=#24678d><b>5</b></font> Shekels.<br>Better luck next time angelandpanda!</div>
+22:33:48 |raw|<div class='infobox'><h2><center><font color=#24678d>AllianceDarkrai has started a dice game for </font><font color=red>5</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+22:33:49 |raw|<b>AllianceDarkrai has joined the dice game.</b>
+22:33:51 |c|&AllianceDarkrai|emote and bucks
+22:33:53 |c|&AllianceDarkrai|please
+22:33:54 |raw|<b>Angel And Panda has joined the dice game.</b>
+22:33:54 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>alliancedarkrai has rolled a 6.<br>angelandpanda has rolled a 5.<br><font color=#24678d><b>alliancedarkrai</b></font> has won <font color=#24678d><b>5</b></font> Shekels.<br>Better luck next time angelandpanda!</div>
+22:33:57 |c|+Angel And Panda|Lmao
+22:34:00 |raw|<div class='infobox'><h2><center><font color=#24678d>Angel And Panda has started a dice game for </font><font color=red>10</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+22:34:01 |c|&AllianceDarkrai|emote and bucks
+22:34:01 |raw|<b>Angel And Panda has joined the dice game.</b>
+22:34:04 |raw|<b>AllianceDarkrai has joined the dice game.</b>
+22:34:04 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>angelandpanda has rolled a 5.<br>alliancedarkrai has rolled a 3.<br><font color=#24678d><b>angelandpanda</b></font> has won <font color=#24678d><b>10</b></font> Shekels.<br>Better luck next time alliancedarkrai!</div>
+22:34:08 |raw|<div class='infobox'><h2><center><font color=#24678d>AllianceDarkrai has started a dice game for </font><font color=red>5</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+22:34:09 |raw|<b>AllianceDarkrai has joined the dice game.</b>
+22:34:10 |c|&AllianceDarkrai|plz
+22:34:12 |c|&AllianceDarkrai|empte
+22:34:14 |c|&AllianceDarkrai|emote
+22:34:19 |raw|<b>Angel And Panda has joined the dice game.</b>
+22:34:19 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>alliancedarkrai has rolled a 4.<br>angelandpanda has rolled a 2.<br><font color=#24678d><b>alliancedarkrai</b></font> has won <font color=#24678d><b>5</b></font> Shekels.<br>Better luck next time angelandpanda!</div>
+22:34:24 |raw|<div class='infobox'><h2><center><font color=#24678d>Angel And Panda has started a dice game for </font><font color=red>15</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+22:34:25 |raw|<b>Angel And Panda has joined the dice game.</b>
+22:34:30 |raw|<b>AllianceDarkrai has joined the dice game.</b>
+22:34:30 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>angelandpanda has rolled a 5.<br>alliancedarkrai has rolled a 6.<br><font color=#24678d><b>alliancedarkrai</b></font> has won <font color=#24678d><b>15</b></font> Shekels.<br>Better luck next time angelandpanda!</div>
+22:34:34 |c|+Angel And Panda|Lol
+22:34:36 |c|&AllianceDarkrai|that was risky
+22:34:36 |c|&AllianceDarkrai|ok
+22:34:44 |raw|AllianceDarkrai has bought <b>Custom Emote</b> from the shop.
+22:35:21 |c|+Angel And Panda|>can they upgrade the click to join button 
+22:35:22 |c|+Angel And Panda|._.
+22:35:42 |raw|<div class='infobox'><h2><center><font color=#24678d>AllianceDarkrai has started a dice game for </font><font color=red>5</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+22:35:43 |raw|<b>AllianceDarkrai has joined the dice game.</b>
+22:35:59 |c|&AllianceDarkrai|angel and panda
+22:36:09 |N| Lil Kinky|lilbitter
+22:36:12 |c|&AllianceDarkrai|o
+22:36:18 |c|&AllianceDarkrai|Theshankshank
+22:36:34 |raw|<b>TheShankSkank has joined the dice game.</b>
+22:36:34 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>alliancedarkrai has rolled a 3.<br>theshankskank has rolled a 6.<br><font color=#24678d><b>theshankskank</b></font> has won <font color=#24678d><b>5</b></font> Shekels.<br>Better luck next time alliancedarkrai!</div>
+22:37:11 |c|&TheShankSkank|!profile AllianceDarkrai
+22:37:11 |raw|<div class="infobox"><button style="border:none;background:none;padding:0;float:left;" name="parseCommand" value="/user AllianceDarkrai"><img src="http://pokemonshowdownfixed-serperiorbae.c9users.io:8080/avatars/alliancedarkrai.jpg" height="80" width="80"></button>&nbsp;<b><font color="#24678d">Name:</font></b>&nbsp;<b><font color="#2468B1">AllianceDarkrai</font></b><br>&nbsp;<b><font color="#24678d">Group:</font></b>&nbsp;Regular User<br>&nbsp;<b><font color="#24678d">Money:</font></b>&nbsp;10 bucks<br>&nbsp;<b><font color="#24678d">Last Seen:</font></b>&nbsp;<font color="#2ECC40">Currently Online</font><br clear="all"></div>
+22:37:19 |raw|<div class='infobox'><h2><center><font color=#24678d>TheShankSkank has started a dice game for </font><font color=red>10</font><font color=#24678d> Shekels.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+22:37:23 |raw|<b>AllianceDarkrai has joined the dice game.</b>
+22:37:26 |c|&AllianceDarkrai|honestly?
+22:37:27 |raw|<b>TheShankSkank has joined the dice game.</b>
+22:37:27 |raw|<div class='infobox'>Game has two players, starting now.<br>Rolling the dice.<br>alliancedarkrai has rolled a 4.<br>theshankskank has rolled a 6.<br><font color=#24678d><b>theshankskank</b></font> has won <font color=#24678d><b>10</b></font> Shekels.<br>Better luck next time alliancedarkrai!</div>
+22:37:31 |c|&AllianceDarkrai|gg
+22:37:31 |raw|<div class='chat'><small>&</small><button name='parseCommand' value='/user TheShankSkank' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#CF4252'>TheShankSkank:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsgd.png" title="feelsgd" width="50" height="50" /></em></div>
+22:37:37 |c|&TheShankSkank|gg
+22:38:21 |userstats|total:10|guests:0| :3|+:3|%:0|@:1|★:0|-:0|&:2|#:1|♥:0|~:0
+22:42:54 |L|&AllianceDarkrai
+22:43:05 |J|&AllianceDarkrai
+22:43:38 |raw|<div class="broadcast-red"><b>The server is restarting soon.</b><br />Please finish your battles quickly. No new battles can be started until the server resets in a few minutes.</div>
+22:43:50 NEW CHATROOM: casino
+22:44:11 |J|&Alliance Darkrai

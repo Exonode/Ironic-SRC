@@ -1,0 +1,558 @@
+02:32:32 NEW CHATROOM: tournaments
+02:42:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+02:52:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+03:02:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+03:12:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+03:22:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+03:32:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+03:42:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+03:52:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+04:02:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+04:12:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+04:13:18 NEW CHATROOM: tournaments
+04:23:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+04:33:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+04:43:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+04:53:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+05:03:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+05:13:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+05:23:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+05:33:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+05:43:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+05:53:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+06:03:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+06:13:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+06:23:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+06:33:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+06:43:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+06:53:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+07:03:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+07:13:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+14:27:04 NEW CHATROOM: tournaments
+14:37:04 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+14:41:58 NEW CHATROOM: tournaments
+14:51:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+15:01:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+15:03:59 |J|%Andrrew
+15:11:58 |userstats|total:1|guests:0| :0|+:0|%:1|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+15:17:40 |J|#V A Q
+15:21:58 |userstats|total:2|guests:0| :0|+:0|%:1|@:0|★:0|-:0|&:0|#:1|♥:0|~:0
+15:22:14 |raw|<div class="broadcast-blue">Well I'll be hosting a tour soon. Prize: a private room.</div>
+15:25:30 |J|★Audinory
+15:25:41 |c|#V A Q|^^^^^^^
+15:25:44 |J|%FocusBlasted
+15:25:48 |c|★Audinory|Oh
+15:26:05 |c|#V A Q|so
+15:26:07 V A Q used /poll create Tour Type?, Random, Smogon Based, Other Metas Based, Inverse, Host Chooses, Seasonal
+15:26:07 (A poll was started by V A Q.)
+15:26:07 (Audinory added the room alias 'tours'.)
+15:26:34 |raw|<div class="broadcast-blue"><b>VAQ is hosting a Tournament in <button name="joinroom" value="tours">This room</button> You will win the grand prize of: <em>A private room</em></b></div>
+15:30:11 |N|★Audinory|audinory
+15:30:20 |N|★Audinory|audinory
+15:31:36 |N|★Audinory|audinory
+15:31:58 |userstats|total:4|guests:0| :0|+:0|%:2|@:0|★:1|-:0|&:0|#:1|♥:0|~:0
+15:34:05 |J| shivamrustagi
+15:34:11 |c| shivamrustagi|haha
+15:34:17 |c| shivamrustagi|turned lobby into toru
+15:34:20 |c| shivamrustagi|room
+15:35:08 |J| ggdaca -
+15:35:47 |J| hitorihanza
+15:37:17 The poll timer was turned on: the poll will end in 2 minute(s).
+15:37:17 (The poll timer was set to 2 minute(s) by V A Q.)
+15:38:15 |N|★Audinory|audinory
+15:38:20 |N|★Audinory|audinory
+15:38:42 |N|★Audinory|audinory
+15:39:17 |html|<div class="infobox"><p style="margin: 2px 0 5px 0"><span style="border:1px solid #777;color:#555;border-radius:4px;padding:0 3px"><i class="fa fa-bar-chart"></i> Poll ended</span> <strong style="font-size:11pt">Tour Type?</strong></p><div style="margin-top: 3px">1. <strong>Random</strong> <small>(3 votes)</small><br /><span style="font-size:7pt;background:#79A;padding-right:180px"></span><small>&nbsp;60%</small></div><div style="margin-top: 3px">2. <strong>Smogon Based</strong> <small>(0 votes)</small><br /><span style="font-size:7pt;background:#8A8;padding-right:0px"></span><small>&nbsp;0%</small></div><div style="margin-top: 3px">3. <strong>Other Metas Based</strong> <small>(0 votes)</small><br /><span style="font-size:7pt;background:#88B;padding-right:0px"></span><small>&nbsp;0%</small></div><div style="margin-top: 3px">4. <strong>Inverse</strong> <small>(0 votes)</small><br /><span style="font-size:7pt;background:#79A;padding-right:0px"></span><small>&nbsp;0%</small></div><div style="margin-top: 3px">5. <strong>Host Chooses</strong> <small>(0 votes)</small><br /><span style="font-size:7pt;background:#8A8;padding-right:0px"></span><small>&nbsp;0%</small></div><div style="margin-top: 3px">6. <strong>Seasonal</strong> <small>(2 votes)</small><br /><span style="font-size:7pt;background:#88B;padding-right:120px"></span><small>&nbsp;40%</small></div></div>
+15:40:31 |c|★Audinory|!
+15:40:36 Audinory used /poll create Random Tour, Random Battle, Random Monotype, Battle Factory, Hackmons Cup, CC1v1, Gen 1 Randoms, Gen 2 Randoms
+15:40:36 (A poll was started by Audinory.)
+15:40:47 |c| ggdaca -|random monoo FTWWWWWW
+15:40:52 |c| hitorihanza|0.
+15:41:09 |c|★Audinory|!
+15:41:21 The poll timer was turned on: the poll will end in 1.5 minute(s).
+15:41:21 (The poll timer was set to 1.5 minute(s) by Audinory.)
+15:41:58 |userstats|total:7|guests:0| :2|+:0|%:2|@:0|★:1|-:0|&:0|#:1|♥:0|~:1
+15:42:51 |html|<div class="infobox"><p style="margin: 2px 0 5px 0"><span style="border:1px solid #777;color:#555;border-radius:4px;padding:0 3px"><i class="fa fa-bar-chart"></i> Poll ended</span> <strong style="font-size:11pt">Random Tour</strong></p><div style="margin-top: 3px">1. <strong>Random Battle</strong> <small>(0 votes)</small><br /><span style="font-size:7pt;background:#79A;padding-right:0px"></span><small>&nbsp;0%</small></div><div style="margin-top: 3px">2. <strong>Random Monotype</strong> <small>(2 votes)</small><br /><span style="font-size:7pt;background:#8A8;padding-right:201px"></span><small>&nbsp;67%</small></div><div style="margin-top: 3px">3. <strong>Battle Factory</strong> <small>(1 vote)</small><br /><span style="font-size:7pt;background:#88B;padding-right:99px"></span><small>&nbsp;33%</small></div><div style="margin-top: 3px">4. <strong>Hackmons Cup</strong> <small>(0 votes)</small><br /><span style="font-size:7pt;background:#79A;padding-right:0px"></span><small>&nbsp;0%</small></div><div style="margin-top: 3px">5. <strong>CC1v1</strong> <small>(0 votes)</small><br /><span style="font-size:7pt;background:#8A8;padding-right:0px"></span><small>&nbsp;0%</small></div><div style="margin-top: 3px">6. <strong>Gen 1 Randoms</strong> <small>(0 votes)</small><br /><span style="font-size:7pt;background:#88B;padding-right:0px"></span><small>&nbsp;0%</small></div><div style="margin-top: 3px">7. <strong>Gen 2 Randoms</strong> <small>(0 votes)</small><br /><span style="font-size:7pt;background:#79A;padding-right:0px"></span><small>&nbsp;0%</small></div></div>
+15:42:52 |c|%Andrrew|much excite
+15:43:38 |c|%Andrrew|so mono it is
+15:43:48 |c|%Andrrew|for a free private room
+15:44:06 |N|+hitorihanza|hitorihanza
+15:44:34 |tournament|create|monotyperandombattle|Single Elimination|0
+15:44:34 (V A Q created a tournament in monotyperandombattle format.)
+15:44:45 |tournament|join|hitorihanza
+15:44:56 |tournament|join|Audinory
+15:45:03 |tournament|join|Andrrew
+15:45:14 |J|&TheShankSkank
+15:45:18 |J| No Shaymin Fear
+15:45:19 |L|&TheShankSkank
+15:45:20 |tournament|join|No Shaymin Fear
+15:45:45 |tournament|join|ggdaca -
+15:45:50 |c| ggdaca -|mono rand ftw
+15:46:03 |c|#V A Q|>FTW!!!!
+15:46:06 |tournament|join|shivamrustagi
+15:46:21 |tournament|join|FocusBlasted
+15:46:51 |J|&Hirl123
+15:46:53 |tournament|join|Hirl123
+15:47:33 |N|+No Shaymin Fear|noshayminfear
+15:47:43 |c| ggdaca -|V A Q join
+15:47:43 |c| ggdaca -|imo
+15:47:49 |tournament|start
+15:47:51 |c|★Audinory|2bad
+15:47:53 |c|★Audinory|so sad
+15:47:56 |tournament|autodq|on|120000
+15:47:56 (The tournament auto disqualify timer was set to 2 by Audinory)
+15:47:58 |tournament|battlestart|ggdaca -|Hirl123|battle-monotyperandombattle-204
+15:47:59 |tournament|battlestart|hitorihanza|FocusBlasted|battle-monotyperandombattle-205
+15:47:59 |tournament|battlestart|shivamrustagi|Audinory|battle-monotyperandombattle-206
+15:48:47 |c|%Andrrew|looks like im waiting
+15:49:00 |c|+No Shaymin Fear|I gave you it
+15:49:02 |c|+No Shaymin Fear|:o
+15:49:22 |c|%Andrrew|you quit?
+15:49:25 |c|+No Shaymin Fear|no
+15:49:33 |c|%Andrrew|Oh
+15:49:35 |c|%Andrrew|k
+15:49:39 |c|+No Shaymin Fear|I sent you the battle request
+15:49:58 |c|%Andrrew|i dont see it
+15:50:07 |c|+No Shaymin Fear|;p
+15:50:17 |c|%Andrrew|aww
+15:50:23 |c|+No Shaymin Fear|you might get
+15:50:27 |c|+No Shaymin Fear|disqualified then
+15:50:27 |tournament|disqualify|Andrrew
+15:50:27 (Andrrew was disqualified from the tournament by V A Q)
+15:50:30 |c|+No Shaymin Fear|yeep.
+15:50:31 |c|+No Shaymin Fear|rip.
+15:50:54 |c|%Andrrew|rip
+15:51:12 No Shaymin Fear was promoted to Room Driver by V A Q.
+15:51:12 |N|%No Shaymin Fear|noshayminfear
+15:51:17 |c|#V A Q|gtg
+15:51:21 |c|%No Shaymin Fear|:O
+15:51:26 |c|%No Shaymin Fear|ive been
+15:51:28 |c|%No Shaymin Fear|drivered
+15:51:28 |c|%No Shaymin Fear|:D
+15:51:30 |c|%No Shaymin Fear|ty~!
+15:51:42 |c| shivamrustagi|gratz
+15:51:42 |tournament|battleend|ggdaca -|Hirl123|loss|0,4
+15:51:47 |c|%Andrrew|grats
+15:51:53 |c|&Hirl123|terrakion is too deadly
+15:51:56 |c|&Hirl123|gratz No Shaymin Fear
+15:51:58 |userstats|total:9|guests:0| :1|+:1|%:3|@:0|★:1|-:0|&:1|#:1|♥:0|~:1
+15:52:00 |tournament|battleend|hitorihanza|FocusBlasted|loss|0,6
+15:52:02 |c|%No Shaymin Fear|2 dead 4 u
+15:52:02 |c|%Andrrew|We need a mod tho to make new tours
+15:52:10 |tournament|battlestart|No Shaymin Fear|FocusBlasted|battle-monotyperandombattle-207
+15:52:11 (Hirl123 was demoted to Room Le Mod by Hirl123.)
+15:52:11 |N|@Hirl123|hirl123
+15:52:15 |c|@Hirl123|oh
+15:52:20 |c|@Hirl123|:^)
+15:52:28 |c| shivamrustagi|lol
+15:53:11 |c|@Hirl123|back to diep while im waiting
+15:53:15 |c|@Hirl123|hl me when the battles done
+15:53:17 |c| shivamrustagi|lol
+15:53:31 |c| shivamrustagi|hirl123 r u still a hirl 
+15:53:40 |c| shivamrustagi|or have u become a human finally
+15:53:50 |c|%Andrrew|still hirl ig?
+15:53:58 |c|%Andrrew|XD
+15:53:58 |c|@Hirl123|??
+15:54:21 |c| shivamrustagi|u used to call urself hirl if i remeber
+15:54:29 |c|@Hirl123|smh dont hl me .-.
+15:54:34 |c|@Hirl123|unless the battles over :/
+15:54:38 |c|%Andrrew|why
+15:54:41 |c|@Hirl123|im doing diep
+15:54:48 |c|%Andrrew|does hirl hl you
+15:54:51 |c|@Hirl123|too many people there, i can't lose the pentagons
+15:54:51 |c|@Hirl123|yes
+15:54:57 |c|%Andrrew|ok
+15:56:28 |c|%Andrrew|!topic
+15:56:28 |raw|<div class="infobox"><div style="border-top: gold, solid, 1px ;  border-left: gold, solid, 1px ; background-image: url('http://2.media.dorkly.cvcdn.com/81/32/9db00c195206418e5a3e20de138c38af.jpg') ; background-size: 85% ; background-repeat: no-repeat ; width: 100%; height: 250px ;"><img src="//i.imgur.com/HKpam0G.png" width="350" height="75"><div style="border-bottom: gold, solid, 1px ;   border-right: gold, solid, 1px ;   border-left: gold, solid, 1px ;  background-color: black ; float: right ; width: 15% ; height: 326px"><center><img src="http://img.pokemondb.net/sprites/black-white/anim/normal/gurdurr.gif" width="70" height="81"><br><img src="http://pldh.net/media/pokemon/gen3/rusa_action/073.gif" width="71" height="75"><br><img src="http://img.pokemondb.net/sprites/black-white/anim/normal/terrakion.gif" width="81" height="61"><br><img src="http://img.pokemondb.net/sprites/black-white/anim/normal/whimsicott.gif" width="64" height="71"></center></div></div><div style="border-top: gold, solid, 1px ; border-left: gold, solid, 1px ;   border-bottom: gold, solid, 1px ;  color: gold ; background-color:black ; width: 85% ; height: 75px ;"><center><strong><u>Welcome to Tournaments!</u></strong><br><br>Here you will find Official Tournaments where you can play for bucks or even some special prizes if V A Q can be bothered!</center></div></div>
+15:56:52 |tournament|battleend|shivamrustagi|Audinory|loss|0,4
+15:57:16 |tournament|disqualify|Hirl123
+15:57:37 |c|%Andrrew|why hirl? 
+15:57:53 |c|@Hirl123|diepio calls
+15:57:54 |tournament|battleend|No Shaymin Fear|FocusBlasted|win|2,0
+15:58:12 |c|%No Shaymin Fear|:o finals :o
+15:59:01 |c|★Audinory|same
+15:59:02 |c|★Audinory|time to choke
+15:59:05 |tournament|battlestart|Audinory|No Shaymin Fear|battle-monotyperandombattle-208
+15:59:32 |L|%FocusBlasted
+15:59:40 |L| shivamrustagi
+15:59:45 |L|@Hirl123
+15:59:51 |c|%Andrrew|I wonder what happens if audinory wins :o
+16:00:47 |L|%Andrrew
+16:00:49 |L|+hitorihanza
+16:00:51 |L|#V A Q
+16:01:01 |L|★Audinory
+16:01:07 |L|%No Shaymin Fear
+16:01:20 |J|#V A Q
+16:01:58 |userstats|total:2|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:1
+16:02:03 |L| ggdaca -
+16:02:20 |J| ggdaca -
+16:02:30 |J|%Andrrew
+16:02:35 |J|&TheShankSkank
+16:02:41 |L|&TheShankSkank
+16:04:26 |tournament|battleend|Audinory|No Shaymin Fear|draw|4,2|fail
+16:04:41 |J|★Audinory
+16:04:45 |c|★Audinory|:I
+16:04:53 |c| ggdaca -|check the c9
+16:04:54 |J|&TheShankSkank
+16:04:54 |c| ggdaca -|it will tell
+16:04:57 |c|&TheShankSkank|was
+16:04:58 |tournament|disqualify|No Shaymin Fear
+16:04:58 |tournament|end|{"results":[["Audinory"]],"format":"monotyperandombattle","generator":"Single Elimination","bracketData":{"type":"tree","rootNode":{"children":[{"children":[{"children":[{"children":[],"team":"shivamrustagi"},{"children":[],"team":"Audinory"}],"state":"finished","team":"Audinory","result":"loss","score":[0,4]},{"children":[{"children":[],"team":"ggdaca -"},{"children":[],"team":"Hirl123"}],"state":"finished","team":"Hirl123","result":"loss","score":[0,4]}],"state":"finished","team":"Audinory","result":"win","score":[1,0]},{"children":[{"children":[{"children":[],"team":"No Shaymin Fear"},{"children":[],"team":"Andrrew"}],"state":"finished","team":"No Shaymin Fear","result":"win","score":[1,0]},{"children":[{"children":[],"team":"hitorihanza"},{"children":[],"team":"FocusBlasted"}],"state":"finished","team":"FocusBlasted","result":"loss","score":[0,6]}],"state":"finished","team":"No Shaymin Fear","result":"win","score":[2,0]}],"state":"finished","team":"Audinory","result":"win","score":[1,0]}}}
+16:04:58 |raw|<b><font color='#088cc7'>Audinory</font> has won <font color='#088cc7'>2</font> bucks for winning the tournament!</b>
+16:04:58 (No Shaymin Fear was disqualified from the tournament by Audinory)
+16:05:03 |J|+hitorihanza
+16:05:04 |J|%No Shaymin Fear
+16:05:04 |c|★Audinory|k
+16:05:05 |c|&TheShankSkank|LMAO
+16:05:06 |c|%No Shaymin Fear|wtf.
+16:05:11 |c|★Audinory|Brooke
+16:05:14 |c| ggdaca -|i mean whut
+16:05:15 |c|★Audinory|next time you pull that shit
+16:05:15 |c|%No Shaymin Fear|.-.
+16:05:19 |c|★Audinory|ill demote your ass
+16:05:23 No Shaymin Fear used /poll create Other Metas, Battle Factory, Monotype, Hackmons Cup, Tier Shift, Inverse, STABMons, Monotype Random Battle, Tier Shift
+16:05:23 (A poll was started by No Shaymin Fear.)
+16:05:23 |c|&TheShankSkank|already on it
+16:05:25 |c|&TheShankSkank|roger roger
+16:05:27 |raw|<div class='chat'><small> </small><button name='parseCommand' value='/user ggdaca -' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#4070B0'>ggdaca -:</font></b></button><em class='mine'>no ill do it <img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/xaa.png" title="xaa" width="50" height="50" /></em></div>
+16:05:28 |c|★Audinory|:^]
+16:05:33 |c|%No Shaymin Fear|who did it
+16:05:36 |c|★Audinory|brooke
+16:05:43 |c|%No Shaymin Fear|whos brooke. 
+16:05:46 |c|&TheShankSkank|well
+16:05:46 |c| ggdaca -|riniti
+16:05:48 |c|&TheShankSkank|i can't actually
+16:05:49 |c| ggdaca -|aka TheShankSkank
+16:05:49 |c|&TheShankSkank|lmao
+16:05:51 |c|#V A Q|What happened
+16:05:52 |c|&TheShankSkank|so you gotta demote
+16:05:52 |c|%No Shaymin Fear|...
+16:05:52 |c|&TheShankSkank|kk
+16:05:57 |c|★Audinory|kk
+16:06:00 |c| ggdaca -|V A Q, nothing
+16:06:05 |c| ggdaca -|give Audinory the roon
+16:06:07 |c| ggdaca -|*room
+16:06:09 |c|★Audinory|n
+16:06:12 |c|★Audinory|i have one already
+16:06:13 |c|★Audinory|its made
+16:06:14 |c|★Audinory|:^]
+16:06:17 |c|&TheShankSkank|Audinory v No Shaymin Fear
+16:06:22 |c|&TheShankSkank|one final match to decide
+16:06:23 |c|&TheShankSkank|kk
+16:06:31 |c|%No Shaymin Fear|!poll display
+16:06:40 |L|&TheShankSkank
+16:06:58 |c|%No Shaymin Fear|I voted monotype
+16:07:00 |c|%No Shaymin Fear|because monotype
+16:07:32 |c|%Andrrew|STABmons! Go go go!
+16:07:41 |c|%No Shaymin Fear|because monotype
+16:07:44 |c|%No Shaymin Fear|!poll display
+16:07:59 |html|<div class="infobox"><p style="margin: 2px 0 5px 0"><span style="border:1px solid #777;color:#555;border-radius:4px;padding:0 3px"><i class="fa fa-bar-chart"></i> Poll ended</span> <strong style="font-size:11pt">Other Metas</strong></p><div style="margin-top: 3px">1. <strong>Battle Factory</strong> <small>(2 votes)</small><br /><span style="font-size:7pt;background:#79A;padding-right:120px"></span><small>&nbsp;40%</small></div><div style="margin-top: 3px">2. <strong>Monotype</strong> <small>(1 vote)</small><br /><span style="font-size:7pt;background:#8A8;padding-right:60px"></span><small>&nbsp;20%</small></div><div style="margin-top: 3px">3. <strong>Hackmons Cup</strong> <small>(0 votes)</small><br /><span style="font-size:7pt;background:#88B;padding-right:0px"></span><small>&nbsp;0%</small></div><div style="margin-top: 3px">4. <strong>Tier Shift</strong> <small>(0 votes)</small><br /><span style="font-size:7pt;background:#79A;padding-right:0px"></span><small>&nbsp;0%</small></div><div style="margin-top: 3px">5. <strong>Inverse</strong> <small>(1 vote)</small><br /><span style="font-size:7pt;background:#8A8;padding-right:60px"></span><small>&nbsp;20%</small></div><div style="margin-top: 3px">6. <strong>STABMons</strong> <small>(0 votes)</small><br /><span style="font-size:7pt;background:#88B;padding-right:0px"></span><small>&nbsp;0%</small></div><div style="margin-top: 3px">7. <strong>Monotype Random Battle</strong> <small>(1 vote)</small><br /><span style="font-size:7pt;background:#79A;padding-right:60px"></span><small>&nbsp;20%</small></div><div style="margin-top: 3px">8. <strong>Tier Shift</strong> <small>(0 votes)</small><br /><span style="font-size:7pt;background:#8A8;padding-right:0px"></span><small>&nbsp;0%</small></div></div>
+16:07:59 (The poll was ended by No Shaymin Fear.)
+16:08:04 |c|%No Shaymin Fear|battle factory
+16:08:05 |c|%No Shaymin Fear|it is
+16:08:46 |tournament|create|battlefactory|Single Elimination|0
+16:08:46 (V A Q created a tournament in battlefactory format.)
+16:08:52 |tournament|join|ggdaca -
+16:09:00 |tournament|join|No Shaymin Fear
+16:09:10 |c| ggdaca -|/announce winner gets umm.. a private room! since the last one was a fluke.. clearly
+16:09:17 |tournament|join|hitorihanza
+16:09:30 |c|%No Shaymin Fear|I don't even
+16:09:31 |c|%No Shaymin Fear|.-.
+16:09:46 |c|#V A Q|._.
+16:09:52 |c|#V A Q|ill be afk
+16:09:59 |c|#V A Q|hl if you need me
+16:10:02 |c| ggdaca -|.-.
+16:10:25 Andrrew was promoted to Room Le Mod by V A Q.
+16:10:25 |N|@Andrrew|andrrew
+16:10:34 |c|#V A Q|make tours k andrew?
+16:10:43 |c|@Andrrew|k
+16:10:46 |J| shivamrustagi
+16:10:48 |tournament|join|shivamrustagi
+16:10:54 |c| ggdaca -|u know that there are 2 admins and a roomdriver in the room
+16:10:55 |raw|<div class='chat'><small> </small><button name='parseCommand' value='/user ggdaca -' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#4070B0'>ggdaca -:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/xaa.png" title="xaa" width="50" height="50" /></em></div>
+16:11:07 |c|#V A Q|But
+16:11:15 |c| shivamrustagi|wat ?
+16:11:29 |c|@Andrrew|Hes afk
+16:11:48 |tournament|join|Audinory
+16:11:58 |userstats|total:7|guests:0| :1|+:1|%:1|@:1|★:1|-:0|&:0|#:1|♥:0|~:1
+16:12:24 |L|%No Shaymin Fear
+16:12:40 |J|%No Shaymin Fear
+16:14:26 |L|%No Shaymin Fear
+16:15:05 |J|%No Shaymin Fear
+16:15:10 |L|%No Shaymin Fear
+16:15:33 |c|@Andrrew|no one else?
+16:15:40 |tournament|start
+16:15:53 |tournament|disqualify|ggdaca -
+16:16:04 |tournament|battlestart|Audinory|shivamrustagi|battle-battlefactory-210
+16:16:10 |c|@Andrrew|why ggdaca lol
+16:16:51 |J|+No Shaymin Fear
+16:16:56 |tournament|battlestart|No Shaymin Fear|hitorihanza|battle-battlefactory-211
+16:17:22 |J|%FocusBlasted
+16:17:23 |c| ggdaca -|cuz i dont feel like fite
+16:18:07 No Shaymin Fear was promoted to Room Driver by V A Q.
+16:18:07 |N|%No Shaymin Fear|noshayminfear
+16:18:12 |c|%No Shaymin Fear|ty~
+16:18:16 |c|#V A Q|np
+16:18:23 |c|#V A Q|AFK PLS HL ME
+16:18:28 |c| ggdaca -|V A Q
+16:18:35 |raw|<div class='chat'><small> </small><button name='parseCommand' value='/user ggdaca -' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#4070B0'>ggdaca -:</font></b></button><em class='mine'>there u go <img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsok.png" title="feelsok" width="50" height="50" /></em></div>
+16:18:35 |c|#V A Q|yes?
+16:18:40 |c|#V A Q|K
+16:18:42 |c| ggdaca -|u said pls hl me
+16:18:43 |c| ggdaca -|lolface
+16:18:49 |raw|<div class='chat'><small>#</small><button name='parseCommand' value='/user V A Q' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#A449AE'>V A Q:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/yayface.png" title="yayface" width="50" height="50" /></em></div>
+16:21:58 |userstats|total:8|guests:0| :1|+:1|%:2|@:1|★:1|-:0|&:0|#:1|♥:0|~:1
+16:22:47 |L|#V A Q
+16:23:28 |tournament|battleend|No Shaymin Fear|hitorihanza|loss|0,1
+16:23:33 |L|★Audinory
+16:23:39 |c|%No Shaymin Fear|fucking empoleon
+16:23:44 |c|%No Shaymin Fear|.-.
+16:23:50 |c|@Andrrew|._???
+16:23:58 |L|%No Shaymin Fear
+16:24:07 |c|+hitorihanza|woah sorry man gg was not expecting that
+16:24:37 |J|#V A Q
+16:25:00 |J|%No Shaymin Fear
+16:25:04 No Shaymin Fear used /poll create Tour Type?, Random, Smogon Based, Other Metas Based, Inverse, Host Chooses, Seasonal
+16:25:04 (A poll was started by No Shaymin Fear.)
+16:26:19 |N|%FocusBlasted - ⓔⓐⓣ|focusblasted
+16:26:19 |N|%FocusBlasted - ⓔⓐⓣ|focusblasted
+16:26:29 |tournament|battleend|Audinory|shivamrustagi|win|2,0
+16:26:38 |J|★Audinory
+16:26:44 |tournament|battlestart|Audinory|hitorihanza|battle-battlefactory-212
+16:27:58 |L|@Andrrew
+16:27:58 |L|#V A Q
+16:28:55 |J|@Andrrew
+16:31:58 |userstats|total:7|guests:0| :1|+:1|%:2|@:1|★:1|-:0|&:0|#:0|♥:0|~:1
+16:33:26 |tournament|battleend|Audinory|hitorihanza|win|2,0
+16:33:26 |tournament|end|{"results":[["Audinory"]],"format":"battlefactory","generator":"Single Elimination","bracketData":{"type":"tree","rootNode":{"children":[{"children":[{"children":[{"children":[],"team":"ggdaca -"},{"children":[],"team":"Audinory"}],"state":"finished","team":"Audinory","result":"loss","score":[0,1]},{"children":[],"team":"shivamrustagi"}],"state":"finished","team":"Audinory","result":"win","score":[2,0]},{"children":[{"children":[],"team":"No Shaymin Fear"},{"children":[],"team":"hitorihanza"}],"state":"finished","team":"hitorihanza","result":"loss","score":[0,1]}],"state":"finished","team":"Audinory","result":"win","score":[2,0]}}}
+16:33:26 |raw|<b><font color='#088cc7'>Audinory</font> has won <font color='#088cc7'>1</font> buck for winning the tournament!</b>
+16:33:33 |c|★Audinory|gg
+16:34:24 |J|#V A Q
+16:34:37 |c|+hitorihanza|yup~ gg. ^-^
+16:34:38 |L|+hitorihanza
+16:36:29 |L| ggdaca -
+16:37:07 |N|#V A Q - ⓑⓤⓢⓨ|vaq
+16:37:07 |N|#V A Q - ⓑⓤⓢⓨ|vaq
+16:41:58 |userstats|total:6|guests:0| :1|+:0|%:2|@:1|★:1|-:0|&:0|#:1|♥:0|~:0
+16:42:38 |N|★Audinory|audinory
+16:48:15 |N|%FocusBlasted|focusblasted
+16:48:15 |N|%FocusBlasted|focusblasted
+16:48:18 |L|%FocusBlasted
+16:50:01 |J|%FocusBlasted
+16:51:31 |L|%No Shaymin Fear
+16:51:58 |userstats|total:5|guests:0| :1|+:0|%:1|@:1|★:1|-:0|&:0|#:1|♥:0|~:0
+17:01:58 |userstats|total:5|guests:0| :1|+:0|%:1|@:1|★:1|-:0|&:0|#:1|♥:0|~:0
+17:10:42 |L| shivamrustagi
+17:11:58 |userstats|total:4|guests:0| :0|+:0|%:1|@:1|★:1|-:0|&:0|#:1|♥:0|~:0
+17:12:00 |J|@DarkAngeallenq.q
+17:15:28 |N|#V A Q|vaq
+17:15:28 |N|#V A Q|vaq
+17:15:28 |L|#V A Q
+17:15:28 |L|@Andrrew
+17:18:19 |N|%FocusBlasted - ⓢⓐⓓ|focusblasted
+17:18:19 |N|%FocusBlasted - ⓢⓐⓓ|focusblasted
+17:18:35 |J|#V A Q
+17:20:18 |N|%FocusBlasted|focusblasted
+17:20:18 |N|%FocusBlasted|focusblasted
+17:21:43 |L|#V A Q
+17:21:58 |userstats|total:3|guests:0| :0|+:0|%:1|@:1|★:1|-:0|&:0|#:0|♥:0|~:0
+17:27:38 |J|#V A Q
+17:31:00 |N|%FocusBlasted - ⓐⓝⓘ|focusblasted
+17:31:00 |N|%FocusBlasted - ⓐⓝⓘ|focusblasted
+17:31:41 |L|#V A Q
+17:31:58 |userstats|total:3|guests:0| :0|+:0|%:1|@:1|★:1|-:0|&:0|#:0|♥:0|~:0
+17:33:05 |J|#V A Q
+17:34:37 |N|#V A Q - ⓛⓐⓖⓖⓘⓝⓖ|vaq
+17:34:37 |N|#V A Q - ⓛⓐⓖⓖⓘⓝⓖ|vaq
+17:34:48 |N|#V A Q - ⓛⓐⓖⓜⓐⓢⓣⓔⓡ|vaq
+17:34:48 |N|#V A Q - ⓛⓐⓖⓜⓐⓢⓣⓔⓡ|vaq
+17:35:12 |N|#V A Q|vaq
+17:35:12 |N|#V A Q|vaq
+17:41:58 |userstats|total:4|guests:0| :0|+:0|%:1|@:1|★:1|-:0|&:0|#:1|♥:0|~:0
+17:44:02 |L|#V A Q
+17:48:12 |J|@Hirl123
+17:48:17 |L|@Hirl123
+17:48:35 |J| shivamrustagi
+17:48:48 |J|@Hirl123
+17:48:56 |c|@Hirl123|k shivam wat y want
+17:49:08 |c| shivamrustagi|well do a challanger 1 vs 1
+17:49:20 |c| shivamrustagi|and keep prize as a private room :3 
+17:49:23 |c| shivamrustagi|if u want
+17:49:47 |tournament|create|challengecup1v1|Single Elimination|0
+17:49:47 (Hirl123 created a tournament in challengecup1v1 format.)
+17:49:51 |tournament|join|shivamrustagi
+17:50:26 |J|%Hurricane'd
+17:50:40 |J| Lunterik
+17:50:43 |tournament|join|Lunterik
+17:50:51 |tournament|join|Hurricane'd
+17:51:03 |J|#V A Q
+17:51:17 |c|#V A Q|Im back
+17:51:26 |c|#V A Q|Whats the reward?
+17:51:27 |tournament|join|FocusBlasted - ⓐⓝⓘ
+17:51:35 |c| shivamrustagi|private room if Audinory
+17:51:38 |c| shivamrustagi|agrees
+17:51:40 |c|★Audinory|no
+17:51:44 |c|★Audinory|its 100 shekels
+17:51:47 |c| shivamrustagi|ok
+17:51:48 |tournament|join|DarkAngeallenq.q
+17:51:53 |c| shivamrustagi|one or the same thing
+17:51:55 |c| shivamrustagi|isnt it
+17:51:58 |userstats|total:8|guests:0| :2|+:0|%:2|@:2|★:1|-:0|&:0|#:1|♥:0|~:0
+17:52:04 |c| shivamrustagi|with 100 dollars we can buy a room
+17:52:13 |c|#V A Q|ok 
+17:53:59 |c|★Audinory|100 dollars isnt private
+17:54:00 |c|★Audinory|lmao
+17:54:59 |J|+hitorihanza
+17:55:02 |tournament|join|hitorihanza
+17:55:08 |c| shivamrustagi|then?
+17:55:18 |c| shivamrustagi|how much for private room
+17:55:21 |c| shivamrustagi|Audinory
+17:55:30 |c| shivamrustagi|oh sorry 
+17:55:30 |c|★Audinory|its not buyable
+17:57:44 |c|%Hurricane'd|Can we strat already
+17:57:52 |c|%Hurricane'd|>strat
+17:57:52 |c|%Hurricane'd|Gj me
+18:00:11 |c| shivamrustagi|V A Q 
+18:00:15 |c| shivamrustagi|can u put a timer
+18:00:19 |c|@DarkAngeallenq.q|Smh
+18:00:34 |tournament|autostart|on|180000
+18:00:34 (The tournament auto start timer was set to 3 by DarkAngeallenq.q)
+18:00:46 |tournament|autostart|on|60000
+18:00:46 (The tournament auto start timer was set to 1 by DarkAngeallenq.q)
+18:00:53 |tournament|autodq|on|90000
+18:00:53 (The tournament auto disqualify timer was set to 1.5 by DarkAngeallenq.q)
+18:01:46 |tournament|start
+18:01:53 |tournament|battlestart|hitorihanza|DarkAngeallenq.q|battle-challengecup1v1-217
+18:01:58 |userstats|total:9|guests:0| :2|+:1|%:2|@:2|★:1|-:0|&:0|#:1|♥:0|~:0
+18:04:16 |tournament|battleend|hitorihanza|DarkAngeallenq.q|loss|0,1
+18:04:16 |tournament|disqualify|Lunterik
+18:04:16 |tournament|disqualify|Hurricane'd
+18:05:12 |N|★Audinory|audinory
+18:05:14 |tournament|battlestart|FocusBlasted - ⓐⓝⓘ|shivamrustagi|battle-challengecup1v1-218
+18:05:23 |N|★Audinory|audinory
+18:05:29 |N|★Audinory|audinory
+18:05:53 |N|★Audinory|audinory
+18:05:56 |N|★Audinory|audinory
+18:06:21 |N|★Audinory|audinory
+18:06:26 |tournament|battleend|FocusBlasted - ⓐⓝⓘ|shivamrustagi|loss|0,1
+18:07:01 |tournament|battlestart|shivamrustagi|DarkAngeallenq.q|battle-challengecup1v1-219
+18:09:45 |tournament|battleend|shivamrustagi|DarkAngeallenq.q|win|1,0
+18:09:45 |tournament|end|{"results":[["shivamrustagi"]],"format":"challengecup1v1","generator":"Single Elimination","bracketData":{"type":"tree","rootNode":{"children":[{"children":[{"children":[{"children":[],"team":"FocusBlasted - ⓐⓝⓘ"},{"children":[],"team":"Lunterik"}],"state":"finished","team":"FocusBlasted - ⓐⓝⓘ","result":"win","score":[1,0]},{"children":[{"children":[],"team":"Hurricane'd"},{"children":[],"team":"shivamrustagi"}],"state":"finished","team":"shivamrustagi","result":"loss","score":[0,1]}],"state":"finished","team":"shivamrustagi","result":"loss","score":[0,1]},{"children":[{"children":[],"team":"hitorihanza"},{"children":[],"team":"DarkAngeallenq.q"}],"state":"finished","team":"DarkAngeallenq.q","result":"loss","score":[0,1]}],"state":"finished","team":"shivamrustagi","result":"win","score":[1,0]}}}
+18:09:45 |raw|<b><font color='#088cc7'>shivamrustagi</font> has won <font color='#088cc7'>2</font> bucks for winning the tournament!</b>
+18:09:48 |N| Audinorye Dolla|audinory
+18:09:56 |c| shivamrustagi|Audinorye Dolla
+18:10:01 |c| shivamrustagi|100 bucks 
+18:10:04 |c| shivamrustagi|for winning
+18:10:07 |N|★Audinory|audinoryedolla
+18:10:18 |c| shivamrustagi|Audinory
+18:10:23 |c| shivamrustagi|100 bucks ;3
+18:10:37 |c|#V A Q|oh really
+18:10:41 |c| shivamrustagi|yes see
+18:10:47 |c| shivamrustagi|tour chat above
+18:10:50 |c| shivamrustagi|kevvy said
+18:10:55 |c|#V A Q|ok
+18:10:58 |c| shivamrustagi|he wud give 100 shekels 
+18:11:12 |c| shivamrustagi|i won so i shud get ;3
+18:11:58 |userstats|total:9|guests:0| :2|+:1|%:2|@:2|★:1|-:0|&:0|#:1|♥:0|~:0
+18:12:08 |c|#V A Q|Chill the flood pld
+18:12:33 |c|#V A Q|Audinory knows about your prize
+18:12:50 |c| shivamrustagi|ok
+18:13:08 |c| shivamrustagi|bro i am not flooding
+18:15:25 |L|+hitorihanza
+18:17:26 |c|%Hurricane'd|O oops. I had to go and forgot about tour
+18:17:28 |c|%Hurricane'd|Oh well
+18:17:35 |c| shivamrustagi|lol
+18:17:52 |c|#V A Q|shivam
+18:18:04 |c|#V A Q|you wrote 100 bucks twice in 4 lines
+18:18:24 |c| shivamrustagi|ok sorry 
+18:18:38 |c|#V A Q|it ok
+18:21:25 |L|%Hurricane'd
+18:21:58 |userstats|total:7|guests:0| :2|+:0|%:1|@:2|★:1|-:0|&:0|#:1|♥:0|~:0
+18:31:16 |L|@Hirl123
+18:31:58 |userstats|total:6|guests:0| :2|+:0|%:1|@:1|★:1|-:0|&:0|#:1|♥:0|~:0
+18:34:45 |L| shivamrustagi
+18:41:58 |userstats|total:5|guests:0| :1|+:0|%:1|@:1|★:1|-:0|&:0|#:1|♥:0|~:0
+18:48:06 |L|★Audinory
+18:51:08 |L| Lunterik
+18:51:58 |userstats|total:3|guests:0| :0|+:0|%:1|@:1|★:0|-:0|&:0|#:1|♥:0|~:0
+19:01:58 |userstats|total:3|guests:0| :0|+:0|%:1|@:1|★:0|-:0|&:0|#:1|♥:0|~:0
+19:10:41 |J|+Fairy Of Valor
+19:11:58 |userstats|total:4|guests:0| :0|+:1|%:1|@:1|★:0|-:0|&:0|#:1|♥:0|~:0
+19:21:58 |userstats|total:4|guests:0| :0|+:1|%:1|@:1|★:0|-:0|&:0|#:1|♥:0|~:0
+19:23:50 |L|#V A Q
+19:31:58 |userstats|total:3|guests:0| :0|+:1|%:1|@:1|★:0|-:0|&:0|#:0|♥:0|~:0
+19:32:21 |J|~The Sakurai
+19:32:24 |L|~The Sakurai
+19:41:58 |userstats|total:3|guests:0| :0|+:1|%:1|@:1|★:0|-:0|&:0|#:0|♥:0|~:0
+19:43:05 |L|@DarkAngeallenq.q
+19:43:18 |L|%FocusBlasted - ⓐⓝⓘ
+19:51:58 |userstats|total:1|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+19:57:29 |J|@Andrrew
+20:01:58 |userstats|total:2|guests:0| :0|+:1|%:0|@:1|★:0|-:0|&:0|#:0|♥:0|~:0
+20:11:58 |userstats|total:2|guests:0| :0|+:1|%:0|@:1|★:0|-:0|&:0|#:0|♥:0|~:0
+20:18:12 NEW CHATROOM: tournaments
+20:21:58 |userstats|total:2|guests:0| :0|+:1|%:0|@:1|★:0|-:0|&:0|#:0|♥:0|~:0
+20:28:53 |L|+Fairy Of Valor
+20:30:05 NEW CHATROOM: tournaments
+20:33:45 NEW CHATROOM: tournaments
+20:43:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+20:53:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+21:03:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+21:12:22 |J|#V A Q
+21:12:27 |L|#V A Q
+21:13:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+21:23:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+21:33:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+21:43:45 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+21:46:13 |raw|<div class="broadcast-red"><b>The server is restarting soon.</b><br />Please finish your battles quickly. No new battles can be started until the server resets in a few minutes.</div>
+21:46:32 NEW CHATROOM: tournaments
+21:46:46 NEW CHATROOM: tournaments
+21:50:31 |J|+hitorihanza
+21:50:35 |L|+hitorihanza
+21:56:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+21:56:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:06:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:06:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:16:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:16:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:24:28 |J|#V A Q
+22:24:34 |L|#V A Q
+22:26:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:26:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:36:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:36:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:46:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:46:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:53:01 |J|&verizor
+22:53:15 verizor was appointed Room Lord by verizor.
+22:53:15 |N|#verizor|verizor
+22:53:55 (vaq was demoted to Room regular user by verizor.)
+22:56:32 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:0
+22:56:44 |J|@DarkAngeallenq.q
+22:56:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:57:09 |J|★Audinory
+22:57:11 |c|★Audinory|!
+22:57:27 |c|#verizor|!!!
+22:57:29 verizor used /poll create Tour Type?, Random, Smogon Based, Other Metas Based, Inverse, Host Chooses, Seasonal
+22:57:29 (A poll was started by verizor.)
+23:02:01 (verizor changed the roomdesc to: "You play tours here. And you win stuff. So yeah.".)
+23:06:32 |userstats|total:3|guests:0| :0|+:0|%:0|@:1|★:1|-:0|&:0|#:1|♥:0|~:0
+23:06:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+23:07:14 |c|@DarkAngeallenq.q|No tour? ;-;
+23:08:12 (verizor changed the roomintro.)
+23:08:12 <div style="border-top: gold, solid, 1px ; border-left: gold, solid, 1px ; background-image: url('http://2.media.dorkly.cvcdn.com/81/32/9db00c195206418e5a3e20de138c38af.jpg') ; background-size: 85% ; background-repeat: no-repeat ; width: 100%; height: 250px ;"><img src="//i.imgur.com/HKpam0G.png" width="350" height="75"><div style="border-bottom: gold, solid, 1px ; border-right: gold, solid, 1px ; border-left: gold, solid, 1px ; background-color: black ; float: right ; width: 15% ; height: 326px"><center><img src="http://img.pokemondb.net/sprites/black-white/anim/normal/gurdurr.gif" width="70" height="81"><br><img src="http://pldh.net/media/pokemon/gen3/rusa_action/073.gif" width="71" height="75"><br><img src="http://img.pokemondb.net/sprites/black-white/anim/normal/terrakion.gif" width="81" height="61"><br><img src="http://img.pokemondb.net/sprites/black-white/anim/normal/whimsicott.gif" width="64" height="71"></center></div></div><div style="border-top: gold, solid, 1px ; border-left: gold, solid, 1px ; border-bottom: gold, solid, 1px ; color: gold ; background-color:black ; width: 85% ; height: 75px ;"><center><strong><u>Welcome to Tournaments!</u></strong><br><br>Here you will find Official Tournaments where you can play for bucks or even some special prizes if verizor can be bothered!</center></div>
+23:08:31 |c|#verizor|Well
+23:08:37 |c|#verizor|No ones coming
+23:08:45 |c|@DarkAngeallenq.q|Oki ^,^
+23:16:32 |userstats|total:3|guests:0| :0|+:0|%:0|@:1|★:1|-:0|&:0|#:1|♥:0|~:0
+23:16:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+23:21:47 |J|@Mystifi - ⒶⓌⒶⓎ
+23:21:50 |L|@Mystifi - ⒶⓌⒶⓎ
+23:26:32 |userstats|total:3|guests:0| :0|+:0|%:0|@:1|★:1|-:0|&:0|#:1|♥:0|~:0
+23:26:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+23:36:32 |userstats|total:3|guests:0| :0|+:0|%:0|@:1|★:1|-:0|&:0|#:1|♥:0|~:0
+23:36:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+23:46:32 |userstats|total:3|guests:0| :0|+:0|%:0|@:1|★:1|-:0|&:0|#:1|♥:0|~:0
+23:46:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+23:56:32 |userstats|total:3|guests:0| :0|+:0|%:0|@:1|★:1|-:0|&:0|#:1|♥:0|~:0
+23:56:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0

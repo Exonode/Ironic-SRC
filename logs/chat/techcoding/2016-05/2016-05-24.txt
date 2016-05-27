@@ -1,0 +1,34 @@
+23:28:51 NEW CHATROOM: techcoding
+23:29:07 |J|+kingDeacon
+23:29:17 |J|&V A Q
+23:29:40 kingDeacon was appointed Room Lord by V A Q.
+23:29:40 |N|#kingDeacon|kingdeacon
+23:30:00 |c|#kingDeacon|thanks
+23:30:08 |c|&V A Q|!roomhelp
+23:30:08 |raw|<div class="infobox">Room drivers (%) can use:<br />- /warn OR /k <em>username</em>: warn a user and show the Pok&eacute;mon Showdown rules<br />- /mute OR /m <em>username</em>: 7 minute mute<br />- /hourmute OR /hm <em>username</em>: 60 minute mute<br />- /unmute <em>username</em>: unmute<br />- /announce OR /wall <em>message</em>: make an announcement<br />- /modlog <em>username</em>: search the moderator log of the room<br />- /modnote <em>note</em>: adds a moderator note that can be read through modlog<br /><br />Room moderators (@) can also use:<br />- /roomban OR /rb <em>username</em>: bans user from the room<br />- /roomunban <em>username</em>: unbans user from the room<br />- /roomvoice <em>username</em>: appoint a room voice<br />- /roomdevoice <em>username</em>: remove a room voice<br />- /modchat <em>[off/autoconfirmed/+]</em>: set modchat level<br />- /staffintro <em>intro</em>: sets the staff introduction that will be displayed for all staff joining the room<br /><br />Room owners (#) can also use:<br />- /roomintro <em>intro</em>: sets the room introduction that will be displayed for all users joining the room<br />- /rules <em>rules link</em>: set the room rules link seen when using /rules<br />- /roommod, /roomdriver <em>username</em>: appoint a room moderator/driver<br />- /roomdemod, /roomdedriver <em>username</em>: remove a room moderator/driver<br />- /roomdeauth <em>username</em>: remove all room auth from a user<br />- /modchat <em>[%/@/#]</em>: set modchat level<br />- /declare <em>message</em>: make a large blue declaration to the room<br />- !htmlbox <em>HTML code</em>: broadcasts a box of HTML code to the room<br />- !showimage <em>[url], [width], [height]</em>: shows an image to the room<br /><br />More detailed help can be found in the <a href="https://www.smogon.com/sim/roomauth_guide">roomauth guide</a><br /><br />Tournament Help:<br />- /tour create <em>format</em>, elimination: Creates a new single elimination tournament in the current room.<br />- /tour create <em>format</em>, roundrobin: Creates a new round robin tournament in the current room.<br />- /tour end: Forcibly ends the tournament in the current room<br />- /tour start: Starts the tournament in the current room<br /><br />More detailed help can be found <a href="https://gist.github.com/verbiage/0846a552595349032fbe">here</a><br /></div></div>
+23:30:25 |c|&V A Q|pm me if you need more help
+23:31:01 (V A Q changed the roomdesc to: "Code bots and other technical things.".)
+23:33:23 (V A Q changed the roomintro.)
+23:33:23 <b> Welcome to Tech & Coding. </b>
+23:34:30 |c|#kingDeacon|thanks
+23:34:44 |c|#kingDeacon|ill do the intro myself
+23:35:13 |c|&V A Q|k
+23:37:24 |J|@DarkAngeallenq.q
+23:37:41 |L|@DarkAngeallenq.q
+23:38:51 |userstats|total:2|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:1|#:1|♥:0|~:0
+23:39:01 |L|&V A Q
+23:39:08 |J|&V A Q
+23:41:02 (kingDeacon changed the roomintro.)
+23:41:02 <b> Welcome to Tech & Coding. </b> Please feel free to bring bots or share techinal information. <b> NOTE: WE DO NOT ALLOW OR CONDONE HACKING OR USERS OR SERVERS. </b>
+23:44:11 (kingDeacon changed the roomintro.)
+23:44:11 <center> <b> Welcome to Tech & Coding. </b> </center> Please feel free to bring bots or share techinal information. <b> NOTE: WE DO NOT ALLOW OR CONDONE HACKING OR USERS OR SERVERS. </b>
+23:48:51 |userstats|total:2|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:1|#:1|♥:0|~:0
+23:49:55 (kingDeacon changed the roomintro.)
+23:49:55 <center> <b> Welcome to Tech & Coding. </b> </center> <break> Please feel free to bring bots or share techinal information. <b> NOTE: WE DO NOT ALLOW OR CONDONE HACKING OR USERS OR SERVERS. </b>
+23:50:37 (kingDeacon changed the roomintro.)
+23:50:37 <center> <b> Welcome to Tech & Coding. </b> </center> <break> Please feel free to bring bots or share techinal information.</break> <b> NOTE: WE DO NOT ALLOW OR CONDONE HACKING OR USERS OR SERVERS. </b>
+23:53:18 (kingDeacon changed the roomintro.)
+23:53:18 <center> <b> Welcome to Tech & Coding. </b> </center> <h1>Please feel free to bring bots or share techinal information. </h1> <b> NOTE: WE DO NOT ALLOW OR CONDONE HACKING OR USERS OR SERVERS. </b>
+23:54:38 |raw|<div class="broadcast-blue"><b>Tournament in <button name="joinRoom" value="tournaments">In Here</button><br>For bucks yo!</b></div>
+23:55:26 |raw|<div class="broadcast-blue"><b>oh its monotype [inverse] btw</b></div>
+23:58:51 |userstats|total:2|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:1|#:1|♥:0|~:0

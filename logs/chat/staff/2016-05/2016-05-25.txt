@@ -1,0 +1,662 @@
+02:32:32 NEW CHATROOM: staff
+02:32:38 |J|%Chief Sokka
+02:32:46 |J|~Audinory
+02:33:14 |J|&V A Q
+02:35:21 |N|~Audinory - ⓒⓞⓓⓔ|audinory
+02:35:21 |N|~Audinory - ⓒⓞⓓⓔ|audinory
+02:42:32 |userstats|total:3|guests:0| :0|+:0|%:1|@:0|★:0|-:0|&:1|#:0|♥:0|~:1
+02:52:32 |userstats|total:3|guests:0| :0|+:0|%:1|@:0|★:0|-:0|&:1|#:0|♥:0|~:1
+03:00:38 |L|&V A Q
+03:01:02 |J|&V A Q
+03:02:32 |userstats|total:3|guests:0| :0|+:0|%:1|@:0|★:0|-:0|&:1|#:0|♥:0|~:1
+03:12:32 |userstats|total:3|guests:0| :0|+:0|%:1|@:0|★:0|-:0|&:1|#:0|♥:0|~:1
+03:16:54 |c|&V A Q|bye Audinory
+03:17:02 |c|&V A Q|i gotta go now
+03:17:03 |J|%Ambah
+03:17:33 |L|&V A Q
+03:22:32 |userstats|total:3|guests:0| :0|+:0|%:2|@:0|★:0|-:0|&:0|#:0|♥:0|~:1
+03:25:16 |J|&V A Q
+03:25:39 |L|~Audinory - ⓒⓞⓓⓔ
+03:25:49 |c|&V A Q|Audinory?
+03:26:04 |c|&V A Q|Did you need me for a sec?
+03:26:28 |L|&V A Q
+03:32:32 |userstats|total:2|guests:0| :0|+:0|%:2|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+03:36:39 |J|~Audinory - ⓒⓞⓓⓔ
+03:42:32 |userstats|total:3|guests:0| :0|+:0|%:2|@:0|★:0|-:0|&:0|#:0|♥:0|~:1
+03:52:32 |userstats|total:3|guests:0| :0|+:0|%:2|@:0|★:0|-:0|&:0|#:0|♥:0|~:1
+03:53:44 |J|@Mystifi
+03:56:02 |J|@Ithi
+04:02:32 |userstats|total:5|guests:0| :0|+:0|%:2|@:2|★:0|-:0|&:0|#:0|♥:0|~:1
+04:12:32 |userstats|total:5|guests:0| :0|+:0|%:2|@:2|★:0|-:0|&:0|#:0|♥:0|~:1
+04:13:18 NEW CHATROOM: staff
+04:13:21 |J|@Ithi
+04:13:28 |J|~Audinory
+04:13:31 |L|~Audinory
+04:13:33 |J|~Audinory
+04:14:07 |J|%Ambah
+04:23:18 |userstats|total:3|guests:0| :0|+:0|%:1|@:1|★:0|-:0|&:0|#:0|♥:0|~:1
+04:33:18 |userstats|total:3|guests:0| :0|+:0|%:1|@:1|★:0|-:0|&:0|#:0|♥:0|~:1
+04:35:19 |J|@Connni
+04:35:23 |L|@Connni
+04:43:18 |userstats|total:3|guests:0| :0|+:0|%:1|@:1|★:0|-:0|&:0|#:0|♥:0|~:1
+04:53:18 |userstats|total:3|guests:0| :0|+:0|%:1|@:1|★:0|-:0|&:0|#:0|♥:0|~:1
+05:03:18 |userstats|total:3|guests:0| :0|+:0|%:1|@:1|★:0|-:0|&:0|#:0|♥:0|~:1
+05:13:18 |userstats|total:3|guests:0| :0|+:0|%:1|@:1|★:0|-:0|&:0|#:0|♥:0|~:1
+05:15:08 |N|%Ambah - ⓢⓛⓔⓔⓟ|ambah
+05:15:08 |N|%Ambah - ⓢⓛⓔⓔⓟ|ambah
+05:23:18 |userstats|total:3|guests:0| :0|+:0|%:1|@:1|★:0|-:0|&:0|#:0|♥:0|~:1
+05:24:14 |L|@Ithi
+05:33:03 |L|ambah
+05:33:18 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:1
+05:43:18 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:1
+05:53:18 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:1
+06:03:18 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:1
+06:13:18 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:1
+06:23:18 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:1
+06:33:18 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:1
+06:43:18 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:1
+06:53:18 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:1
+07:03:18 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:1
+07:11:41 |L|~Audinory
+07:13:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+14:27:04 NEW CHATROOM: staff
+14:27:19 |J|~Audinory
+14:34:24 |J|%Ambah
+14:37:04 |userstats|total:2|guests:0| :0|+:0|%:1|@:0|★:0|-:0|&:0|#:0|♥:0|~:1
+14:41:58 NEW CHATROOM: staff
+14:42:05 |J|~Audinory
+14:42:20 |J|%Ambah
+14:42:27 |N| Audinory|audinory
+14:42:28 |J|&TheShankSkank
+14:42:35 |N|~Audinory|audinory
+14:45:01 Audinory turned off modjoin.
+14:51:58 |userstats|total:3|guests:0| :0|+:0|%:1|@:0|★:0|-:0|&:1|#:0|♥:0|~:1
+14:52:14 |J|%Hurricane'd
+15:01:58 |userstats|total:4|guests:0| :0|+:0|%:2|@:0|★:0|-:0|&:1|#:0|♥:0|~:1
+15:04:43 |J|@Mystifi
+15:04:58 |J|&V A Q
+15:05:20 |L|&V A Q
+15:07:48 |J|&V A Q
+15:08:17 |N|@Mystifi - ⓓⓨⓘⓝⓖ|mystifi
+15:08:17 |N|@Mystifi - ⓓⓨⓘⓝⓖ|mystifi
+15:08:22 |N|@Mystifi|mystifi
+15:08:22 |N|@Mystifi|mystifi
+15:10:04 |N|@Mystifi - ⓜⓞⓦⓘⓝⓖ|mystifi
+15:10:04 |N|@Mystifi - ⓜⓞⓦⓘⓝⓖ|mystifi
+15:10:18 |J|~Broken Hope
+15:10:18 |N|~Broken Hope|brokenhope
+15:10:26 |J|~Diarmuid O'Dyna
+15:11:58 |userstats|total:8|guests:0| :0|+:0|%:2|@:1|★:0|-:0|&:2|#:0|♥:0|~:3
+15:12:03 |J|%FocusBlasted
+15:14:11 |J|@Ithi
+15:15:48 |raw|Audinory has set an icon to diarmuidodyna.
+15:15:51 |L|~Audinory
+15:15:54 |J|~Audinory
+15:16:00 |L|~Diarmuid O'Dyna
+15:16:05 |J|~Diarmuid O'Dyna
+15:18:01 |N|%Ambah - ⓑⓤⓢⓨ|ambah
+15:18:01 |N|%Ambah - ⓑⓤⓢⓨ|ambah
+15:19:49 |N| Rin-chan Tohsaka|diarmuidodyna
+15:20:00 |N| Rin-chan Tohsaka|rinchantohsaka
+15:20:10 |N|~Diarmuid O'Dyna|rinchantohsaka
+15:21:58 |userstats|total:10|guests:0| :0|+:0|%:3|@:2|★:0|-:0|&:2|#:0|♥:0|~:3
+15:23:22 |J|~ggdaca -
+15:24:39 |L|%FocusBlasted
+15:24:42 |J|%FocusBlasted
+15:26:34 |raw|<div class="broadcast-blue"><b>VAQ is hosting a Tournament in <button name="joinroom" value="tours">This room</button> You will win the grand prize of: <em>A private room</em></b></div>
+15:28:40 |N| Ithi|ithi
+15:30:11 |N| Audinory|audinory
+15:30:20 |N|~Audinory|audinory
+15:30:47 |N| ggdaca -|ggdaca
+15:31:36 |N| Audinory|audinory
+15:31:58 |userstats|total:11|guests:0| :0|+:0|%:3|@:2|★:0|-:0|&:2|#:0|♥:0|~:4
+15:38:15 |N| Audinory|audinory
+15:38:20 |N|~Audinory|audinory
+15:38:42 |N| Audinory|audinory
+15:38:55 |J|&Hirl123
+15:41:58 |userstats|total:12|guests:0| :0|+:0|%:3|@:2|★:0|-:0|&:3|#:0|♥:0|~:4
+15:51:58 |userstats|total:12|guests:0| :0|+:0|%:3|@:2|★:0|-:0|&:3|#:0|♥:0|~:4
+15:58:26 |N|%Ambah|ambah
+15:58:26 |N|%Ambah|ambah
+15:59:15 |L|~Broken Hope
+15:59:32 |L|%FocusBlasted
+15:59:45 |L|&Hirl123
+15:59:52 |J|%FocusBlasted
+16:00:51 |L|&V A Q
+16:00:51 |L|~Diarmuid O'Dyna
+16:00:59 |J|~Diarmuid O'Dyna
+16:01:01 |L|@Mystifi - ⓜⓞⓦⓘⓝⓖ
+16:01:01 |L| Audinory
+16:01:03 |J|&V A Q
+16:01:07 |L|%Hurricane'd
+16:01:10 |J| Audinory
+16:01:15 |L| Ithi
+16:01:19 |J|%Hurricane'd
+16:01:23 |J| Ithi
+16:01:52 |J|&Hirl123
+16:01:58 |userstats|total:10|guests:0| :0|+:0|%:3|@:1|★:0|-:0|&:3|#:0|♥:0|~:3
+16:02:03 |L| ggdaca -
+16:02:12 |J| ggdaca -
+16:02:17 |L|&TheShankSkank
+16:02:21 |L|%Ambah
+16:02:25 |J|&TheShankSkank
+16:02:29 |J|%Ambah
+16:03:28 |J|~Broken Hope
+16:06:40 |L|&TheShankSkank
+16:11:58 |userstats|total:10|guests:0| :0|+:0|%:3|@:1|★:0|-:0|&:2|#:0|♥:0|~:4
+16:16:11 |c|~|[CrisisMonitor] No Shaymin Fear was banned by ggdaca - and demoted from +, %lobby, %tournaments.
+16:16:28 |c| ggdaca -|i unbanned
+16:16:34 |c| ggdaca -|>.>
+16:16:41 |J|%No Shaymin Fear
+16:16:41 |N|%No Shaymin Fear|noshayminfear
+16:16:55 |c|&V A Q|K
+16:17:40 |L|%FocusBlasted
+16:17:53 |J|%FocusBlasted
+16:17:59 |c| ggdaca -|how does the rigged dice work
+16:18:01 |N|%Ambah - ⒶⓌⒶⓎ|ambah
+16:18:01 |N|%Ambah - ⒶⓌⒶⓎ|ambah
+16:18:05 |c| ggdaca -|and /sudo is broken
+16:18:11 |c|%FocusBlasted|rigged dice for fun 
+16:18:11 |c|%FocusBlasted|?
+16:18:17 |c|%FocusBlasted|no idea xD
+16:21:58 |userstats|total:11|guests:0| :0|+:0|%:4|@:1|★:0|-:0|&:2|#:0|♥:0|~:4
+16:22:47 |L|&V A Q
+16:23:58 |L|%No Shaymin Fear
+16:24:02 |J|%No Shaymin Fear
+16:24:14 |J|&V A Q
+16:26:19 |N|%FocusBlasted - ⓔⓐⓣ|focusblasted
+16:26:19 |N|%FocusBlasted - ⓔⓐⓣ|focusblasted
+16:27:58 |L|&V A Q
+16:28:36 |c|%Hurricane'd|So how is everyone doing today? :^]
+16:31:58 |userstats|total:10|guests:0| :0|+:0|%:4|@:1|★:0|-:0|&:1|#:0|♥:0|~:4
+16:32:24 |c|&Hirl123|raging .-.
+16:32:35 |c|&Hirl123|THESE FRICKIN 5SHOT TWINS ARE TOO OP
+16:32:55 |c|&Hirl123|the day i get octa tank i will ensure you frickin die you goddamn fiend
+16:33:18 |J|&V A Q
+16:35:23 |c|%Hurricane'd|Wat
+16:35:29 |c|%Hurricane'd|r u hi
+16:36:29 |L| ggdaca -
+16:37:07 |N|&V A Q - ⓑⓤⓢⓨ|vaq
+16:37:07 |N|&V A Q - ⓑⓤⓢⓨ|vaq
+16:41:38 |c|&Hirl123|im not
+16:41:45 |c|&Hirl123|k so bad news
+16:41:58 |c|&Hirl123|apparently not even a tanked out damage destroyer can beat em
+16:41:58 |userstats|total:10|guests:0| :0|+:0|%:4|@:1|★:0|-:0|&:2|#:0|♥:0|~:3
+16:42:09 |c|&Hirl123|and that thing kills pentagons in a single hit
+16:42:18 |c|&Hirl123|so in other words fight a twins and you're screwed
+16:42:38 |N| Audinory|audinory
+16:47:47 |J| ggdaca -
+16:48:15 |N|%FocusBlasted|focusblasted
+16:48:15 |N|%FocusBlasted|focusblasted
+16:48:18 |L|%FocusBlasted
+16:48:21 |J|%FocusBlasted
+16:48:27 |L|~Diarmuid O'Dyna
+16:48:31 |J|~Diarmuid O'Dyna
+16:51:27 |L|~Diarmuid O'Dyna
+16:51:27 |L|~Broken Hope
+16:51:31 |L|%No Shaymin Fear
+16:51:33 |J|~Diarmuid O'Dyna
+16:51:58 |userstats|total:9|guests:0| :1|+:0|%:3|@:1|★:0|-:0|&:2|#:0|♥:0|~:2
+16:53:52 |N|~ggdaca -|ggdaca
+16:58:33 |J|@DarkAngeallenq.q
+16:59:54 |c|~Diarmuid O'Dyna|FocusBlasted, Hirl123, Audinory, Ambah, V A Q, DarkAngeallenq.q, Hirl123, Ithi
+17:00:00 |c| Ithi|wut
+17:00:04 |c| Audinory|hi
+17:00:09 |c| Ithi|/me yawns
+17:00:11 |c|~ggdaca -|hi
+17:00:18 |c| Ithi|kk whats the story this time
+17:00:19 |c|&Hirl123|what
+17:00:22 |c|%FocusBlasted|yea
+17:00:56 |c|~ggdaca -|ehm
+17:00:58 |J|~Broken Hope
+17:01:10 |c|~ggdaca -|/announce so then, i would like to ask ur opinions on something
+17:01:17 |c| Ithi|ok ask
+17:01:37 |c|&Hirl123|notrn
+17:01:41 |c|@DarkAngeallenq.q|oHello
+17:01:43 |c|&Hirl123|diepio
+17:01:45 |c|&Hirl123|notrn
+17:01:47 |c|~ggdaca -|so can i give my friend thesnipersbullet
+17:01:50 |c|~ggdaca -|leader?
+17:01:52 |c| Audinory|n
+17:01:55 |c|~ggdaca -|kek
+17:01:56 |c| Ithi|/me shrugs
+17:01:58 |userstats|total:11|guests:0| :1|+:0|%:3|@:2|★:0|-:0|&:2|#:0|♥:0|~:3
+17:01:59 |c|%Hurricane'd|not yet
+17:02:01 |c|@DarkAngeallenq.q|/me rolls eyes
+17:02:01 |c|%Hurricane'd|Lmao
+17:02:03 |c|%Hurricane'd|Nice try
+17:02:08 |c|@DarkAngeallenq.q|This is what I'm needed for?
+17:02:10 |c|@DarkAngeallenq.q|._.
+17:02:22 |c|~Diarmuid O'Dyna|okie
+17:02:39 |c|@DarkAngeallenq.q|Hrmm
+17:02:47 |c|@DarkAngeallenq.q|I need a horror movie
+17:02:51 |c|~Diarmuid O'Dyna|the mist
+17:02:52 |c|@DarkAngeallenq.q|Any suggestions?
+17:02:55 |c|~Diarmuid O'Dyna|deliver us from evil
+17:02:55 |c|~ggdaca -|/announce the motion is passed, RIP
+17:02:58 |c|@DarkAngeallenq.q|Watched it last week
+17:03:03 |c|~ggdaca -|staff disperssed
+17:03:04 |c| Ithi|**seig heil**
+17:03:10 |c| Audinory|>pased
+17:03:12 |c| Audinory|>passed
+17:03:14 |c|&Hirl123|sieg*
+17:03:21 |c| Ithi|**sieg heil**
+17:03:39 |c|@DarkAngeallenq.q|Don't
+17:03:40 |c| Ithi|!u sieg heil
+17:03:40 |raw|<div class="infobox"><b>sieg heil:</b> The German-English translation means &quot;hail victory&quot;. The Nazi meaning is &quot;we will win&quot; or &quot;we salute the highest&quot;.</div>
+17:03:42 |c|&Hirl123|**Sieg hiel** salutes
+17:03:42 |c|%FocusBlasted|i feel like we should stop authing
+17:03:43 |c| Ithi|!u seig heil
+17:03:43 |raw|<div class="infobox"><b>seig heil:</b> German for &quot;we hail&quot;.  Often used as a greeting accompanied by a quick flick of the wrist into a straight 45 degree angle with the floor and a click of the back heels.</div>
+17:03:44 |c| Ithi|k
+17:03:49 |c| Ithi|thats two different meanings
+17:04:12 |c| Ithi|but **SIEG HEIL**
+17:04:21 |c|%FocusBlasted|cause only 5/16 users arent auth xD
+17:04:29 |c| Audinory|ik
+17:04:48 |c| Audinory|I'm technically not auth
+17:04:50 |L|~Broken Hope
+17:05:10 |c|%FocusBlasted|xD
+17:05:11 |c|@DarkAngeallenq.q|If your getting rid of auth, you can demote me, I really don't see how I'm helping in any form tbh :/
+17:05:19 |c|%FocusBlasted|same here xD
+17:05:48 |c|&Hirl123|EAT MY BULLET STREAM PENTASHOT
+17:05:54 |c|%FocusBlasted|~~i say we overthrow fellicide and take over dark~~ 
+17:06:03 |c|@DarkAngeallenq.q|Lmao
+17:06:04 |c| Audinory|:I
+17:06:06 |c|@DarkAngeallenq.q|Naah I'm good
+17:06:15 |c|%FocusBlasted|then you must fall as well
+17:06:25 |c|%Hurricane'd|Tbh Auth doesn't even count for much now. It just shows the servers creators appreciation towards you and that they trust you
+17:06:28 |c|%Hurricane'd|:^]
+17:06:31 |c|%FocusBlasted|the revoloution is coming, you have been warned
+17:06:31 |c| Audinory|:^
+17:06:58 |c|%Hurricane'd|At least I know that I am liked and trusted by someone
+17:07:02 |c|@DarkAngeallenq.q|Felicide trusts me? o.o
+17:07:45 |c|%FocusBlasted|~~i had to do naught stuff for felicide to trust/auth me :3~~
+17:07:49 |c|%FocusBlasted|naughty*
+17:11:58 |userstats|total:10|guests:0| :1|+:0|%:3|@:2|★:0|-:0|&:2|#:0|♥:0|~:2
+17:12:24 |c|&Hirl123|BULLET STORM
+17:12:30 |c|%Hurricane'd|wat
+17:12:33 |c|&Hirl123|EAT THAT PENTASAHOT
+17:12:40 |c|%Hurricane'd|What are you playing/watching?
+17:12:42 |c|&Hirl123|AND YOU GUNNER
+17:12:44 |c|&Hirl123|diep.io
+17:12:49 |c|@DarkAngeallenq.q|Ew
+17:12:52 |L|%Hurricane'd
+17:12:55 |J|%Hurricane'd
+17:12:55 |c|@DarkAngeallenq.q|.io games
+17:13:01 |c|&Hirl123|ew u
+17:13:02 |c|@DarkAngeallenq.q|Bleh
+17:13:54 |raw|<div class="broadcast-green">Public chat room created: <b>roleplaying</b></div>
+17:14:50 |c|%Hurricane'd|Ewww
+17:15:01 |c|%Hurricane'd|Weeb culture is spreading
+17:15:04 |c|&Hirl123|ikr
+17:15:06 |c|&Hirl123|ewwy
+17:15:28 |N|&V A Q|vaq
+17:15:28 |N|&V A Q|vaq
+17:15:28 |L|&V A Q
+17:16:52 |c|~ggdaca -|rp
+17:16:53 |c|~ggdaca -|lel
+17:17:05 |N| ggdaca -|ggdaca
+17:17:17 |c|&Hirl123|TRIPLE TWINS LAST SHOT
+17:17:25 |c|&Hirl123|I DIE YOU DIE WITH MEEEE
+17:17:30 |J|&V A Q
+17:17:59 |c| ggdaca -|hirl...
+17:18:03 |c|&Hirl123|wat
+17:18:09 |c|&Hirl123|i had my last stand
+17:18:19 |N|%FocusBlasted - ⓢⓐⓓ|focusblasted
+17:18:19 |N|%FocusBlasted - ⓢⓐⓓ|focusblasted
+17:18:23 |c|&Hirl123|killed some pentashots, took revenge on the jerk named "0" who'd gun me down at level 1
+17:18:26 |c|&Hirl123|and rekt some nubs
+17:20:18 |N|%FocusBlasted|focusblasted
+17:20:18 |N|%FocusBlasted|focusblasted
+17:20:56 |J|&TheShankSkank
+17:21:43 |L|&V A Q
+17:21:58 |userstats|total:10|guests:0| :1|+:0|%:3|@:2|★:0|-:0|&:2|#:0|♥:0|~:2
+17:26:04 |J|&V A Q
+17:31:00 |N|%FocusBlasted - ⓐⓝⓘ|focusblasted
+17:31:00 |N|%FocusBlasted - ⓐⓝⓘ|focusblasted
+17:31:41 |L|&V A Q
+17:31:55 |J|&V A Q
+17:31:58 |userstats|total:11|guests:0| :1|+:0|%:3|@:2|★:0|-:0|&:3|#:0|♥:0|~:2
+17:34:37 |N|&V A Q - ⓛⓐⓖⓖⓘⓝⓖ|vaq
+17:34:37 |N|&V A Q - ⓛⓐⓖⓖⓘⓝⓖ|vaq
+17:34:48 |N|&V A Q - ⓛⓐⓖⓜⓐⓢⓣⓔⓡ|vaq
+17:34:48 |N|&V A Q - ⓛⓐⓖⓜⓐⓢⓣⓔⓡ|vaq
+17:35:12 |N|&V A Q|vaq
+17:35:12 |N|&V A Q|vaq
+17:41:58 |userstats|total:11|guests:0| :1|+:0|%:3|@:2|★:0|-:0|&:3|#:0|♥:0|~:2
+17:44:02 |L|&V A Q
+17:50:52 |J|&V A Q
+17:51:58 |userstats|total:11|guests:0| :1|+:0|%:3|@:2|★:0|-:0|&:3|#:0|♥:0|~:2
+18:01:58 |userstats|total:11|guests:0| :1|+:0|%:3|@:2|★:0|-:0|&:3|#:0|♥:0|~:2
+18:05:12 |N| Audinory|audinory
+18:05:23 |N| Audinory|audinory
+18:05:29 |N| Audinory|audinory
+18:05:53 |N| Audinory|audinory
+18:05:56 |N|♥Audinory|audinory
+18:06:21 |N| Audinory|audinory
+18:08:14 |c| ggdaca -|kek
+18:09:48 |N| Audinorye Dolla|audinory
+18:10:07 |N| Audinory|audinoryedolla
+18:10:09 |c|@DarkAngeallenq.q|Tf
+18:10:15 |c|@DarkAngeallenq.q|Um
+18:11:58 |userstats|total:11|guests:0| :1|+:0|%:3|@:2|★:0|-:0|&:3|#:0|♥:0|~:2
+18:14:03 |c| ggdaca -|i request alt change
+18:14:19 |J|~Broken Hope
+18:14:56 |N| the fire mage|ggdaca
+18:15:19 |c| Audinory|sure
+18:15:22 |c| Audinory|maybe
+18:15:33 |N| the fire mage|thefiremage
+18:15:43 |N| ggdaca|thefiremage
+18:15:51 |N| Sigilgamesh|brokenhope
+18:15:54 thefiremage was promoted to Server Lord by ggdaca.
+18:15:55 |N|~Broken Hope|sigilgamesh
+18:16:01 (ggdaca was demoted to regular user by ggdaca.)
+18:16:01 |N| ggdaca|ggdaca
+18:16:17 |N| the fire mage|ggdaca
+18:16:20 |c| the fire mage|me
+18:16:29 |c| the fire mage|<---- ggdaca
+18:16:39 the fire mage was appointed Room Lord by the fire mage.
+18:16:39 |N|#the fire mage|thefiremage
+18:16:48 |N|#the fire mage|thefiremage
+18:18:35 |L| Ithi
+18:19:14 |L| Broken Hope
+18:21:12 |c|~Shop Alert|**shivamrustagi has bought room.**
+18:21:35 |c| Hurricane'd|Ugh
+18:21:39 |raw|<div class="broadcast-green">Public chat room created: <b>The Indian Goodness</b></div>
+18:21:58 |userstats|total:10|guests:0| :1|+:0|%:3|@:1|★:0|-:0|&:3|#:1|♥:0|~:1
+18:22:15 |c| Hurricane'd|Wat
+18:23:11 |L| Diarmuid O'Dyna
+18:31:16 |L| Hirl123
+18:31:49 |J| Hirl123
+18:31:58 |userstats|total:9|guests:0| :1|+:0|%:3|@:1|★:0|-:0|&:3|#:1|♥:0|~:0
+18:41:58 |userstats|total:9|guests:0| :1|+:0|%:3|@:1|★:0|-:0|&:3|#:1|♥:0|~:0
+18:47:31 |raw|Audinory has set an icon to lunterik.
+18:47:42 |L| Hurricane'd
+18:48:06 |L| Audinory
+18:48:43 |J| Hurricane'd
+18:49:00 |L| Hurricane'd
+18:49:55 |J| Hurricane'd
+18:51:58 |userstats|total:8|guests:0| :0|+:0|%:3|@:1|★:0|-:0|&:3|#:1|♥:0|~:0
+18:54:42 |L| Hurricane'd
+18:56:28 |J| Audinory
+19:01:58 |userstats|total:8|guests:0| :1|+:0|%:2|@:1|★:0|-:0|&:3|#:1|♥:0|~:0
+19:02:03 |J| Hurricane'd
+19:03:10 |c| Hurricane'd|What do you guys think about The Sakurai?
+19:06:09 |L|#the fire mage
+19:06:21 |c| V A Q|idk
+19:06:33 |c| Hurricane'd|~~I'll highlight you all if I have to :^]~~
+19:11:06 |c| Hurricane'd|Ambah, Audinory, DarkAngeallenq.q, FocusBlasted, Hirl123, TheShankSkank
+19:11:10 |c| Hirl123|?
+19:11:17 |c| Hirl123|what
+19:11:27 |c| Hirl123|idk who it is and haven't seen em on so idk
+19:11:58 |userstats|total:8|guests:0| :1|+:0|%:3|@:1|★:0|-:0|&:3|#:0|♥:0|~:0
+19:12:39 |c| Hurricane'd|Wat
+19:12:41 |c| Hurricane'd|He is on rn
+19:12:56 |c| Hurricane'd|~~LMAO you fuck up~~
+19:14:11 |c| DarkAngeallenq.q|I have hls off
+19:14:13 |c| DarkAngeallenq.q|So rip you
+19:15:27 |c| Hurricane'd|But you are here now, so does it even matter :^]
+19:15:32 |c| Hurricane'd|So rip you
+19:15:37 |c| Hurricane'd|BAck atcha
+19:21:58 |userstats|total:8|guests:0| :1|+:0|%:3|@:1|★:0|-:0|&:3|#:0|♥:0|~:0
+19:23:50 |L| V A Q
+19:24:21 |J| The Sakurai
+19:24:21 |N| The Sakurai|thesakurai
+19:24:25 |J| Bandi
+19:24:25 |N| Bandi|bandi
+19:25:42 |J| Desokoro
+19:25:42 |N| Desokoro|desokoro
+19:26:39 |N| Ambah - ⒶⓌⒶⓎ|ambah
+19:26:51 |J| TerminalHydreigon
+19:31:58 |userstats|total:11|guests:0| :1|+:0|%:3|@:1|★:0|-:0|&:4|#:0|♥:0|~:2
+19:36:03 |J| Vacate
+19:36:51 |N| The Sakurai|thesakurai
+19:40:11 |J| Nixtorm BoTTT
+19:40:11 |N| Nixtorm BoTTT|nixtormbottt
+19:41:35 |L| Nixtorm BoTTT
+19:41:58 |userstats|total:12|guests:0| :1|+:0|%:3|@:2|★:0|-:0|&:4|#:0|♥:0|~:2
+19:42:35 |J| Nixtorm BoTTT
+19:43:04 |L| TheShankSkank
+19:43:04 |L| Ambah - ⒶⓌⒶⓎ
+19:43:05 |L| DarkAngeallenq.q
+19:43:06 |L| Desokoro
+19:43:18 |L| Audinory
+19:43:18 |L| Bandi
+19:43:18 |L| FocusBlasted - ⓐⓝⓘ
+19:43:19 |L| Hurricane'd
+19:43:21 |L| Hirl123
+19:43:24 |J| FocusBlasted - ⓐⓝⓘ
+19:43:26 |J| Bandi
+19:43:29 |J| Hurricane'd
+19:43:59 |J| DarkAngeallenq.q
+19:44:05 |J| TheShankSkank
+19:44:45 |L| TerminalHydreigon
+19:45:13 |L| FocusBlasted - ⓐⓝⓘ
+19:45:13 |L| The Sakurai
+19:45:17 |L| Vacate
+19:45:19 |J| The Sakurai
+19:45:19 |J| FocusBlasted - ⓐⓝⓘ
+19:45:37 |N| Hurricane'd|hurricaned
+19:45:46 |N| Hurricane'd|hurricaned
+19:49:02 |c|~|[CrisisMonitor] Confirmed user Bandi was roombanned from lobby by The Sakurai, and should probably be demoted.
+19:49:23 |c| The Sakurai|^ ignore
+19:49:34 |c|~|[CrisisMonitor] Confirmed user The Sakurai was roombanned from lobby by Bandi, and should probably be demoted.
+19:49:51 |J| V A Q
+19:49:54 |N| The Sakurai|thesakurai
+19:50:21 |c| Hurricane'd|Ignored
+19:50:28 |c| Hurricane'd|Dw I got your back :^]
+19:50:42 |J| Hirl123
+19:50:43 |N| The Sakurai|thesakurai
+19:51:58 |userstats|total:9|guests:0| :0|+:0|%:2|@:1|★:0|-:0|&:4|#:0|♥:0|~:2
+19:53:13 |L| The Sakurai
+19:57:01 |N| Nixtorm BoTTT|nixtormbottt
+20:00:00 |N| FocusBlasted|focusblasted
+20:00:00 |N| FocusBlasted|focusblasted
+20:01:50 |J| Audinory
+20:01:50 |N| Audinory|audinory
+20:01:58 |userstats|total:9|guests:0| :0|+:0|%:2|@:1|★:0|-:1|&:3|#:0|♥:0|~:2
+20:02:01 |c| Hurricane'd|Rip @me
+20:02:09 |N| Bandi|bandi
+20:02:11 |c| V A Q|k
+20:02:16 |J| The Sakurai
+20:02:22 |c| The Sakurai|okie
+20:02:27 |c| The Sakurai|staff is being re done
+20:02:33 |c| The Sakurai|apparently >_>
+20:02:48 |c| FocusBlasted|do it in the lobby
+20:02:58 |N| Bandi|bandi
+20:02:58 |c| FocusBlasted|everyone shouls dee
+20:03:07 |c| The Sakurai|no
+20:03:11 |c| The Sakurai|not atm
+20:04:00 |c| Audinory|its literally
+20:04:04 |c| Audinory|deactives atm
+20:04:07 |c| Audinory|that are going off
+20:04:12 |c| The Sakurai|k
+20:04:50 |c| Audinory|V A Q
+20:05:26 |c| V A Q|yrs
+20:05:30 |J| Desokoro
+20:06:20 |c| V A Q|Audinory?
+20:06:36 |N| The Sakurai|thesakurai
+20:10:19 |N| The Sakurai|thesakurai
+20:11:35 |J| Ithi
+20:11:58 |userstats|total:12|guests:0| :0|+:0|%:3|@:2|★:0|-:1|&:3|#:0|♥:0|~:3
+20:18:12 NEW CHATROOM: staff
+20:21:18 (Audinory used /hotpatch chat)
+20:21:58 |userstats|total:12|guests:0| :0|+:0|%:3|@:2|★:0|-:1|&:3|#:0|♥:0|~:3
+20:22:28 (Audinory used /hotpatch chat)
+20:23:20 (Audinory used /hotpatch chat)
+20:27:46 (Audinory used /hotpatch chat)
+20:28:36 |N| Ithi|ithi
+20:30:05 NEW CHATROOM: staff
+20:30:10 |J| The Sakurai
+20:30:12 |J| Ithi
+20:30:16 |J| Audinory
+20:30:17 |J| Bandi
+20:30:45 |J| V A Q
+20:30:46 |J| TheShankSkank
+20:30:50 |J| DarkAngeallenq.q
+20:31:00 |N| The Sakurai|thesakurai
+20:31:07 |N| The Sakurai|thesakurai
+20:31:30 |J| Hurricane'd
+20:32:08 (Audinory used /hotpatch chat)
+20:33:45 NEW CHATROOM: staff
+20:33:49 |J| V A Q
+20:33:50 |J| FocusBlasted
+20:33:52 |J| TheShankSkank
+20:33:57 |J| Audinory
+20:34:00 |J| DarkAngeallenq.q
+20:34:10 |J| Ithi
+20:34:24 |J| The Sakurai
+20:34:33 (Audinory used /hotpatch chat)
+20:34:34 |N| Ithi|ithi
+20:34:55 |J| Hurricane'd
+20:35:23 |J| Bandi
+20:35:34 (Audinory used /hotpatch chat)
+20:38:52 |J| Desokoro
+20:43:45 |userstats|total:10|guests:0| :0|+:0|%:3|@:2|★:0|-:0|&:2|#:0|♥:0|~:3
+20:45:35 |L| TheShankSkank
+20:46:17 |J| TheShankSkank
+20:49:02 |L| TheShankSkank
+20:50:37 |J| TheShankSkank
+20:51:35 |L| DarkAngeallenq.q
+20:53:45 |userstats|total:9|guests:0| :0|+:0|%:3|@:1|★:0|-:0|&:2|#:0|♥:0|~:3
+20:58:15 |J| Hirl123
+20:58:32 |J| Ransei
+21:00:08 |N| The Sakurai|thesakurai
+21:00:15 |N| TheShankSkank|theshankskank
+21:00:22 |N| TheShankSkank|theshankskank
+21:00:28 |N| The Sakurai|thesakurai
+21:03:41 |L| TheShankSkank
+21:03:45 |userstats|total:10|guests:0| :0|+:0|%:3|@:1|★:0|-:0|&:3|#:0|♥:0|~:3
+21:03:51 |J| TheShankSkank
+21:06:02 (Audinory used /hotpatch chat)
+21:06:17 |J| Mystifi
+21:07:44 (Audinory used /hotpatch app.js)
+21:10:30 |L| The Sakurai
+21:10:34 |J| The Sakurai
+21:13:45 |userstats|total:12|guests:0| :0|+:0|%:3|@:2|★:0|-:0|&:4|#:0|♥:0|~:3
+21:16:15 |L| Hirl123
+21:23:45 |userstats|total:11|guests:0| :0|+:0|%:3|@:2|★:0|-:0|&:3|#:0|♥:0|~:3
+21:26:08 |N| The Sakurai - ⒶⓌⒶⓎ|thesakurai
+21:26:08 |N| The Sakurai - ⒶⓌⒶⓎ|thesakurai
+21:27:14 |N| The Sakurai|thesakurai
+21:27:14 |N| The Sakurai|thesakurai
+21:28:30 |L| The Sakurai
+21:31:45 |L| Hurricane'd
+21:33:11 |J| The Sakurai
+21:33:45 |userstats|total:10|guests:0| :0|+:0|%:2|@:2|★:0|-:0|&:3|#:0|♥:0|~:3
+21:35:57 |L| TheShankSkank
+21:40:23 (Audinory used /hotpatch chat)
+21:43:31 |L| FocusBlasted
+21:43:45 |userstats|total:8|guests:0| :0|+:0|%:1|@:2|★:0|-:0|&:2|#:0|♥:0|~:3
+21:46:13 |raw|<div class="broadcast-red"><b>The server is restarting soon.</b><br />Please finish your battles quickly. No new battles can be started until the server resets in a few minutes.</div>
+21:46:32 NEW CHATROOM: staff
+21:46:38 |J| Audinory
+21:46:38 |J| Ithi
+21:46:40 |J| Ransei
+21:46:41 |J| Bandi
+21:46:46 NEW CHATROOM: staff
+21:46:55 |J| The Sakurai
+21:47:33 |J| TheShankSkank
+21:48:43 |N| Ithi|ithi
+21:49:46 |L| TheShankSkank
+21:52:00 |J| Mystifi
+21:52:53 (Audinory used /hotpatch chat)
+21:53:27 (Audinory used /hotpatch chat)
+21:54:15 (Audinory used /hotpatch chat)
+21:55:58 (Audinory used /hotpatch chat)
+21:56:32 |userstats|total:6|guests:0| :0|+:0|%:0|@:2|★:0|-:0|&:1|#:0|♥:0|~:3
+21:56:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:01:39 |J| Hirl123
+22:02:29 |L| Hirl123
+22:02:32 (Audinory used /hotpatch chat)
+22:03:24 (Audinory used /hotpatch chat)
+22:03:28 |N| The Sakurai - ⓘⓛⓛ|thesakurai
+22:03:28 |N| The Sakurai - ⓘⓛⓛ|thesakurai
+22:03:50 |J| Diarmuid O'Dyna
+22:04:00 (Audinory used /hotpatch chat)
+22:04:25 (Audinory used /hotpatch chat)
+22:04:37 (Audinory used /hotpatch chat)
+22:05:21 |J| Broken Hope
+22:05:21 |N| Broken Hope|brokenhope
+22:06:25 (Audinory used /hotpatch chat)
+22:06:32 |userstats|total:8|guests:0| :0|+:0|%:0|@:2|★:0|-:0|&:1|#:0|♥:0|~:5
+22:06:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:06:50 |L| Diarmuid O'Dyna
+22:08:01 (Audinory used /hotpatch chat)
+22:09:04 (Audinory used /hotpatch chat)
+22:09:46 (Audinory used /hotpatch chat)
+22:13:22 |c|~|[CrisisMonitor] Broken Hope was banned by Audinory and demoted from ~.
+22:13:22 |L|‽Broken Hope
+22:13:39 |N| The Sakurai - ⓘⓛⓛ|thesakurai
+22:14:18 |N| Mystifi - ⒶⓌⒶⓎ|mystifi
+22:14:18 |N| Mystifi - ⒶⓌⒶⓎ|mystifi
+22:16:32 |userstats|total:6|guests:0| :1|+:0|%:0|@:2|★:0|-:0|&:1|#:0|♥:0|~:2
+22:16:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:20:30 |J| TheShankSkank
+22:22:37 |J| V A Q
+22:23:01 |c| Bandi|Audinory
+22:23:03 |c| Bandi|u here
+22:26:32 |userstats|total:8|guests:0| :1|+:0|%:0|@:2|★:0|-:0|&:3|#:0|♥:0|~:2
+22:26:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:32:30 |J|#the fire mage
+22:32:36 |L| The Sakurai - ⓘⓛⓛ
+22:34:39 |N| verizor|vaq
+22:36:32 |userstats|total:8|guests:0| :1|+:0|%:0|@:2|★:0|-:0|&:2|#:1|♥:0|~:2
+22:36:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:38:39 |L|#the fire mage
+22:38:54 (Audinory used /hotpatch chat)
+22:39:32 (Audinory used /hotpatch chat)
+22:40:39 |N| verizor|verizor
+22:41:10 (Audinory used /hotpatch chat)
+22:46:32 |userstats|total:7|guests:0| :0|+:0|%:0|@:2|★:0|-:0|&:3|#:0|♥:0|~:2
+22:46:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:53:02 |J| DarkAngeallenq.q
+22:54:42 |L| TheShankSkank
+22:56:32 |userstats|total:7|guests:0| :0|+:0|%:0|@:3|★:0|-:0|&:2|#:0|♥:0|~:2
+22:56:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+23:06:32 |userstats|total:7|guests:0| :0|+:0|%:0|@:3|★:0|-:0|&:2|#:0|♥:0|~:2
+23:06:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+23:14:15 (Bandi used /hotpatch chat)
+23:15:07 |L| Bandi
+23:16:12 (Audinory used /hotpatch chat)
+23:16:32 |userstats|total:6|guests:0| :0|+:0|%:0|@:3|★:0|-:0|&:2|#:0|♥:0|~:1
+23:16:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+23:19:06 (Audinory used /hotpatch chat)
+23:20:48 (Audinory used /hotpatch chat)
+23:21:47 (Audinory used /hotpatch chat)
+23:22:14 (Audinory used /hotpatch chat)
+23:22:27 (Audinory used /hotpatch chat)
+23:23:23 (Audinory used /hotpatch chat)
+23:26:32 |userstats|total:6|guests:0| :0|+:0|%:0|@:3|★:0|-:0|&:2|#:0|♥:0|~:1
+23:26:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+23:28:05 (Audinory used /hotpatch chat)
+23:32:17 (Audinory used /hotpatch chat)
+23:36:32 |userstats|total:6|guests:0| :0|+:0|%:0|@:3|★:0|-:0|&:2|#:0|♥:0|~:1
+23:36:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+23:37:03 |J| TheShankSkank
+23:39:26 (Audinory used /hotpatch chat)
+23:43:51 |N| Mystifi - ⓕⓞⓞⓓ|mystifi
+23:43:51 |N| Mystifi - ⓕⓞⓞⓓ|mystifi
+23:46:32 |userstats|total:7|guests:0| :0|+:0|%:0|@:3|★:0|-:0|&:3|#:0|♥:0|~:1
+23:46:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+23:51:44 |J| Connni
+23:53:13 |raw|<div class="broadcast-green">Public chat room created: <b>KevvysDen</b></div>
+23:53:16 |L| Audinory
+23:53:16 |L| Ithi
+23:53:16 |L| Ransei
+23:53:16 |L| verizor
+23:53:16 |L| DarkAngeallenq.q
+23:53:16 |L| TheShankSkank
+23:53:16 |L| Mystifi - ⓕⓞⓞⓓ
+23:53:16 |L| Connni
+23:53:17 |J| Connni
+23:53:17 |J| Mystifi - ⓕⓞⓞⓓ
+23:53:17 |J| TheShankSkank
+23:53:17 |J| DarkAngeallenq.q
+23:53:17 |J| verizor
+23:53:17 |J| Ransei
+23:53:17 |J| Ithi
+23:53:17 |J| Audinory
+23:55:23 |L| Connni
+23:56:32 |userstats|total:7|guests:0| :0|+:0|%:0|@:3|★:0|-:0|&:3|#:0|♥:0|~:1
+23:56:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0

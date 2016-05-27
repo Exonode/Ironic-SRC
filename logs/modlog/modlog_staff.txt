@@ -1,0 +1,55 @@
+[2016-05-22T17:43:30.970Z] (staff) (Audinory changed the roomintro.)
+[2016-05-22T17:43:35.546Z] (staff) (Audinory changed the roomintro.)
+[2016-05-22T17:43:51.414Z] (staff) (Audinory changed the roomintro.)
+[2016-05-22T17:43:54.666Z] (staff) (Audinory changed the roomintro.)
+[2016-05-22T22:50:17.408Z] (staff) DarkFlamesKing33 was kicked from the room by Mystifi.
+[2016-05-22T22:50:31.621Z] (staff) Audinory~♥ set modjoin to %.
+[2016-05-22T22:50:31.623Z] (staff) (Audinory~♥ set modchat to +)
+[2016-05-22T22:50:34.146Z] (staff) (Audinory~♥ set modchat to false)
+[2016-05-23T15:38:29.686Z] (staff) kingDeacon was kicked from the room by Audinory~.
+[2016-05-23T15:48:02.238Z] (staff) (Audinory~ changed the roomintro.)
+[2016-05-23T15:48:14.023Z] (staff) (Audinory~ changed the roomintro.)
+[2016-05-23T15:48:29.796Z] (staff) (Audinory~ changed the roomintro.)
+[2016-05-23T15:48:33.664Z] (staff) (Audinory~ changed the roomintro.)
+[2016-05-23T15:49:07.013Z] (staff) (Audinory~ changed the roomintro.)
+[2016-05-23T15:49:19.507Z] (staff) (Audinory~ changed the roomintro.)
+[2016-05-23T15:49:25.700Z] (staff) (Audinory~ changed the roomintro.)
+[2016-05-23T15:49:34.227Z] (staff) (Audinory~ changed the roomintro.)
+[2016-05-23T15:49:45.840Z] (staff) (Audinory~ changed the roomintro.)
+[2016-05-23T15:49:52.768Z] (staff) (Audinory~ changed the roomintro.)
+[2016-05-23T15:50:20.472Z] (staff) (Audinory~ changed the roomintro.)
+[2016-05-23T15:51:09.811Z] (staff) (Audinory~ changed the roomintro.)
+[2016-05-23T15:51:17.944Z] (staff) (Audinory~ changed the roomintro.)
+[2016-05-23T15:53:13.597Z] (staff) (Audinory~ changed the roomintro.)
+[2016-05-23T20:56:40.887Z] (staff) (A poll was started by TerminalHydreigon.)
+[2016-05-23T21:13:33.058Z] (staff) Audinory was kicked from the room by The Vixen.
+[2016-05-23T21:14:20.539Z] (staff) Audinory temporarily banned the IP: 188.221.150.7
+[2016-05-23T21:14:31.832Z] (staff) Audinory temporarily banned the IP range: 188.221.*
+[2016-05-23T21:42:21.483Z] (staff) The Vixen was kicked from the room by Broken Hope.
+[2016-05-23T21:42:25.068Z] (staff) Broken Hope was kicked from the room by Audinory~.
+[2016-05-23T22:44:32.568Z] (staff) The Vixen unbanned the IP: 90.192.22.245
+[2016-05-24T02:12:37.529Z] (staff) Cloyy was locked from talking by audinory. (64.231.126.77)
+[2016-05-24T02:19:47.589Z] (staff) Cloyy was unlocked by Japan.
+[2016-05-24T16:39:02.132Z] (staff) Audinory ( ͜)'s messages were cleared from room staff by Audinory ( ͜).
+[2016-05-24T20:49:57.249Z] (staff) V A Q declared ADD STAFF TO UR HL LIST PLS
+[2016-05-24T23:39:46.468Z] (staff) vacate was promoted to Le Mod by Audinory.
+[2016-05-24T23:42:47.639Z] (staff) (Audinory changed the roomintro.)
+[2016-05-24T23:43:12.253Z] (staff) (Audinory changed the roomintro.)
+[2016-05-24T23:44:23.425Z] (staff) (Audinory changed the roomintro.)
+[2016-05-24T23:47:56.192Z] (staff) (Audinory changed the staffintro.)
+[2016-05-25T14:45:01.154Z] (staff) Audinory turned off modjoin.
+[2016-05-25T18:15:54.053Z] (staff) thefiremage was promoted to Server Lord by ggdaca.
+[2016-05-25T18:16:01.967Z] (staff) (ggdaca was demoted to regular user by ggdaca.)
+[2016-05-25T18:16:39.949Z] (staff) the fire mage was appointed Room Lord by the fire mage.
+[2016-05-26T00:27:56.412Z] (staff) (Ithi was demoted to regular user by Audinory.)
+[2016-05-26T16:53:25.769Z] (staff) (A poll was started by audinory.)
+[2016-05-26T16:58:33.214Z] (staff) (The poll was ended by audinory.)
+[2016-05-26T16:58:48.660Z] (staff) (A poll was started by audinory.)
+[2016-05-26T16:59:23.541Z] (staff) (The poll was ended by audinory.)
+[2016-05-26T23:36:59.488Z] (staff) Audinory was appointed to Room Founder by Audinory.
+[2016-05-26T23:37:04.845Z] (staff) Audinory made this room a league room.
+[2016-05-27T15:00:55.681Z] (staff) (Diarmuid O'Dyna was demoted to regular user by Audinory.)
+[2016-05-27T21:53:19.671Z] (staff) (Audinory has set an icon to  boytearshttpiimgurcomkqtbupvpng)
+[2016-05-27T21:53:23.912Z] (staff) (Audinory has set an icon to  boytears)
+[2016-05-27T22:19:24.971Z] (staff) (Audinory created a tournament in challengecup1v1 format.)
+[2016-05-27T22:19:41.375Z] (staff) (Audinory forcibly ended a tournament.)

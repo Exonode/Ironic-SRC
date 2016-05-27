@@ -1,0 +1,1165 @@
+[2016-05-21T19:01:06.772Z] (lobby) (Felicide ♥ created a tournament in seasonalsuperstaffbrosmelee format.)
+[2016-05-21T19:01:16.795Z] (lobby) (Felicide ♥ forcibly ended a tournament.)
+[2016-05-21T19:01:50.667Z] (lobby) (The Vixen✴ set modchat to autoconfirmed)
+[2016-05-21T19:02:16.968Z] (lobby) (Felicide ♥ changed the roomintro.)
+[2016-05-21T19:02:42.644Z] (lobby) (Felicide ♥ notes: I'm afraid to restart)
+[2016-05-21T19:02:48.205Z] (lobby) (Felicide ♥ notes: help)
+[2016-05-21T19:02:55.324Z] (lobby) (Hirl123 notes: help is on its way)
+[2016-05-21T19:03:02.389Z] (lobby) (Hirl123 notes: just give help a few hours, hes retired now)
+[2016-05-21T19:03:19.220Z] (lobby) Felicide ♥ was promoted to Server Admin by Felicide ♥.
+[2016-05-21T19:03:22.294Z] (lobby) (Felicide ♥ notes: test)
+[2016-05-21T19:03:39.184Z] (lobby) (Felicide ♥ notes: Do I Restart to fix intros or no?)
+[2016-05-21T19:05:16.580Z] (lobby) Vlant was promoted to Paw-derator by The Vixen✴.
+[2016-05-21T19:07:55.278Z] (lobby) ranking4 was banned by The Vixen✴. (108.61.219.230)
+[2016-05-21T19:07:55.279Z] (lobby) (ranking4's ac account: genialidad5)
+[2016-05-21T19:20:21.804Z] (lobby) (Felicide ♥ created a tournament in seasonalsuperstaffbrosmelee format.)
+[2016-05-21T19:32:33.182Z] (lobby) Mystifi was promoted to Paw-derator by The Vixen✴.
+[2016-05-21T19:41:47.336Z] (lobby) The Vixen✴ was warned by Felicide ♥.
+[2016-05-21T19:43:35.386Z] (lobby) (Felicide ♥ forcibly ended a tournament.)
+[2016-05-21T19:49:01.735Z] (lobby) (Hurricane'd was forced to choose a new name by Felicide ♥: cringy name.)
+[2016-05-21T19:49:52.152Z] (lobby) (A game of hangman was started by Felicide ♥.)
+[2016-05-21T19:51:03.671Z] (lobby) (A game of hangman was started by Felicide ♥.)
+[2016-05-21T20:11:02.471Z] (lobby) TerminalHydreigon was promoted to Leader by The Vixen✴.
+[2016-05-21T20:12:05.340Z] (lobby) (Felicide ♥ created a tournament in gen2randombattle format.)
+[2016-05-21T20:14:04.436Z] (lobby) (The tournament auto disqualify timer was set to 1.5 by Felicide ♥)
+[2016-05-21T20:29:04.478Z] (lobby) Gerudo Flygon ✴ was promoted to Voice by The Vixen✴.
+[2016-05-21T21:03:00.365Z] (lobby) (Felicide ♥ - Ⓚ set modchat to ~)
+[2016-05-21T21:04:40.890Z] (lobby) (Felicide ♥ - Ⓚ set modchat to false)
+[2016-05-21T21:05:45.021Z] (lobby) Felicide ♥ - Ⓚ declared ░░░░░░░░▄▄▄▀▀▀▄▄███▄░░░░░░░░░░░░░░░░░ <br>░░░░░▄▀▀░░░░░░░▐░▀██▌░░░░░░░░░░░░░░░░ <br>░░░▄▀░░░░▄▄███░▌▀▀░▀█░░░░░░░░░░░░░░░░ <br>░░▄█░░▄▀▀▒▒▒▒▒▄▐░░░░█▌░░░░░░░░░░░░░░░ <br>░▐█▀▄▀▄▄▄▄▀▀▀▀▌░░░░░▐█▄░░░░░░░░░░░░░░ <br>░▌▄▄▀▀░░░░░░░░▌░░░░▄███████▄░░░░░░░░░ <br>░░░░░░░░░░░░░▐░░░░▐███████████▄░░░░░░ <br>░░░░░le░░░░░░░▐░░░░▐█████████████▄░░░ <br>░░░░toucan░░░░░░▀▄░░░▐██████████████▄ <br>░░░░░░has░░░░░░░░▀▄▄████████████████▄ <br>░░░░░arrived░░░░░░░░░░░░█▀██████░░░░░
+[2016-05-21T21:06:17.795Z] (lobby) Felicide ♥ - Ⓚ declared ░░░░░░░░▄▄▄▀▀▀▄▄███▄░░░░░░░░░░░░░░░░░ ░░░░░▄▀▀░░░░░░░▐░▀██▌░░░░░░░░░░░░░░░░ ░░░▄▀░░░░▄▄███░▌▀▀░▀█░░░░░░░░░░░░░░░░ ░░▄█░░▄▀▀▒▒▒▒▒▄▐░░░░█▌░░░░░░░░░░░░░░░ ░▐█▀▄▀▄▄▄▄▀▀▀▀▌░░░░░▐█▄░░░░░░░░░░░░░░ ░▌▄▄▀▀░░░░░░░░▌░░░░▄███████▄░░░░░░░░░ ░░░░░░░░░░░░░▐░░░░▐███████████▄░░░░░░ ░░░░░le░░░░░░░▐░░░░▐█████████████▄░░░ ░░░░toucan░░░░░░▀▄░░░▐██████████████▄ ░░░░░░has░░░░░░░░▀▄▄████████████████▄ ░░░░░arrived░░░░░░░░░░░░█▀██████░░░░░
+[2016-05-21T21:09:14.032Z] (lobby) Felicide ♥ - Ⓚ declared ▒▒▒░░░░░░░░░░▄▐░░░░<br>▒░░░░░░▄▄▄░░▄██▄░░░<br>░░░░░░▐▀█▀▌░░░░▀█▄░<br>░░░░░░▐█▄█▌░░░░░░▀█▄<br>░░░░░░░▀▄▀░░░▄▄▄▄▄▀▀<br>░░░░░▄▄▄██▀▀▀▀░░░░░<br>░░░░█▀▄▄▄█░▀▀░░░░░░<br>░░░░▌░▄▄▄▐▌▀▀▀░░░░░<br>░▄░▐░░░▄▄░█░▀▀░░░░░<br>░▀█▌░░░▄░▀█▀░▀░░░░░<br>░░░░░░░░▄▄▐▌▄▄░░░░░<br>░░░░░░░░▀███▀█░▄░░░<br>░░░░░░░▐▌▀▄▀▄▀▐▄░░░<br>░░░░░░░▐▀░░░░░░▐▌░░<br>░░░░░░░█░░░░░░░░█░░<br>░░░░░░▐▌░░░░░░░░░█░
+[2016-05-21T21:50:29.795Z] (lobby) (The Vixen✴ changed the roomintro.)
+[2016-05-21T21:51:51.440Z] (lobby) (The Vixen✴ changed the roomintro.)
+[2016-05-21T21:59:54.235Z] (lobby) (Felicide ♥ - Ⓚ changed the roomintro.)
+[2016-05-21T22:01:34.041Z] (lobby) Shadow✧Cune was promoted to Driver by The Vixen✴.
+[2016-05-21T22:05:14.902Z] (lobby) Hirl123 was warned by felicide ♥.
+[2016-05-21T22:09:31.635Z] (lobby) Ausar Bot was promoted to Server Admin by felicide ♥.
+[2016-05-21T22:09:35.417Z] (lobby) TerminalHydreigon was warned by Ausar Bot.
+[2016-05-21T22:09:40.418Z] (lobby) TerminalHydreigon was warned by Ausar Bot.
+[2016-05-21T22:09:45.419Z] (lobby) TerminalHydreigon was warned by Ausar Bot.
+[2016-05-21T22:09:50.422Z] (lobby) TerminalHydreigon was warned by Ausar Bot.
+[2016-05-21T22:09:55.422Z] (lobby) TerminalHydreigon was warned by Ausar Bot.
+[2016-05-21T22:10:00.423Z] (lobby) TerminalHydreigon was warned by Ausar Bot.
+[2016-05-21T22:10:05.426Z] (lobby) TerminalHydreigon was warned by Ausar Bot.
+[2016-05-21T22:10:31.366Z] (lobby) (Ausar Bot was demoted to Paw-derator by felicide ♥.)
+[2016-05-21T22:10:44.728Z] (lobby) Ausar Bot was muted by TerminalHydreigon for 7 minutes. (are ya'll finished or ya'll done)
+[2016-05-21T22:11:10.798Z] (lobby) Ausar Bot was unmuted by TerminalHydreigon.
+[2016-05-21T22:14:31.107Z] (lobby) TerminalHydreigon was redirected to room Shitpost Lobby by felicide ♥.
+[2016-05-21T22:14:37.410Z] (lobby) Hurricane'd was redirected to room Shitpost Lobby by felicide ♥.
+[2016-05-21T22:16:55.343Z] (lobby) TerminalHydreigon was muted by felicide ♥ for 7 minutes. (nigga)
+[2016-05-21T22:17:20.541Z] (lobby) TerminalHydreigon was unmuted by The Vixen✴.
+[2016-05-21T22:19:18.471Z] (lobby) (felicide ♥ set modchat to ~)
+[2016-05-21T22:19:46.318Z] (lobby) (felicide ♥ set modchat to autoconfirmed)
+[2016-05-21T22:20:01.596Z] (lobby) (felicide ♥ set modchat to ♥)
+[2016-05-21T22:20:06.374Z] (lobby) (felicide ♥ set modchat to false)
+[2016-05-21T22:27:06.678Z] (lobby) (felicide ♥ created a tournament in monotyperandombattle format.)
+[2016-05-21T22:29:49.387Z] (lobby) (The tournament auto disqualify timer was set to 1.5 by Ausar Bot)
+[2016-05-21T22:31:00.632Z] (lobby) Solorbeam was muted by Ausar Bot for 7 minutes. (Automated Response: That is a bad word. You should feel bad. :x)
+[2016-05-21T22:31:08.876Z] (lobby) Solorbeam was unmuted by felicide ♥ - Ⓞⓢⓗⓘⓣ.
+[2016-05-21T22:33:07.319Z] (lobby) (Solorbeam was disqualified from the tournament by felicide ♥ - Ⓞⓢⓗⓘⓣ)
+[2016-05-21T22:34:07.902Z] (lobby) (A poll was started by The Vixen✴.)
+[2016-05-21T22:34:18.054Z] (lobby) (The poll was ended by felicide ♥ - Ⓞⓢⓗⓘⓣ.)
+[2016-05-21T22:37:34.471Z] (lobby) (A poll was started by The Vixen✴.)
+[2016-05-21T22:37:58.142Z] (lobby) (The poll was ended by The Vixen✴.)
+[2016-05-21T22:59:05.347Z] (lobby) (felicide ♥ - Ⓞⓢⓗⓘⓣ created a tournament in randombattle format.)
+[2016-05-21T23:08:21.891Z] (lobby) DarkAngeallenq.q was promoted to Paw-derator by The Vixen✴.
+[2016-05-21T23:18:29.291Z] (lobby) The Sakurai was warned by The Vixen✴. (dont ask me for pr0n bitch)
+[2016-05-21T23:20:21.577Z] (lobby) pron bitch 2 was banned by felicide ♥ - Ⓞⓢⓗⓘⓣ. (90.192.22.245)
+[2016-05-21T23:20:21.578Z] (lobby) (pron bitch 2's banned alts: The Sakurai)
+[2016-05-21T23:23:42.495Z] (lobby) TerminalHydreigon declared WELCOME TO FAMILY FEUD
+[2016-05-21T23:23:57.415Z] (lobby) TerminalHydreigon declared WE HAVE TWO TEAMS
+[2016-05-21T23:24:03.734Z] (lobby) TerminalHydreigon declared THE VIXEN FAMILY 
+[2016-05-21T23:24:19.541Z] (lobby) TerminalHydreigon declared AND THE RANSEI FAMILY
+[2016-05-21T23:24:45.415Z] (lobby) TerminalHydreigon declared VIXEN FAMILY WHAT IS YOUR BUZZER SOUND
+[2016-05-21T23:24:54.171Z] (lobby) felicide ♥ - Ⓞⓢⓗⓘⓣ declared AND IM YOR HOST
+[2016-05-21T23:25:01.853Z] (lobby) felicide ♥ - Ⓞⓢⓗⓘⓣ declared And Im Your Host
+[2016-05-21T23:25:07.776Z] (lobby) TerminalHydreigon declared TERMINALHYDREIGON
+[2016-05-21T23:25:25.294Z] (lobby) TerminalHydreigon declared The Vixen's buzzer is Knock Yourself Out
+[2016-05-21T23:25:33.299Z] (lobby) TerminalHydreigon declared Ransei what is your buzzer?
+[2016-05-21T23:25:44.864Z] (lobby) TerminalHydreigon declared Ransei what is your buzzer noise
+[2016-05-21T23:25:45.990Z] (lobby) 2 teams bas was banned by felicide ♥ - Ⓞⓢⓗⓘⓣ. (45.63.107.208)
+[2016-05-21T23:26:35.938Z] (lobby) TerminalHydreigon declared The first family that rings there buzzer goes first in the lightning round questions
+[2016-05-21T23:26:59.148Z] (lobby) TerminalHydreigon declared it looks like Solorbeam is replacing vixen
+[2016-05-21T23:27:13.752Z] (lobby) TerminalHydreigon declared Solorbeam what is your buzzer noise?
+[2016-05-21T23:27:33.918Z] (lobby) the yogscast fan was banned by felicide ♥ - Ⓞⓢⓗⓘⓣ. (104.236.187.129)
+[2016-05-21T23:27:56.165Z] (lobby) wootmoo was banned by felicide ♥ - Ⓞⓢⓗⓘⓣ. (189.224.148.196)
+[2016-05-21T23:28:26.885Z] (lobby) TerminalHydreigon declared First family to ring their buzzer wins
+[2016-05-21T23:28:45.165Z] (lobby) TerminalHydreigon declared Solorbeam IS MOVING ON TO THE LIGHTNING ROUND QUESTIONS
+[2016-05-21T23:29:07.389Z] (lobby) TerminalHydreigon declared 1. Name something associated with winter.
+[2016-05-21T23:29:30.098Z] (lobby) TerminalHydreigon declared 2. Name something that you might be afraid that your baby sitters might take
+[2016-05-21T23:29:57.309Z] (lobby) TerminalHydreigon declared 3. Name something that you can wear on your shins
+[2016-05-21T23:30:18.102Z] (lobby) TerminalHydreigon declared OKAy
+[2016-05-21T23:30:39.541Z] (lobby) TerminalHydreigon declared First question: I said Name something associated with winter, you said snow
+[2016-05-21T23:30:46.223Z] (lobby) TerminalHydreigon declared SURVEY SAAYSSS,
+[2016-05-21T23:30:53.295Z] (lobby) TerminalHydreigon declared DING DING DING 
+[2016-05-21T23:31:23.319Z] (lobby) TerminalHydreigon declared Second Question: I said Name something you might be afraid that your baby sitter might take, you said you virginity
+[2016-05-21T23:31:29.350Z] (lobby) TerminalHydreigon declared SURVEY SaaYSSS
+[2016-05-21T23:31:39.135Z] (lobby) TerminalHydreigon declared DING DING DING
+[2016-05-21T23:32:15.936Z] (lobby) TerminalHydreigon declared Third Question: I said name something you can wear on your shins, you said knee pads
+[2016-05-21T23:32:19.710Z] (lobby) TerminalHydreigon declared SURVEY SAYS
+[2016-05-21T23:32:22.902Z] (lobby) TerminalHydreigon declared X X X
+[2016-05-21T23:32:31.254Z] (lobby) TerminalHydreigon declared You got 2 out of 3 right
+[2016-05-21T23:32:37.062Z] (lobby) TerminalHydreigon declared RANSEI FAMILY ITS YOUR TURN
+[2016-05-21T23:33:37.710Z] (lobby) TerminalHydreigon declared Ransei Family: 1. Name something that you can put on your head
+[2016-05-21T23:34:00.084Z] (lobby) felicide ♥ - Ⓞⓢⓗⓘⓣ was appointed Room Owner by felicide ♥ - Ⓞⓢⓗⓘⓣ.
+[2016-05-21T23:34:03.778Z] (lobby) TerminalHydreigon was promoted to Room Voice by felicide ♥ - Ⓞⓢⓗⓘⓣ.
+[2016-05-21T23:34:06.999Z] (lobby) (felicide ♥ - Ⓞⓢⓗⓘⓣ was demoted to Room regular user by felicide ♥ - Ⓞⓢⓗⓘⓣ.)
+[2016-05-21T23:45:19.026Z] (lobby) (A poll was started by felicide ♥.)
+[2016-05-21T23:57:56.310Z] (lobby) Solorbeam was muted by Ausar Bot for 7 minutes. (Automated response: S-stop Flooding.. ;n;)
+[2016-05-21T23:58:03.642Z] (lobby) Solorbeam was unmuted by Ithi.
+[2016-05-22T00:03:59.116Z] (lobby) Ausar Bot was muted by felicide ♥ for 7 minutes.
+[2016-05-22T00:04:07.827Z] (lobby) Ausar Bot was unmuted by felicide ♥.
+[2016-05-22T00:08:34.465Z] (lobby) (The poll was ended by felicide ♥.)
+[2016-05-22T00:08:42.248Z] (lobby) (felicide ♥ created a tournament in randombattle format.)
+[2016-05-22T00:09:10.920Z] (lobby) (felicide ♥ forcibly ended a tournament.)
+[2016-05-22T00:09:56.219Z] (lobby) (felicide ♥ created a tournament in ou format.)
+[2016-05-22T00:11:53.215Z] (lobby) (The tournament was set to disallow scouting by felicide ♥)
+[2016-05-22T00:28:59.440Z] (lobby) Mystifi was promoted to Room Voice by Mystifi.
+[2016-05-22T00:29:46.784Z] (lobby) (Mystifi was demoted to Room regular user by Ausar Bot.)
+[2016-05-22T00:30:00.286Z] (lobby) Mystifi was promoted to Room Voice by Ausar Bot.
+[2016-05-22T00:30:08.042Z] (lobby) (Mystifi was demoted to Room regular user by Ausar Bot.)
+[2016-05-22T00:32:36.804Z] (lobby) TerminalHydreigon was promoted to Room Leader by TerminalHydreigon.
+[2016-05-22T00:32:43.739Z] (lobby) (TerminalHydreigon changed the staffintro.)
+[2016-05-22T01:09:19.623Z] (lobby) Solorbeam was muted by Ausar Bot for 7 minutes. (Automated Response: That is a bad word. You should feel bad. :x)
+[2016-05-22T01:09:34.616Z] (lobby) Solorbeam was unmuted by The Vixen✴.
+[2016-05-22T01:09:55.411Z] (lobby) Solorbeam was muted by Ausar Bot for 1 hour. (Automated Response: That is a bad word. You should feel bad. :x)
+[2016-05-22T01:09:59.272Z] (lobby) Solorbeam was unmuted by Hirl123.
+[2016-05-22T01:10:26.406Z] (lobby) Audinory was muted by Ausar Bot for 7 minutes. (Automated Response: That is a bad word. You should feel bad. :x)
+[2016-05-22T01:10:26.406Z] (lobby) (Audinory's ac account: felicide)
+[2016-05-22T01:10:39.925Z] (lobby) Felicide was unmuted by Felicide.
+[2016-05-22T01:11:18.515Z] (lobby) Ausar Bot was promoted to Server Admin by Felicide.
+[2016-05-22T01:11:25.604Z] (lobby) The Vixen✴ was banned from room lobby by Ausar Bot. (Automated response: this user is becoming a constant shit presence..)
+[2016-05-22T01:11:25.605Z] (lobby) (The Vixen✴'s roombanned alts: Broken Hope)
+[2016-05-22T01:11:37.966Z] (lobby) (Ausar Bot was demoted to Paw-derator by Broken Hope.)
+[2016-05-22T01:11:57.885Z] (lobby) thevixen was unbanned from room lobby by Broken Hope.
+[2016-05-22T01:15:02.321Z] (lobby) Solorbeam was muted by Ausar Bot for 1 hour. (Automated Response: That is a bad word. You should feel bad. :x)
+[2016-05-22T01:15:09.916Z] (lobby) Solorbeam was unmuted by The Vixen✴.
+[2016-05-22T01:16:06.608Z] (lobby) Solorbeam was banned from room lobby by Ausar Bot. (Automated response: this user is becoming a constant shit presence..)
+[2016-05-22T01:16:23.757Z] (lobby) solorbeam was unbanned from room lobby by Hirl123.
+[2016-05-22T01:34:08.963Z] (lobby) DekuHirl was banned by Hirl123. (77.102.25.249)
+[2016-05-22T01:34:08.964Z] (lobby) (DekuHirl's banned alts: SnekHirl)
+[2016-05-22T01:34:14.349Z] (lobby) (SnekHirl would be banned by Hirl123 but was already banned.)
+[2016-05-22T01:35:03.859Z] (lobby) dekuhirl was unbanned by Hirl123.
+[2016-05-22T01:47:09.688Z] (lobby) (Felicide created a tournament in gen1randombattle format.)
+[2016-05-22T01:54:32.594Z] (lobby) snekhirl was unlocked by Hirl123.
+[2016-05-22T02:41:55.971Z] (lobby) (Real Kaneki was forced to choose a new name by The Vixen)
+[2016-05-22T02:42:29.441Z] (lobby) diarmuidodyna was promoted to Server Admin by The Vixen.
+[2016-05-22T02:46:44.967Z] (lobby) kennethkaneki was promoted to Server Admin by Felicide.
+[2016-05-22T12:41:26.837Z] (lobby) Audinory was promoted to Server Admin by Felicide -.
+[2016-05-22T12:41:40.557Z] (lobby) (Felicide - was demoted to regular user by Felicide -.)
+[2016-05-22T13:12:48.487Z] (lobby) (Audinory changed the roomintro.)
+[2016-05-22T13:14:18.289Z] (lobby) (Audinory changed the roomintro.)
+[2016-05-22T13:14:28.271Z] (lobby) (Audinory changed the roomintro.)
+[2016-05-22T13:14:37.635Z] (lobby) (Audinory changed the roomintro.)
+[2016-05-22T13:14:56.919Z] (lobby) (Audinory changed the roomintro.)
+[2016-05-22T13:14:59.847Z] (lobby) (Audinory changed the roomintro.)
+[2016-05-22T13:15:06.999Z] (lobby) (Audinory changed the roomintro.)
+[2016-05-22T13:15:12.090Z] (lobby) (Audinory changed the roomintro.)
+[2016-05-22T13:15:37.110Z] (lobby) (Audinory changed the roomintro.)
+[2016-05-22T13:15:47.676Z] (lobby) (Audinory changed the roomintro.)
+[2016-05-22T13:40:21.459Z] (lobby) Mystifi was promoted to Room Leader by Audinory.
+[2016-05-22T13:41:00.758Z] (lobby) (Mystifi was demoted to Room regular user by Audinory.)
+[2016-05-22T14:07:24.749Z] (lobby) (Audinory changed the roomintro.)
+[2016-05-22T14:22:30.999Z] (lobby) Hirl123 was promoted to Room Voice by Hirl123.
+[2016-05-22T14:22:49.259Z] (lobby) (TerminalHydreigon was demoted to Room regular user by TerminalHydreigon.)
+[2016-05-22T14:22:56.967Z] (lobby) TerminalHydreigon was promoted to Room Voice by TerminalHydreigon.
+[2016-05-22T14:23:07.380Z] (lobby) (Hirl123 was demoted to Room regular user by Hirl123.)
+[2016-05-22T14:23:21.285Z] (lobby) Hirl123 was promoted to Room Voice by TerminalHydreigon.
+[2016-05-22T14:24:00.422Z] (lobby) TerminalHydreigon was muted by FocusBlasted for 7 minutes.
+[2016-05-22T14:24:05.949Z] (lobby) TerminalHydreigon was unmuted by FocusBlasted.
+[2016-05-22T14:24:07.219Z] (lobby) Hirl123 was promoted to Room Leader by Hirl123.
+[2016-05-22T14:24:15.032Z] (lobby) TerminalHydreigon was promoted to Room Leader by TerminalHydreigon.
+[2016-05-22T14:24:21.094Z] (lobby) FocusBlasted was muted by TerminalHydreigon for 7 minutes. (o rly my boi)
+[2016-05-22T14:24:26.070Z] (lobby) FocusBlasted was unmuted by TerminalHydreigon.
+[2016-05-22T14:24:42.626Z] (lobby) FocusBlasted was kicked from the room by TerminalHydreigon.
+[2016-05-22T14:24:54.570Z] (lobby) (TerminalHydreigon was demoted to Room Paw-derator by Hirl123.)
+[2016-05-22T14:25:03.711Z] (lobby) TerminalHydreigon was promoted to Room Leader by Hirl123.
+[2016-05-22T14:25:09.964Z] (lobby) (Hirl123 was demoted to Room Paw-derator by TerminalHydreigon.)
+[2016-05-22T14:25:14.777Z] (lobby) Hirl123 was promoted to Room Leader by Hirl123.
+[2016-05-22T14:25:20.579Z] (lobby) kingDeacon was warned by FocusBlasted.
+[2016-05-22T14:25:21.607Z] (lobby) (Hirl123 was demoted to Room Voice by TerminalHydreigon.)
+[2016-05-22T14:25:23.331Z] (lobby) Hirl123 was kicked from the room by TerminalHydreigon.
+[2016-05-22T14:25:34.643Z] (lobby) Hurricane'd was kicked from the room by FocusBlasted.
+[2016-05-22T14:25:43.041Z] (lobby) Hirl123 was kicked from the room by FocusBlasted.
+[2016-05-22T14:26:03.041Z] (lobby) Hirl123 was promoted to Room Leader by Hirl123.
+[2016-05-22T14:26:37.115Z] (lobby) (TerminalHydreigon was demoted to Room Playa by Audinory.)
+[2016-05-22T14:26:50.269Z] (lobby) TerminalHydreigon was promoted to Room Leader by TerminalHydreigon.
+[2016-05-22T14:28:47.125Z] (lobby) (Hirl123 was demoted to Room Voice by TerminalHydreigon.)
+[2016-05-22T14:28:52.942Z] (lobby) Hirl123 was promoted to Room Leader by Hirl123.
+[2016-05-22T14:28:53.541Z] (lobby) (TerminalHydreigon was demoted to Room Voice by TerminalHydreigon.)
+[2016-05-22T14:28:59.237Z] (lobby) TerminalHydreigon was promoted to Room Leader by TerminalHydreigon.
+[2016-05-22T14:34:17.229Z] (lobby) (Audinory changed the roomintro.)
+[2016-05-22T14:34:27.430Z] (lobby) (Audinory changed the roomintro.)
+[2016-05-22T14:34:44.946Z] (lobby) (Audinory changed the roomintro.)
+[2016-05-22T14:35:20.373Z] (lobby) (Audinory changed the roomintro.)
+[2016-05-22T14:35:54.204Z] (lobby) (Audinory changed the roomintro.)
+[2016-05-22T14:36:04.359Z] (lobby) (Audinory changed the roomintro.)
+[2016-05-22T14:36:37.092Z] (lobby) (Audinory changed the roomintro.)
+[2016-05-22T14:37:05.977Z] (lobby) (Audinory changed the roomintro.)
+[2016-05-22T14:37:47.560Z] (lobby) (Audinory changed the roomintro.)
+[2016-05-22T14:38:32.807Z] (lobby) (Audinory changed the roomintro.)
+[2016-05-22T14:39:10.606Z] (lobby) (Hirl123 was demoted to Room Driver by Audinory.)
+[2016-05-22T14:39:15.454Z] (lobby) (Hirl123 was demoted to Room regular user by Audinory.)
+[2016-05-22T14:39:18.498Z] (lobby) Hurricane'd was promoted to Room Driver by Audinory.
+[2016-05-22T14:40:03.419Z] (lobby) Hirl123 was promoted to Room Leader by Hirl123.
+[2016-05-22T14:44:35.333Z] (lobby) Hurricane'd was redirected to room Games by TerminalHydreigon.
+[2016-05-22T14:44:38.805Z] (lobby) FocusBlasted was redirected to room Games by TerminalHydreigon.
+[2016-05-22T14:44:43.133Z] (lobby) Mystifi was redirected to room Games by TerminalHydreigon.
+[2016-05-22T14:44:46.533Z] (lobby) DarkAngeallenq.q was redirected to room Games by TerminalHydreigon.
+[2016-05-22T15:38:28.476Z] (lobby) Ithi was promoted to Paw-derator by Audinory~♥.
+[2016-05-22T15:42:24.910Z] (lobby) Ausar Bot was muted by Kenneth Kaneki for 7 minutes.
+[2016-05-22T15:42:49.489Z] (lobby) Ausar Bot was unmuted by TerminalHydreigon.
+[2016-05-22T15:43:04.383Z] (lobby) Ausar Bot was muted by Kenneth Kaneki for 7 minutes. (Bad bot)
+[2016-05-22T15:43:20.483Z] (lobby) Ausar Bot was unmuted by Hirl123.
+[2016-05-22T15:44:38.624Z] (lobby) (Hirl123 was demoted to Room Voice by Hirl123.)
+[2016-05-22T15:46:35.124Z] (lobby) TerminalHydreigon was redirected to room Shitpost Lobby by Diarmuid O'Dyna.
+[2016-05-22T15:46:43.157Z] (lobby) Hirl123 was redirected to room Shitpost Lobby by Diarmuid O'Dyna.
+[2016-05-22T15:48:12.636Z] (lobby) Sylvie Bot was promoted to Paw-derator by Audinory~♥.
+[2016-05-22T15:48:22.856Z] (lobby) (Ausar Bot was demoted to regular user by Audinory~♥.)
+[2016-05-22T15:49:42.623Z] (lobby) Hirl123 was muted by FocusBlasted for 7 minutes. (hang out in real life)
+[2016-05-22T15:49:48.456Z] (lobby) Hirl123 was promoted to Room Leader by Hirl123.
+[2016-05-22T15:49:49.137Z] (lobby) Hirl123 was unmuted by FocusBlasted.
+[2016-05-22T15:52:47.677Z] (lobby) Audinory~♥ declared test
+[2016-05-22T15:53:10.290Z] (lobby) Audinory~♥ declared 1
+[2016-05-22T15:53:14.628Z] (lobby) Audinory~♥ declared 2
+[2016-05-22T15:53:17.335Z] (lobby) Audinory~♥ declared 3
+[2016-05-22T15:53:23.546Z] (lobby) TerminalHydreigon declared 3
+[2016-05-22T15:53:35.003Z] (lobby) TerminalHydreigon was redirected to room Shitpost Lobby by Audinory~♥.
+[2016-05-22T15:54:21.148Z] (lobby) (TerminalHydreigon was demoted to Paw-derator by Audinory~♥.)
+[2016-05-22T15:54:28.150Z] (lobby) (TerminalHydreigon was demoted to Room regular user by Audinory~♥.)
+[2016-05-22T15:55:24.135Z] (lobby) TerminalHydreigon was muted by Audinory~♥ for 7 minutes.
+[2016-05-22T15:59:30.734Z] (lobby) (Audinory created a tournament in battlefactory format.)
+[2016-05-22T16:01:22.645Z] (lobby) Audinory declared Haunter did Nothing Wrong.
+[2016-05-22T16:01:36.605Z] (lobby) Audinory declared Haunter was Framed
+[2016-05-22T16:01:46.007Z] (lobby) Audinory declared Bring back Haunter
+[2016-05-22T16:02:38.317Z] (lobby) Audinory declared lets not im taking this to pms
+[2016-05-22T16:02:42.923Z] (lobby) Audinory declared stop
+[2016-05-22T16:03:52.261Z] (lobby) TerminalHydreigon was promoted to Room Leader by Diarmuid O'Dyna.
+[2016-05-22T16:05:41.261Z] (lobby) (The tournament auto disqualify timer was set to 1.5 by Audinory)
+[2016-05-22T16:30:11.917Z] (lobby) (Audinory has set an icon to  ggdaca)
+[2016-05-22T16:30:17.883Z] (lobby) (Audinory has set an icon to  ggdaca)
+[2016-05-22T16:33:37.058Z] (lobby) (Audinory has set an icon to  httporig02deviantartnet7050f20143177878f1db2b0336c6b1807830a63ad1c397d86b36fgif)
+[2016-05-22T16:33:55.086Z] (lobby) (Audinory has set an icon to  ggdaca)
+[2016-05-22T16:34:39.551Z] (lobby) (Audinory has set an icon to  ggdaca)
+[2016-05-22T16:35:42.547Z] (lobby) (Audinory has set an icon to  ggdaca)
+[2016-05-22T16:39:17.107Z] (lobby) (Audinory changed the roomintro.)
+[2016-05-22T16:45:39.815Z] (lobby) (Audinory has set an icon to  hurricaned)
+[2016-05-22T16:50:35.278Z] (lobby) Audinory declared <font style="font-size:50px;">First person to beat me in gen 1 randbats gets 100 bucks</font> ~Audinory
+[2016-05-22T16:50:54.380Z] (lobby) (Audinory created a tournament in gen1randombattle format.)
+[2016-05-22T17:33:31.388Z] (lobby) Audinory declared <div style="width: 100% ; height: 285px ; background-image: url('http://visitnatchez.org/wp-content/uploads/2016/02/MagBluff-Casino.png') ; background-size: 100%; background-repeat: no-repeat ; border: solid, 1px, gold"><img src="http://i.imgur.com/pSuDgur.png" width="200" height="80" style="float: right"><div style="height: 128.5px; width: 40%; background-color: none;"><marquee behavior="slide" direction="right" width="110"><center><br><br><br><button style="border: double, gold, 4px; color: gold; background-color: #990000; border-radius: 10px; font-face: serif ; font-size: 14px;"> Ca$ino Rules </button><br><br><button style="border: double, gold, 4px; color: gold; background-color: #990000; border-radius: 10px; font-face: serif ; font-size: 14px;"> Ca$ino Staff </button><br><br><button style="border: double, gold, 4px; color: gold; background-color: #990000; border-radius: 10px; font-face: serif ; font-size: 14px;">Dice Game!!</button></center></marquee></div><br><br><br><br><br><marquee height="76" behavior="slide" direction="up"><div style="color: gold ; background-color: #990000 ; border-top: solid, 1px, gold ; width: 100% ; height: 76px"><center><b><u>Welcome to the Casino</u></b></center><center>Need a place to spend those hard earned bucks? Look no further! Our Casino Staff and Gamblers alike can help you find ways to make and lose money - more often than not it's the latter rather than the former. Why not come inside and try your luck?</center></div></marquee></div>
+[2016-05-22T17:37:05.607Z] (lobby) Chief Sokka was promoted to Driver by Audinory.
+[2016-05-22T17:37:13.750Z] (lobby) Chief Sokka was muted by Sylvie Bot for 7 minutes. (Automated Response: That is a bad word. You should feel bad. :x)
+[2016-05-22T17:37:21.467Z] (lobby) Chief Sokka was unmuted by Audinory.
+[2016-05-22T17:37:43.603Z] (lobby) Chief Sokka was muted by Sylvie Bot for 7 minutes. (Automated Response: That is a bad word. You should feel bad. :x)
+[2016-05-22T17:37:47.234Z] (lobby) Chief Sokka was unmuted by Audinory.
+[2016-05-22T17:45:46.110Z] (lobby) (Audinory changed the roomdesc to: "This room will be deleted at the next Server Restart.".)
+[2016-05-22T17:47:24.501Z] (lobby) Chief Sokka was muted by Sylvie Bot for 7 minutes. (Automated Response: That is a bad word. You should feel bad. :x)
+[2016-05-22T17:47:35.587Z] (lobby) Sylvie Bot was muted by Audinory for 1 hour.
+[2016-05-22T17:47:38.120Z] (lobby) Chief Sokka was unmuted by Audinory.
+[2016-05-22T17:48:12.859Z] (lobby) Sylvie Bot was unmuted by Audinory.
+[2016-05-22T17:48:50.872Z] (lobby) ggdaca was promoted to Room Voice by ggdaca.
+[2016-05-22T17:49:03.031Z] (lobby) ggdaca was kicked from the room by FocusBlasted.
+[2016-05-22T17:49:30.733Z] (lobby) (ggdaca was demoted to Room regular user by ggdaca.)
+[2016-05-22T17:50:48.543Z] (lobby) FocusBlasted was banned from room lobby by ggdaca. (unban after 3 minutes)
+[2016-05-22T17:51:30.453Z] (lobby) focusblasted was unbanned from room lobby by Hirl123.
+[2016-05-22T17:54:06.427Z] (lobby) (Audinory~ created a tournament in challengecup1v1 format.)
+[2016-05-22T17:55:52.736Z] (lobby) (The tournament auto disqualify timer was set to 0.5 by Audinory~)
+[2016-05-22T17:57:10.975Z] (lobby) (The tournament auto disqualify timer was set to off by Audinory~)
+[2016-05-22T17:57:25.922Z] (lobby) (The tournament auto disqualify timer was set to 3 by Audinory~)
+[2016-05-22T18:01:44.197Z] (lobby) ggdaca was promoted to Room Voice by ggdaca.
+[2016-05-22T18:05:00.200Z] (lobby) (The tournament auto disqualify timer was set to off by Audinory~ - Ⓕⓞⓞⓓ)
+[2016-05-22T18:05:11.337Z] (lobby) (The tournament auto disqualify timer was set to 1 by ggdaca)
+[2016-05-22T18:05:14.208Z] (lobby) (The tournament auto disqualify timer was set to 1e+30 by Audinory~ - Ⓕⓞⓞⓓ)
+[2016-05-22T18:05:27.463Z] (lobby) (The tournament auto disqualify timer was set to 30 by Audinory~ - Ⓕⓞⓞⓓ)
+[2016-05-22T18:05:30.784Z] (lobby) (The tournament auto disqualify timer was set to 0.5 by Audinory~ - Ⓕⓞⓞⓓ)
+[2016-05-22T18:06:26.600Z] (lobby) DarkAngeallenq.q was warned by ggdaca. (moo lol jk.. dont start the moo thing)
+[2016-05-22T18:06:39.719Z] (lobby) ggdaca was warned by ggdaca. (i had to sorry)
+[2016-05-22T18:08:37.502Z] (lobby) ggdaca was muted by FocusBlasted for 7 minutes.
+[2016-05-22T18:08:51.349Z] (lobby) ggdaca was unmuted by ggdaca.
+[2016-05-22T18:08:54.979Z] (lobby) ggdaca was muted by FocusBlasted for 7 minutes.
+[2016-05-22T18:08:58.979Z] (lobby) ggdaca was unmuted by ggdaca.
+[2016-05-22T18:09:02.427Z] (lobby) ggdaca was muted by FocusBlasted for 7 minutes. (dank much)
+[2016-05-22T18:09:18.251Z] (lobby) ggdaca would be muted by FocusBlasted but was already muted. (dank much)
+[2016-05-22T18:09:25.675Z] (lobby) V A Q was promoted to Room Paw-derator by V A Q.
+[2016-05-22T18:09:25.706Z] (lobby) ggdaca was kicked from the room by FocusBlasted.
+[2016-05-22T18:09:31.409Z] (lobby) ggdaca was kicked from the room by FocusBlasted.
+[2016-05-22T18:09:35.036Z] (lobby) ggdaca was kicked from the room by FocusBlasted.
+[2016-05-22T18:09:43.142Z] (lobby) (V A Q was demoted to Room Voice by V A Q.)
+[2016-05-22T18:09:47.892Z] (lobby) ggdaca was kicked from the room by FocusBlasted.
+[2016-05-22T18:10:22.706Z] (lobby) ggdaca was unmuted by ggdaca.
+[2016-05-22T18:10:23.113Z] (lobby) ggdaca was kicked from the room by FocusBlasted.
+[2016-05-22T18:10:34.663Z] (lobby) FocusBlasted was kicked from the room by ggdaca.
+[2016-05-22T18:10:47.817Z] (lobby) (ggdaca was demoted to Room regular user by ggdaca.)
+[2016-05-22T18:10:58.229Z] (lobby) (V A Q was demoted to Room regular user by V A Q.)
+[2016-05-22T18:11:06.164Z] (lobby) ggdaca was promoted to Room Irrelevant Loser by Audinory~ - Ⓕⓞⓞⓓ.
+[2016-05-22T18:11:10.183Z] (lobby) ggdaca was promoted to Room Shitposter by Audinory~ - Ⓕⓞⓞⓓ.
+[2016-05-22T18:11:15.157Z] (lobby) ggdaca was promoted to Room Corrupt Individual by Audinory~ - Ⓕⓞⓞⓓ.
+[2016-05-22T18:11:22.179Z] (lobby) ggdaca was promoted to Room Sub-Lord by Audinory~ - Ⓕⓞⓞⓓ.
+[2016-05-22T18:11:26.596Z] (lobby) ggdaca was appointed Room Owner by Audinory~ - Ⓕⓞⓞⓓ.
+[2016-05-22T18:11:26.832Z] (lobby) purpledragon24 was warned by Sylvie Bot. (Automated response: S-stooooooooooooooop~! c:)
+[2016-05-22T18:12:02.559Z] (lobby) (ggdaca was demoted to Room regular user by Audinory~ - Ⓕⓞⓞⓓ.)
+[2016-05-22T18:12:08.068Z] (lobby) (ggdaca was demoted to regular user by Audinory~ - Ⓕⓞⓞⓓ.)
+[2016-05-22T18:12:13.274Z] (lobby) ggdaca was kicked from the room by FocusBlasted.
+[2016-05-22T18:12:15.783Z] (lobby) ggdaca was promoted to Server Lord by Audinory~ - Ⓕⓞⓞⓓ.
+[2016-05-22T18:12:29.369Z] (lobby) FocusBlasted was muted by ggdaca for 7 minutes.
+[2016-05-22T18:12:42.621Z] (lobby) Sylvie Bot was promoted to Server Bot by Audinory~ - Ⓕⓞⓞⓓ.
+[2016-05-22T18:12:44.861Z] (lobby) purpledragon24 was promoted to Irrelevant Loser by Hirl123.
+[2016-05-22T19:01:14.065Z] (lobby) Audinory~ updated the User of the Week to "Mystifi".
+[2016-05-22T19:02:42.373Z] (lobby) Hirl123 was pinged by Audinory~
+[2016-05-22T19:02:47.676Z] (lobby) Hirl123 was asked to pay attention to Audinory~
+[2016-05-22T19:02:51.487Z] (lobby) Audinory~-kouhai tried to get the attention of Hirl123-senpai
+[2016-05-22T19:04:08.667Z] (lobby) Audinory~-kouhai tried to get the attention of Audinory~-senpai
+[2016-05-22T19:05:37.998Z] (lobby) Hirl123 was pinged by Audinory~
+[2016-05-22T19:05:59.586Z] (lobby) Mystifi was pinged by Audinory~
+[2016-05-22T19:11:28.014Z] (lobby) (Audinory~ created a tournament in randombattle format.)
+[2016-05-22T19:12:43.375Z] (lobby) Mystifi was pinged by Mystifi
+[2016-05-22T19:12:50.839Z] (lobby) Hirl123 was pinged by Hirl123
+[2016-05-22T19:34:03.866Z] (lobby) All 3 Room Auth have been cleared by Audinory~.
+[2016-05-22T19:34:55.478Z] (lobby) All 25 Auth have been cleared by Audinory~.
+[2016-05-22T19:35:02.266Z] (lobby) All 25 Auth have been cleared by Audinory~.
+[2016-05-22T19:35:48.535Z] (lobby) All 25 Auth have been cleared by Audinory~.
+[2016-05-22T19:36:30.478Z] (lobby) Hirl123 was promoted to Room Sub-Lord by Hirl123.
+[2016-05-22T19:37:31.992Z] (lobby) Hurricane'd was promoted to Room Shitposter by Audinory~.
+[2016-05-22T19:44:22.714Z] (lobby) shivamrustagi was warned by Audinory~♥. (please stop.)
+[2016-05-22T19:54:22.129Z] (lobby) (Audinory~♥ created a tournament in monotype format.)
+[2016-05-22T19:54:48.651Z] (lobby) (The tournament was set to disallow scouting by Audinory~♥)
+[2016-05-22T19:55:32.833Z] (lobby) (The tournament auto disqualify timer was set to 2 by Audinory~♥)
+[2016-05-22T20:03:45.315Z] (lobby) (Audinory~♥ created a tournament in monotyperandombattle format.)
+[2016-05-22T20:10:12.064Z] (lobby) (The tournament auto disqualify timer was set to 2 by TerminalHydreigon)
+[2016-05-22T20:28:07.286Z] (lobby) (Diarmuid O'Dyna was demoted to Sub-Lord by Audinory~♥.)
+[2016-05-22T20:28:18.072Z] (lobby) Diarmuid O'Dyna was promoted to Server Lord by Audinory~♥.
+[2016-05-22T20:28:24.486Z] (lobby) DarkAngeallenq.q was promoted to Sub-Lord by Audinory~♥.
+[2016-05-22T20:29:03.854Z] (lobby) DarkFlamesKing33 was promoted to Corrupt Individual by Audinory~♥.
+[2016-05-22T20:29:11.484Z] (lobby) (DarkFlamesKing33 was demoted to regular user by Audinory~♥.)
+[2016-05-22T20:29:16.214Z] (lobby) (DarkAngeallenq.q was demoted to Corrupt Individual by Audinory~♥.)
+[2016-05-22T20:29:23.977Z] (lobby) TerminalHydreigon was promoted to Sub-Lord by Audinory~♥.
+[2016-05-22T20:51:55.675Z] (lobby) (Audinory~♥ created a tournament in hackmonscup format.)
+[2016-05-22T20:53:56.185Z] (lobby) (The tournament auto disqualify timer was set to 2 by Hirl123)
+[2016-05-22T21:18:54.539Z] (lobby) Audinory~♥ declared <center><h1><u>Ladder Frenzy</u></h1>From now until xx:00 there will be a ladder frenzy!!!<br><table style="border: black, solid 1px;"><th style="border: black, solid 1px;">Place</th><th style="border: black, solid 1px;">Bucks</th><tr><td style="border: black, solid 1px;">1st</td><td style="border: black, solid 1px;">75</td><tr><td style="border: black, solid 1px;">2nd</td><td style="border: black, solid 1px;">45</td><tr><td style="border: black, solid 1px;">3rd</td><td style="border: black, solid 1px;">20</td></table>Tier Will Be: <b>Battle Factory</b></center>
+[2016-05-22T21:20:30.867Z] (lobby) (A poll was started by Audinory~♥.)
+[2016-05-22T21:22:20.231Z] (lobby) (The poll was ended by Audinory~♥.)
+[2016-05-22T21:22:27.266Z] (lobby) Audinory~♥ declared <center><h1><u>Ladder Frenzy</u></h1>From now until xx:00 there will be a ladder frenzy!!!<br><table style="border: black, solid 1px;"><th style="border: black, solid 1px;">Place</th><th style="border: black, solid 1px;">Bucks</th><tr><td style="border: black, solid 1px;">1st</td><td style="border: black, solid 1px;">75</td><tr><td style="border: black, solid 1px;">2nd</td><td style="border: black, solid 1px;">45</td><tr><td style="border: black, solid 1px;">3rd</td><td style="border: black, solid 1px;">20</td></table>Tier Will Be: <b>Battle Factory</b></center>
+[2016-05-22T21:22:36.283Z] (lobby) pinkfairyboy was promoted to Room Irrelevant Loser by Audinory~♥.
+[2016-05-22T21:23:01.807Z] (lobby) V A Q was promoted to Room Irrelevant Loser by V A Q.
+[2016-05-22T21:23:27.839Z] (lobby) (Hirl123 was demoted to Room Irrelevant Loser by Hirl123.)
+[2016-05-22T21:28:26.818Z] (lobby) (V A Q was demoted to Room regular user by V A Q.)
+[2016-05-22T21:29:18.222Z] (lobby) Hirl123 was promoted to Room Sub-Lord by Hirl123.
+[2016-05-22T21:39:27.628Z] (lobby) Mystifi was pinged by Mystifi
+[2016-05-22T21:39:48.580Z] (lobby) The Vixen was pinged by Mystifi
+[2016-05-22T21:40:06.468Z] (lobby) V A Q was pinged by V A Q
+[2016-05-22T21:40:28.513Z] (lobby) Broken Hope was pinged by Audinory~♥
+[2016-05-22T21:42:52.979Z] (lobby) TerminalHydreigon was pinged by Hirl123
+[2016-05-22T21:43:01.815Z] (lobby) Hirl123 was pinged by TerminalHydreigon
+[2016-05-22T21:43:23.099Z] (lobby) TerminalHydreigon was pinged by Hirl123
+[2016-05-22T21:43:36.716Z] (lobby) Hirl123 was pinged by TerminalHydreigon
+[2016-05-22T21:44:03.788Z] (lobby) Hirl123 was pinged by V A Q
+[2016-05-22T21:44:13.677Z] (lobby) V A Q was pinged by V A Q
+[2016-05-22T21:44:13.929Z] (lobby) The Vixen was pinged by TerminalHydreigon
+[2016-05-22T21:44:57.923Z] (lobby) TerminalHydreigon was pinged by V A Q
+[2016-05-22T21:45:07.175Z] (lobby) V A Q was pinged by V A Q
+[2016-05-22T21:45:57.870Z] (lobby) The Vixen was pinged by TerminalHydreigon
+[2016-05-22T21:51:16.543Z] (lobby) purple❤️dragon24 was pinged by Hirl123
+[2016-05-22T21:51:54.070Z] (lobby) purple❤️dragon24 was pinged by V A Q
+[2016-05-22T21:52:13.379Z] (lobby) V A Q was pinged by V A Q
+[2016-05-22T22:06:14.200Z] (lobby) FSSG Scott's messages were cleared from room lobby by Audinory~♥.
+[2016-05-22T22:40:09.312Z] (lobby) (Audinory~♥ changed the roomintro.)
+[2016-05-22T22:40:25.349Z] (lobby) (Audinory~♥ changed the roomintro.)
+[2016-05-22T22:40:46.531Z] (lobby) (Audinory~♥ changed the roomintro.)
+[2016-05-22T22:40:54.088Z] (lobby) (Audinory~♥ changed the roomintro.)
+[2016-05-22T22:41:00.669Z] (lobby) (Audinory~♥ changed the roomintro.)
+[2016-05-22T22:41:04.213Z] (lobby) (Audinory~♥ changed the roomintro.)
+[2016-05-22T22:41:10.450Z] (lobby) (Audinory~♥ changed the roomintro.)
+[2016-05-22T22:41:23.494Z] (lobby) (Audinory~♥ changed the roomintro.)
+[2016-05-22T22:41:29.454Z] (lobby) (Audinory~♥ changed the roomintro.)
+[2016-05-22T22:45:14.502Z] (lobby) The Vixen was pinged by Mystifi
+[2016-05-22T22:58:31.197Z] (lobby) Audinory~♥ declared The following Teirs have been Added (Working): <br>Gen 1 Inverse Randbats<br>Gen 2 Inverse Randbats<br>CC1v1 Inverse<br>Monotype Inverse<br>Random Monotype Inverse<br>Gen 3 and 4 Randats<br><br>The following Tiers Exist but prolly dont work decently:<br>Gen 1 Monotype, Gen 1 Battle Factory, Hackmons Cup Gen 1
+[2016-05-22T23:03:20.411Z] (lobby) Mosmero was locked from talking by Audinory~♥. (70.100.243.70)
+[2016-05-22T23:51:45.938Z] (lobby) Audinory~♥ was promoted to Room Glorified Normie by Audinory~♥.
+[2016-05-22T23:51:51.470Z] (lobby) (Audinory~♥ was demoted to Room regular user by Audinory~♥.)
+[2016-05-22T23:51:57.659Z] (lobby) Audinory~♥ was appointed Room Owner by Audinory~♥.
+[2016-05-22T23:52:30.057Z] (lobby) (Audinory~♥ was demoted to Room regular user by Audinory~♥.)
+[2016-05-22T23:52:36.669Z] (lobby) Audinory~♥ was appointed Room Lord by Audinory~♥.
+[2016-05-22T23:52:43.462Z] (lobby) (Audinory~♥ was demoted to Room regular user by Audinory~♥.)
+[2016-05-22T23:53:44.755Z] (lobby) (Audinory~♥ changed the roomintro.)
+[2016-05-22T23:53:57.062Z] (lobby) (Audinory~♥ changed the roomintro.)
+[2016-05-22T23:54:06.280Z] (lobby) (Audinory~♥ changed the roomintro.)
+[2016-05-22T23:54:13.210Z] (lobby) (Audinory~♥ changed the roomintro.)
+[2016-05-22T23:54:19.843Z] (lobby) (Audinory~♥ changed the roomintro.)
+[2016-05-22T23:54:25.098Z] (lobby) (Audinory~♥ changed the roomintro.)
+[2016-05-22T23:54:35.441Z] (lobby) (Audinory~♥ changed the roomintro.)
+[2016-05-22T23:54:40.442Z] (lobby) (Audinory~♥ changed the roomintro.)
+[2016-05-23T00:59:47.120Z] (lobby) TerminalHydreigon was redirected to room Tournaments by Audinory~♥.
+[2016-05-23T01:00:04.525Z] (lobby) DarkAngeallenq♫q was redirected to room Tournaments by Audinory~♥.
+[2016-05-23T01:14:20.312Z] (lobby) purpledragon24 was warned by Audinory~♥.
+[2016-05-23T01:21:00.844Z] (lobby) Yostuff was warned by Broken Hope. (No.)
+[2016-05-23T01:23:28.100Z] (lobby) V A Q was promoted to Room Glorified Normie by V A Q.
+[2016-05-23T01:23:52.511Z] (lobby) (V A Q was demoted to Room regular user by V A Q.)
+[2016-05-23T01:28:28.661Z] (lobby) (TerminalHydreigon changed the staffintro.)
+[2016-05-23T01:38:51.427Z] (lobby) Yostuff was warned by The Vixen.
+[2016-05-23T02:04:54.113Z] (lobby) Kenneth Kaneki was warned by Kenneth Kaneki.
+[2016-05-23T02:12:23.375Z] (lobby) Ambah was pinged by Kenneth Kaneki
+[2016-05-23T02:15:41.632Z] (lobby) (purpledragon24 was demoted to regular user by Kenneth Kaneki.)
+[2016-05-23T02:17:03.591Z] (lobby) purpledragon24 was promoted to Room Glorified Normie by Kenneth Kaneki.
+[2016-05-23T02:49:47.272Z] (lobby) V A Q declared 50 BUCK TOUR RIGHT NOW IN TOURS ROOM
+[2016-05-23T02:55:50.336Z] (lobby) kingDeacon was redirected to room Tournaments by V A Q.
+[2016-05-23T02:59:42.563Z] (lobby) V A Q was appointed Room Lord by V A Q.
+[2016-05-23T03:00:05.579Z] (lobby) (V A Q was demoted to Room regular user by V A Q.)
+[2016-05-23T03:14:21.485Z] (lobby) Ambah was promoted to Room Special Star by Kenneth Kaneki.
+[2016-05-23T03:17:29.489Z] (lobby) purpledragon24 was promoted to Room Driver by V A Q.
+[2016-05-23T03:38:07.090Z] (lobby) MrPugg was redirected to room Tournaments by V A Q.
+[2016-05-23T03:55:50.959Z] (lobby) Mystifi - ⒶⓌⒶⓎ was kicked from the room by Kenneth Kaneki.
+[2016-05-23T03:55:53.358Z] (lobby) Ambah - ⒶⓌⒶⓎ was kicked from the room by Kenneth Kaneki.
+[2016-05-23T03:56:39.671Z] (lobby) Ambah - ⒶⓌⒶⓎ was kicked from the room by Kenneth Kaneki.
+[2016-05-23T14:30:11.846Z] (lobby) (Audinory~ changed the roomintro.)
+[2016-05-23T14:30:43.978Z] (lobby) (Audinory~ changed the roomintro.)
+[2016-05-23T14:31:01.567Z] (lobby) (Audinory~ changed the roomintro.)
+[2016-05-23T14:31:09.112Z] (lobby) (Audinory~ changed the roomintro.)
+[2016-05-23T14:31:35.735Z] (lobby) (Audinory~ changed the roomintro.)
+[2016-05-23T14:33:10.247Z] (lobby) (Audinory~ changed the roomintro.)
+[2016-05-23T15:10:21.120Z] (lobby) V A Q was promoted to Room Glorified Normie by V A Q.
+[2016-05-23T15:10:38.624Z] (lobby) (V A Q was demoted to Bot by Audinory~.)
+[2016-05-23T15:10:47.028Z] (lobby) V A Q was promoted to Leader by Audinory~.
+[2016-05-23T15:10:55.055Z] (lobby) V A Q was promoted to Room Bot by Audinory~.
+[2016-05-23T15:11:22.061Z] (lobby) (V A Q was demoted to Room regular user by V A Q.)
+[2016-05-23T15:11:46.146Z] (lobby) shivamrustagi was warned by Audinory~. (we warned you yesterday to pls stop asking for auth; we are reviewing you and considering your "application")
+[2016-05-23T15:12:33.849Z] (lobby) (Audinory~ notes: tfw bluffing)
+[2016-05-23T15:12:57.073Z] (lobby) (V A Q notes: kek)
+[2016-05-23T15:18:11.369Z] (lobby) (Audinory~ created a tournament in monotyperandominverse format.)
+[2016-05-23T15:19:32.532Z] (lobby) (The tournament auto disqualify timer was set to 1.5 by Audinory~)
+[2016-05-23T15:25:44.557Z] (lobby) Ambah was kicked from the room by Audinory~.
+[2016-05-23T15:27:01.979Z] (lobby) Ambah was warned by Ithi. (FEAR ME)
+[2016-05-23T15:27:11.603Z] (lobby) Ithi was warned by Audinory~. (no)
+[2016-05-23T15:29:34.854Z] (lobby) shivamrustagi was warned by Audinory~. (minimodding)
+[2016-05-23T15:31:12.096Z] (lobby) (Audinory~ created a tournament in gen1battlefactory format.)
+[2016-05-23T15:31:41.934Z] (lobby) (Audinory~ forcibly ended a tournament.)
+[2016-05-23T15:42:27.558Z] (lobby) Audinory~-kouhai tried to get the attention of Audinory~-senpai
+[2016-05-23T15:43:15.697Z] (lobby) (nekis13 was demoted to regular user by The Vixen.)
+[2016-05-23T16:02:28.101Z] (lobby) (Audinory~ changed the roomintro.)
+[2016-05-23T16:03:51.319Z] (lobby) (Audinory~ changed the roomintro.)
+[2016-05-23T16:04:06.310Z] (lobby) (Audinory~ changed the roomintro.)
+[2016-05-23T16:04:17.330Z] (lobby) (Audinory~ changed the roomintro.)
+[2016-05-23T16:04:23.913Z] (lobby) (Audinory~ changed the roomintro.)
+[2016-05-23T16:04:50.464Z] (lobby) (Audinory~ changed the roomintro.)
+[2016-05-23T16:05:04.270Z] (lobby) (Audinory~ changed the roomintro.)
+[2016-05-23T16:05:25.156Z] (lobby) (Audinory~ changed the roomintro.)
+[2016-05-23T16:05:30.272Z] (lobby) (Audinory~ changed the roomintro.)
+[2016-05-23T16:05:36.520Z] (lobby) (Audinory~ changed the roomintro.)
+[2016-05-23T16:05:42.689Z] (lobby) (Audinory~ changed the roomintro.)
+[2016-05-23T16:06:34.940Z] (lobby) (Audinory~ changed the roomintro.)
+[2016-05-23T16:06:40.628Z] (lobby) (Audinory~ changed the roomintro.)
+[2016-05-23T16:06:47.188Z] (lobby) (Audinory~ changed the roomintro.)
+[2016-05-23T16:07:01.554Z] (lobby) (Audinory~ changed the roomintro.)
+[2016-05-23T16:07:08.388Z] (lobby) (Audinory~ changed the roomintro.)
+[2016-05-23T16:07:46.226Z] (lobby) (Audinory~ changed the roomintro.)
+[2016-05-23T16:08:02.244Z] (lobby) (Audinory~ changed the roomintro.)
+[2016-05-23T16:09:10.294Z] (lobby) (Audinory~ changed the roomintro.)
+[2016-05-23T16:09:56.559Z] (lobby) (Audinory~ changed the roomintro.)
+[2016-05-23T16:10:00.407Z] (lobby) (Audinory~ changed the roomintro.)
+[2016-05-23T16:11:05.490Z] (lobby) (The Vixen changed the roomintro.)
+[2016-05-23T16:11:23.833Z] (lobby) (Audinory~ changed the roomintro.)
+[2016-05-23T16:15:28.020Z] (lobby) ggdaca was kicked from the room by Audinory~.
+[2016-05-23T16:20:14.960Z] (lobby) Audinory~ was locked from talking by Audinory~. (146.198.24.211)
+[2016-05-23T16:20:24.575Z] (lobby) Audinory~ was unlocked by Audinory~.
+[2016-05-23T16:20:47.489Z] (lobby) Audinory~ was locked from talking by Audinory~. (146.198.24.211)
+[2016-05-23T16:21:00.713Z] (lobby) ggdaca was muted by ggdaca for 1 hour.
+[2016-05-23T16:21:43.654Z] (lobby) Hirl123 was muted by Audinory~ for 1 hour.
+[2016-05-23T16:21:52.292Z] (lobby) Hirl123 was unmuted by Audinory~.
+[2016-05-23T16:22:15.228Z] (lobby) (Hirl123 was demoted to Room regular user by Hirl123.)
+[2016-05-23T16:22:24.666Z] (lobby) ggdaca was unmuted by ggdaca.
+[2016-05-23T16:22:25.275Z] (lobby) Hirl123 was promoted to Room Glorified Normie by Hirl123.
+[2016-05-23T16:22:31.976Z] (lobby) Audinory~ was unlocked by Audinory~.
+[2016-05-23T16:25:42.377Z] (lobby) Pills N Drugs was banned by ggdaca. (ordered) (76.107.31.208)
+[2016-05-23T16:25:42.379Z] (lobby) (Pills N Drugs's ac account: katheyisme123)
+[2016-05-23T16:26:21.284Z] (lobby) pillsndrugs was unbanned by Audinory~.
+[2016-05-23T16:32:35.882Z] (lobby) Chaosphere 2 was banned by Broken Hope. (93.44.52.99)
+[2016-05-23T16:34:12.288Z] (lobby) (Ambah was demoted to Room regular user by Audinory~.)
+[2016-05-23T16:43:40.284Z] (lobby) (Audinory~ has set an icon to  httpiimgurcomk3mpfthgif)
+[2016-05-23T16:43:47.696Z] (lobby) (Audinory~ has set an icon to  thevixen)
+[2016-05-23T16:44:07.400Z] (lobby) (Audinory~ has set an icon to  brokenhope)
+[2016-05-23T16:44:37.864Z] (lobby) (A poll was started by FocusBlasted.)
+[2016-05-23T16:45:28.250Z] (lobby) Audinory~ was promoted to Server Lord by The Vixen.
+[2016-05-23T16:45:40.503Z] (lobby) (The poll was ended by Audinory~.)
+[2016-05-23T16:46:19.966Z] (lobby) Hirl123 was promoted to Room Driver by Hirl123.
+[2016-05-23T16:46:28.136Z] (lobby) Hirl123 was promoted to Room Le Mod by Hirl123.
+[2016-05-23T16:47:04.498Z] (lobby) Hirl123 was promoted to Room Bot by ggdaca - ⓕⓞⓞⓓ.
+[2016-05-23T16:47:21.507Z] (lobby) (Hirl123 was demoted to Room Le Mod by ggdaca - ⓕⓞⓞⓓ.)
+[2016-05-23T16:47:22.646Z] (lobby) (A poll was started by FocusBlasted.)
+[2016-05-23T16:47:43.182Z] (lobby) (DankBot Hirl was forced to choose a new name by ggdaca - ⓕⓞⓞⓓ: more swag)
+[2016-05-23T16:48:11.758Z] (lobby) (The poll was ended by Audinory~.)
+[2016-05-23T16:48:19.331Z] (lobby) (A poll was started by Audinory~.)
+[2016-05-23T16:48:45.934Z] (lobby) ggdaca was promoted to Room Bot by Audinory~.
+[2016-05-23T16:49:00.983Z] (lobby) (ggdaca was demoted to Room Special Star by ggdaca.)
+[2016-05-23T16:52:39.347Z] (lobby) DankBot Hirl was namelocked by ggdaca.
+[2016-05-23T16:52:55.886Z] (lobby) ggdaca was namelocked by Audinory~.
+[2016-05-23T16:53:18.446Z] (lobby) ggdaca was unnamelocked by Audinory~. (ggdaca)
+[2016-05-23T16:55:13.689Z] (lobby) dankbothirl was unnamelocked by ggdaca. (dankbothirl)
+[2016-05-23T16:57:03.585Z] (lobby) Ambah was namelocked by Audinory~.
+[2016-05-23T16:57:08.518Z] (lobby) ambah was unnamelocked by Audinory~. (ambah)
+[2016-05-23T16:59:31.881Z] (lobby) FocusBlasted was warned by Audinory~.
+[2016-05-23T17:05:16.781Z] (lobby) Hirl123 was promoted to Room Leader by Hirl123.
+[2016-05-23T17:28:01.950Z] (lobby) Ithi was banned by The Vixen. (204.169.29.34)
+[2016-05-23T17:28:20.045Z] (lobby) Ithi was unbanned by Broken Hope.
+[2016-05-23T17:28:24.094Z] (lobby) Ithi was unlocked by Broken Hope.
+[2016-05-23T17:28:51.456Z] (lobby) Ithi was promoted to Le Mod by The Vixen.
+[2016-05-23T17:41:17.855Z] (lobby) (The poll was ended by Kenneth Kaneki.)
+[2016-05-23T17:54:41.647Z] (lobby) FocusBlasted was appointed Room Lord by V A Q.
+[2016-05-23T17:55:31.780Z] (lobby) (FocusBlasted was demoted to Room regular user by V A Q.)
+[2016-05-23T17:56:32.677Z] (lobby) FocusBlasted was promoted to Room Special Star by ggdaca - ⓓⓝⓓ.
+[2016-05-23T17:57:56.638Z] (lobby) (FocusBlasted was demoted to Room Driver by V A Q.)
+[2016-05-23T17:59:31.729Z] (lobby) ggdaca - ⓓⓝⓓ was promoted to Room Leader by ggdaca - ⓓⓝⓓ.
+[2016-05-23T18:03:07.016Z] (lobby) Kenneth Kaneki updated the User of the Week to "Kenneth Kaneki".
+[2016-05-23T18:03:45.672Z] (lobby) The Pokémon of the Day was changed to MissingNo by Kenneth Kaneki.
+[2016-05-23T18:07:59.232Z] (lobby) (Kenneth Kaneki created a tournament in randombattle format.)
+[2016-05-23T18:11:12.560Z] (lobby) The Pokémon of the Day was changed to Naviathan by Kenneth Kaneki.
+[2016-05-23T18:52:50.502Z] (lobby) shivamrustagi was warned by Audinory. (stop asking admins for promotions)
+[2016-05-23T18:52:59.452Z] (lobby) (Audinory notes: you fucking try and deny it)
+[2016-05-23T18:56:42.486Z] (lobby) Ambah was promoted to Glorified Normie by The Vixen.
+[2016-05-23T18:57:01.121Z] (lobby) Audinory's messages were cleared from room lobby by Audinory.
+[2016-05-23T19:02:00.190Z] (lobby) (Audinory created a tournament in monotyperandominverse format.)
+[2016-05-23T20:00:02.674Z] (lobby) (Hirl123 was demoted to Room Glorified Normie by Hirl123.)
+[2016-05-23T20:09:46.443Z] (lobby) zellman01 was promoted to Glorified Normie by V A Q.
+[2016-05-23T20:10:51.389Z] (lobby) (zellman01 was demoted to regular user by Audinory.)
+[2016-05-23T20:26:02.190Z] (lobby) V A Q declared Who wants 100 bucks??
+[2016-05-23T20:26:24.652Z] (lobby) V A Q declared then head to tours room for a 100 buck tour
+[2016-05-23T20:27:29.486Z] (lobby) V A Q declared YAY MONEY
+[2016-05-23T20:33:37.154Z] (lobby) (A poll was started by Audinory.)
+[2016-05-23T20:48:15.428Z] (lobby) FocusBlasted was pinged by Audinory
+[2016-05-23T20:56:16.047Z] (lobby) Vacate was promoted to Room Special Star by Audinory.
+[2016-05-23T20:57:07.116Z] (lobby) Hirl123 was kicked from the room by FocusBlasted.
+[2016-05-23T20:57:24.383Z] (lobby) kingDeacon was warned by Audinory. (caps)
+[2016-05-23T20:57:32.504Z] (lobby) Hirl123 was promoted to Room Leader by Hirl123.
+[2016-05-23T20:57:35.597Z] (lobby) (Audinory set modchat to @)
+[2016-05-23T20:57:44.750Z] (lobby) (Audinory set modchat to false)
+[2016-05-23T20:59:13.610Z] (lobby) The Sakurai was warned by Audinory.
+[2016-05-23T21:04:43.929Z] (lobby) V A Q was promoted to Room Le Mod by V A Q.
+[2016-05-23T21:06:44.876Z] (lobby) The Sakurai was warned by Audinory. (Disabilities aren't funny)
+[2016-05-23T21:07:59.822Z] (lobby) The Sakurai was banned by Audinory. (suspected of hacking users, bots; Information supplied by various users; suspected of being allied with Chirou - Permabanned) (90.192.22.245)
+[2016-05-23T21:08:25.432Z] (lobby) (Audinory notes: If you see Sak. Please ban on sight.)
+[2016-05-23T21:08:36.007Z] (lobby) (V A Q notes: k)
+[2016-05-23T21:09:25.023Z] (lobby) V A Q temporarily banned the IP: 90.192.22.245
+[2016-05-23T21:11:56.595Z] (lobby) Vacate was promoted to Le Mod by V A Q.
+[2016-05-23T21:14:05.880Z] (lobby) The Verizion Shade was banned by Audinory. (188.221.150.7)
+[2016-05-23T21:37:03.640Z] (lobby) (V A Q was demoted to Room regular user by V A Q.)
+[2016-05-23T21:45:00.894Z] (lobby) Riniti was promoted to Le Mod by The Vixen.
+[2016-05-23T21:50:09.478Z] (lobby) TheShankSkank was promoted to Le Mod by V A Q.
+[2016-05-23T21:50:31.538Z] (lobby) (riniti was demoted to regular user by V A Q.)
+[2016-05-23T22:13:41.004Z] (lobby) V A Q declared WHO WANTS 100 BUCKS??
+[2016-05-23T22:14:00.936Z] (lobby) V A Q declared THEN HEAD TO TOURS ROOM 
+[2016-05-23T22:14:16.281Z] (lobby) V A Q declared WINNER GETS 100 BUCKS
+[2016-05-23T22:14:31.749Z] (lobby) V A Q declared 2ND PLACE GETS 50
+[2016-05-23T22:16:04.813Z] (lobby) (Audinory~ notes: PLEASE DONT BAN HIM)
+[2016-05-23T22:16:07.622Z] (lobby) kentish34 was banned by V A Q. (178.62.253.161)
+[2016-05-23T22:16:22.091Z] (lobby) (V A Q notes: k)
+[2016-05-23T22:16:35.480Z] (lobby) (kentish34 would be locked by V A Q but was already locked.)
+[2016-05-23T22:17:17.533Z] (lobby) V A Q temporarily banned the IP: 178.62.253.161
+[2016-05-23T22:36:36.245Z] (lobby) Volco was promoted to Glorified Normie by V A Q.
+[2016-05-23T22:45:07.734Z] (lobby) Black Restoration was banned by The Vixen. (85.203.17.254)
+[2016-05-23T22:45:21.549Z] (lobby) (V A Q notes: why ban)
+[2016-05-23T22:45:23.387Z] (lobby) The Sakurai was unlocked by The Vixen.
+[2016-05-23T22:52:53.225Z] (lobby) TheShankSkank's messages were cleared from room lobby by Audinory~.
+[2016-05-23T22:53:05.890Z] (lobby) Audinory~'s messages were cleared from room lobby by Audinory~.
+[2016-05-23T22:55:45.936Z] (lobby) (The poll was ended by The Vixen.)
+[2016-05-23T22:55:56.629Z] (lobby) (A poll was started by The Vixen.)
+[2016-05-23T22:56:31.982Z] (lobby) (Audinory~ created a tournament in randbatsinverse format.)
+[2016-05-23T22:56:38.167Z] (lobby) The Pokémon of the Day was changed to sigilyph by Audinory~.
+[2016-05-23T22:58:07.443Z] (lobby) (The poll was ended by The Vixen.)
+[2016-05-23T23:42:53.305Z] (lobby) TheShankSkank was promoted to Leader by Audinory~.
+[2016-05-24T01:58:54.845Z] (lobby) ChampionDarkrai was locked from talking by Ambah. (76.3.89.17)
+[2016-05-24T01:59:46.472Z] (lobby) ChampionDarkrai's messages were cleared from room lobby by audinory.
+[2016-05-24T02:02:10.863Z] (lobby) Cloyy was unlocked by audinory.
+[2016-05-24T02:06:51.337Z] (lobby) AllianceDarkrai was locked from talking by audinory. (149.202.205.94)
+[2016-05-24T02:06:53.455Z] (lobby) AllianceDarkrai was warned by Ithi. (nice spam)
+[2016-05-24T02:07:22.211Z] (lobby) AllianceDarkrai was banned by V A Q. (149.202.205.94)
+[2016-05-24T02:18:23.225Z] (lobby) Japan was promoted to Leader by audinory.
+[2016-05-24T02:18:35.624Z] (lobby) Dominicarus was promoted to Glorified Normie by audinory.
+[2016-05-24T02:27:21.587Z] (lobby) Ambah was kicked from the room by Japan.
+[2016-05-24T02:27:36.569Z] (lobby) popplior was promoted to Server Lord by audinory.
+[2016-05-24T02:28:41.037Z] (lobby) Ambah was kicked from the room by Japan.
+[2016-05-24T02:46:49.776Z] (lobby) Popplior updated the User of the Week to "Cloyy".
+[2016-05-24T02:59:20.901Z] (lobby) Japan was appointed Room Lord by Japan.
+[2016-05-24T02:59:35.782Z] (lobby) (Japan was demoted to Room regular user by Japan.)
+[2016-05-24T02:59:56.468Z] (lobby) Popplior was promoted to Room Special Star by Popplior.
+[2016-05-24T03:01:49.727Z] (lobby) piiiikachuuu ✿ was promoted to piiiikachuuu by Popplior.
+[2016-05-24T03:09:19.534Z] (lobby) (kennethkaneki was demoted to regular user by Audinory ~(˘▾˘~).)
+[2016-05-24T03:09:24.200Z] (lobby) (popplior was demoted to regular user by Audinory ~(˘▾˘~).)
+[2016-05-24T03:09:41.858Z] (lobby) (Diarmuid O'Dyna was demoted to regular user by Audinory ~(˘▾˘~).)
+[2016-05-24T03:10:04.475Z] (lobby) (vlant was demoted to regular user by Audinory ~(˘▾˘~).)
+[2016-05-24T03:10:22.292Z] (lobby) (Gerudo Flygon ✴ was demoted to regular user by Audinory ~(˘▾˘~).)
+[2016-05-24T03:10:47.888Z] (lobby) (Shadow✧Cune was demoted to regular user by Audinory ~(˘▾˘~).)
+[2016-05-24T03:11:04.032Z] (lobby) shadowcune was promoted to Driver by Audinory ~(˘▾˘~).
+[2016-05-24T03:11:25.400Z] (lobby) (wraithpredictking was demoted to regular user by Audinory ~(˘▾˘~).)
+[2016-05-24T08:23:55.657Z] (lobby) (Japan was demoted to regular user by Audinory ( ͜).)
+[2016-05-24T12:10:58.875Z] (lobby) Connni was promoted to Driver by TheShankSkank.
+[2016-05-24T12:17:36.245Z] (lobby) (Audinory added the room alias 'cancer'.)
+[2016-05-24T12:23:45.499Z] (lobby) TheShankSkank - ⓨ was pinged by Audinory
+[2016-05-24T12:23:50.038Z] (lobby) Audinory was pinged by Audinory
+[2016-05-24T12:24:02.014Z] (lobby) Connni was pinged by Audinory
+[2016-05-24T12:24:15.504Z] (lobby) Audinory was pinged by TheShankSkank - ⓨ
+[2016-05-24T12:27:22.102Z] (lobby) Connni was pinged by TheShankSkank
+[2016-05-24T12:47:12.645Z] (lobby) (Connni was forced to choose a new name by TheShankSkank)
+[2016-05-24T13:28:20.476Z] (lobby) Audinory was pinged by Chief Sokka
+[2016-05-24T13:28:33.985Z] (lobby) Chief Sokka was pinged by Audinory
+[2016-05-24T13:31:16.256Z] (lobby) Audinory was pinged by TheShankSkank
+[2016-05-24T13:31:47.441Z] (lobby) TheShankSkank was pinged by Audinory
+[2016-05-24T13:36:34.418Z] (lobby) Audinory's messages were cleared from room lobby by Audinory.
+[2016-05-24T13:56:44.783Z] (lobby) king♢DEACON was kicked from the room by V A Q.
+[2016-05-24T14:29:38.555Z] (lobby) TheShankSkank was pinged by Audinory
+[2016-05-24T14:48:56.922Z] (lobby) V A Q declared 200 BUCK TOUR IN TOURS ROOM
+[2016-05-24T15:17:20.736Z] (lobby) (Audinory created a tournament in challengecup1v1inverse format.)
+[2016-05-24T15:18:17.459Z] (lobby) (The tournament auto disqualify timer was set to 1 by Audinory)
+[2016-05-24T15:18:19.025Z] (lobby) (The tournament auto disqualify timer was set to 1.5 by Audinory)
+[2016-05-24T15:19:10.802Z] (lobby) (The tournament was set to disallow scouting by Audinory)
+[2016-05-24T15:19:38.830Z] (lobby) V A Q was appointed Room Lord by Audinory.
+[2016-05-24T15:20:39.230Z] (lobby) (V A Q was demoted to Room regular user by V A Q.)
+[2016-05-24T15:20:57.166Z] (lobby) DarkAngeallenq.q was appointed Room Lord by V A Q.
+[2016-05-24T15:21:45.471Z] (lobby) TheShankSkank was appointed Room Lord by TheShankSkank.
+[2016-05-24T15:22:10.023Z] (lobby) (DarkAngeallenq.q was demoted to Room regular user by V A Q.)
+[2016-05-24T15:35:58.798Z] (lobby) (TheShankSkank created a tournament in gen5randombattle format.)
+[2016-05-24T15:36:06.541Z] (lobby) (TheShankSkank forcibly ended a tournament.)
+[2016-05-24T16:20:37.516Z] (lobby) No Shaymin Fear was promoted to piiiikachuuu by ggdaca -.
+[2016-05-24T16:20:53.140Z] (lobby) (No Shaymin Fear was demoted to regular user by Audinory.)
+[2016-05-24T16:26:43.156Z] (lobby) No Shaymin Fear was muted by ggdaca - - ⓔⓐⓣⓘⓝⓖ for 7 minutes.
+[2016-05-24T16:26:47.681Z] (lobby) No Shaymin Fear was warned by TheShankSkank. (nostahp)
+[2016-05-24T16:27:21.723Z] (lobby) No Shaymin Fear was unmuted by TheShankSkank.
+[2016-05-24T16:29:16.140Z] (lobby) Your Mothers Ass was kicked from the room by Ambah.
+[2016-05-24T16:30:47.490Z] (lobby) (TheShankSkank created a tournament in gen5randombattle format.)
+[2016-05-24T16:31:44.728Z] (lobby) (The tournament auto start timer was set to 5 by TheShankSkank)
+[2016-05-24T16:34:05.234Z] (lobby) (Audinory forcibly ended a tournament.)
+[2016-05-24T17:02:37.453Z] (lobby) (The banword '/(pornhub.com)?\w+/g' was added by Audino.ry().)
+[2016-05-24T17:02:43.891Z] (lobby) (The banword '(pornhub.com)?\w+' was added by Audino.ry().)
+[2016-05-24T17:02:57.259Z] (lobby) Audino.ry()'s messages were cleared from room lobby by Audino.ry().
+[2016-05-24T17:03:27.749Z] (lobby) (FocusBlasted was demoted to regular user by Audino.ry().)
+[2016-05-24T17:03:54.765Z] (lobby) (FocusBlasted was demoted to Room regular user by Audino.ry().)
+[2016-05-24T17:04:55.027Z] (lobby) FocusBlasted was promoted to Room Driver by Audino.ry().
+[2016-05-24T17:05:01.949Z] (lobby) FocusBlasted was promoted to Driver by Audino.ry().
+[2016-05-24T17:05:05.400Z] (lobby) FocusBlasted's messages were cleared from room lobby by Audino.ry().
+[2016-05-24T17:06:36.427Z] (lobby) (The banwords '/(pornhub.com)?\w+/g, (pornhub.com)?\w+' were removed by Audino.ry().)
+[2016-05-24T17:06:39.917Z] (lobby) TheShankSkank's messages were cleared from room lobby by Audino.ry().
+[2016-05-24T17:06:51.922Z] (lobby) (The banword '(xvideos?)\w+' was added by Audino.ry().)
+[2016-05-24T17:06:56.677Z] (lobby) (The banword '(pornhub?)\w+' was added by Audino.ry().)
+[2016-05-24T17:07:01.993Z] (lobby) (The banword '(imagefap?)\w+' was added by Audino.ry().)
+[2016-05-24T17:07:07.538Z] (lobby) (The banword '(exhentai?)\w+' was added by Audino.ry().)
+[2016-05-24T17:07:10.953Z] (lobby) (The banword '(ehentai?)\w+' was added by Audino.ry().)
+[2016-05-24T17:07:34.413Z] (lobby) (The banword '(pronhub?)\w+' was added by Audino.ry().)
+[2016-05-24T17:10:00.324Z] (lobby) (TheShankSkank was demoted to Room regular user by TheShankSkank.)
+[2016-05-24T17:40:29.183Z] (lobby) V A Q declared NEW TOUR PRIZE: A FREE CHATROOM
+[2016-05-24T17:41:22.563Z] (lobby) (Audino.ry() created a tournament in gen1randommono format.)
+[2016-05-24T17:42:37.815Z] (lobby) V A Q declared IF YOU WIN, V A Q WILL MAKE YOU A PRIVATE CHAT ROOM
+[2016-05-24T17:42:58.841Z] (lobby) Audino.ry() declared this
+[2016-05-24T17:43:02.949Z] (lobby) Audino.ry() declared this
+[2016-05-24T18:33:38.854Z] (lobby) Hirl123 was pinged by Hirl123
+[2016-05-24T18:33:44.910Z] (lobby) Audino.ry() was pinged by ggdaca -
+[2016-05-24T18:33:53.743Z] (lobby) Hirl123 was pinged by Hirl123
+[2016-05-24T18:34:03.210Z] (lobby) Hirl123 was pinged by V A Q
+[2016-05-24T18:34:48.927Z] (lobby) V A Q was pinged by Hirl123
+[2016-05-24T18:48:09.703Z] (lobby) Audino.ry() was muted by Audino.ry() for 7 minutes.
+[2016-05-24T18:48:42.012Z] (lobby) shivamrustagi was muted by TheShankSkank for 1 hour.
+[2016-05-24T18:48:43.737Z] (lobby) shivamrustagi was unmuted by TheShankSkank.
+[2016-05-24T18:49:16.468Z] (lobby) Audino.ry() was promoted to Room piiiikachuuu by ggdaca -.
+[2016-05-24T18:49:22.479Z] (lobby) Audino.ry() was unmuted by TheShankSkank.
+[2016-05-24T18:49:41.541Z] (lobby) (Audino.ry() was demoted to Room regular user by Audino.ry().)
+[2016-05-24T18:53:18.874Z] (lobby) V A Q was muted by ggdaca - for 7 minutes.
+[2016-05-24T18:53:20.221Z] (lobby) TheShankSkank was muted by ggdaca - for 7 minutes.
+[2016-05-24T18:54:29.558Z] (lobby) TheShankSkank was unmuted by ggdaca -.
+[2016-05-24T18:56:03.467Z] (lobby) diarmuidodyna was promoted to Server Lord by The Vixen.
+[2016-05-24T18:56:16.159Z] (lobby) (thevixen was demoted to regular user by Audinory.)
+[2016-05-24T18:56:30.715Z] (lobby) thevixen was promoted to Server Lord by Diarmuid O'Dyna.
+[2016-05-24T18:56:39.811Z] (lobby) (Diarmuid O'Dyna was demoted to regular user by Diarmuid O'Dyna.)
+[2016-05-24T18:57:06.033Z] (lobby) V A Q was unmuted by ggdaca -.
+[2016-05-24T19:00:41.543Z] (lobby) TheShankSkank's messages were cleared from room lobby by TheShankSkank.
+[2016-05-24T19:00:49.278Z] (lobby) Audinory's messages were cleared from room lobby by TheShankSkank.
+[2016-05-24T19:22:45.194Z] (lobby) (Audinory created a tournament in seasonalsuperstaffbrosmelee format.)
+[2016-05-24T19:23:36.881Z] (lobby) (The tournament auto start timer was set to 2 by Audinory)
+[2016-05-24T19:23:41.396Z] (lobby) (The tournament auto disqualify timer was set to 1.5 by Audinory)
+[2016-05-24T19:44:44.968Z] (lobby) V A Q was promoted to Room Le Mod by V A Q.
+[2016-05-24T19:47:28.008Z] (lobby) (V A Q was demoted to Room regular user by V A Q.)
+[2016-05-24T20:07:34.576Z] (lobby) Fresher Than You was pinged by Audinory
+[2016-05-24T20:07:46.676Z] (lobby) Audinory was pinged by Audinory
+[2016-05-24T20:08:01.139Z] (lobby) V A Q was pinged by V A Q
+[2016-05-24T20:08:16.284Z] (lobby) V A Q was pinged by Audinory
+[2016-05-24T20:08:45.826Z] (lobby) V A Q was pinged by V A Q
+[2016-05-24T20:13:03.631Z] (lobby) Audinory was pinged by FocusBlasted
+[2016-05-24T20:13:32.039Z] (lobby) Hurricane'd was pinged by FocusBlasted
+[2016-05-24T20:30:43.925Z] (lobby) Hurricane'd was promoted to Driver by Audinory.
+[2016-05-24T20:32:17.662Z] (lobby) Hurricane'd was appointed Room Lord by V A Q.
+[2016-05-24T20:43:37.530Z] (lobby) purpledragon24 was promoted to Room Le Mod by V A Q.
+[2016-05-24T21:18:25.787Z] (lobby) No Shaymin Fear was promoted to Room piiiikachuuu by V A Q.
+[2016-05-24T21:18:51.911Z] (lobby) (No Shaymin Fear was demoted to Room Driver by V A Q.)
+[2016-05-24T21:21:34.316Z] (lobby) (Audinory changed the roomintro.)
+[2016-05-24T21:22:26.355Z] (lobby) (Audinory changed the roomintro.)
+[2016-05-24T21:22:40.502Z] (lobby) (Audinory changed the roomintro.)
+[2016-05-24T21:22:48.105Z] (lobby) (Audinory changed the roomintro.)
+[2016-05-24T22:24:45.858Z] (lobby) Audinory declared 1
+[2016-05-24T22:24:49.920Z] (lobby) Audinory declared 1
+[2016-05-24T22:24:59.945Z] (lobby) Hirl123 declared 1
+[2016-05-24T22:29:09.322Z] (lobby) Audinory's messages were cleared from room lobby by Audinory.
+[2016-05-24T22:37:42.009Z] (lobby) (A poll was started by Audinory.)
+[2016-05-24T22:45:31.813Z] (lobby) Audinory updated the User of the Week to "Hirl123".
+[2016-05-24T22:48:39.389Z] (lobby) Fresher Than You was promoted to Room Leader by Audinory.
+[2016-05-24T22:49:18.755Z] (lobby) (Fresher Than You was demoted to Room regular user by Audinory.)
+[2016-05-24T22:53:41.738Z] (lobby) (The poll was ended by Hirl123.)
+[2016-05-24T23:05:03.341Z] (lobby) (shadowcune was demoted to regular user by Audinory.)
+[2016-05-24T23:05:22.208Z] (lobby) (vacate was demoted to regular user by Audinory.)
+[2016-05-24T23:08:57.185Z] (lobby) (Audinory notes: User: Sweet Nd Salt IP: 31.24.33.220 | Host: ss10559.serverspace.co.uk)
+[2016-05-24T23:09:07.551Z] (lobby) (Audinory notes: VPS / Cloud Server IP)
+[2016-05-24T23:11:09.919Z] (lobby) (V A Q notes: chirou prolly?)
+[2016-05-24T23:11:29.819Z] (lobby) (Chief Sokka notes: i think he was banned from alpha earlier )
+[2016-05-24T23:11:59.316Z] (lobby) (Audinory notes: Sokka can you just confirm that)
+[2016-05-24T23:12:13.878Z] (lobby) (Audinory notes: or are you BoS)
+[2016-05-24T23:12:55.095Z] (lobby) (Chief Sokka notes: im not staff there but i've noticed that the messages from him went away when i saw them)
+[2016-05-24T23:13:12.918Z] (lobby) (Audinory notes: oh do you not talk to anyone in staff? xaa)
+[2016-05-24T23:13:15.211Z] (lobby) (Audinory notes: nvm)
+[2016-05-24T23:51:25.689Z] (lobby) Ransei was promoted to Leader by Audinory.
+[2016-05-24T23:51:30.257Z] (lobby) Connni was promoted to Le Mod by Audinory.
+[2016-05-25T01:24:17.450Z] (lobby) Mystifi - ⓝⓐⓟⓟⓘⓝⓖ was promoted to piiiika by Audinory.
+[2016-05-25T01:24:36.872Z] (lobby) (Mystifi - ⓝⓐⓟⓟⓘⓝⓖ was demoted to Le Mod by Audinory.)
+[2016-05-25T01:40:29.579Z] (lobby) Executed was locked from talking by Audinory. (68.199.174.67)
+[2016-05-25T01:41:46.244Z] (lobby) The Vixen was banned by Audinory. (73.10.53.242)
+[2016-05-25T01:41:53.391Z] (lobby) Broken Hope was banned by Audinory. (73.10.53.242)
+[2016-05-25T01:41:53.391Z] (lobby) (Broken Hope's banned alts: The Vixen)
+[2016-05-25T01:52:29.336Z] (lobby) thevixen was unbanned by Ithi.
+[2016-05-25T01:52:59.688Z] (lobby) (The Vixen would be banned by Audinory but was already banned.)
+[2016-05-25T01:54:10.484Z] (lobby) Ithi's messages were cleared from room lobby by Audinory.
+[2016-05-25T01:57:16.566Z] (lobby) Ithi's messages were cleared from room lobby by Audinory.
+[2016-05-25T01:57:46.562Z] (lobby) Ithi was redirected to room Rant Room by Audinory.
+[2016-05-25T02:26:47.278Z] (lobby) Mystifi - ⒶⓌⒶⓎ was appointed Room Lord by V A Q.
+[2016-05-25T02:59:53.205Z] (lobby) PrincessHigh was warned by V A Q.
+[2016-05-25T03:16:19.920Z] (lobby) PrincessHigh's messages were cleared from room lobby by V A Q.
+[2016-05-25T14:42:18.668Z] (lobby) awwdino was promoted to Server Lord by Audinory.
+[2016-05-25T14:42:27.760Z] (lobby) (Audinory was demoted to regular user by Audinory.)
+[2016-05-25T14:42:35.842Z] (lobby) Audinory was promoted to Server Lord by Audinory.
+[2016-05-25T14:42:44.479Z] (lobby) (awwdino was demoted to regular user by Audinory.)
+[2016-05-25T14:55:43.531Z] (lobby) TheShankSkank was warned by Audinory.
+[2016-05-25T14:55:44.291Z] (lobby) TheShankSkank was warned by Audinory.
+[2016-05-25T14:55:44.823Z] (lobby) TheShankSkank was warned by Audinory.
+[2016-05-25T14:55:45.338Z] (lobby) TheShankSkank was warned by Audinory.
+[2016-05-25T15:11:25.278Z] (lobby) V A Q was promoted to Room Le Mod by V A Q.
+[2016-05-25T15:15:48.873Z] (lobby) (Audinory has set an icon to  diarmuidodyna)
+[2016-05-25T15:30:11.718Z] (lobby) (Audinory was demoted to regular user by Audinory.)
+[2016-05-25T15:30:20.527Z] (lobby) Audinory was promoted to Server Lord by Audinory.
+[2016-05-25T15:34:05.582Z] (lobby) shivamrustagi was redirected to room Tournaments by V A Q.
+[2016-05-25T15:44:06.612Z] (lobby) hitorihanza was promoted to Glorified Normie by TheShankSkank.
+[2016-05-25T15:44:35.921Z] (lobby) (TheShankSkank set modchat to +)
+[2016-05-25T15:44:39.025Z] (lobby) (TheShankSkank set modchat to false)
+[2016-05-25T15:46:23.488Z] (lobby) TheShankSkank's messages were cleared from room lobby by TheShankSkank.
+[2016-05-25T15:47:33.560Z] (lobby) No Shaymin Fear was promoted to Glorified Normie by V A Q.
+[2016-05-25T16:16:11.357Z] (lobby) No Shaymin Fear was banned by ggdaca -. (will be unbanned) (195.147.167.51)
+[2016-05-25T16:16:20.939Z] (lobby) no shaymin fear was unbanned by ggdaca -.
+[2016-05-25T16:16:29.251Z] (lobby) No Shaymin Fear was unlocked by Diarmuid O'Dyna.
+[2016-05-25T16:16:41.754Z] (lobby) No Shaymin Fear was promoted to Driver by Diarmuid O'Dyna.
+[2016-05-25T16:17:41.311Z] (lobby) No Shaymin Fear was promoted to Room Driver by ggdaca -.
+[2016-05-25T16:41:36.321Z] (lobby) Hayleysworld was promoted to piiiika by Audinory.
+[2016-05-25T16:42:26.972Z] (lobby) Audinory's messages were cleared from room lobby by Audinory.
+[2016-05-25T16:42:38.577Z] (lobby) (Audinory was demoted to regular user by Audinory.)
+[2016-05-25T16:43:06.983Z] (lobby) Audinory was muted by Audinory for 7 minutes.
+[2016-05-25T16:54:14.664Z] (lobby) (ggdaca - was demoted to Room regular user by ggdaca -.)
+[2016-05-25T17:09:17.082Z] (lobby) (A poll was started by Audinory.)
+[2016-05-25T17:17:52.597Z] (lobby) (V A Q was demoted to Room regular user by V A Q.)
+[2016-05-25T17:36:53.995Z] (lobby) Hurricane'd was warned by Audinory. (lewd)
+[2016-05-25T17:40:31.828Z] (lobby) All 5 Room Auth have been cleared by Audinory.
+[2016-05-25T17:40:39.352Z] (lobby) (Hurricane'd was demoted to Room regular user by Audinory.)
+[2016-05-25T17:41:36.197Z] (lobby) All 28 Auth have been cleared by Audinory.
+[2016-05-25T17:43:23.116Z] (lobby) (The poll was ended by Audinory.)
+[2016-05-25T17:43:25.300Z] (lobby) (A poll was started by Audinory.)
+[2016-05-25T17:50:14.478Z] (lobby) Lunterik was warned by Hurricane'd. (keep shitposting / ily)
+[2016-05-25T18:05:12.271Z] (lobby) Audinory was promoted to Glorified Normie by Audinory.
+[2016-05-25T18:05:23.014Z] (lobby) Audinory was promoted to Driver by Audinory.
+[2016-05-25T18:05:29.304Z] (lobby) (Audinory was demoted to regular user by Audinory.)
+[2016-05-25T18:19:07.328Z] (lobby) Hurricane'd was warned by Audinory.
+[2016-05-25T18:19:19.780Z] (lobby) Hurricane'd was redirected to room Shitpost Lobby by Audinory.
+[2016-05-25T18:26:06.983Z] (lobby) (Audinory created a tournament in monotyperandominverse format.)
+[2016-05-25T18:26:36.600Z] (lobby) (The tournament auto start timer was set to 2.5 by Audinory)
+[2016-05-25T18:47:31.642Z] (lobby) (Audinory has set an icon to  lunterik)
+[2016-05-25T18:55:52.604Z] (lobby) Audinory's messages were cleared from room lobby by Audinory.
+[2016-05-25T19:24:21.414Z] (lobby) The Sakurai was promoted to Server Lord by Audinory.
+[2016-05-25T19:24:25.774Z] (lobby) Bandi was promoted to Server Lord by Audinory.
+[2016-05-25T19:25:42.360Z] (lobby) Desokoro was promoted to Driver by The Sakurai.
+[2016-05-25T19:25:57.103Z] (lobby) (Broken Hope was demoted to regular user by Audinory.)
+[2016-05-25T19:26:39.106Z] (lobby) Ambah - ⒶⓌⒶⓎ was promoted to Leader by The Sakurai.
+[2016-05-25T19:35:21.331Z] (lobby) (The Sakurai created a tournament in monotype format.)
+[2016-05-25T19:40:11.827Z] (lobby) Nixtorm BoTTT was promoted to Leader by The Sakurai.
+[2016-05-25T19:44:07.815Z] (lobby) The Sakurai declared Sorry about the mass disconnections. Bandi is fucking about with c9. dw tho ''he can code''
+[2016-05-25T19:44:29.502Z] (lobby) Audinory declared As can Audinory :^
+[2016-05-25T19:45:00.323Z] (lobby) The Sakurai declared Also auth are being changed around.. i think
+[2016-05-25T19:45:37.535Z] (lobby) (Hurricane'd was demoted to Glorified Normie by The Sakurai.)
+[2016-05-25T19:45:46.402Z] (lobby) Hurricane'd was promoted to Driver by The Sakurai.
+[2016-05-25T19:47:57.981Z] (lobby) The Sakurai declared You are witnessing the devs ''fucking'' about XD
+[2016-05-25T19:48:33.937Z] (lobby) Alliance Darkrai was warned by The Sakurai. (do not say that word)
+[2016-05-25T19:48:52.251Z] (lobby) The Sakurai was muted by Bandi for 7 minutes.
+[2016-05-25T19:48:56.845Z] (lobby) The Sakurai was unmuted by Bandi.
+[2016-05-25T19:49:02.671Z] (lobby) Bandi was banned from room lobby by The Sakurai. (-_-)
+[2016-05-25T19:49:06.356Z] (lobby) bandi was unbanned from room lobby by The Sakurai.
+[2016-05-25T19:49:27.009Z] (lobby) Opple was kicked from the room by FocusBlasted - ⓐⓝⓘ.
+[2016-05-25T19:49:34.334Z] (lobby) The Sakurai was banned from room lobby by Bandi.
+[2016-05-25T19:49:43.165Z] (lobby) thesakurai was unbanned from room lobby by The Sakurai.
+[2016-05-25T19:49:54.567Z] (lobby) (The Sakurai was demoted to regular user by The Sakurai.)
+[2016-05-25T19:50:01.200Z] (lobby) Opple was kicked from the room by FocusBlasted - ⓐⓝⓘ.
+[2016-05-25T19:50:43.693Z] (lobby) The Sakurai was promoted to Server Lord by Audinory.
+[2016-05-25T19:51:20.329Z] (lobby) Opple was warned by FocusBlasted - ⓐⓝⓘ. (your nickname is too good)
+[2016-05-25T19:51:26.758Z] (lobby) FocusBlasted - ⓐⓝⓘ was warned by The Sakurai. (memes)
+[2016-05-25T19:51:38.668Z] (lobby) V A Q was warned by The Sakurai. (WE KNOW HI)
+[2016-05-25T19:52:53.350Z] (lobby) Opple was warned by FocusBlasted - ⓐⓝⓘ. (too soon for the ring tbh)
+[2016-05-25T19:53:04.497Z] (lobby) The Sakurai's messages were cleared from room lobby by The Sakurai.
+[2016-05-25T19:53:43.090Z] (lobby) Fresher Than You was warned by FocusBlasted - ⓐⓝⓘ. (learn)
+[2016-05-25T19:54:09.967Z] (lobby) Soft Lopunny was promoted to Driver by The Sakurai.
+[2016-05-25T19:54:31.104Z] (lobby) The Sakurai declared Let us stop abusing warns
+[2016-05-25T19:54:36.211Z] (lobby) The Sakurai declared nvm no one will listen
+[2016-05-25T19:55:44.408Z] (lobby) V A Q declared PLEASE STOP ABUSING WARN THANK YOU
+[2016-05-25T19:57:01.158Z] (lobby) (Nixtorm BoTTT was demoted to Bot by The Sakurai.)
+[2016-05-25T19:58:59.208Z] (lobby) The Sakurai declared we are going to restart (at some point)
+[2016-05-25T20:00:46.696Z] (lobby) (Audinory set modchat to ~)
+[2016-05-25T20:04:13.117Z] (lobby) (Audinory set modchat to false)
+[2016-05-25T20:06:36.876Z] (lobby) (The Sakurai was demoted to regular user by The Sakurai.)
+[2016-05-25T20:09:26.629Z] (lobby) The Sakurai was promoted to Room Glorified Normie by Bandi.
+[2016-05-25T20:09:58.693Z] (lobby) (The Sakurai was demoted to Room regular user by Bandi.)
+[2016-05-25T20:10:19.010Z] (lobby) The Sakurai was promoted to Server Lord by Bandi.
+[2016-05-25T20:10:35.507Z] (lobby) purpledragon24 was kicked from the room by The Sakurai.
+[2016-05-25T20:11:36.504Z] (lobby) purpledragon24 was kicked from the room by The Sakurai.
+[2016-05-25T20:11:49.248Z] (lobby) purpledragon24 was kicked from the room by FocusBlasted.
+[2016-05-25T20:11:58.026Z] (lobby) The Sakurai declared enough kicks ty
+[2016-05-25T20:13:00.913Z] (lobby) Opple was warned by The Sakurai. (inap)
+[2016-05-25T20:14:36.060Z] (lobby) V A Q was promoted to Room Le Mod by V A Q.
+[2016-05-25T20:16:40.591Z] (lobby) The Sakurai declared stop posting dildos pls
+[2016-05-25T20:18:12.610Z] (lobby) The Sakurai's messages were cleared from room lobby by TheShankSkank.
+[2016-05-25T20:18:59.497Z] (lobby) TheShankSkank was kicked from the room by The Sakurai.
+[2016-05-25T20:19:43.897Z] (lobby) The Sakurai's messages were cleared from room lobby by TheShankSkank.
+[2016-05-25T20:20:08.707Z] (lobby) TheShankSkank's messages were cleared from room lobby by TheShankSkank.
+[2016-05-25T20:20:13.722Z] (lobby) The Sakurai's messages were cleared from room lobby by TheShankSkank.
+[2016-05-25T20:20:20.214Z] (lobby) (The poll was ended by Audinory.)
+[2016-05-25T20:20:25.174Z] (lobby) Audinory updated the User of the Week to "Audinory".
+[2016-05-25T20:20:28.038Z] (lobby) The Sakurai updated the User of the Week to "Audinory".
+[2016-05-25T20:21:58.330Z] (lobby) The Sakurai declared good news everyone
+[2016-05-25T20:22:04.902Z] (lobby) The Sakurai declared the server if fucked
+[2016-05-25T20:22:10.621Z] (lobby) The Sakurai declared is*
+[2016-05-25T20:22:28.266Z] (lobby) The Sakurai declared we can thank bandi for that ;)))))))
+[2016-05-25T20:29:32.013Z] (lobby) The Sakurai declared Everyone congratulate Bandi on getting admin here. He can ''code''
+[2016-05-25T20:29:38.472Z] (lobby) The Sakurai declared :D
+[2016-05-25T20:29:57.722Z] (lobby) The Sakurai declared Thats why it fucked my laptop up ~sakurai
+[2016-05-25T20:30:45.765Z] (lobby) The Sakurai declared Bandi can ''code''
+[2016-05-25T20:30:49.594Z] (lobby) The Sakurai declared :D
+[2016-05-25T20:31:00.747Z] (lobby) (The Sakurai was demoted to regular user by The Sakurai.)
+[2016-05-25T20:31:07.353Z] (lobby) The Sakurai was promoted to Server Lord by The Sakurai.
+[2016-05-25T20:34:55.431Z] (lobby) The Sakurai declared Sorry everyone. We have an ''excellent coder''
+[2016-05-25T20:35:16.501Z] (lobby) The Sakurai declared Thats why we have been getting so many ''excellent updates''
+[2016-05-25T20:37:22.894Z] (lobby) The Sakurai declared Join the dev room to see Audinory vs Bandi
+[2016-05-25T20:39:28.941Z] (lobby) TheSnipersBullet was banned by The Sakurai. (Chirou evasion) (167.114.159.186)
+[2016-05-25T20:40:57.803Z] (lobby) The Sakurai temporarily banned the IP: 167.114.159.186
+[2016-05-25T20:43:25.792Z] (lobby) Phonx Nko was banned by The Sakurai. (76.238.187.155)
+[2016-05-25T20:43:25.793Z] (lobby) (Phonx Nko's banned alts:  [1 guests])
+[2016-05-25T20:43:26.402Z] (lobby) V A Q's messages were cleared from room lobby by V A Q.
+[2016-05-25T20:44:02.330Z] (lobby) M3rcury was banned by The Sakurai. (i saw u chirou) (189.223.136.254)
+[2016-05-25T20:50:15.130Z] (lobby) (V A Q was demoted to Room regular user by V A Q.)
+[2016-05-25T20:52:04.278Z] (lobby) TheShankSkank's messages were cleared from room lobby by TheShankSkank.
+[2016-05-25T20:59:34.952Z] (lobby) V A Q was promoted to Room Le Mod by V A Q.
+[2016-05-25T21:00:08.022Z] (lobby) (The Sakurai was demoted to regular user by The Sakurai.)
+[2016-05-25T21:00:15.415Z] (lobby) TheShankSkank was promoted to Server Lord by The Sakurai.
+[2016-05-25T21:00:22.409Z] (lobby) (TheShankSkank was demoted to Leader by The Sakurai.)
+[2016-05-25T21:00:28.628Z] (lobby) The Sakurai was promoted to Server Lord by The Sakurai.
+[2016-05-25T21:10:15.976Z] (lobby) The Sakurai's messages were cleared from room lobby by TheShankSkank.
+[2016-05-25T21:19:43.272Z] (lobby) The Sakurai declared Please mind the dev spam that is happening rn.
+[2016-05-25T21:23:13.007Z] (lobby) Hikari Leron was locked from talking by The Sakurai. (pm rudeness) (85.203.17.254)
+[2016-05-25T21:23:20.123Z] (lobby) Hikari Leron was unlocked by TheShankSkank.
+[2016-05-25T21:27:52.476Z] (lobby) Alliance Darkrai was promoted to Room Glorified Normie by Audinory.
+[2016-05-25T21:41:10.393Z] (lobby) Alliance Darkrai was warned by Ithi. (i said no)
+[2016-05-25T21:45:55.254Z] (lobby) (Audinory created a tournament in randbatsinverse format.)
+[2016-05-25T21:48:01.490Z] (lobby) Hikari Leron was banned by Ithi. (evader lol) (85.203.17.254)
+[2016-05-25T21:48:08.581Z] (lobby) hikari leron was unbanned by TheShankSkank.
+[2016-05-25T21:48:16.126Z] (lobby) Hikari Leron was unlocked by TheShankSkank.
+[2016-05-25T21:50:41.370Z] (lobby) Quana The Lira was banned by The Sakurai. (208.123.223.254)
+[2016-05-25T21:50:47.556Z] (lobby) quanathelira was unbanned by The Sakurai.
+[2016-05-25T22:05:21.483Z] (lobby) Broken Hope was promoted to Server Lord by Diarmuid O'Dyna.
+[2016-05-25T22:13:22.541Z] (lobby) Broken Hope was banned by Audinory. (73.10.53.242)
+[2016-05-25T22:13:24.554Z] (lobby) Bandi declared the wheels are almost done
+[2016-05-25T22:13:39.885Z] (lobby) (The Sakurai - ⓘⓛⓛ was demoted to regular user by Audinory.)
+[2016-05-25T22:31:51.596Z] (lobby) (Diarmuid O'Dyna was demoted to regular user by Audinory.)
+[2016-05-25T22:40:34.931Z] (lobby) (vaq was demoted to regular user by Audinory.)
+[2016-05-25T22:40:39.241Z] (lobby) verizor was promoted to Leader by Audinory.
+[2016-05-25T22:54:17.860Z] (lobby) (vaq was demoted to Room regular user by verizor.)
+[2016-05-25T22:55:53.933Z] (lobby) verizor declared WHO WANTS A PRIZE THAT COULD BE BUCKS OR A PRIVATE ROOM?
+[2016-05-25T22:56:34.419Z] (lobby) verizor declared THEN HEAD TO TOURS ROOM AND YOU MIGHT WIN!!
+[2016-05-25T22:59:58.649Z] (lobby) verizor's messages were cleared from room lobby by verizor.
+[2016-05-25T23:34:42.568Z] (lobby) Audinory declared No refunds from the shop :^
+[2016-05-25T23:37:01.360Z] (lobby) Audinory declared <button style="border: double pink, 10px; color: white; background-color: #220000; border-radius: 15px; font-face: serif ; font-size: 20px;" name="send" value="/leave"> Darkrai's Button </button><b target="_blank">:)</b></button>
+[2016-05-25T23:43:42.128Z] (lobby) Alliance Darkrai was kicked from the room by Audinory.
+[2016-05-25T23:50:54.812Z] (lobby) Audinory's messages were cleared from room lobby by Audinory.
+[2016-05-25T23:51:27.644Z] (lobby) TheShankSkank's messages were cleared from room lobby by TheShankSkank.
+[2016-05-25T23:52:15.950Z] (lobby) verizor's messages were cleared from room lobby by verizor.
+[2016-05-25T23:55:08.026Z] (lobby) hitorihanza's messages were cleared from room lobby by TheShankSkank.
+[2016-05-25T23:59:09.533Z] (lobby) Alliance Darkrai was warned by Audinory.
+[2016-05-25T23:59:13.364Z] (lobby) Darkrai165196☭ was warned by Audinory.
+[2016-05-25T23:59:50.499Z] (lobby) Alliance Darkrai was redirected to room Shitpost Lobby by verizor.
+[2016-05-26T00:01:13.143Z] (lobby) Darkrai165196☭'s messages were cleared from room lobby by verizor.
+[2016-05-26T00:05:36.918Z] (lobby) (TheShankSkank was demoted to regular user by Audinory.)
+[2016-05-26T00:05:42.084Z] (lobby) (hitorihanza was demoted to regular user by Audinory.)
+[2016-05-26T00:10:17.138Z] (lobby) (verizor was demoted to regular user by Audinory.)
+[2016-05-26T00:43:13.186Z] (lobby) verizor was promoted to Leader by Audinory.
+[2016-05-26T00:45:01.478Z] (lobby) TheShankSkank was promoted to Leader by Audinory.
+[2016-05-26T00:45:10.044Z] (lobby) hitorihanza was promoted to Driver by Audinory.
+[2016-05-26T00:56:19.950Z] (lobby) (hitorihanza was demoted to Glorified Normie by TheShankSkank.)
+[2016-05-26T00:56:53.269Z] (lobby) hitorihanza was promoted to Driver by TheShankSkank.
+[2016-05-26T01:26:25.251Z] (lobby) (Audinory was demoted to regular user by Audinory.)
+[2016-05-26T01:44:48.189Z] (lobby) (TerminalHydreigon was demoted to regular user by TheShankSkank.)
+[2016-05-26T01:50:07.199Z] (lobby) TerminalHydreigon was promoted to Le Mod by TheShankSkank.
+[2016-05-26T01:52:14.868Z] (lobby) (Audinory changed the roomintro.)
+[2016-05-26T01:52:22.298Z] (lobby) (Audinory changed the roomintro.)
+[2016-05-26T11:23:38.612Z] (lobby) audinory was promoted to Glorified Normie by audinory.
+[2016-05-26T12:53:47.083Z] (lobby) (audinory changed the staffintro.)
+[2016-05-26T13:48:20.494Z] (lobby) (audinory changed the staffintro.)
+[2016-05-26T14:58:58.140Z] (lobby) The sakurai was promoted to Le Mod by The sakurai.
+[2016-05-26T15:10:41.759Z] (lobby) The sakurai - Ⓘⓛⓛ was promoted to Server Lord by The sakurai - Ⓘⓛⓛ.
+[2016-05-26T16:25:53.485Z] (lobby) The sakurai - ⓘⓛⓛ declared Happy Birthday lunam00na!
+[2016-05-26T16:33:11.366Z] (lobby) (audinory was demoted to Glorified Normie by audinory.)
+[2016-05-26T16:53:24.208Z] (lobby) Uteruya was warned by The sakurai - ⓘⓛⓛ. (dont be rude)
+[2016-05-26T16:53:49.641Z] (lobby) Uteruya was muted by The sakurai - ⓘⓛⓛ for 7 minutes.
+[2016-05-26T16:54:21.427Z] (lobby) Uteruya was unmuted by audinory.
+[2016-05-26T16:59:18.102Z] (lobby) Diarmuid O'Dyna was promoted to Le Mod by audinory.
+[2016-05-26T17:01:10.025Z] (lobby) Uteruya was muted by audinory for 7 minutes.
+[2016-05-26T17:13:34.521Z] (lobby) Uteruya was warned by The sakurai - ⓘⓛⓛ.
+[2016-05-26T17:16:03.475Z] (lobby) Uteruya was warned by The sakurai - ⓘⓛⓛ.
+[2016-05-26T17:16:26.965Z] (lobby) Uteruya was warned by The sakurai - ⓘⓛⓛ. (last warning)
+[2016-05-26T17:16:57.811Z] (lobby) Uteruya was muted by The sakurai - ⓘⓛⓛ for 1 hour.
+[2016-05-26T17:29:19.728Z] (lobby) (audinory created a tournament in randombattle format.)
+[2016-05-26T17:30:06.781Z] (lobby) The sakurai - ⓘⓛⓛ declared 36 bucks for winner of this tour
+[2016-05-26T17:38:04.422Z] (lobby) The sakurai - ⓘⓛⓛ's messages were cleared from room lobby by The sakurai - ⓘⓛⓛ.
+[2016-05-26T17:40:50.354Z] (lobby) verizor declared ._.
+[2016-05-26T17:45:47.253Z] (lobby) (A poll was started by The sakurai - ⓘⓛⓛ.)
+[2016-05-26T17:46:13.229Z] (lobby) Uteruya was unmuted by A U D I N O R Y ~.
+[2016-05-26T17:47:13.791Z] (lobby) (The poll was ended by The sakurai - ⓘⓛⓛ.)
+[2016-05-26T17:51:30.018Z] (lobby) verizor declared TOUR IN TOURS ROOM
+[2016-05-26T17:52:00.668Z] (lobby) verizor declared Prize: TBD
+[2016-05-26T17:52:12.990Z] (lobby) A U D I N O R Y ~ declared Prize is The sakurai's GF
+[2016-05-26T17:52:43.245Z] (lobby) A U D I N O R Y ~ was kicked from the room by The sakurai - ⓘⓛⓛ.
+[2016-05-26T17:53:29.501Z] (lobby) A U D I N O R Y ~ was promoted to Room Special Star by A U D I N O R Y ~.
+[2016-05-26T17:56:09.000Z] (lobby) Uteruya was warned by The sakurai - ⓘⓛⓛ.
+[2016-05-26T17:56:35.553Z] (lobby) Uteruya was warned by Diarmuid O'Dyna.
+[2016-05-26T17:56:49.371Z] (lobby) Uteruya was muted by The sakurai - ⓘⓛⓛ for 1 hour. (with pleasure kev)
+[2016-05-26T17:57:11.228Z] (lobby) Uteruya was unmuted by TheShankSkank.
+[2016-05-26T17:58:04.966Z] (lobby) The sakurai - ⓘⓛⓛ declared who wants to see a pic of sakurai?
+[2016-05-26T17:58:09.691Z] (lobby) The sakurai - ⓘⓛⓛ declared :3
+[2016-05-26T17:59:26.843Z] (lobby) Ithi was warned by The sakurai - ⓘⓛⓛ.
+[2016-05-26T17:59:55.837Z] (lobby) (A poll was started by The sakurai - ⓘⓛⓛ.)
+[2016-05-26T18:00:08.961Z] (lobby) (The poll was ended by The sakurai - ⓘⓛⓛ.)
+[2016-05-26T18:00:23.498Z] (lobby) Ithi was kicked from the room by The sakurai - ⓘⓛⓛ.
+[2016-05-26T18:00:34.995Z] (lobby) Ithi was kicked from the room by FocusBlasted.
+[2016-05-26T18:02:56.879Z] (lobby) The Sakurai was promoted to Server Lord by The Sakurai.
+[2016-05-26T18:03:21.002Z] (lobby) Ambah was promoted to Le Mod by The Sakurai.
+[2016-05-26T18:08:27.361Z] (lobby) TheShankSkank was warned by The Sakurai.
+[2016-05-26T18:09:22.929Z] (lobby) A U D I N O R Y ~'s messages were cleared from room lobby by TheShankSkank.
+[2016-05-26T18:09:38.071Z] (lobby) The Sakurai's messages were cleared from room lobby by TheShankSkank.
+[2016-05-26T18:09:45.247Z] (lobby) TheShankSkank's messages were cleared from room lobby by TheShankSkank.
+[2016-05-26T18:09:57.755Z] (lobby) A U D I N O R Y ~'s messages were cleared from room lobby by A U D I N O R Y ~.
+[2016-05-26T18:11:56.957Z] (lobby) A U D I N O R Y ~ was warned by The Sakurai. (stop ffs)
+[2016-05-26T18:12:21.080Z] (lobby) (The Sakurai was demoted to regular user by A U D I N O R Y ~.)
+[2016-05-26T18:12:40.495Z] (lobby) The Sakurai was promoted to Server Lord by The Sakurai.
+[2016-05-26T18:12:42.915Z] (lobby) A U D I N O R Y ~'s messages were cleared from room lobby by TheShankSkank.
+[2016-05-26T18:13:19.725Z] (lobby) TheShankSkank's messages were cleared from room lobby by TheShankSkank.
+[2016-05-26T18:13:31.467Z] (lobby) The Sakurai's messages were cleared from room lobby by The Sakurai.
+[2016-05-26T18:14:02.018Z] (lobby) The Sakurai's messages were cleared from room lobby by The Sakurai.
+[2016-05-26T18:14:36.450Z] (lobby) The Sakurai's messages were cleared from room lobby by The Sakurai.
+[2016-05-26T18:15:27.873Z] (lobby) The Sakurai declared too many girls here
+[2016-05-26T18:15:31.778Z] (lobby) The Sakurai declared rip me
+[2016-05-26T18:15:47.653Z] (lobby) TheShankSkank's messages were cleared from room lobby by TheShankSkank.
+[2016-05-26T18:16:09.042Z] (lobby) The Sakurai's messages were cleared from room lobby by The Sakurai.
+[2016-05-26T18:18:25.654Z] (lobby) A U D I N O R Y ~ was promoted to Leader by The Sakurai.
+[2016-05-26T18:18:45.845Z] (lobby) No Shaymin Fear was warned by The Sakurai. (no)
+[2016-05-26T18:23:16.610Z] (lobby) TheShankSkank was warned by The Sakurai. (stop)
+[2016-05-26T18:23:55.828Z] (lobby) TheShankSkank was warned by The Sakurai. (stop trolling ffs)
+[2016-05-26T18:25:30.053Z] (lobby) The Sakurai's messages were cleared from room lobby by TheShankSkank.
+[2016-05-26T18:26:45.535Z] (lobby) TheShankSkank was muted by The Sakurai for 7 minutes. (shh)
+[2016-05-26T18:27:06.235Z] (lobby) TheShankSkank was unmuted by The Sakurai.
+[2016-05-26T18:28:19.032Z] (lobby) TheShankSkank was warned by The Sakurai.
+[2016-05-26T18:29:04.324Z] (lobby) The Sakurai was banned by A U D I N O R Y ~. (90.194.36.60)
+[2016-05-26T18:29:37.705Z] (lobby) the sakurai was unbanned by A U D I N O R Y ~.
+[2016-05-26T18:31:34.410Z] (lobby) The Sakurai was unlocked by The Sakurai.
+[2016-05-26T18:31:46.706Z] (lobby) The Sakurai was promoted to Server Lord by The Sakurai.
+[2016-05-26T18:36:31.260Z] (lobby) (A U D I N O R Y ~ created a tournament in gen3randbats format.)
+[2016-05-26T18:36:38.229Z] (lobby) Hurricane'd was promoted to Driver by The sakurai - ⓘⓛⓛ.
+[2016-05-26T18:38:58.046Z] (lobby) (The tournament auto start timer was set to 5 by TheShankSkank)
+[2016-05-26T18:42:40.293Z] (lobby) The sakurai - ⓘⓛⓛ's messages were cleared from room lobby by The sakurai - ⓘⓛⓛ.
+[2016-05-26T18:43:26.230Z] (lobby) (The sakurai - ⓘⓛⓛ was demoted to Le Mod by A U D I N O R Y ~.)
+[2016-05-26T18:50:20.907Z] (lobby) (The sakurai - ⓘⓛⓛ was demoted to regular user by The sakurai - ⓘⓛⓛ.)
+[2016-05-26T18:50:26.500Z] (lobby) (Nixtorm BoTTT was demoted to regular user by The sakurai - ⓘⓛⓛ.)
+[2016-05-26T18:50:30.896Z] (lobby) Nixtorm BoTTT was kicked from the room by The sakurai - ⓘⓛⓛ.
+[2016-05-26T18:59:54.426Z] (lobby) (The banwords '(xvideos?)\w+, (pornhub?)\w+, (imagefap?)\w+, (exhentai?)\w+, (ehentai?)\w+, (pronhub?)\w+' were removed by A U D I N O R Y ~.)
+[2016-05-26T19:00:27.902Z] (lobby) Cretin Gamer was banned by Sylvie Bot. (178.62.253.161)
+[2016-05-26T19:01:12.606Z] (lobby) (A U D I N O R Y ~ created a tournament in gen3randbats format.)
+[2016-05-26T19:01:22.688Z] (lobby) A U D I N O R Y ~ declared 45 bucks for the winner
+[2016-05-26T19:01:26.087Z] (lobby) A U D I N O R Y ~ declared tfw
+[2016-05-26T19:02:07.642Z] (lobby) (A U D I N O R Y ~ forcibly ended a tournament.)
+[2016-05-26T19:04:48.122Z] (lobby) levviny was locked from talking by verizor. (45.32.65.47)
+[2016-05-26T19:05:03.015Z] (lobby) levviny was banned by verizor. (45.32.65.47)
+[2016-05-26T19:06:30.427Z] (lobby) verizor temporarily banned the IP: 45.32.65.47
+[2016-05-26T19:08:45.013Z] (lobby) Chappin was banned by thefiremage. (107.170.35.138)
+[2016-05-26T19:11:02.361Z] (lobby) felbbing was banned by thefiremage. (106.187.48.125)
+[2016-05-26T19:23:55.658Z] (lobby) shivamrustagi was promoted to Driver by Bandi.
+[2016-05-26T19:32:34.337Z] (lobby) skdfhskjdfsd was banned by verizor. (advertising) (207.244.68.146)
+[2016-05-26T19:46:26.004Z] (lobby) shivamrustagi was promoted to Room Driver by verizor.
+[2016-05-26T19:47:52.756Z] (lobby) (shivamrustagi was demoted to Room regular user by Bandi.)
+[2016-05-26T19:49:04.420Z] (lobby) BlizzardQ was promoted to piiiika by Audinory - ⓕⓞⓞⓓ.
+[2016-05-26T19:49:34.362Z] (lobby) (hayleysworld was demoted to regular user by Bandi.)
+[2016-05-26T19:54:01.157Z] (lobby) (vacate was demoted to regular user by Bandi.)
+[2016-05-26T19:55:00.818Z] (lobby) (A poll was started by Hurricane'd.)
+[2016-05-26T19:55:39.792Z] (lobby) hayleysworld was promoted to Leader by Bandi.
+[2016-05-26T19:56:25.891Z] (lobby) (hayleysworld was demoted to Glorified Normie by Bandi.)
+[2016-05-26T19:56:45.176Z] (lobby) hayleysworld was promoted to piiiika by Audinory - ⓕⓞⓞⓓ.
+[2016-05-26T20:05:42.814Z] (lobby) shizzy3 was muted by shivamrustagi for 7 minutes.
+[2016-05-26T20:05:46.838Z] (lobby) Opple was warned by TheShankSkank. (inap)
+[2016-05-26T20:06:30.033Z] (lobby) ksdjfhsdkjfhsd was muted by shivamrustagi for 7 minutes.
+[2016-05-26T20:06:34.734Z] (lobby) ksdjfhsdkjfhsd was unmuted by Bandi.
+[2016-05-26T20:07:20.390Z] (lobby) ksdjfhsdkjfhsd was warned by TheShankSkank. (impersonation and generally annoying)
+[2016-05-26T20:07:36.748Z] (lobby) ksdjfhsdkjfhsd was muted by TheShankSkank for 7 minutes.
+[2016-05-26T20:08:24.077Z] (lobby) ddddddd3 was locked from talking by Bandi. (108.61.224.153)
+[2016-05-26T20:08:24.078Z] (lobby) (ddddddd3's locked alts: shizzy3, ksdjfhsdkjfhsd)
+[2016-05-26T20:08:29.157Z] (lobby) ddddddd3 was locked from talking by Hurricane'd. (Go and hack out of this lock then) (108.61.224.153)
+[2016-05-26T20:08:29.158Z] (lobby) (ddddddd3's locked alts: shizzy3, ksdjfhsdkjfhsd)
+[2016-05-26T20:09:03.069Z] (lobby) dfskdf was locked from talking by Bandi. (158.69.89.138)
+[2016-05-26T20:10:04.648Z] (lobby) (Bandi set modchat to autoconfirmed)
+[2016-05-26T20:14:51.184Z] (lobby) (TheShankSkank set modchat to false)
+[2016-05-26T20:15:16.248Z] (lobby) (Bandi set modchat to autoconfirmed)
+[2016-05-26T20:31:28.622Z] (lobby) (Audinory - ⓕⓞⓞⓓ created a tournament in randbatsinverse format.)
+[2016-05-26T20:31:41.375Z] (lobby) (The tournament auto start timer was set to 5 by TheShankSkank)
+[2016-05-26T20:31:57.287Z] (lobby) (The tournament auto start timer was set to 5.6 by Audinory - ⓕⓞⓞⓓ)
+[2016-05-26T20:32:11.682Z] (lobby) (The tournament auto start timer was set to 6.125 by TheShankSkank)
+[2016-05-26T20:59:50.753Z] (lobby) (Bandi was demoted to regular user by Bandi.)
+[2016-05-26T21:18:23.000Z] (lobby) (Audinory has set an custom color to jd)
+[2016-05-26T21:24:05.606Z] (lobby) (Bandi has set an custom color to bandi)
+[2016-05-26T21:33:34.854Z] (lobby) (Audinory has set an custom color to boytears)
+[2016-05-26T21:38:17.922Z] (lobby) Audinory globally declared We'll Brb folks
+[2016-05-26T21:39:28.656Z] (lobby) Audinory was redirected to room Casino by Bandi.
+[2016-05-26T21:40:41.295Z] (lobby) (Uteruya was demoted to regular user by Uteruya.)
+[2016-05-26T21:41:51.862Z] (lobby) (Uteruya was demoted to Glorified Normie by Uteruya.)
+[2016-05-26T21:53:10.076Z] (lobby) Audinory globally declared Bandi and Audino "can code"
+[2016-05-26T22:16:39.742Z] (lobby) (Audinory has shadow banned: boytears)
+[2016-05-26T22:17:06.633Z] (lobby) (Audinory has shadow banned: blizzardq)
+[2016-05-26T22:17:56.464Z] (lobby) (Audinory has shadow unbanned: boytears)
+[2016-05-26T22:18:03.250Z] (lobby) (Audinory has shadow unbanned: blizzardq)
+[2016-05-26T22:22:22.296Z] (lobby) (Audinory has set an symbol color to blizzardq)
+[2016-05-26T22:22:53.955Z] (lobby) (Audinory has set an custom color to mystifi)
+[2016-05-26T22:27:21.455Z] (lobby) (Audinory has set an custom color to mystifi)
+[2016-05-26T22:40:12.721Z] (lobby) (Audinory notes: Eldes isn't welcome here)
+[2016-05-26T22:54:46.442Z] (lobby) TerminalHydreigon was promoted to Room Leader by Audinory.
+[2016-05-26T23:04:11.320Z] (lobby) (Audinory has set an custom symbol color to theshankskank)
+[2016-05-26T23:07:16.418Z] (lobby) (Audinory has set an symbol color to theshankskank)
+[2016-05-26T23:08:21.744Z] (lobby) (Audinory has set an symbol color to theshankskank)
+[2016-05-26T23:12:52.607Z] (lobby) (Audinory has set an symbol color to theshankskank)
+[2016-05-26T23:18:29.016Z] (lobby) (Audinory has shadow banned: hitorihanza)
+[2016-05-26T23:18:51.324Z] (lobby) (Audinory has shadow unbanned: hitorihanza)
+[2016-05-26T23:32:21.017Z] (lobby) (Audinory has set an symbol color to hitorihanza)
+[2016-05-26T23:32:34.360Z] (lobby) (Audinory has set an symbol color to audinory)
+[2016-05-26T23:33:19.759Z] (lobby) Bandi was promoted to Glorified Normie by Audinory.
+[2016-05-26T23:33:28.148Z] (lobby) Bandi was promoted to Driver by Audinory.
+[2016-05-26T23:34:48.359Z] (lobby) Spirit - Anaysha was promoted to Glorified Normie by verizor.
+[2016-05-26T23:35:34.250Z] (lobby) Spirit - Teressa was promoted to Glorified Normie by verizor.
+[2016-05-26T23:41:33.032Z] (lobby) hitorihanza was promoted to Room Driver by Audinory.
+[2016-05-26T23:50:47.551Z] (lobby) (Bandi was demoted to regular user by Bandi.)
+[2016-05-27T00:15:43.048Z] (lobby) Audinory declared Fuck the wheel game
+[2016-05-27T00:15:45.100Z] (lobby) Audinory declared Fuck the wheel game
+[2016-05-27T00:15:45.715Z] (lobby) Audinory declared Fuck the wheel game
+[2016-05-27T00:15:46.266Z] (lobby) Audinory declared Fuck the wheel game
+[2016-05-27T00:15:46.784Z] (lobby) Audinory declared Fuck the wheel game
+[2016-05-27T00:41:53.880Z] (lobby) TerminalHydreigon was redirected to room Casino by Bandi.
+[2016-05-27T00:53:31.805Z] (lobby) (Audinory has set an symbol color to ambah)
+[2016-05-27T08:37:55.029Z] (lobby) (Connni set modchat to false)
+[2016-05-27T11:27:03.989Z] (lobby) (TerminalHydreigon was demoted to Room Glorified Normie by TerminalHydreigon.)
+[2016-05-27T11:27:47.742Z] (lobby) TerminalHydreigon was promoted to Room Leader by Uteruya.
+[2016-05-27T11:28:00.141Z] (lobby) (Uteruya was demoted to Glorified Normie by Uteruya.)
+[2016-05-27T12:12:29.017Z] (lobby) Chief Sokka was promoted to Driver by Audinory.
+[2016-05-27T12:16:17.611Z] (lobby) (Audinory has set an symbol color to verizor)
+[2016-05-27T12:26:31.481Z] (lobby) (Audinory has set an symbol color to chiefsokka)
+[2016-05-27T12:58:37.726Z] (lobby) Audinory was promoted to Server Lord by Audinory.
+[2016-05-27T12:58:54.060Z] (lobby) (Audinory was demoted to piiiika by Audinory.)
+[2016-05-27T13:01:49.540Z] (lobby) Uteruya was promoted to Driver by Audinory.
+[2016-05-27T13:01:53.245Z] (lobby) Uteruya was promoted to Room Driver by Audinory.
+[2016-05-27T13:02:02.173Z] (lobby) (Uteruya was demoted to regular user by Audinory.)
+[2016-05-27T13:02:08.554Z] (lobby) (Uteruya was demoted to Room regular user by Audinory.)
+[2016-05-27T13:02:13.543Z] (lobby) (Audinory was demoted to regular user by Audinory.)
+[2016-05-27T13:02:18.853Z] (lobby) Uteruya was promoted to Glorified Normie by Audinory.
+[2016-05-27T13:02:42.508Z] (lobby) Audinory was promoted to Cutie by Audinory.
+[2016-05-27T13:32:03.964Z] (lobby) (A poll was started by verizor.)
+[2016-05-27T14:23:33.185Z] (lobby) testiclies was locked from talking by verizor. (advertising) (38.116.192.94)
+[2016-05-27T14:27:51.253Z] (lobby) testiclies was banned by Audinory. (38.116.192.94)
+[2016-05-27T14:40:58.604Z] (lobby) testiclies was unbanned by verizor.
+[2016-05-27T14:48:53.906Z] (lobby) mader 4 was warned by verizor. (lb)
+[2016-05-27T14:51:13.692Z] (lobby) mader 4 was locked from talking by Audinory. (195.194.187.132)
+[2016-05-27T14:51:13.693Z] (lobby) (mader 4's locked alts: sir wankalot)
+[2016-05-27T15:08:43.615Z] (lobby) (verizor notes: if you see a locked user PLS DO NOT UNLOCK)
+[2016-05-27T15:08:48.219Z] (lobby) (Audinory notes: TY)
+[2016-05-27T15:09:11.491Z] (lobby) (verizor notes: its vixen aka charlotte)
+[2016-05-27T15:09:17.944Z] (lobby) (Audinory notes: and sakurai)
+[2016-05-27T15:10:54.125Z] (lobby) (verizor notes: if they pm you ignore it)
+[2016-05-27T15:12:14.026Z] (lobby) (The poll timer was set to 5 minute(s) by verizor.)
+[2016-05-27T15:13:39.176Z] (lobby) Freddeh was locked from talking by verizor. (advertising) (38.116.192.94)
+[2016-05-27T15:13:39.176Z] (lobby) (Freddeh's locked alts: testiclies, Life Bish)
+[2016-05-27T15:14:08.196Z] (lobby) sylviebot was locked from talking by Audinory. (195.194.187.132)
+[2016-05-27T15:14:08.197Z] (lobby) (sylviebot's locked alts: sir wankalot, mader 4, backies3, Guest 175, Ironic Bot, Guest 182, Guest 184)
+[2016-05-27T15:16:40.378Z] (lobby) felicide was locked from talking by Audinory. (195.194.187.132)
+[2016-05-27T15:16:40.379Z] (lobby) (felicide's locked alts: mader 4, backies3, Ironic Bot)
+[2016-05-27T15:16:54.936Z] (lobby) Mycroft was promoted to Driver by Audinory.
+[2016-05-27T15:20:48.386Z] (lobby) (verizor notes: DO NOT UNLOCK ANYONE PLEASE)
+[2016-05-27T15:21:10.979Z] (lobby) (Audinory notes: Be aware that any of my accounts coming here Bar this one are not to be promoted.)
+[2016-05-27T15:21:19.344Z] (lobby) (verizor notes: THEY ARE ADVERTISING)
+[2016-05-27T15:21:43.052Z] (lobby) (verizor notes: its either vixen or sakurai)
+[2016-05-27T15:22:56.154Z] (lobby) (verizor notes: also ignore pms from locked users, ty)
+[2016-05-27T15:25:12.726Z] (lobby) (A poll was started by FocusBlasted.)
+[2016-05-27T16:05:09.682Z] (lobby) (The poll was ended by Bandi.)
+[2016-05-27T16:05:50.310Z] (lobby) Bandi was promoted to Server Lord by Bandi.
+[2016-05-27T16:19:35.537Z] (lobby) Audinory declared Bandi and Audino can actually code <br>;o
+[2016-05-27T18:46:59.021Z] (lobby) Audinory declared <a href="http://158.69.196.64.psim.us/testing">Go here for now incase I cant revive the server</a>
+[2016-05-27T20:10:12.557Z] (lobby) Uteruya was banned by Audinory. (188.221.150.7)
+[2016-05-27T20:11:46.467Z] (lobby) Le Clacton was banned by TheShankSkank. (104.238.162.24)
+[2016-05-27T20:17:26.114Z] (lobby) Faston Your Belts was muted by shivamrustagi for 7 minutes.
+[2016-05-27T20:18:08.928Z] (lobby) (verizor notes: should i ban?)
+[2016-05-27T20:18:23.674Z] (lobby) felicide was banned by Audinory. (104.236.187.129)
+[2016-05-27T20:18:23.675Z] (lobby) (felicide's banned alts: Faston Your Belts)
+[2016-05-27T20:20:32.398Z] (lobby) Audinory declared VERIZOR ILLUMINATI CONFIRMED
+[2016-05-27T20:20:33.309Z] (lobby) (Bandi was demoted to Leader by Bandi.)
+[2016-05-27T20:20:43.263Z] (lobby) (Bandi was demoted to regular user by Bandi.)
+[2016-05-27T20:23:17.479Z] (lobby) purpledragon24 was promoted to Room Le Mod by VERIZOR.
+[2016-05-27T20:29:13.824Z] (lobby) (TheShankSkank notes: anybody know Rainy Thunder? They have a nohost IP)
+[2016-05-27T20:29:37.434Z] (lobby) (VERIZOR notes: no i dont)
+[2016-05-27T20:29:51.615Z] (lobby) (Ambah notes: I wouldn't worry about it)
+[2016-05-27T20:29:53.503Z] (lobby) (purpledragon24 notes: idk)
+[2016-05-27T20:30:19.833Z] (lobby) (VERIZOR notes: plus i would ip check every new user, js)
+[2016-05-27T20:59:01.686Z] (lobby) Bandi was promoted to Server Lord by Bandi.
+[2016-05-27T21:00:08.793Z] (lobby) (A poll was started by Bandi.)
+[2016-05-27T21:00:13.824Z] (lobby) (The poll was ended by Audinory.)
+[2016-05-27T21:00:29.488Z] (lobby) Boytears was warned by TerminalHydreigon. (no)
+[2016-05-27T21:00:45.579Z] (lobby) (A poll was started by Audinory.)
+[2016-05-27T21:01:06.736Z] (lobby) purpledragon24 was warned by TerminalHydreigon. (no)
+[2016-05-27T21:01:10.439Z] (lobby) Boytears was warned by TerminalHydreigon. (no)
+[2016-05-27T21:01:10.507Z] (lobby) TerminalHydreigon was warned by Audinory. (yes)
+[2016-05-27T21:01:26.200Z] (lobby) Audinory was warned by TerminalHydreigon. (BOI)
+[2016-05-27T21:01:38.634Z] (lobby) Ambah was warned by TerminalHydreigon. (BOI)
+[2016-05-27T21:02:43.945Z] (lobby) (The poll was ended by Bandi.)
+[2016-05-27T21:02:59.102Z] (lobby) Boytears was kicked from the room by TerminalHydreigon.
+[2016-05-27T21:03:58.629Z] (lobby) Bandi declared Pm Bandi for a room
+[2016-05-27T21:04:19.401Z] (lobby) Bandi declared audino for a custom color or icon or avatar actually u can pm badni for color too
+[2016-05-27T21:04:29.657Z] (lobby) verizor declared pm verizor for setting a custom avi
+[2016-05-27T21:04:43.663Z] (lobby) Bandi declared bring all your leagues here too
+[2016-05-27T21:04:45.618Z] (lobby) Audinory - ⓓⓞⓝⓔ declared <i>Badni</i>
+[2016-05-27T21:07:56.872Z] (lobby) (Audinory - ⓓⓞⓝⓔ set modchat to +)
+[2016-05-27T21:08:04.531Z] (lobby) (Audinory - ⓓⓞⓝⓔ set modchat to ~)
+[2016-05-27T21:08:21.529Z] (lobby) (Audinory - ⓓⓞⓝⓔ set modchat to false)
+[2016-05-27T21:12:49.852Z] (lobby) Bandi declared Get more users XD
+[2016-05-27T21:13:51.706Z] (lobby) Audinory declared <center><table style="border: ridge, white, 1px; border-collapse: collapse;"><th style="border: ridge, white, 1px; border-collapse: collapse;">What do you need?</th><th style="border: ridge, white, 1px; border-collapse: collapse;">Staff to PM</th><tr><td style="border: ridge, white, 1px; border-collapse: collapse;">I need a room or help</td><td style="border: ridge, white, 1px; border-collapse: collapse;">Bandi</td><tr><td style="border: ridge, white, 1px; border-collapse: collapse;">I need a custom symbol or name color</td><td style="border: ridge, white, 1px; border-collapse: collapse;">Audino</td><tr><td style="border: ridge, white, 1px; border-collapse: collapse;">I need a custom avi Set</td><td style="border: ridge, white, 1px; border-collapse: collapse;">TheShankSkank or Verizor </td></table></center>
+[2016-05-27T21:16:56.675Z] (lobby) (Audinory added the room alias 'Memes'.)
+[2016-05-27T21:21:54.116Z] (lobby) All 4 Room Auth have been cleared by Audinory.
+[2016-05-27T21:22:01.435Z] (lobby) (Mystifi was demoted to Room regular user by Audinory.)
+[2016-05-27T21:22:43.738Z] (lobby) AllianceDarkrai was promoted to Room Glorified Normie by Audinory.
+[2016-05-27T21:23:36.201Z] (lobby) (Bandi set modchat to ~)
+[2016-05-27T21:23:44.526Z] (lobby) (Audinory created a tournament in randbatsinverse format.)
+[2016-05-27T21:24:42.224Z] (lobby) (Bandi set modchat to false)
+[2016-05-27T21:24:55.984Z] (lobby) Audinory declared <center><table style="border: ridge, white, 1px; border-collapse: collapse;"><th style="border: ridge, white, 1px; border-collapse: collapse;">What do you need?</th><th style="border: ridge, white, 1px; border-collapse: collapse;">Staff to PM</th><tr><td style="border: ridge, white, 1px; border-collapse: collapse;">I need a room or help</td><td style="border: ridge, white, 1px; border-collapse: collapse;">Bandi</td><tr><td style="border: ridge, white, 1px; border-collapse: collapse;">I need a custom symbol or name color</td><td style="border: ridge, white, 1px; border-collapse: collapse;">Audino</td><tr><td style="border: ridge, white, 1px; border-collapse: collapse;">I need a custom avi Set</td><td style="border: ridge, white, 1px; border-collapse: collapse;">TheShankSkank or Verizor </td></table></center>
+[2016-05-27T21:26:11.777Z] (lobby) (Audinory has set an symbol color to alliancedarkrai)
+[2016-05-27T21:27:35.245Z] (lobby) (Mighty Sciz has set an symbol color to mightysciz)
+[2016-05-27T21:32:00.044Z] (lobby) (The tournament auto disqualify timer was set to 1.5 by Audinory)
+[2016-05-27T21:32:17.929Z] (lobby) (AllianceDarkrai was demoted to Room regular user by Audinory.)
+[2016-05-27T21:40:35.425Z] (lobby) (Audinory has set an symbol color to alliancedarkrai)
+[2016-05-27T21:43:00.344Z] (lobby) (Audinory was demoted to Room regular user by Audinory.)
+[2016-05-27T21:47:14.782Z] (lobby) Audinory declared if you use words like "Nigger" or "Faggot" in your avi or anything Lewd. It prolly wont be allowed js.
+[2016-05-27T21:47:28.482Z] (lobby) Audinory declared You know who you are.
+[2016-05-27T21:49:26.925Z] (lobby) (Audinory has set an symbol color to alliancedarkrai)
+[2016-05-27T21:57:44.284Z] (lobby) Bandi declared reseting economy, eveery user will get 50 bucks for a tempory period of time k?
+[2016-05-27T22:12:18.534Z] (lobby) shivamrustagi was redirected to room Tournaments by verizor.
+[2016-05-27T22:17:08.413Z] (lobby) (Audinory created a tournament in challengecup1v1 format.)
+[2016-05-27T22:17:50.976Z] (lobby) (Audinory forcibly ended a tournament.)

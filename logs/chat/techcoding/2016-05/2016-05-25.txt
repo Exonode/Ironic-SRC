@@ -1,0 +1,521 @@
+00:01:00 (kingDeacon changed the roomintro.)
+00:01:00 <h1> <center> <b> Welcome to Tech & Coding. </b> </center></h1> Please feel free to bring bots or share techinal information. <break> <b> NOTE: WE DO NOT ALLOW OR CONDONE HACKING OR USERS OR SERVERS. </b> </break>
+00:01:46 |L|#kingDeacon
+00:01:51 |J|#kingDeacon
+00:02:40 (kingDeacon changed the roomintro.)
+00:02:40 <h1> <center> <b> Welcome to Tech & Coding. </b> </center></h1> Please feel free to bring bots or share techinal information. <p> <b> NOTE: WE DO NOT ALLOW OR CONDONE HACKING OR USERS OR SERVERS. </b> </p>
+00:03:00 |raw|<div class="broadcast-red"><b>Moderated chat was set to autoconfirmed!</b><br />Only users of rank autoconfirmed and higher can talk.</div>
+00:03:00 (kingDeacon set modchat to autoconfirmed)
+00:03:36 |L|#kingDeacon
+00:03:41 |J|#kingDeacon
+00:04:09 |L|&V A Q
+00:04:09 |L|#kingDeacon
+00:04:10 |J|#kingDeacon
+00:04:10 |J|&V A Q
+00:04:29 |c|&V A Q|all done
+00:04:38 |c|&V A Q|there ya go
+00:04:49 |c|#kingDeacon|thank you!
+00:04:53 |L|#kingDeacon
+00:04:58 |J|#kingDeacon
+00:05:35 |c|&V A Q|!roomhelp
+00:05:35 |raw|<div class="infobox">Room drivers (%) can use:<br />- /warn OR /k <em>username</em>: warn a user and show the Pok&eacute;mon Showdown rules<br />- /mute OR /m <em>username</em>: 7 minute mute<br />- /hourmute OR /hm <em>username</em>: 60 minute mute<br />- /unmute <em>username</em>: unmute<br />- /announce OR /wall <em>message</em>: make an announcement<br />- /modlog <em>username</em>: search the moderator log of the room<br />- /modnote <em>note</em>: adds a moderator note that can be read through modlog<br /><br />Room moderators (@) can also use:<br />- /roomban OR /rb <em>username</em>: bans user from the room<br />- /roomunban <em>username</em>: unbans user from the room<br />- /roomvoice <em>username</em>: appoint a room voice<br />- /roomdevoice <em>username</em>: remove a room voice<br />- /modchat <em>[off/autoconfirmed/+]</em>: set modchat level<br />- /staffintro <em>intro</em>: sets the staff introduction that will be displayed for all staff joining the room<br /><br />Room owners (#) can also use:<br />- /roomintro <em>intro</em>: sets the room introduction that will be displayed for all users joining the room<br />- /rules <em>rules link</em>: set the room rules link seen when using /rules<br />- /roommod, /roomdriver <em>username</em>: appoint a room moderator/driver<br />- /roomdemod, /roomdedriver <em>username</em>: remove a room moderator/driver<br />- /roomdeauth <em>username</em>: remove all room auth from a user<br />- /modchat <em>[%/@/#]</em>: set modchat level<br />- /declare <em>message</em>: make a large blue declaration to the room<br />- !htmlbox <em>HTML code</em>: broadcasts a box of HTML code to the room<br />- !showimage <em>[url], [width], [height]</em>: shows an image to the room<br /><br />More detailed help can be found in the <a href="https://www.smogon.com/sim/roomauth_guide">roomauth guide</a><br /><br />Tournament Help:<br />- /tour create <em>format</em>, elimination: Creates a new single elimination tournament in the current room.<br />- /tour create <em>format</em>, roundrobin: Creates a new round robin tournament in the current room.<br />- /tour end: Forcibly ends the tournament in the current room<br />- /tour start: Starts the tournament in the current room<br /><br />More detailed help can be found <a href="https://gist.github.com/verbiage/0846a552595349032fbe">here</a><br /></div></div>
+00:05:44 |L|&V A Q
+00:05:48 |J|&V A Q
+00:05:54 |L|#kingDeacon
+00:05:58 |J|#kingDeacon
+00:07:02 (kingDeacon changed the roomintro.)
+00:07:02 <h1> <center> <b> Welcome to Tech & Coding. </b> </center></h1> Please feel free to bring bots or share techinal information. If you need help making a bot, ask it here and you'll get assistance. <p> <b> NOTE: WE DO NOT ALLOW OR CONDONE HACKING OR USERS OR SERVERS. </b> </p>
+00:07:10 |L|#kingDeacon
+00:07:15 |J|#kingDeacon
+00:07:20 |L|&V A Q
+00:07:24 |J|&V A Q
+00:08:51 |userstats|total:2|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:1|#:1|♥:0|~:0
+00:09:18 |L|#kingDeacon
+00:10:00 |J| MrPugg
+00:10:26 |J|#kingDeacon
+00:10:44 MrPugg was promoted to Room Le Mod by kingDeacon.
+00:10:44 |N|@MrPugg|mrpugg
+00:11:14 |c|@MrPugg|thanks guy
+00:11:36 |c|@MrPugg|Thanks for trying my idea
+00:12:18 |c|#kingDeacon|no problem guy
+00:13:09 |c|@MrPugg|im gonna make an html site
+00:13:19 |c|@MrPugg|i tried weebly 
+00:13:24 |c|@MrPugg|To annoying
+00:14:22 |J| Andrrew
+00:14:46 |L|&V A Q
+00:15:19 |N| Andrrew|andrrew
+00:15:36 |c|#kingDeacon|yeah i hate it
+00:15:48 Andrrew was promoted to Room Driver by kingDeacon.
+00:15:48 |N|%Andrrew|andrrew
+00:15:58 |c|#kingDeacon|hi andrew harris
+00:16:12 |J|&V A Q
+00:16:21 |c|%Andrrew|hi guys
+00:16:52 |c|@MrPugg|andrew what do you think of a html vs weebly
+00:16:59 |L|%Andrrew
+00:17:36 |c|@MrPugg|hmm
+00:17:49 |J|%Andrrew
+00:17:58 |c|%Andrrew|Well i prefer html
+00:18:03 |c|%Andrrew|Just saying
+00:18:27 |c|%Andrrew|gtg guys
+00:18:32 |L|%Andrrew
+00:18:42 |c|@MrPugg|bye
+00:18:49 |c|@MrPugg|Hacking fml
+00:18:51 |userstats|total:3|guests:0| :0|+:0|%:0|@:1|★:0|-:0|&:1|#:1|♥:0|~:0
+00:19:49 |c|#kingDeacon|pugg
+00:20:02 |c|#kingDeacon|did you finish stack over flow
+00:20:22 |c|@MrPugg|well ive dabbled with it
+00:20:33 |c|@MrPugg|i mainly use javs
+00:20:38 |c|@MrPugg|*java
+00:21:18 |c|#kingDeacon|I got my copy at the post office
+00:21:19 |c|#kingDeacon|Im going to go get it now
+00:21:34 |c|@MrPugg|alright
+00:22:30 |c|@MrPugg|vaq have you got the git commits?
+00:22:59 |c|&V A Q|!git
+00:22:59 |raw|<div class="infobox">Pok&eacute;mon Showdown is open source:<br />- Language: JavaScript (Node.js)<br />- <a href="https://github.com/Zarel/Pokemon-Showdown/commits/master">What's new?</a><br />- <a href="https://github.com/Zarel/Pokemon-Showdown">Server source code</a><br />- <a href="https://github.com/Zarel/Pokemon-Showdown-Client">Client source code</a></div>
+00:23:23 |c|&V A Q|you're going to have to do some digging to find out
+00:23:42 |c|@MrPugg|alright, ty
+00:25:54 |J|%Andrrew
+00:27:23 |J| Janitor Hugg
+00:27:48 |raw|<div class="broadcast-blue"><b>Moderated chat was disabled!</b><br />Anyone may talk now.</div>
+00:27:48 (V A Q set modchat to false)
+00:28:27 |c|%Andrrew|ive been reading the open sources
+00:28:34 |c|%Andrrew|its some good stuff
+00:28:49 |c| Janitor Hugg|what happend
+00:28:51 |userstats|total:5|guests:0| :1|+:0|%:1|@:1|★:0|-:0|&:1|#:1|♥:0|~:0
+00:29:06 |c| Janitor Hugg|you guys tried to drive me out of sf
+00:29:13 |c| Janitor Hugg|my pound of flseh
+00:29:37 |c|%Andrrew|um
+00:29:49 |c|%Andrrew|idk what you're talking about
+00:30:04 |c| Janitor Hugg|well your not gonna crucify me
+00:30:07 |c| Janitor Hugg|no way
+00:30:15 |c| Janitor Hugg|im not allowing this
+00:30:42 |c| Janitor Hugg|you jerks tried to shut me out
+00:31:06 |c|%Andrrew|iirc you banned ppl  and abused power
+00:31:23 |c|%Andrrew|you drove yourself out janitor
+00:31:28 |c| Janitor Hugg|no
+00:31:33 |c| Janitor Hugg|go to hell
+00:31:40 |c| Janitor Hugg|go to hell
+00:31:47 |c| Janitor Hugg|go to hell
+00:31:50 |c| Janitor Hugg|go to hell
+00:31:51 |c| Janitor Hugg|v
+00:31:54 |c| Janitor Hugg|go to hell
+00:32:10 Janitor Hugg was warned by Andrrew. (stop flooding)
+00:32:10 |unlink|janitorhugg
+00:32:22 |c| Janitor Hugg|go to hell
+00:32:44 |c| Janitor Hugg|go to hell
+00:32:46 |c| Janitor Hugg|go to hell
+00:32:47 |c| Janitor Hugg|go to hell
+00:32:51 Janitor Hugg was muted by Andrrew for 1 hour. (flooding)
+00:32:51 |unlink|janitorhugg
+00:32:51 |N|!Janitor Hugg|janitorhugg
+00:34:16 |c|%Andrrew|VAQ
+00:34:25 |c|%Andrrew|kingdeacon, mrpugg?
+00:34:48 Janitor Hugg's messages were cleared from room techcoding by V A Q.
+00:34:48 |unlink|roomhide|janitorhugg
+00:35:59 |c|@MrPugg|sorry
+00:36:05 |c|@MrPugg|i was reading up
+00:36:14 |c|@MrPugg|was that janitor?
+00:38:30 |c|%Andrrew|yep
+00:38:42 |c|%Andrrew|so how was your reading?
+00:38:51 |userstats|total:5|guests:0| :1|+:0|%:1|@:1|★:0|-:0|&:1|#:1|♥:0|~:0
+00:39:26 |c|@MrPugg|i read a lot
+00:41:43 |c|%Andrrew|where did deacon go
+00:42:36 |N|!mohammed jussie|janitorhugg
+00:42:52 |L|!mohammed jussie
+00:43:10 |c|@MrPugg|to pick up his copy of stackoverflow
+00:43:14 |c|@MrPugg|lol
+00:43:35 |J|!Janitor Hugg
+00:43:45 |L|!Janitor Hugg
+00:45:50 |L|vaq
+00:48:51 |userstats|total:4|guests:1| :1|+:0|%:1|@:1|★:0|-:0|&:0|#:1|♥:0|~:0
+00:58:51 |userstats|total:4|guests:1| :1|+:0|%:1|@:1|★:0|-:0|&:0|#:1|♥:0|~:0
+01:08:51 |userstats|total:4|guests:1| :1|+:0|%:1|@:1|★:0|-:0|&:0|#:1|♥:0|~:0
+01:10:55 |J|&V A Q
+01:16:59 |c|@MrPugg|its a good read tbh
+01:17:29 |J| chimichuga
+01:17:41 |c| chimichuga|you think you finished me off
+01:18:06 |c|@MrPugg|come on hugg
+01:18:09 |c|@MrPugg|grow up
+01:18:24 |c| chimichuga|go to hell
+01:18:25 |c| chimichuga|go to hell
+01:18:27 |c| chimichuga|go to hell
+01:18:28 |c| chimichuga|go to hell
+01:18:29 |c| chimichuga|go to hell
+01:18:30 |c| chimichuga|go to hell
+01:18:32 |c| chimichuga|go to hell
+01:18:33 |c| chimichuga|go to hell
+01:18:48 chimichuga was muted by MrPugg for 1 hour.
+01:18:48 |unlink|chimichuga
+01:18:48 |N|!chimichuga|chimichuga
+01:18:51 |userstats|total:6|guests:1| :2|+:0|%:1|@:1|★:0|-:0|&:1|#:1|♥:0|~:0
+01:19:22 chimichuga's messages were cleared from room techcoding by V A Q.
+01:19:22 |unlink|roomhide|chimichuga
+01:19:32 chimichuga was kicked from the room by V A Q.
+01:19:32 |L|!chimichuga
+01:20:09 |c|@MrPugg|good night guys
+01:20:21 |c|@MrPugg|imma be reading up tonite :D
+01:20:36 |c|%Andrrew|cya bud 
+01:28:39 |L|&V A Q
+01:28:51 |userstats|total:4|guests:1| :1|+:0|%:1|@:1|★:0|-:0|&:0|#:1|♥:0|~:0
+01:38:51 |userstats|total:4|guests:1| :1|+:0|%:1|@:1|★:0|-:0|&:0|#:1|♥:0|~:0
+01:45:16 |J|&V A Q
+01:45:23 |L|&V A Q
+01:48:51 |userstats|total:4|guests:1| :1|+:0|%:1|@:1|★:0|-:0|&:0|#:1|♥:0|~:0
+01:49:53 |J|&V A Q
+01:50:05 |L|&V A Q
+01:52:28 |L|%Andrrew
+01:52:57 |L|@MrPugg
+01:53:23 |J|&V A Q
+01:58:51 |userstats|total:2|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:1|#:1|♥:0|~:0
+02:05:03 |L|#kingDeacon
+02:05:37 |J|#kingDeacon
+02:07:19 |c|#kingDeacon|do i need modchat on?
+02:07:31 |c|#kingDeacon|i dont think i need it tbh
+02:08:46 (kingDeacon changed the roomintro.)
+02:08:46 <h1> <center> <b> Welcome to Tech & Coding. </b> </center></h1> Please feel free to bring bots or share techinal information. If you need help making a bot, ask it here and you'll get assistance. We also want fellow coders to come and enjoy a decent experience <p> <b> NOTE: WE DO NOT ALLOW OR CONDONE HACKING OR USERS OR SERVERS. </b> </p>
+02:08:51 |userstats|total:2|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:1|#:1|♥:0|~:0
+02:09:49 |raw|<div class="broadcast-blue">**Coming soon...** Room rules, and possible events!</div>
+02:10:14 |L|#kingDeacon
+02:14:45 |J|@MrPugg
+02:15:02 |c|@MrPugg|we wont need modchat tbh
+02:17:27 |c|@MrPugg|vaq, how's your java assignment going?
+02:18:10 |c|&V A Q|well
+02:18:37 |c|&V A Q|ive actually spend hours working on it
+02:18:51 |userstats|total:2|guests:0| :0|+:0|%:0|@:1|★:0|-:0|&:1|#:0|♥:0|~:0
+02:20:51 |c|&V A Q|I have written lines of code
+02:21:03 |c|&V A Q|and abused if statements
+02:21:56 |c|@MrPugg|wow
+02:28:51 |userstats|total:2|guests:0| :0|+:0|%:0|@:1|★:0|-:0|&:1|#:0|♥:0|~:0
+02:32:32 NEW CHATROOM: techcoding
+02:33:56 |J|@MrPugg
+02:35:24 |c|@MrPugg|Now i have to start all over again
+02:35:28 |c|@MrPugg|shit
+02:35:51 |J|&V A Q
+02:37:15 |c|&V A Q|Im gonna
+02:37:22 |c|&V A Q|!git
+02:37:22 |raw|<div class="infobox">Pok&eacute;mon Showdown is open source:<br />- Language: JavaScript (Node.js)<br />- <a href="https://github.com/Zarel/Pokemon-Showdown/commits/master">What's new?</a><br />- <a href="https://github.com/Zarel/Pokemon-Showdown">Server source code</a><br />- <a href="https://github.com/Zarel/Pokemon-Showdown-Client">Client source code</a></div>
+02:37:40 |c|&V A Q|you can ponder at that
+02:37:55 |c|@MrPugg|thanks
+02:42:32 |userstats|total:2|guests:0| :0|+:0|%:0|@:1|★:0|-:0|&:1|#:0|♥:0|~:0
+02:51:36 |raw|<div class="broadcast-blue">**Bold Test**</div>
+02:51:42 |c|&V A Q|Fml
+02:52:32 |userstats|total:2|guests:0| :0|+:0|%:0|@:1|★:0|-:0|&:1|#:0|♥:0|~:0
+02:53:43 |J| Fairy Of Valor
+02:53:55 |L| Fairy Of Valor
+02:53:59 |J| Fairy Of Valor
+02:54:07 |raw|<div class="broadcast-blue">TEST</div>
+02:54:16 |c| Fairy Of Valor|I need help getting a bot made ;-;
+02:54:36 |c|&V A Q|a bot you say?
+02:54:40 |c| Fairy Of Valor|Ye
+02:54:42 |c|&V A Q|well 
+02:54:52 |c|&V A Q|thats where we come in
+02:55:12 |c| Fairy Of Valor|So you can do it for me? :D
+02:55:19 |c|@MrPugg|sadly it will only work on ps main
+02:55:26 |c| Fairy Of Valor|oh :(
+02:55:39 |c|@MrPugg|we dont know the server id
+02:55:51 |c| Fairy Of Valor|Ah
+02:55:57 |c|@MrPugg|but we can help with other things
+02:56:01 |c|@MrPugg|like 
+02:56:14 |c| Fairy Of Valor|Like?
+02:58:00 |c|&V A Q|coding
+02:58:09 |c|&V A Q|like room intros
+02:58:22 |c| Fairy Of Valor|Oh? 
+02:59:25 |c|&V A Q|and similar things
+02:59:34 |c| Fairy Of Valor|Cool
+03:00:38 |L|&V A Q
+03:00:42 |L|@MrPugg
+03:01:25 |J|&V A Q
+03:02:29 |J|@MrPugg
+03:02:32 |userstats|total:3|guests:0| :1|+:0|%:0|@:1|★:0|-:0|&:1|#:0|♥:0|~:0
+03:03:23 |c|&V A Q|uhh lag
+03:03:36 |c| Fairy Of Valor|Lag?
+03:04:46 |c|&V A Q|im lagging
+03:04:57 |c|&V A Q|Thats why i didnt see the flood
+03:05:02 |c|&V A Q|In lobby
+03:10:39 |L|@MrPugg
+03:12:32 |userstats|total:2|guests:0| :1|+:0|%:0|@:0|★:0|-:0|&:1|#:0|♥:0|~:0
+03:17:33 |L|&V A Q
+03:18:32 |L| Fairy Of Valor
+03:22:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+03:23:26 |J|%Andrrew
+03:23:53 |c|%Andrrew|ok guys i will send my java program
+03:24:11 |c|%Andrrew|its a guess a number thingamajigger
+03:26:36 |L|%Andrrew
+03:32:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+03:42:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+03:52:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+04:02:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+04:12:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+04:13:18 NEW CHATROOM: techcoding
+04:23:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+04:33:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+04:43:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+04:53:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+05:03:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+05:13:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+05:23:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+05:33:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+05:43:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+05:53:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+06:03:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+06:13:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+06:23:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+06:33:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+06:43:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+06:53:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+07:03:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+07:13:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+14:27:04 NEW CHATROOM: techcoding
+14:37:04 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+14:41:58 NEW CHATROOM: techcoding
+14:51:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+15:01:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+15:03:52 |J|%Andrrew
+15:11:58 |userstats|total:1|guests:0| :0|+:0|%:1|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+15:17:49 |J|&V A Q
+15:21:58 |userstats|total:2|guests:0| :0|+:0|%:1|@:0|★:0|-:0|&:1|#:0|♥:0|~:0
+15:26:34 |raw|<div class="broadcast-blue"><b>VAQ is hosting a Tournament in <button name="joinroom" value="tours">This room</button> You will win the grand prize of: <em>A private room</em></b></div>
+15:31:58 |userstats|total:2|guests:0| :0|+:0|%:1|@:0|★:0|-:0|&:1|#:0|♥:0|~:0
+15:35:10 |J| shivamrustagi
+15:35:21 |L| shivamrustagi
+15:41:58 |userstats|total:2|guests:0| :0|+:0|%:1|@:0|★:0|-:0|&:1|#:0|♥:0|~:0
+15:51:58 |userstats|total:2|guests:0| :0|+:0|%:1|@:0|★:0|-:0|&:1|#:0|♥:0|~:0
+15:52:39 |c|%Andrrew|!git
+15:52:39 |raw|<div class="infobox">Pok&eacute;mon Showdown is open source:<br />- Language: JavaScript (Node.js)<br />- <a href="https://github.com/Zarel/Pokemon-Showdown/commits/master">What's new?</a><br />- <a href="https://github.com/Zarel/Pokemon-Showdown">Server source code</a><br />- <a href="https://github.com/Zarel/Pokemon-Showdown-Client">Client source code</a></div>
+15:52:52 |c|%Andrrew|!roomhelp
+15:52:52 |raw|<div class="infobox">Room drivers (%) can use:<br />- /warn OR /k <em>username</em>: warn a user and show the Pok&eacute;mon Showdown rules<br />- /mute OR /m <em>username</em>: 7 minute mute<br />- /hourmute OR /hm <em>username</em>: 60 minute mute<br />- /unmute <em>username</em>: unmute<br />- /announce OR /wall <em>message</em>: make an announcement<br />- /modlog <em>username</em>: search the moderator log of the room<br />- /modnote <em>note</em>: adds a moderator note that can be read through modlog<br /><br />Room moderators (@) can also use:<br />- /roomban OR /rb <em>username</em>: bans user from the room<br />- /roomunban <em>username</em>: unbans user from the room<br />- /roomvoice <em>username</em>: appoint a room voice<br />- /roomdevoice <em>username</em>: remove a room voice<br />- /modchat <em>[off/autoconfirmed/+]</em>: set modchat level<br />- /staffintro <em>intro</em>: sets the staff introduction that will be displayed for all staff joining the room<br /><br />Room owners (#) can also use:<br />- /roomintro <em>intro</em>: sets the room introduction that will be displayed for all users joining the room<br />- /rules <em>rules link</em>: set the room rules link seen when using /rules<br />- /roommod, /roomdriver <em>username</em>: appoint a room moderator/driver<br />- /roomdemod, /roomdedriver <em>username</em>: remove a room moderator/driver<br />- /roomdeauth <em>username</em>: remove all room auth from a user<br />- /modchat <em>[%/@/#]</em>: set modchat level<br />- /declare <em>message</em>: make a large blue declaration to the room<br />- !htmlbox <em>HTML code</em>: broadcasts a box of HTML code to the room<br />- !showimage <em>[url], [width], [height]</em>: shows an image to the room<br /><br />More detailed help can be found in the <a href="https://www.smogon.com/sim/roomauth_guide">roomauth guide</a><br /><br />Tournament Help:<br />- /tour create <em>format</em>, elimination: Creates a new single elimination tournament in the current room.<br />- /tour create <em>format</em>, roundrobin: Creates a new round robin tournament in the current room.<br />- /tour end: Forcibly ends the tournament in the current room<br />- /tour start: Starts the tournament in the current room<br /><br />More detailed help can be found <a href="https://gist.github.com/verbiage/0846a552595349032fbe">here</a><br /></div></div>
+16:00:47 |L|%Andrrew
+16:00:51 |L|&V A Q
+16:01:35 |J|&V A Q
+16:01:58 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:1|#:0|♥:0|~:0
+16:02:42 |J|%Andrrew
+16:11:58 |userstats|total:2|guests:0| :0|+:0|%:1|@:0|★:0|-:0|&:1|#:0|♥:0|~:0
+16:21:58 |userstats|total:2|guests:0| :0|+:0|%:1|@:0|★:0|-:0|&:1|#:0|♥:0|~:0
+16:22:08 |c|%Andrrew|working on java :/
+16:22:47 |L|&V A Q
+16:22:51 |J|@MrPugg
+16:24:14 |J|&V A Q
+16:27:58 |L|%Andrrew
+16:27:58 |L|&V A Q
+16:28:09 |L|@MrPugg
+16:29:21 |J|%Andrrew
+16:30:05 |J|@MrPugg
+16:30:15 |c|@MrPugg|Hard eh?
+16:30:31 |c|@MrPugg|better than python imo
+16:30:39 |c|@MrPugg|easier tbh
+16:31:58 |userstats|total:2|guests:0| :0|+:0|%:1|@:1|★:0|-:0|&:0|#:0|♥:0|~:0
+16:32:14 |c|%Andrrew|Yeah
+16:33:18 |J|&V A Q
+16:37:07 |N|&V A Q - ⓑⓤⓢⓨ|vaq
+16:37:07 |N|&V A Q - ⓑⓤⓢⓨ|vaq
+16:41:58 |userstats|total:3|guests:0| :0|+:0|%:1|@:1|★:0|-:0|&:1|#:0|♥:0|~:0
+16:51:58 |userstats|total:3|guests:0| :0|+:0|%:1|@:1|★:0|-:0|&:1|#:0|♥:0|~:0
+17:01:58 |userstats|total:3|guests:0| :0|+:0|%:1|@:1|★:0|-:0|&:1|#:0|♥:0|~:0
+17:11:58 |userstats|total:3|guests:0| :0|+:0|%:1|@:1|★:0|-:0|&:1|#:0|♥:0|~:0
+17:15:28 |N|&V A Q|vaq
+17:15:28 |N|&V A Q|vaq
+17:15:28 |L|&V A Q
+17:15:28 |L|%Andrrew
+17:15:56 |c|@MrPugg|so make a site for here? y or n
+17:16:01 |L|@MrPugg
+17:21:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+17:28:31 |J|&V A Q
+17:28:36 |L|&V A Q
+17:31:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+17:33:22 |J|&V A Q
+17:34:37 |N|&V A Q - ⓛⓐⓖⓖⓘⓝⓖ|vaq
+17:34:37 |N|&V A Q - ⓛⓐⓖⓖⓘⓝⓖ|vaq
+17:34:48 |N|&V A Q - ⓛⓐⓖⓜⓐⓢⓣⓔⓡ|vaq
+17:34:48 |N|&V A Q - ⓛⓐⓖⓜⓐⓢⓣⓔⓡ|vaq
+17:35:12 |N|&V A Q|vaq
+17:35:12 |N|&V A Q|vaq
+17:40:13 |L|&V A Q
+17:41:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+17:51:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+18:01:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+18:11:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+18:21:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+18:24:45 |J|&V A Q
+18:24:48 |J| shivamrustagi
+18:24:51 |c| shivamrustagi|yo
+18:24:56 |c|&V A Q|hello
+18:25:10 |c| shivamrustagi|so here do i get to learn 
+18:25:16 |c| shivamrustagi|how to make room intors
+18:25:17 |c|&V A Q|So ill make a simple one for you
+18:25:38 |J| Fairy Of Valor
+18:27:11 |J|&Hirl123
+18:27:23 |L|&Hirl123
+18:31:58 |userstats|total:3|guests:0| :2|+:0|%:0|@:0|★:0|-:0|&:1|#:0|♥:0|~:0
+18:34:41 |L| shivamrustagi
+18:35:38 Fairy Of Valor was promoted to Room Glorified Normie by V A Q.
+18:35:38 |N|+Fairy Of Valor|fairyofvalor
+18:35:41 |c|&V A Q|kek
+18:35:52 |c|+Fairy Of Valor|Ooook? lol
+18:38:05 |c|&V A Q|dont want it?
+18:38:23 Fairy Of Valor was promoted to Glorified Normie by V A Q.
+18:38:23 |N|+Fairy Of Valor|fairyofvalor
+18:39:14 |L|&V A Q
+18:39:14 |L|+Fairy Of Valor
+18:39:15 |J|+Fairy Of Valor
+18:39:15 |J|&V A Q
+18:39:28 |c|&V A Q|!git
+18:39:28 |raw|<div class="infobox">Pok&eacute;mon Showdown is open source:<br />- Language: JavaScript (Node.js)<br />- <a href="https://github.com/Zarel/Pokemon-Showdown/commits/master">What's new?</a><br />- <a href="https://github.com/Zarel/Pokemon-Showdown">Server source code</a><br />- <a href="https://github.com/Zarel/Pokemon-Showdown-Client">Client source code</a></div>
+18:39:38 |c|+Fairy Of Valor|Why did it close and re-open? ;-;
+18:39:52 |c|&V A Q|I cleared the chat here
+18:39:56 |c|&V A Q|sorry
+18:40:36 |c|+Fairy Of Valor|Ohh ok
+18:40:40 |c|+Fairy Of Valor|Its fine
+18:41:58 |userstats|total:2|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:1|#:0|♥:0|~:0
+18:50:37 |J|@MrPugg
+18:51:58 |userstats|total:3|guests:0| :0|+:1|%:0|@:1|★:0|-:0|&:1|#:0|♥:0|~:0
+18:53:32 |c|@MrPugg|Hi vaq
+18:53:42 |c|@MrPugg|gotta code some stuff
+18:53:58 |c|&V A Q|k
+19:00:56 |J| shivamrustagi
+19:00:58 |L| shivamrustagi
+19:01:58 |userstats|total:3|guests:0| :0|+:1|%:0|@:1|★:0|-:0|&:1|#:0|♥:0|~:0
+19:03:16 |c|&V A Q|stick to coding
+19:03:27 |c|&V A Q|and leave shivam alone pls
+19:03:38 |c|@MrPugg|whatever
+19:03:46 |c|@MrPugg|rude ass mofo
+19:06:04 |c|@MrPugg|gtg
+19:06:08 |L|@MrPugg
+19:11:58 |userstats|total:2|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:1|#:0|♥:0|~:0
+19:21:58 |userstats|total:2|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:1|#:0|♥:0|~:0
+19:23:50 |L|&V A Q
+19:31:58 |userstats|total:1|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+19:41:58 |userstats|total:1|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+19:51:58 |userstats|total:1|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+19:56:10 |J|&V A Q
+19:57:18 |J|%Andrrew
+19:58:30 |J| The Sakurai
+19:58:31 |N|~The Sakurai|thesakurai
+19:58:39 |L|~The Sakurai
+20:01:58 |userstats|total:3|guests:0| :0|+:1|%:1|@:0|★:0|-:0|&:1|#:0|♥:0|~:0
+20:02:43 |c|%Andrrew|hi vaq
+20:02:52 |c|%Andrrew|and fairy of valor
+20:02:56 |c|+Fairy Of Valor|Yo
+20:03:03 |c|%Andrrew|i need to code my phyton vaq
+20:03:07 |c|%Andrrew|help?
+20:03:46 |J|+purpledragon24
+20:03:53 |L|+purpledragon24
+20:05:40 |c|&V A Q|idk python well
+20:11:00 |c|%Andrrew|ok
+20:11:58 |userstats|total:3|guests:0| :0|+:1|%:1|@:0|★:0|-:0|&:1|#:0|♥:0|~:0
+20:18:12 NEW CHATROOM: techcoding
+20:21:58 |userstats|total:3|guests:0| :0|+:1|%:1|@:0|★:0|-:0|&:1|#:0|♥:0|~:0
+20:28:53 |L|+Fairy Of Valor
+20:30:05 NEW CHATROOM: techcoding
+20:33:45 NEW CHATROOM: techcoding
+20:38:04 |J|#kingDeacon
+20:38:17 |c|#kingDeacon|!git
+20:38:17 |raw|<div class="infobox">Pok&eacute;mon Showdown is open source:<br />- Language: JavaScript (Node.js)<br />- <a href="https://github.com/Zarel/Pokemon-Showdown/commits/master">What's new?</a><br />- <a href="https://github.com/Zarel/Pokemon-Showdown">Server source code</a><br />- <a href="https://github.com/Zarel/Pokemon-Showdown-Client">Client source code</a></div>
+20:40:40 |J|~The Sakurai
+20:41:16 |L|~The Sakurai
+20:43:45 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:0
+20:52:21 |J|&V A Q
+20:52:27 |L|&V A Q
+20:53:45 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:0
+21:02:23 |J|&V A Q
+21:02:29 |L|&V A Q
+21:03:45 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:0
+21:11:55 |J|&V A Q
+21:13:26 |J|@Mystifi
+21:13:36 |c|@Mystifi|ooh, coding room
+21:13:43 |c|@Mystifi|I can make my home here, kingDeacon :^)
+21:13:45 |userstats|total:4|guests:1| :1|+:0|%:0|@:1|★:0|-:0|&:1|#:1|♥:0|~:0
+21:14:12 |c|@Mystifi|imo it would've been better named as Tech & Code (like main) but not my room
+21:16:53 |c|&V A Q|Of course mysitfi
+21:17:04 |c|&V A Q|Your welcome to stay
+21:17:28 |c|&V A Q|we practice coding and bot making here
+21:17:41 |raw|<div class='chat'><small>&</small><button name='parseCommand' value='/user V A Q' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#A449AE'>V A Q:</font></b></button><em class='mine'>but no hacking <img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelscop.png" title="feelscop" width="50" height="50" /></em></div>
+21:18:08 |c|@Mystifi|I don't have any intent of hacking lol
+21:18:15 |c|@Mystifi|I'm thinking of learning Python
+21:18:36 |c|&V A Q|ooh python
+21:18:55 |c|&V A Q|idk it well
+21:19:21 |c|&V A Q|kingdeacon's studying it atm
+21:23:45 |userstats|total:3|guests:0| :0|+:0|%:0|@:1|★:0|-:0|&:1|#:1|♥:0|~:0
+21:25:35 |c|@Mystifi|Python actually seems really easy
+21:25:45 |c|@Mystifi|I heard it's a good language to start with
+21:33:45 |userstats|total:3|guests:0| :0|+:0|%:0|@:1|★:0|-:0|&:1|#:1|♥:0|~:0
+21:40:59 |c|#kingDeacon|its not that hard imo
+21:43:05 |J|~The Sakurai
+21:43:17 |L|~The Sakurai
+21:43:32 |L|#kingDeacon
+21:43:45 |userstats|total:2|guests:0| :0|+:0|%:0|@:1|★:0|-:0|&:1|#:0|♥:0|~:0
+21:46:13 |raw|<div class="broadcast-red"><b>The server is restarting soon.</b><br />Please finish your battles quickly. No new battles can be started until the server resets in a few minutes.</div>
+21:46:32 NEW CHATROOM: techcoding
+21:46:46 NEW CHATROOM: techcoding
+21:56:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+21:56:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:06:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:06:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:16:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:16:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:23:05 |J|&V A Q
+22:26:32 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:1|#:0|♥:0|~:0
+22:26:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:33:28 |L|&V A Q
+22:36:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:36:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:46:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:46:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:56:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:56:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+23:06:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+23:06:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+23:16:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+23:16:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+23:21:44 |J|&verizor
+23:26:32 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:1|#:0|♥:0|~:0
+23:26:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+23:27:21 (verizor changed the roomintro.)
+23:27:21 <h1> <center> <b> Welcome to Tech & Coding. </b> </center></h1> Please feel free to bring bots or share techinal information. If you need help making a bot, ask it here and you'll get assistance. To learn more, try visiting <a href="  http://stackoverflow.com"> stackoverflow.</a> <p> <b> NOTE: WE DO NOT ALLOW OR CONDONE HACKING OR USERS OR SERVERS. </b> </p>
+23:33:19 (verizor changed the roomintro.)
+23:33:19 <h1> <center> <b> Welcome to Tech & Coding. </b> </center></h1> Please feel free to bring bots or share techinal information. If you need help making a bot, ask it here and you'll get assistance. To learn more, try visiting <a href=" http://stackoverflow.com"> stackoverflow.</a> <p> For more info on HTML code, here' s a good HTML<a href="http://www.w3schools.com/html/"> tutorial</a>.</p><p> <b> NOTE: WE DO NOT ALLOW OR CONDONE HACKING OR USERS OR SERVERS. </b> </p>
+23:34:50 (verizor changed the roomintro.)
+23:34:50 <h1> <center> <b> Welcome to Tech & Coding. </b> </center></h1> Please feel free to bring bots or share techinal information. If you need help making a bot, ask it here and you'll get assistance. To learn more, try visiting <a href=" http://stackoverflow.com"> stackoverflow.</a> <p> For more info on HTML code, here' s a good HTML<a href="http://www.w3schools.com/html/"> tutorial</a>. We also discuss Java and Python programming language.</p><p> <b> NOTE: WE DO NOT ALLOW OR CONDONE HACKING OR USERS OR SERVERS. </b> </p>
+23:35:03 |L|&verizor
+23:35:08 |J|&verizor
+23:36:32 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:1|#:0|♥:0|~:0
+23:36:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+23:38:03 (verizor changed the roomintro.)
+23:38:03 <h1> <center> <b> Welcome to Tech & Coding. </b> </center></h1> Please feel free to bring bots or share techinal information. If you need help making a bot, ask it here and you'll get assistance. To learn more, try visiting <a href=" http://stackoverflow.com"> stackoverflow</a>. <p> For more info on HTML code, here' s a good HTML<a href="http://www.w3schools.com/html/"> tutorial</a>. Java and Python programming language are also discussed. </p><p> <b> NOTE: WE DO NOT ALLOW OR CONDONE HACKING OR USERS OR SERVERS. </b> </p>
+23:38:28 |L|&verizor
+23:38:34 |J|&verizor
+23:46:29 |c|&verizor|!git
+23:46:29 |raw|<div class="infobox">Pok&eacute;mon Showdown is open source:<br />- Language: JavaScript (Node.js)<br />- <a href="https://github.com/Zarel/Pokemon-Showdown/commits/master">What's new?</a><br />- <a href="https://github.com/Zarel/Pokemon-Showdown">Server source code</a><br />- <a href="https://github.com/Zarel/Pokemon-Showdown-Client">Client source code</a></div>
+23:46:32 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:1|#:0|♥:0|~:0
+23:46:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+23:46:47 |raw|<div class='chat'><small>&</small><button name='parseCommand' value='/user verizor' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#275BD6'>verizor:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsgd.png" title="feelsgd" width="50" height="50" /></em></div>
+23:47:05 |J| DarkNightSkies ✿
+23:47:16 |J| Alliance Darkrai
+23:47:18 |c| DarkNightSkies ✿|My toaster broke 
+23:47:21 |raw|<div class='chat'><small> </small><button name='parseCommand' value='/user Alliance Darkrai' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#2468B1'>Alliance Darkrai:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsgd.png" title="feelsgd" width="50" height="50" /></em></div>
+23:47:25 |c| DarkNightSkies ✿|How do I fix?
+23:47:32 |c|&verizor|you
+23:47:34 |c| Alliance Darkrai|fuck ye momma
+23:47:40 |c|&verizor|buy a new one
+23:48:06 |c|&verizor|with an option for microwaving food
+23:48:07 |c| DarkNightSkies ✿|But I am poor 
+23:48:13 |c|&verizor|then
+23:48:21 |c|&verizor|get rich
+23:48:28 |c|&verizor|jk
+23:49:08 |raw|<div class="broadcast-blue">Who likes to code?</div>
+23:49:51 |c| Alliance Darkrai|me
+23:50:33 |c|&verizor|good
+23:50:47 Alliance Darkrai was promoted to Room Glorified Normie by verizor.
+23:50:47 |N|+Alliance Darkrai|alliancedarkrai
+23:51:07 |c|+Alliance Darkrai|ok
+23:51:25 |c|&verizor|so what do you code?
+23:53:02 |c|+Alliance Darkrai|buttons
+23:53:12 |c|+Alliance Darkrai|pass leader rq so i can show u my latest
+23:53:43 |c|&verizor|i cant leader promo
+23:54:13 |c| DarkNightSkies ✿|Me
+23:54:18 |c| DarkNightSkies ✿|I like to code 
+23:54:52 |c| DarkNightSkies ✿|I can do Javascipt, htlml, css some python and little bit of jquery and angluarjs
+23:56:32 |userstats|total:3|guests:0| :1|+:1|%:0|@:0|★:0|-:0|&:1|#:0|♥:0|~:0
+23:56:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+23:57:44 |c|&verizor|oh nice
+23:58:07 DarkNightSkies ✿ was promoted to Room Driver by verizor.
+23:58:07 |N|%DarkNightSkies ✿|darknightskies

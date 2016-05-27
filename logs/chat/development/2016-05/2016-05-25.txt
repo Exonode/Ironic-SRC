@@ -1,0 +1,714 @@
+02:32:32 NEW CHATROOM: development
+02:38:22 |J|&V A Q
+02:38:26 |L|&V A Q
+02:42:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+02:52:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+03:02:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+03:12:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+03:22:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+03:32:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+03:42:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+03:52:32 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+03:54:44 |J|@Mystifi
+04:02:32 |userstats|total:1|guests:0| :0|+:0|%:0|@:1|★:0|-:0|&:0|#:0|♥:0|~:0
+04:12:32 |userstats|total:1|guests:0| :0|+:0|%:0|@:1|★:0|-:0|&:0|#:0|♥:0|~:0
+04:13:18 NEW CHATROOM: development
+04:23:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+04:33:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+04:43:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+04:53:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+05:03:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+05:13:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+05:23:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+05:33:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+05:43:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+05:53:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+06:03:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+06:13:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+06:23:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+06:33:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+06:43:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+06:53:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+07:03:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+07:13:18 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+14:27:04 NEW CHATROOM: development
+14:37:04 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+14:41:58 NEW CHATROOM: development
+14:51:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+15:01:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+15:11:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+15:21:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+15:22:23 |J|&V A Q
+15:22:28 |L|&V A Q
+15:22:50 |J|~Audinory
+15:24:01 |c|~Audinory|LMAO
+15:24:14 |J|~Diarmuid O'Dyna
+15:24:17 |c|~Diarmuid O'Dyna|what
+15:24:18 |c|~Audinory|!pair Kevins Cock, Charlottes Asshole
+15:24:18 |raw|<div class="infobox"><div style="padding: 4px, 6px;background-color: crimson; color: white;"><font size="4">Name 1:</font> Kevins Cock<br><br><font size="4">Name 2:</font> Charlottes Asshole</div><div style="padding: 4px, 6px;background-color: white; color: black;"><font size="4">Match:</font> 82%</div><div style="padding: 4px, 6px;background-color: rgb(20, 20, 20); color: white;">Wow! This relationship is clearly working. You should both continue to do whatever it is that you're doing, that's not to say that it isn't without a few kinks here and there, but you both should try your best to work through them and continue a strong and healthy relationship!</div></div>
+15:24:19 |c|~Audinory|done
+15:24:20 |c|~Audinory|D
+15:24:20 |c|~Audinory|O
+15:24:21 |c|~Audinory|N
+15:24:22 |c|~Audinory|E
+15:24:24 |c|~Diarmuid O'Dyna|O_O
+15:24:26 |c|~Diarmuid O'Dyna|okay
+15:24:30 |c|~Audinory|/me pat
+15:24:33 |c|~Diarmuid O'Dyna|xDD
+15:24:35 |L|~Diarmuid O'Dyna
+15:24:37 (Audinory changed the roomintro.)
+15:24:37 The Anal ROom
+15:26:34 |raw|<div class="broadcast-blue"><b>VAQ is hosting a Tournament in <button name="joinroom" value="tours">This room</button> You will win the grand prize of: <em>A private room</em></b></div>
+15:30:11 |N| Audinory|audinory
+15:30:20 |N|~Audinory|audinory
+15:31:36 |N| Audinory|audinory
+15:31:58 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:1
+15:38:15 |N| Audinory|audinory
+15:38:20 |N|~Audinory|audinory
+15:38:42 |N| Audinory|audinory
+15:41:58 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:1
+15:51:58 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:1
+16:01:01 |L| Audinory
+16:01:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+16:11:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+16:21:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+16:31:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+16:41:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+16:51:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+17:01:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+17:11:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+17:13:42 |J| Audinory
+17:13:49 |L| Audinory
+17:13:50 |J| Audinory
+17:21:58 |userstats|total:1|guests:0| :1|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+17:29:01 |J|&V A Q
+17:29:23 |L|&V A Q
+17:31:58 |userstats|total:1|guests:0| :1|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+17:41:58 |userstats|total:1|guests:0| :1|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+17:51:58 |userstats|total:1|guests:0| :1|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+18:01:58 |userstats|total:1|guests:0| :1|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+18:03:25 |L| Audinory
+18:11:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+18:21:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+18:31:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+18:41:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+18:51:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+19:01:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+19:11:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+19:21:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+19:31:58 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+19:41:09 |J| Audinory
+19:41:15 (Audinory changed the roomintro.)
+19:41:15 Higher Staff Only
+19:41:23 |J|&The Sakurai
+19:41:43 |c| Audinory|k so
+19:41:55 |c| Audinory|auth is crowded a rn
+19:41:57 |c| Audinory|//auth
+19:41:58 |userstats|total:2|guests:0| :1|+:0|%:0|@:0|★:0|-:0|&:1|#:0|♥:0|~:0
+19:42:01 |c|&The Sakurai|lets clear up
+19:42:02 |c|&The Sakurai|:D
+19:42:54 |c|&The Sakurai|Audinory
+19:43:00 |c| Audinory|ik
+19:43:18 |L| Audinory
+19:43:30 |J| Audinory
+19:44:01 |c| Audinory|~Server Lords (4): Bandi, The Sakurai, diarmuidodyna, thefiremage 
+19:44:02 |c| Audinory|♥piiiikas (2): Hayleysworld, piiiikachuuu ✿ 
+19:44:02 |c| Audinory|&Leaders (7): Hirl123, Nixtorm BoTTT, TerminalHydreigon, Ambah - ⒶⓌⒶⓎ, Ransei, TheShankSkank, V A Q 
+19:44:08 |c| Audinory|-Bots (1): Sylvie Bot 
+19:44:08 |c| Audinory|@Le Mods (5): vacate, Connni, DarkAngeallenq.q, Ithi, Mystifi - ⓝⓐⓟⓟⓘⓝⓖ 
+19:44:09 |c| Audinory|%Drivers (6): Desokoro, FocusBlasted, Hurricane'd, Chief Sokka, Mrlegal, No Shaymin Fear
+19:44:09 |c| Audinory| +Glorified Normies (7): Fairy Of Valor, hitorihanza, Dominicarus, Solorbeam, Volco, kingDeacon, purpledragon24
+19:44:17 |c|&The Sakurai|kk
+19:45:13 |L|&The Sakurai
+19:45:20 |c| Audinory|Uhh
+19:45:23 |c| Audinory|gimme your server auth
+19:51:58 |userstats|total:1|guests:0| :1|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+19:52:27 |J|&The Sakurai
+19:53:16 |c|&The Sakurai|ok
+19:53:35 |c|&The Sakurai|~Administrators (2):
+19:53:35 |c|&The Sakurai|Carnie Moe Sedah, Ransei
+19:53:40 |c|&The Sakurai|&Leaders (2):
+19:53:41 |c|&The Sakurai|DangMashedPotato, Nixtorm BoTTT
+19:53:45 |c|&The Sakurai|@Moderators (3):
+19:53:45 |c|&The Sakurai|Desokoro, Soft Lopunny, shivamrustagi
+19:53:51 |c|&The Sakurai|%Drivers (1):
+19:53:51 |c|&The Sakurai|KecleonMarket
+19:53:54 |c|&The Sakurai|+Voices (1):
+19:53:55 |c|&The Sakurai|Quizzyy
+19:54:58 |c| Audinory|Okay
+19:55:01 |c| Audinory|So
+19:56:06 |c| Audinory|Admins: Me you, Bandi, Fire, Anime Name
+19:56:22 |c|&The Sakurai|kk
+19:56:26 |c| Audinory|Leaders: Ransei, Moe, Brooke, 
+19:56:31 |c| Audinory|Vaq and hirl
+19:56:40 |c|&The Sakurai|and my son
+19:56:41 |c|&The Sakurai|-_-
+19:56:43 |c| Audinory|who?
+19:56:47 |c|&The Sakurai|nixtorm bottt
+19:56:48 |raw|<div class='chat'><small>&</small><button name='parseCommand' value='/user The Sakurai' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#1BB675'>The Sakurai:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/xaa.png" title="xaa" width="50" height="50" /></em></div>
+19:56:51 |c|&The Sakurai|its my creation
+19:56:51 |c| Audinory|bot rank for that
+19:56:53 |c|&The Sakurai|k
+19:56:53 |c| Audinory|:^
+19:57:07 |c|&The Sakurai|done
+19:57:51 DangMashedPotato was promoted to Driver by The Sakurai.
+19:58:05 shivamrustagi was promoted to Glorified Normie by The Sakurai.
+19:58:08 |c|&The Sakurai|thatll be fine
+19:58:11 |c|&The Sakurai|rest is up to you
+19:58:13 |c|&The Sakurai|:))
+19:58:31 |N|&The Sakurai|thesakurai
+19:59:07 |c| Audinory|Voices: Fairy Of Valor, hitorihanza, Volco, kingDeacon, purpledragon24, shivamrustagi
+19:59:13 |c|&The Sakurai|kk
+19:59:20 |L| Audinory
+19:59:20 |L|&The Sakurai
+19:59:21 |J|&The Sakurai
+19:59:21 |J| Audinory
+19:59:23 |c|&The Sakurai|?
+19:59:26 |c| Audinory|!htmlbox
+19:59:26 |raw|<div class="infobox">Admins: Me, You Bandi, Fire, Anime Name<br>Leaders: Ransei, Moe, Brooke, Vaq, Hirl<br>Mods: Term, Dark, Ithi, Conni<br>Drivers: Focus, DMP, Desokoro, Soft Lopunny<br>Voices: Fairy Of Valor, hitorihanza, Volco, kingDeacon, purpledragon24, shivamrustagi</div>
+19:59:41 |c|&The Sakurai|that looks ok
+19:59:47 |J|~Bandi
+19:59:51 |c|~Bandi|sup
+19:59:51 |c|&The Sakurai|bandi
+19:59:54 |c|&The Sakurai|agree with auth?
+19:59:55 |raw|<div class='chat'><small>&</small><button name='parseCommand' value='/user The Sakurai' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#1BB675'>The Sakurai:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/xaa.png" title="xaa" width="50" height="50" /></em></div>
+20:00:05 |c|~Bandi|sure
+20:00:07 |c| Audinory|aight
+20:00:08 |c|&The Sakurai|i am ''you''
+20:00:08 |c|~Bandi|just don't be like origin
+20:00:10 |c|~Bandi|and watch them
+20:00:13 |c| Audinory|Lmao pls
+20:00:14 |c| Audinory|I dont
+20:00:15 |c|~Bandi|*not watch them
+20:00:21 |c|~Bandi|origin just lets them
+20:00:23 |c|&The Sakurai|ban chirou at all costs
+20:00:23 |c|~Bandi|run rogue
+20:00:25 |c| Audinory|Oh
+20:00:27 |c| Audinory|I watch my auth
+20:00:29 |c| Audinory|lmao
+20:00:40 |c| Audinory|okay 
+20:00:42 |c| Audinory|ill work on auth
+20:01:03 |c|&The Sakurai|i am not agreeing with hayley being auth
+20:01:04 |c|&The Sakurai|but w/e
+20:01:04 |c| Audinory|!htmlbox
+20:01:04 |raw|<div class="infobox">Admins: Me, You Bandi, Fire, Anime Name<br>Leaders: Ransei, Moe, Brooke, Vaq, Hirl<br>Mods: Term, Dark, Ithi, Conni<br>Drivers: Focus, DMP, Desokoro, Soft Lopunny<br>Voices: Fairy Of Valor, hitorihanza, Volco, kingDeacon, purpledragon24, shivamrustagi</div>
+20:01:08 |c|&The Sakurai|thats the only one
+20:01:10 |c| Audinory|thats not a rank
+20:01:12 |c| Audinory|its voice
+20:01:13 |c| Audinory|lmao
+20:01:14 |c|&The Sakurai|oh
+20:01:18 |c|&The Sakurai|then thats ok i guess
+20:01:23 |c|&The Sakurai|as long as she doesnt being a cunt
+20:01:25 |c|&The Sakurai|to me
+20:01:29 |c|&The Sakurai|be*
+20:01:30 |c| Audinory|Hirl123, TheShankSkank, V A Q, Ambah - ⒶⓌⒶⓎ, Ransei, TerminalHydreigon
+20:01:32 |c| Audinory|okie
+20:01:40 (TerminalHydreigon was demoted to Le Mod by Audinory.)
+20:01:45 |c|~Bandi|might end upd emoting
+20:01:46 |c|&The Sakurai|lol
+20:01:46 |c|~Bandi|desokoro
+20:01:48 |c|~Bandi|knowing him
+20:01:49 |c|&The Sakurai|Bandi
+20:01:49 |c|&The Sakurai|no
+20:01:50 Audinory was promoted to Server Lord by Audinory.
+20:01:50 |N|~Audinory|audinory
+20:01:51 |c|&The Sakurai|XD
+20:01:54 |raw|<div class='chat'><small>&</small><button name='parseCommand' value='/user The Sakurai' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#1BB675'>The Sakurai:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/oshet.png" title="oshet" width="50" height="50" /></em></div>
+20:01:57 |c|&The Sakurai|were in trouble now
+20:01:58 |c|~Audinory|so i can see demotes
+20:01:58 |userstats|total:3|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:1|#:0|♥:0|~:2
+20:01:59 |c|~Audinory|lmao
+20:02:01 |c|&The Sakurai|he promoted himself
+20:02:04 |raw|<div class='chat'><small>&</small><button name='parseCommand' value='/user The Sakurai' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#1BB675'>The Sakurai:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsnv.png" title="feelsnv" width="50" height="50" /></em></div>
+20:02:09 (Bandi was demoted to regular user by Bandi.)
+20:02:09 |N| Bandi|bandi
+20:02:28 (Ambah - ⒶⓌⒶⓎ was demoted to Le Mod by Audinory.)
+20:02:41 |c|~Audinory|FocusBlasted, Hurricane'd, Chief Sokka, DangMashedPotato, Desokoro, Mrlegal, No Shaymin Fear, Soft Lopunny
+20:02:52 (chiefsokka was demoted to regular user by Audinory.)
+20:02:53 |c|&The Sakurai|bandi
+20:02:54 |c|&The Sakurai|u idiot
+20:02:58 Bandi was promoted to Server Lord by The Sakurai.
+20:02:58 |N|~Bandi|bandi
+20:02:58 (noshayminfear was demoted to regular user by Audinory.)
+20:03:07 (mrlegal was demoted to regular user by Audinory.)
+20:03:13 |c|~Audinory|!htmlbox
+20:03:13 |raw|<div class="infobox">Admins: Me, You Bandi, Fire, Anime Name<br>Leaders: Ransei, Moe, Brooke, Vaq, Hirl<br>Mods: Term, Dark, Ithi, Conni<br>Drivers: Focus, DMP, Desokoro, Soft Lopunny<br>Voices: Fairy Of Valor, hitorihanza, Volco, kingDeacon, purpledragon24, shivamrustagi</div>
+20:03:17 |c|~Audinory|auth
+20:03:33 (solorbeam was demoted to regular user by Audinory.)
+20:03:35 |c|&The Sakurai|ok
+20:03:38 |c|&The Sakurai|Audinory
+20:03:39 (dominicarus was demoted to regular user by Audinory.)
+20:03:40 |c|&The Sakurai|its ur choice
+20:03:41 |c|~Audinory|yeah?
+20:03:43 |c|&The Sakurai|idc who is promoted
+20:03:44 |c|&The Sakurai|tbh
+20:03:51 |c|&The Sakurai|apart from hayley
+20:03:54 |c|&The Sakurai|;))
+20:05:37 |c|~Bandi|so basically
+20:05:39 |c|~Bandi|can we start coding now
+20:06:36 |N|&The Sakurai|thesakurai
+20:08:53 |J|&V A Q
+20:09:21 |L|&V A Q
+20:10:19 |N|&The Sakurai|thesakurai
+20:11:58 |userstats|total:3|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:1|#:0|♥:0|~:2
+20:13:02 |J| Andrrew
+20:14:08 |L| Andrrew
+20:18:12 NEW CHATROOM: development
+20:19:45 |L|~Audinory
+20:21:58 |userstats|total:2|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:1|#:0|♥:0|~:1
+20:24:52 |L|~Bandi
+20:25:45 |L|&The Sakurai
+20:30:05 NEW CHATROOM: development
+20:33:45 NEW CHATROOM: development
+20:36:18 |J|~Audinory
+20:36:27 |J|~Bandi
+20:36:30 |J| Alliance Darkrai
+20:36:31 |J| TheSnipersBullet
+20:36:36 |J| Opple
+20:36:40 |J|&The Sakurai
+20:36:48 |c|&The Sakurai|great
+20:36:49 |c|~Bandi|ok now dude
+20:36:51 |c|~Bandi|Audinory
+20:36:52 |c|&The Sakurai|now we have watchers
+20:36:54 |c|~Bandi|lets talk about this
+20:36:57 |c|~Bandi|why does it matter
+20:36:58 |c|~Bandi|lol
+20:37:00 The Sakurai set modjoin to +.
+20:37:02 |c|~Bandi|i don'thave shit to hide
+20:37:06 |c|~Audinory|same
+20:37:07 |c|~Audinory|anyway
+20:37:11 |c|~Audinory|we can talk
+20:37:17 |c|~Bandi|do u hvae a place
+20:37:20 |c|~Bandi|where we can test
+20:37:25 |c|~Audinory|uhh i can make one rq
+20:37:28 |c|~Bandi|because i know the error and just fixed it
+20:37:30 |c|~Audinory|i have a spare iirc
+20:37:32 |J|@DarkAngeallenq.q
+20:37:32 The Sakurai turned off modjoin.
+20:37:53 |L|@DarkAngeallenq.q
+20:38:00 |c|~Bandi|ok
+20:38:03 |c|~Bandi|well anyway
+20:38:08 |c|~Bandi|i also have a question
+20:38:14 |c|~Bandi|can i put a class
+20:38:16 |c|~Bandi|in an object
+20:38:32 |c|~Bandi|i don't think so lol
+20:38:32 |c|~Audinory|uhh
+20:38:34 |c|~Audinory|idts
+20:38:44 |c|~Audinory|im 90% sure you cant
+20:38:51 |J| Spirit - Anaysha
+20:38:53 |c|~Bandi|ok then i guess ill just make it native
+20:38:54 |c|~Bandi|lol
+20:39:01 |J|+kingDeacon
+20:39:02 |c|&The Sakurai|Audinory
+20:39:05 |c|~Audinory|Hmm?
+20:39:06 |c|&The Sakurai|chirou is here
+20:39:09 |c|~Audinory|ik
+20:39:10 |c|&The Sakurai|i am banning him
+20:39:14 |c|~Audinory|up to you
+20:39:20 |c|&The Sakurai|kk
+20:39:20 |c|~Audinory|if majority agree
+20:39:27 |c|~Audinory|im taking no part of it
+20:39:28 |L|‽TheSnipersBullet
+20:39:35 |c|&The Sakurai|done
+20:40:56 |L| Spirit - Anaysha
+20:43:45 |userstats|total:6|guests:0| :2|+:1|%:0|@:0|★:0|-:0|&:1|#:0|♥:0|~:2
+20:48:28 |L| Opple
+20:50:41 |L| Alliance Darkrai
+20:53:45 |userstats|total:4|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:1|#:0|♥:0|~:2
+20:54:14 |J|&V A Q
+20:54:23 |L|&V A Q
+21:00:08 |N|&The Sakurai|thesakurai
+21:00:28 |N|&The Sakurai|thesakurai
+21:03:45 |userstats|total:4|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:1|#:0|♥:0|~:2
+21:05:41 |L|&The Sakurai
+21:13:45 |userstats|total:3|guests:0| :0|+:1|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:2
+21:17:39 |J|@Mystifi
+21:17:44 |c|@Mystifi|hihi
+21:17:51 |c|@Mystifi|oh wait higher staff
+21:19:59 |c|~Audinory|yes
+21:20:44 |c|~Audinory|!eval for (let file of fs.readdirSync(path.resolve(__dirname, 'src'))) { if (file.substr(-3) !== '.js') continue; Object.assign(global, require('./src/' + file)); }
+21:20:44 ||<< [object global]
+21:20:45 |c|~Audinory|bandi
+21:21:00 |J|&V A Q
+21:21:33 |L|&V A Q
+21:21:36 |c|~Bandi|!eval Object.keys(global);
+21:21:36 ||<< global,process,GLOBAL,root,Buffer,clearImmediate,clearInterval,clearTimeout,setImmediate,setInterval,setTimeout,console,Config,Monitor,Tools,toId,LoginServer,Ladders,Users,Cidr,Punishments,Rooms,Tells,Db,Verifier,CommandParser,Simulator,Tournaments,Casino,getMoney,giveMoney,takeMoney,Dnsbl,Sockets,TeamValidator
+21:21:47 |c|~Bandi|why doesn't it do it
+21:21:51 |c|~Bandi|for all the src files
+21:21:52 |c|~Bandi|i wonder
+21:21:59 |c|~Bandi|like it doesn't naturally do it with that code
+21:22:19 |c|~Bandi|meaning the code i put in app.js doesn't work lol
+21:22:21 |c|~Audinory|;s
+21:22:24 |c|~Audinory|yup
+21:23:04 |c|~Bandi|!eval Object.assign(global, require('./src/' + 'economy.js'));
+21:23:04 ||<< [object global]
+21:23:14 |c|~Bandi|!eval Object.assign(global, require('./src/' + 'utilities.js'));
+21:23:14 ||<< [object global]
+21:23:20 |c|~Bandi|!eval Object.keys(global);
+21:23:20 ||<< global,process,GLOBAL,root,Buffer,clearImmediate,clearInterval,clearTimeout,setImmediate,setInterval,setTimeout,console,Config,Monitor,Tools,toId,LoginServer,Ladders,Users,Cidr,Punishments,Rooms,Tells,Db,Verifier,CommandParser,Simulator,Tournaments,Casino,getMoney,giveMoney,takeMoney,Dnsbl,Sockets,TeamValidator
+21:23:39 |c|~Audinory|oh
+21:23:41 |c|~Audinory|hmm
+21:23:45 |userstats|total:4|guests:0| :0|+:1|%:0|@:1|★:0|-:0|&:0|#:0|♥:0|~:2
+21:23:48 |c|~Bandi|thats wierd
+21:23:54 |c|~Bandi|it adds all the exports t it
+21:23:59 |c|~Bandi|for economy
+21:24:01 |c|~Bandi|but not utiltiies
+21:24:04 |c|~Bandi|!eval utilities
+21:24:04 || << ReferenceError: utilities is not defined
+||    at eval (eval at <anonymous> (/home/ubuntu/workspace/commands.js:2432:34), <anonymous>:1:1)
+21:24:36 |c|~Audinory|!eval ./chat-plugins/
+21:24:36 || << SyntaxError: Unexpected token .
+21:24:41 |c|~Audinory|woops
+21:24:56 |c|~Audinory|!eval Object.assign(global, require('./chat-plugins/'));
+21:24:56 || << Error: Cannot find module './chat-plugins/'
+||    at Function.Module._resolveFilename (module.js:336:15)
+||    at Function.Module._load (module.js:286:25)
+||    at Module.require (module.js:365:17)
+||    at require (module.js:384:17)
+||    at eval (eval at <anonymous> (/home/ubuntu/workspace/commands.js:2432:34), <anonymous>:1:23)
+21:25:18 |raw|<div class='infobox'><h2><center><font color=#24678d>Audinory has started a dice game for </font><font color=red>1</font><font color=#24678d> Shekel.</font><br><button name='send' value='/joindice'>Click to join.</button></center></h2></div>
+21:25:21 |raw|<b>Audinory ended the dice game.</b>
+21:25:50 |c|~Bandi|why did u do that
+21:25:51 |c|~Bandi|lol Audinory
+21:25:55 |c|~Audinory|idk
+21:26:12 |c|~Bandi|!eval Object.keys(global);
+21:26:12 ||<< global,process,GLOBAL,root,Buffer,clearImmediate,clearInterval,clearTimeout,setImmediate,setInterval,setTimeout,console,Config,Monitor,Tools,toId,LoginServer,Ladders,Users,Cidr,Punishments,Rooms,Tells,Db,Verifier,CommandParser,Simulator,Tournaments,Casino,getMoney,giveMoney,takeMoney,Dnsbl,Sockets,TeamValidator
+21:26:37 |c|~Audinory|LOL
+21:26:38 |c|~Audinory|wait
+21:26:40 |c|~Audinory|is it because
+21:26:49 |c|~Audinory|you have ./src/
+21:26:53 |c|~Audinory|instead of ./src?
+21:27:12 |c|~Bandi|why would i have ./src
+21:27:14 |c|~Bandi|lol
+21:27:20 |c|~Bandi|th efolder source
+21:27:23 |c|~Bandi|isn't an object
+21:27:32 |c|~Bandi|u can't merge a non object
+21:28:08 |c|~Audinory|hmm
+21:28:15 |c|~Bandi|./src
+21:28:18 |c|~Bandi|would not be an object
+21:28:20 |c|~Bandi|lol
+21:28:26 |c|~Bandi|and + with the + file thing
+21:28:27 |c|~Bandi|it would be
+21:28:30 |c|~Bandi|./srceconomy
+21:28:32 |c|~Audinory|yeah
+21:28:36 |c|~Audinory|just realised
+21:28:36 |c|~Bandi|./srcutilities
+21:28:37 |c|~Bandi|etv
+21:28:38 |c|~Audinory|mmhm
+21:28:40 |c|~Bandi|*etc
+21:28:48 |c|~Bandi|tryna find out why it won't do it tho
+21:28:53 |c|~Bandi|wait i think i just noticed somthing
+21:28:56 |c|~Audinory|oh?
+21:29:09 |c|~Bandi|fs.readdirSync(path.resolve(__dirname, 'src')
+21:29:14 |c|~Bandi|!eval fs.readdirSync(path.resolve(__dirname, 'src')
+21:29:14 || << SyntaxError: missing ) after argument list
+21:29:21 |c|~Bandi|!eval fs.readdirSync(path.resolve(__dirname, 'src')
+21:29:21 || << SyntaxError: missing ) after argument list
+21:29:22 |c|~Bandi|o
+21:29:31 |c|~Bandi|!eval fs.readdirSync(path.resolve(__dirname, 'src'))
+21:29:31 ||<< economy.js,utilities.js
+21:29:33 |c|~Audinory|o
+21:29:34 |c|~Audinory|LMAO
+21:29:38 |c|~Audinory|nowai
+21:29:41 |c|~Bandi|what about it
+21:29:41 |c|~Bandi|lol
+21:29:48 |c|~Bandi|i said i think i noticed somthing
+21:29:48 |c|~Audinory|like
+21:29:51 |c|~Bandi|i didn't actually
+21:29:53 |c|~Audinory|it was all because of
+21:29:53 |c|~Audinory|o
+21:29:58 |c|~Bandi|did u
+21:29:58 |c|~Bandi|lol
+21:29:59 |c|~Audinory|i thought you missed a )
+21:30:07 |c|~Audinory|in the app.js coe
+21:30:11 |c|~Audinory|code*
+21:30:15 |c|~Audinory|cos I remember naten did that once
+21:30:17 |c|~Audinory|:^
+21:30:53 |c|~Bandi|lol
+21:30:56 |c|~Bandi|ur probably
+21:30:59 |c|~Bandi|audino primal
+21:31:00 |c|~Bandi|aren't u
+21:31:03 |c|~Audinory|probs
+21:31:06 |c|~Bandi|yes
+21:31:06 |c|~Audinory|:x
+21:31:07 |c|~Bandi|lmfao
+21:31:24 |c|~Bandi|why did u never get on origin
+21:31:28 |c|~Audinory|COllege
+21:31:34 |c|~Audinory|was super busy
+21:31:35 |c|~Bandi|o
+21:31:42 |c|~Bandi|well anyway
+21:31:54 |c|~Audinory|I called that naten would get backstabbed and that origin staff were corrupt
+21:31:55 |c|~Audinory|on eos
+21:31:56 |c|~Audinory|:^)
+21:32:01 |c|~Audinory|naten didnt listen
+21:32:10 |c|~Bandi|!eval require('./src/utilities.js');
+21:32:10 ||<< [object Object]
+21:32:22 |c|~Bandi|!eval require('./src/utilities.js').exports;
+21:32:22 ||<< undefined
+21:32:24 |c|~Bandi|!eval require('./src/utilities.js').export;
+21:32:24 ||<< undefined
+21:32:28 |c|~Bandi|!eval require('./src/utilities.js').rand;
+21:32:28 ||<< undefined
+21:32:30 |c|~Bandi|.
+21:32:33 |c|~Bandi|lol Audinory
+21:32:35 |c|~Audinory|hmm?
+21:32:46 |c|~Audinory|:I
+21:32:47 |c|~Bandi|why is utiltiies.js's exports
+21:32:50 |c|~Bandi|not showing up
+21:32:52 |c|~Bandi|*are
+21:33:05 |c|~Audinory|coding errors
+21:33:07 |c|~Audinory|thats why
+21:33:13 |c|~Bandi|o ok
+21:33:15 |c|~Bandi|just checking lol
+21:33:22 |c|~Bandi|lets fix the errors
+21:33:24 |c|~Bandi|real quick
+21:33:28 |c|~Bandi|and then i have this easily done
+21:33:28 |c|~Bandi|lol
+21:33:45 |userstats|total:4|guests:0| :0|+:1|%:0|@:1|★:0|-:0|&:0|#:0|♥:0|~:2
+21:33:54 |c|~Bandi|i graduate 8th grade tmrw
+21:33:56 |c|~Bandi|so
+21:34:03 |c|~Bandi|im botut to go thte barber
+21:34:03 |c|~Bandi|soon
+21:34:27 |c|~Audinory|nice
+21:35:17 |c|~Bandi|ok so
+21:35:19 |c|~Bandi|what are th eocding erors
+21:35:20 |c|~Bandi|lol
+21:35:32 |c|~Bandi|hardtabbing
+21:35:34 |c|~Bandi|im guessing
+21:35:52 |c|~Audinory|yeah
+21:35:58 |c|~Audinory|which aren't wanting to be fixed
+21:35:59 |c|~Audinory|:s
+21:36:36 |c|~Bandi|lol ok i got u
+21:36:38 |c|~Bandi|now let me fix this
+21:36:41 |c|~Bandi|this shud be easy
+21:36:48 |c|~Audinory|aight
+21:39:03 |c|~Bandi|u in app.js
+21:39:03 |c|~Bandi|right
+21:39:13 |c|~Bandi|!eval global['takeMoney']
+21:39:13 ||<< function takeMoney(user, amount) {
+    user.money = getMoney - amount;
+}
+21:39:26 |c|~Audinory|yeah
+21:39:27 |c|~Audinory|i am
+21:40:31 |c|~Bandi|ok
+21:40:32 |c|~Bandi|sorry
+21:40:36 |c|~Audinory|i fixed dice
+21:43:32 |L|+kingDeacon
+21:43:45 |userstats|total:3|guests:0| :0|+:0|%:0|@:1|★:0|-:0|&:0|#:0|♥:0|~:2
+21:44:31 |c|~Bandi|ok wait
+21:46:13 |raw|<div class="broadcast-red"><b>The server is restarting soon.</b><br />Please finish your battles quickly. No new battles can be started until the server resets in a few minutes.</div>
+21:46:32 NEW CHATROOM: development
+21:46:46 NEW CHATROOM: development
+21:56:06 |J|~Bandi
+21:56:32 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:1
+21:56:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+21:59:30 |J| DarkNightSkies ✿
+21:59:39 |L| DarkNightSkies ✿
+21:59:40 |J|@Mystifi
+22:06:32 |userstats|total:2|guests:0| :0|+:0|%:0|@:1|★:0|-:0|&:0|#:0|♥:0|~:1
+22:06:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:14:18 |N|@Mystifi - ⒶⓌⒶⓎ|mystifi
+22:14:18 |N|@Mystifi - ⒶⓌⒶⓎ|mystifi
+22:16:32 |userstats|total:2|guests:0| :0|+:0|%:0|@:1|★:0|-:0|&:0|#:0|♥:0|~:1
+22:16:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:26:32 |userstats|total:2|guests:0| :0|+:0|%:0|@:1|★:0|-:0|&:0|#:0|♥:0|~:1
+22:26:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:31:13 |J|~Audinory
+22:33:52 |c|~Audinory||raw|<font color="red" size="15">The wheel of</font> ' + '<font color="green" size="15"><b>' +  target + '</b></font>'+ ' <font color="red" size="15">has been started and is awaiting to be spun</font><hr /><br />' +'<img src="http://www190.lunapic.com/editor/working/145191966582031?9793635039">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src="http://www190.lunapic.com/editor/working/145191966582031?9793635039"><br /><font color="blue" size="20"> '+ this.wheel;
+22:33:52 |c|~Audinory|    }
+22:36:32 |userstats|total:3|guests:0| :0|+:0|%:0|@:1|★:0|-:0|&:0|#:0|♥:0|~:2
+22:36:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:46:32 |userstats|total:3|guests:0| :0|+:0|%:0|@:1|★:0|-:0|&:0|#:0|♥:0|~:2
+22:46:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:56:32 |userstats|total:3|guests:0| :0|+:0|%:0|@:1|★:0|-:0|&:0|#:0|♥:0|~:2
+22:56:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+22:58:55 |J| DarkNightSkies ✿
+22:58:58 DarkNightSkies ✿ was appointed Room Lord by Audinory.
+22:58:58 |N|#DarkNightSkies ✿|darknightskies
+22:59:05 |c|#DarkNightSkies ✿|err
+22:59:12 |c|~Audinory|just /htmlbox
+22:59:12 |c|~Audinory|it
+23:00:44 |c|#DarkNightSkies ✿|The image didn't show 
+23:00:46 |c|#DarkNightSkies ✿|rip
+23:01:25 |c|#DarkNightSkies ✿|I like the way I did it tho
+23:01:40 |c|#DarkNightSkies ✿|Lower down the font size to 10
+23:01:57 |c|~Audinory|okay
+23:02:00 |c|#DarkNightSkies ✿|change the color of text to red 
+23:02:31 |c|~Audinory|:I
+23:02:37 |c|~Audinory|just pass me the finished prodct?
+23:02:39 |c|~Audinory|:L
+23:03:29 |c|#DarkNightSkies ✿|I wouldn't call this a finished product 
+23:04:01 |c|~Audinory|ik
+23:04:10 |c|~Audinory|but im sayin when you do?
+23:05:19 |c|#DarkNightSkies ✿|http://pastebin.com/BewdtdST
+23:05:26 |c|#DarkNightSkies ✿|Change it to that for now 
+23:05:37 |c|#DarkNightSkies ✿|I want to see you play a dice 
+23:06:09 |c|~Audinory|    <div class="infobox" style="background-image: url('http://www.casinonewsdaily.com/wp-content/uploads/guides/illustrations/roulette/basics/roulette-wheel.jpg') background-size: 100%; color: red; font-size: 10px; text-align: center;">The Wheel Of<br><font style="color: red;"><strong>' + targets[0] + '</strong></font><br>Has been started and is waiting to be spun!<hr>The Mulitiplier is: <font style="color: red;">' + targets[1] + '</font><hr><font style="color: blue;">' + this.wheel; </font></div>
+23:06:11 |c|~Audinory|ffs
+23:06:19 |c|~Audinory|hmm
+23:06:23 |c|~Audinory|thats cute
+23:06:26 |c|~Audinory|no background tho
+23:06:27 |raw|<div class='chat'><small>~</small><button name='parseCommand' value='/user Audinory' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#C635E7'>Audinory:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsbd.png" title="feelsbd" width="50" height="50" /></em></div>
+23:06:32 |userstats|total:4|guests:0| :0|+:0|%:0|@:1|★:0|-:0|&:0|#:1|♥:0|~:2
+23:06:38 |c|~Audinory|Oh i see it now
+23:06:42 |c|~Audinory|i missed a ;
+23:06:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+23:07:39 |raw|<div class='chat'><small>#</small><button name='parseCommand' value='/user DarkNightSkies ✿' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#E22D8B'>DarkNightSkies ✿:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/xaa.png" title="xaa" width="50" height="50" /></em></div>
+23:08:08 |c|~Bandi|so
+23:08:11 |c|~Bandi|im bored
+23:08:17 |c|~Bandi|doesn't seem like theres anything for me to code
+23:08:19 |c|~Bandi|as of the moment
+23:08:19 |c|~Bandi|so
+23:08:27 |c|#DarkNightSkies ✿|I thought I changed that to wheel of fourtune 
+23:08:35 |c|~Audinory|!htmlbox
+23:08:35 |raw|<div class="infobox"><div style="background-color: black; border: red, solid 1px; background-size: 100%; color: red; font-size: 10px; text-align: center;">The Wheel Of<br><font style="color: red;"><strong>' + targets[0] + '</strong></font><br>Has been started and is waiting to be spun!<hr style="border: solid, 0.5px, red"The Mulitiplier is: <font style="color: red;">' + targets[1] + '</font><hr style="border: solid, 0.5px, red"><font style="color: blue;">' + this.wheel; </font></div></div>
+23:08:37 |c|#DarkNightSkies ✿|fortune& 
+23:08:46 |c|#DarkNightSkies ✿|wtf
+23:08:48 |c|~Audinory|!htmlbox
+23:08:48 |raw|<div class="infobox"><div style="background-color: black; border: red, solid 1px; background-size: 100%; color: red; font-size: 12px; text-align: center;">The Wheel Of<br><font style="color: red;"><strong>' + targets[0] + '</strong></font><br>Has been started and is waiting to be spun!<hr style="border: solid, 0.5px, red"The Mulitiplier is: <font style="color: red;">' + targets[1] + '</font><hr style="border: solid, 0.5px, red"><font style="color: blue;">' + this.wheel; </font></div></div>
+23:09:00 |c|~Audinory|!htmlbox
+23:09:00 |raw|<div class="infobox"><div style="background-color: black; border: red, solid 1px; background-size: 100%; color: red; font-size: 12px; text-align: center;">The Wheel Of<br><font style="color: red;"><strong>' + targets[0] + '</strong></font><br>Has been started and is waiting to be spun!<hr style="border: solid, 0.5px, red">The Mulitiplier is: <font style="color: red;">' + targets[1] + '</font><hr style="border: solid, 0.5px, red"><font style="color: blue;">' + this.wheel; </font></div></div>
+23:09:10 |c|~Audinory|!htmlbox
+23:09:10 |raw|<div class="infobox"><div style="background-color: black; border: red, solid 1px; background-size: 100%; color: red; font-size: 12px; text-align: center;">The Wheel Of<br><font style="color: red;"><strong>' + targets[0] + '</strong></font><br>Has been started and is waiting to be spun!<hr style="border: solid, 0.5px, red">The Mulitiplier is: <strong><font style="color: red;">' + targets[1] + '</font></strong><hr style="border: solid, 0.5px, red"><font style="color: blue;">' + this.wheel; </font></div></div>
+23:09:13 |c|~Bandi|imo on the third <hr />
+23:09:16 |c|~Bandi|make it
+23:09:18 |c|~Audinory|!htmlbox
+23:09:18 |raw|<div class="infobox"><div style="background-color: black; border: red, solid 1px; background-size: 100%; color: red; font-size: 12px; text-align: center;">The Wheel Of<br><font style="color: red;"><strong>' + targets[0] + '</strong></font><br>Has been started and is waiting to be spun!<hr style="border: solid, 0.5px, red">The Mulitiplier is: <em><strong><font style="color: red;">' + targets[1] + '</font></em></strong><hr style="border: solid, 0.5px, red"><font style="color: blue;">' + this.wheel; </font></div></div>
+23:09:19 |c|~Bandi|a button
+23:09:22 |c|~Bandi|that says spin!
+23:09:29 |c|~Audinory|oh yeah
+23:09:30 |c|~Audinory|true
+23:09:36 |c|#DarkNightSkies ✿|!htmlbox
+23:09:36 |raw|<div class="infobox"><div class="infobox" style="background-image: url('http://www.casinonewsdaily.com/wp-content/uploads/guides/illustrations/roulette/basics/roulette-wheel.jpg') background-size: 100%; color: red; font-size: 10px; text-align: center;">The Wheel Of Fortune<br><font style="color: red;"><strong>' + targets[0] + '</strong></font><br>Has been started and is waiting to be spun!<hr>The Mulitiplier is: <font style="color: red;">' + targets[1] + '</font><hr><font style="color: blue;">' + this.wheel; </font></div></div>
+23:09:43 |c|~Audinory|<div style="background-color: black; border: red, solid 1px; background-size: 100%; color: red; font-size: 12px; text-align: center;">The Wheel Of<br><font style="color: red;"><strong>' + targets[0] + '</strong></font><br>Has been started and is waiting to be spun!<hr style="border: solid, 0.5px, red">The Mulitiplier is: <em><strong><font style="color: red;">' + targets[1] + '</font></em></strong><hr style="border: solid, 0.5px, red"><font style="color: blue;">' + this.wheel; </font></div>
+23:09:57 |c|~Bandi|also Audinory
+23:10:02 |c|~Bandi|u think we'll be able to make the command
+23:10:09 |c|~Bandi|do itself with commas
+23:10:15 |c|~Bandi|also how tf do u actually do it
+23:10:16 |c|~Bandi|lol
+23:10:19 |c|~Audinory|what do you mean?
+23:10:20 |c|~Bandi|like ho wdo u make a wheel
+23:10:22 |c|~Audinory|oh
+23:10:24 |c|~Bandi|as of the moment
+23:10:26 |c|~Audinory|ez
+23:10:27 |c|#DarkNightSkies ✿|What are you trying to do?
+23:10:29 |c|~Audinory|go onto the c9
+23:12:30 |c|#DarkNightSkies ✿|!htmlbox
+23:12:30 |raw|<div class="infobox"><div class="infobox" style="backgroundimage:url('http://www.casinonewsdaily.com/wpcontent/uploads/guides/illustrations/roulette/basics/roulette-wheel.jpg');background-size: 100%; color: red; font-size: 10px; text-align: center">The Wheel Of Fourtune<br><font style="color: red"><strong>' + targets[0] + '</strong></font><br>Has been started and is waiting to be spun!<hr>The Mulitiplier is: <font style="color: red;">' + targets[1] + '</font><hr><font style="color: blue">' + this.wheel</font></div></div>
+23:12:34 |c|#DarkNightSkies ✿|err rip 
+23:13:03 |c|~Audinory|DNS
+23:13:05 |c|~Audinory|i missed a ;
+23:13:10 |c|~Audinory|see if you can spot it ;)
+23:13:48 |c|#DarkNightSkies ✿|After the url?
+23:13:54 |c|#DarkNightSkies ✿|I added it in
+23:13:59 |c|~Audinory|!htmlbox
+23:13:59 |raw|<div class="infobox"><div style=" padding: 5px, 0px; background-color: black; border: red, solid 1px; background-size: 100%; color: red; font-size: 12px; text-align: center;">The Wheel Of<br><font style="color: red;"><em><strong>' + targets[0] + '</strong></em></font><br>Has been started and is waiting to be spun!<hr style="border: solid, 0.5px, red">The Mulitiplier is: <em><strong><font style="color: red;">' + targets[1] + '</font></em></strong><hr style="border: solid, 0.5px, red"><font style="color: blue;">' + this.wheel; </font><hr style="border: solid, 0.5px, red;"><button style="border: double, red, 4px; color: red; background-color: black; border-radius: 10px; font-face: serif ; font-size: 12px;">Spin The Wheel! </button></div></div>
+23:14:00 |c|~Audinory|oh
+23:14:03 |raw|<div class='chat'><small>#</small><button name='parseCommand' value='/user DarkNightSkies ✿' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#E22D8B'>DarkNightSkies ✿:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/xaa.png" title="xaa" width="50" height="50" /></em></div>
+23:14:04 |c|~Audinory|This looks nice ngl
+23:14:05 |c|~Audinory|:P
+23:14:09 |c|#DarkNightSkies ✿|!htmlbox
+23:14:09 |raw|<div class="infobox"><div class="infobox" style='backgroundimage:url("http://www.casinonewsdaily.com/wpcontent/uploads/guides/illustrations/roulette/basics/roulette-wheel.jpg");background-size: 100%; color: red; font-size: 10px; text-align: center'>The Wheel Of Fourtune<br><font style='color: red'><strong>' + targets[0] + '</strong></font><br>Has been started and is waiting to be spun!<hr>The Mulitiplier is: <font style="color: red;">' + targets[1] + '</font><hr><font style='color: blue'>' + this.wheel</font></div></div>
+23:14:20 |c|#DarkNightSkies ✿|You might want to change the " to '
+23:14:21 |c|~Audinory|!htmlbox
+23:14:21 |raw|<div class="infobox"><div style=" padding: 5px, 0px; background-color: black; border: red, solid 1px; background-size: 100%; color: red; font-size: 12px; text-align: center;">The Wheel Of<br><font style="color: red;"><em><strong>' + targets[0] + '</strong></em></font><br>Has been started and is waiting to be spun!<hr style="border: solid, 0.5px, red">The Mulitiplier is: <em><strong><font style="color: red;">' + targets[1] + '</font></em></strong><hr style="border: solid, 0.5px, red"><font style="color: blue;">' + this.wheel; </font><hr style="border: solid, 0.5px, red;"><button style="border: double, red, 4px; color: red; background-color: black; border-radius: 10px; font-face: serif ; font-size: 12px;" name="send" value="/wheel spin">Spin The Wheel! </button></div></div>
+23:14:22 |c|#DarkNightSkies ✿|imo
+23:14:26 |raw|<div class='chat'><small>#</small><button name='parseCommand' value='/user DarkNightSkies ✿' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#E22D8B'>DarkNightSkies ✿:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsnv.png" title="feelsnv" width="50" height="50" /></em></div>
+23:14:28 |c|~Audinory|we used '
+23:14:34 |c|~Audinory|i mean "
+23:14:36 |c|~Audinory|wait
+23:14:38 |c|~Audinory|nvm
+23:14:40 |c|~Audinory|im high
+23:14:42 |raw|<div class='chat'><small>#</small><button name='parseCommand' value='/user DarkNightSkies ✿' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#E22D8B'>DarkNightSkies ✿:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/xaa.png" title="xaa" width="50" height="50" /></em></div>
+23:14:51 |c|#DarkNightSkies ✿|I like to use ' more than "
+23:14:58 |c|~Audinory|I use " in html
+23:14:59 |c|~Audinory|and ; in js
+23:15:01 |c|~Audinory|'
+23:15:16 |c|~Bandi|me too
+23:15:17 |c|~Bandi|audino
+23:15:18 |c|~Bandi|lol
+23:15:21 |c|~Bandi|i just now notcied
+23:15:25 |c|~Bandi|for somenr eason i do that shit
+23:16:05 |c|~Bandi|so anyway  Audinory whats next for me to do for the server
+23:16:14 |c|~Audinory|idk
+23:16:16 |c|~Audinory|any ideas?
+23:16:24 |c|~Audinory|.
+23:16:32 |userstats|total:4|guests:0| :0|+:0|%:0|@:1|★:0|-:0|&:0|#:1|♥:0|~:2
+23:16:38 |c|~Audinory|bandi did you fuck with targets?
+23:16:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+23:17:22 |c|#DarkNightSkies ✿|err
+23:17:29 |c|~Audinory|thats what gave the error
+23:17:30 |c|~Audinory|lmao
+23:17:32 |c|#DarkNightSkies ✿|Why is the targets always [0]
+23:17:40 |c|~Bandi|audinoro
+23:17:42 |c|~Bandi|somthign crashed
+23:17:45 |c|~Audinory|oh
+23:17:46 |c|~Bandi|n i gotta go iirc
+23:17:50 |c|~Audinory|dw ill fix
+23:17:51 |c|~Audinory|cos
+23:18:06 |c|~Audinory|//wheel [case] [target[0]] [target[1]]
+23:18:07 |c|#DarkNightSkies ✿|The multiplier doesn't  even show 
+23:18:07 |c|~Bandi|yup gotta blast
+23:18:11 |c|~Audinory|it will
+23:18:12 |c|~Audinory|i added it
+23:18:14 |c|~Audinory|hf bandi
+23:18:16 |raw|<div class='chat'><small>#</small><button name='parseCommand' value='/user DarkNightSkies ✿' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#E22D8B'>DarkNightSkies ✿:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/oshet.png" title="oshet" width="50" height="50" /></em></div>
+23:18:17 |c|~Bandi|ok
+23:18:55 |c|#DarkNightSkies ✿|imo modjoin this place 
+23:19:01 Audinory set modjoin to %.
+23:19:12 |c|#DarkNightSkies ✿|set it to &
+23:19:16 Audinory set modjoin to &.
+23:19:25 |c|#DarkNightSkies ✿|If you only want to Higher staff 
+23:20:12 |c|@Mystifi - ⒶⓌⒶⓎ|oh
+23:20:12 (DarkNightSkies ✿ changed the roomintro.)
+23:20:12 <font color='red'>The Development Room</font>
+23:20:14 |c|@Mystifi - ⒶⓌⒶⓎ|um
+23:20:18 |raw|<div class='chat'><small>#</small><button name='parseCommand' value='/user DarkNightSkies ✿' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#E22D8B'>DarkNightSkies ✿:</font></b></button><em class='mine'><img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsgd.png" title="feelsgd" width="50" height="50" /></em></div>
+23:20:18 |c|@Mystifi - ⒶⓌⒶⓎ|I'll leave if you want Audinory
+23:20:41 |c|~Audinory|!roomintro
+23:20:41 |raw|<div class="infobox"><font color='red'>The Development Room</font></div>
+23:20:44 |c|~Audinory|swag
+23:20:45 The wheel game was ended by audinory.
+23:20:51 |raw|<div style=" padding: 5px, 0px; background-color: black; border: red, solid 1px; background-size: 100%; color: red; font-size: 12px; text-align: center;">The Wheel Of<br><font style="color: red;"><em><strong>-5,-4,-3,-2,-2,-1,-1,-1,-1,1,1,3,3,3,5</strong></em></font><br>Has been started and is waiting to be spun!<hr style="border: solid, 0.5px, red">The Mulitiplier is:<em><strong><font style="color: red;"> 1</font></em></strong><hr style="border: solid, 0.5px, red"><font style="color: blue;">-5,-4,-3,-2,-2,-1,-1,-1,-1,1,1,3,3,3,5</font><hr style="border: solid, 0.5px, red;"><button style="border: double, red, 4px; color: red; background-color: black; border-radius: 10px; font-face: serif ; font-size: 12px;" name="send" value="/wheel spin">Spin The Wheel! </button></div>
+23:20:53 |c|~Audinory|nice
+23:20:54 |c|~Audinory|n
+23:20:55 |c|~Audinory|fuckin
+23:20:57 |c|~Audinory|broken
+23:20:59 The wheel game was ended by audinory.
+23:21:33 |c|@Mystifi - ⒶⓌⒶⓎ|ye, I'll just excuse myself :p
+23:21:34 |L|@Mystifi - ⒶⓌⒶⓎ
+23:21:48 |raw|<div style=" padding: 5px, 0px; background-color: black; border: red, solid 1px; background-size: 100%; color: red; font-size: 12px; text-align: center;">The Wheel Of<br><font style="color: red;"><em><strong>scrubs, 1</strong></em></font><br>Has been started and is waiting to be spun!<hr style="border: solid, 0.5px, red">The Mulitiplier is:<em><strong><font style="color: red;"> 1</font></em></strong><hr style="border: solid, 0.5px, red"><font style="color: blue;">-5,-4,-3,-2,-2,-1,-1,-1,-1,1,1,3,3,3,5</font><hr style="border: solid, 0.5px, red;"><button style="border: double, red, 4px; color: red; background-color: black; border-radius: 10px; font-face: serif ; font-size: 12px;" name="send" value="/wheel spin">Spin The Wheel! </button></div>
+23:22:13 The wheel game was ended by audinory.
+23:22:29 |raw|<div style=" padding: 5px, 0px; background-color: black; border: red, solid 1px; background-size: 100%; color: red; font-size: 12px; text-align: center;">The Wheel Of<br><font style="color: red;"><em><strong>scrubs</strong></em></font><br>Has been started and is waiting to be spun!<hr style="border: solid, 0.5px, red">The Mulitiplier is:<em><strong><font style="color: red;"> 1</font></em></strong><hr style="border: solid, 0.5px, red"><font style="color: blue;">-5,-4,-3,-2,-2,-1,-1,-1,-1,1,1,3,3,3,5</font><hr style="border: solid, 0.5px, red;"><button style="border: double, red, 4px; color: red; background-color: black; border-radius: 10px; font-face: serif ; font-size: 12px;" name="send" value="/wheel spin">Spin The Wheel! </button></div>
+23:22:31 |c|~Audinory|Nice
+23:23:17 The wheel game was ended by audinory.
+23:23:19 |raw|<div style=" padding: 5px, 0px; background-color: black; border: red, solid 1px; background-size: 100%; color: red; font-size: 12px; text-align: center;">The Wheel Of<br><font style="color: red;"><em><strong>scrubs</strong></em></font><br>Has been started and is waiting to be spun!<hr style="border: solid, 0.5px, red">The Mulitiplier is:<em><strong><font style="color: red;"> 1</font></em></strong><hr style="border: solid, 0.5px, red"><font style="color: blue;">-5,-4,-3,-2,-2,-1,-1,-1,-1,1,1,3,3,3,5</font><hr style="border: solid, 0.5px, red;"><button style="border: double, red, 4px; color: red; background-color: black; border-radius: 10px; font-face: serif ; font-size: 12px;" name="send" value="/wheel spin">Spin The Wheel! </button></div>
+23:23:21 The wheel game was ended by audinory.
+23:23:24 |raw|<div style=" padding: 5px, 0px; background-color: black; border: red, solid 1px; background-size: 100%; color: red; font-size: 12px; text-align: center;">The Wheel Of<br><font style="color: red;"><em><strong>SCRUBS</strong></em></font><br>Has been started and is waiting to be spun!<hr style="border: solid, 0.5px, red">The Mulitiplier is:<em><strong><font style="color: red;"> 1</font></em></strong><hr style="border: solid, 0.5px, red"><font style="color: blue;">-5,-4,-3,-2,-2,-1,-1,-1,-1,1,1,3,3,3,5</font><hr style="border: solid, 0.5px, red;"><button style="border: double, red, 4px; color: red; background-color: black; border-radius: 10px; font-face: serif ; font-size: 12px;" name="send" value="/wheel spin">Spin The Wheel! </button></div>
+23:23:29 |c|~Audinory|Nice
+23:24:41 |raw|<div class='chat'><small>#</small><button name='parseCommand' value='/user DarkNightSkies ✿' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#E22D8B'>DarkNightSkies ✿:</font></b></button><em class='mine'>Am I good <img src="https://cdn.rawgit.com/CreaturePhil/dem-feels/master/emotes/feelsok.png" title="feelsok" width="50" height="50" /></em></div>
+23:24:54 |c|~Audinory|yeah
+23:24:59 |c|~Audinory|now i need to design the ended one
+23:25:11 |c|~Audinory|!atm DarkNightSkies
+23:25:11 |raw|<div class="infobox">DarkNightSkies has 40 Shekels.</div>
+23:25:20 |raw|<div style="background:url('http://elcortezhotelcasino.com/wp-content/uploads/2013/08/1010-ElCortez-PageHeaders-Small-Roulette1.jpg');background-size:cover;"><center><br><font size="15" color="green"><strong>The wheel landed on 1!</strong></font><br></center></div>
+23:25:30 |c|~Audinory|ezpz
+23:26:32 |userstats|total:3|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:2
+23:26:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+23:27:23 |c|#DarkNightSkies ✿|Change that green 
+23:27:27 |c|~Audinory|it is
+23:27:30 |c|~Audinory|!htmlbox
+23:27:30 |raw|<div class="infobox"><div style="background-color: black; color: red; border: solid, 1px, red; font-size: 15px;">The wheel has landed on: <em><strong>'  + this.wheelValue +'</strong></em></div></div>
+23:27:33 |c|#DarkNightSkies ✿|lower the font size 
+23:27:41 |c|~Audinory|!htmlbox
+23:27:41 |raw|<div class="infobox"><div style="padding: 5px; background-color: black; color: red; border: solid, 1px, red; font-size: 15px;">The wheel has landed on: <em><strong>'  + this.wheelValue +'</strong></em></div></div>
+23:28:10 |raw|<div style=" padding: 5px, 0px; background-color: black; border: red, solid 1px; background-size: 100%; color: red; font-size: 12px; text-align: center;">The Wheel Of<br><font style="color: red;"><em><strong>BALANCE</strong></em></font><br>Has been started and is waiting to be spun!<hr style="border: solid, 0.5px, red">The Mulitiplier is:<em><strong><font style="color: red;"> 1</font></em></strong><hr style="border: solid, 0.5px, red"><font style="color: blue;">-30,-20,-10,-5,-5,-5,-2,-1,3,15,30,30</font><hr style="border: solid, 0.5px, red;"><button style="border: double, red, 4px; color: red; background-color: black; border-radius: 10px; font-face: serif ; font-size: 12px;" name="send" value="/wheel spin">Spin The Wheel! </button></div>
+23:28:15 |c|~Audinory|spin it for me babes
+23:36:32 |userstats|total:3|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:2
+23:36:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+23:37:01 |raw|<div style="padding: 5px; background-color: black; color: red; border: solid, 1px, red; font-size: 15px;">The wheel has landed on: <em><strong>-5</strong></em></div>
+23:37:05 |raw|<div class='chat'><small>#</small><button name='parseCommand' value='/user DarkNightSkies ✿' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#E22D8B'>DarkNightSkies ✿:</font></b></button><em class='mine'>feelscri</em></div>
+23:46:32 |userstats|total:3|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:2
+23:46:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0
+23:56:32 |userstats|total:3|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:1|♥:0|~:2
+23:56:46 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|-:0|&:0|#:0|♥:0|~:0

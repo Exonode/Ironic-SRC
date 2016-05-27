@@ -1,0 +1,4 @@
+[2016-05-21T22:28:07.123Z] (showderp) felicide ♥ set modjoin to ~.
+[2016-05-21T22:28:07.123Z] (showderp) (felicide ♥ set modchat to +)
+[2016-05-21T22:28:07.123Z] (showderp) felicide ♥ made this room hidden.
+[2016-05-21T23:23:49.128Z] (showderp) felicide ♥ - Ⓞⓢⓗⓘⓣ turned off modjoin.
