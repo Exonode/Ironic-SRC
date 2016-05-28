@@ -3,6 +3,7 @@
 
 let color = require('../config/color');
 let moment = require('moment');
+let request = require('request');
 
 let BR = '<br>';
 let SPACE = '&nbsp;';
