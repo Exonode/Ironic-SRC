@@ -39,6 +39,7 @@ exports.commands = {
 		this.privateModCommand("(" + user.name + " has set an icon to  " + username + ")");
 		Rooms('staff').add('|raw|' + user.name + " has set an icon to " + username +  ".").update();
 		writeIconCSS();
+		Users.get(args[0]).send('|refresh|');
 	},
 	seticonhelp: ["/seticon [username], [image], [room 1], [room 2], etc. - Sets an icon to a user in chosen rooms."],
 };
