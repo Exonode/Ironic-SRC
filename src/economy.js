@@ -4,14 +4,13 @@ function currencyName (amount) {
     return amount === 1 ? name : name + "s";
 }
 function getMoney(user) {
-    if (database.get('money', user) === undefined) return 0;
-    return database.get('money', user);
+    Db('money').get(user.id, 0)
 }
 function giveMoney(user, amount) {
-    user.money = getMoney + amount;
+    Db('money').set(user.userid, Db.get('money').get(user.userid, 0) + amount);
 }
 function takeMoney(user, amount) {
-    user.money = getMoney - amount;
+    Db('money').set(user.userid, Db.get('money').get(user.userid, 0) - amount);
 }
 exports.casino = {
   wheels: {
@@ -23,7 +22,30 @@ exports.casino = {
 spinWheel: function (wheel) {
     return utils.rand(wheel);
 },
-roulColors: ['black','red','blue','yellow','green'],
+validRouletteTargets: {
+            'help': 'help',
+            'create': 'create',
+            'betoptions': 'betoptions',
+            'spin': 'spin',
+            'bet': 'bet',
+            'end': 'end',
+        },
+validRouletteBets: {
+            "red": "red",
+            "black": "black",
+            "green": "green",
+            "odd":  "odd",
+            "even": "even",
+            "low":  "low",
+            "high": "high",
+            "doz1": "doz1",
+            "doz2": "doz2",
+            "doz3": "doz3",
+            "col1": "col1",
+            "col2": "col2",
+            "col3": "col3"
+        },
+RouletteHelp: '|raw|<div class="infobox">♥ /roulette create -- Opens the Table [Room Driver and Above]<br>♥ / roulette bet [bucks], [section] -- Bet on this section.<br>♥ /roulette betting -- Guide on Betting<br>♥ /roulette end -- Ends the wheel<br>♥ /roulette help -- Shows this command<br><br>Roulette Plugin by Bandi and K-Vyn</div>'
 };
 
 exports.currencyName = currencyName;
