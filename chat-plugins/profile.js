@@ -22,7 +22,34 @@ function Profile(isOnline, user, image) {
 	this.image = image;
 
 	this.username = Tools.escapeHTML(this.isOnline ? this.user.name : this.user);
-	this.url = Config.avatarurl || 'http://pokemonshowdownfixed-serperiorbae.c9users.io';
+	this.url = Config.avatarurl || 'http://188.221.150.7';
+}
+
+/**
+ * Fetch the Users regdate.
+ *
+ * Example:
+ * Regdate('Audinory');
+ * => 'May 19, 2016.'
+ *
+ */
+
+function Regdate(getDate, user) {
+	let profileAdd = "";
+	this.user = user || null;
+	this.getDate = request('http://pokemonshowdown.com/users/' + username, function (error, response, body) {
+			if (error && response.statusCode !== 200) {
+				profileAdd = " Unregistered";
+			}
+			let regdate = body.split('<small>')[1].split('</small>')[0].replace(/(<em>|<\/em>)/g, '');
+			if (regdate === '(Unregistered)') {
+				profileAdd = " Unregistered");
+			} else if (regdate === '(Account disabled)') {
+				profileAdd = " Account disabled.");
+			} else {
+				profileAdd = regdate.slice(7) + ".");
+			}
+		}.bind(this));
 }
 
 /**
@@ -81,6 +108,8 @@ function img(link) {
  * @param {String} text
  * @return {String}
  */
+ 
+ 
 function label(text) {
 	return bold(font(profileColor, text + ':')) + SPACE;
 }
@@ -141,7 +170,8 @@ Profile.prototype.show = function (callback) {
 		SPACE + this.name() + BR +
 		SPACE + this.group() + BR +
 		SPACE + this.money(Db('money').get(userid, 0)) + BR +
-		SPACE + this.seen(Db('seen').get(userid)) +
+		SPACE + this.seen(Db('seen').get(userid)) 
+		SPACE + this.Regdate.get(userid) +
 		'<br clear="all">';
 };
 
