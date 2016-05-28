@@ -46,7 +46,7 @@ function Regdate(getDate, user) {
 			if (regdate === '(Unregistered)') {
 				profileAdd = " Unregistered";
 			} else if (regdate === '(Account disabled)') {
-				profileAdd = " Account disabled.");
+				profileAdd = " Account disabled.";
 			} else {
 				profileAdd = regdate.slice(7) + ".");
 			}
