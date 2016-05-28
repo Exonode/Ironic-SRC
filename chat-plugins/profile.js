@@ -191,7 +191,7 @@ exports.commands = {
 		} else {
 			profile = new Profile(true, targetUser, targetUser.avatar);
 		}
-		this.sendReplyBox(profile.show());
+		this.sendReply('<div class="infobox" style="width:100%; height: 85px;' + profile.show() + '</div>');
 	},
 	profilehelp: ["/profile -	Shows information regarding user's name, group, money, and when they were last seen."],
 };
