@@ -38,7 +38,6 @@ const BROADCAST_TOKEN = '!';
 
 const fs = require('fs');
 const path = require('path');
-const parseEmoticons = require('./chat-plugins/emoticons').parseEmoticons;
 
 /*********************************************************
  * Load command files
