@@ -238,14 +238,7 @@ exports.commands = {
 			}
 		}
 
-		let emoticons = parseEmoticons(user.getIdentity(room.id), target);
-    if (emoticons) {
-        target = "/html " + emoticons;
-    }
-
-
 		message = '|pm|' + user.getIdentity() + '|' + targetUser.getIdentity() + '|' + target;
-
 
 		if (!message) message = '|pm|' + user.getIdentity() + '|' + targetUser.getIdentity() + '|' + target;
 		user.send(message);
