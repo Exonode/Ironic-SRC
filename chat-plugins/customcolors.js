@@ -75,7 +75,7 @@ exports.commands = {
         Rooms('staff').add('|raw|' + Tools.escapeHTML(target[0]) + " has recieved a <b><font color=" + target[1] + ">custom color</font></b> from " + Tools.escapeHTML(user.name) + ".").update();
         customColors[toId(target[0])] = target[1];
         updateColor();
-        Users.get(target.split(',').send('|refresh|');
+        Users.get(target.split(',')[0]).send('|refresh|');
     },
     customcolorhelp: ["<b><u>Commands Include:</b></u>",
                 "/customcolor [user], [hex] - Gives the user a custom color of [hex]. Requires: ~",
