@@ -48,7 +48,7 @@ function Regdate(getDate, user) {
 			} else if (regdate === '(Account disabled)') {
 				profileAdd = " Account disabled.";
 			} else {
-				profileAdd = regdate.slice(7) + ".");
+				profileAdd = regdate.slice(7) + ".";
 			}
 		}.bind(this));
 }
