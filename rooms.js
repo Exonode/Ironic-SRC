@@ -102,7 +102,6 @@ let Room = (() => {
 
 		message = CommandParser.parse(message, this, user, connection);
 
-		if (message && message !== true && typeof message.then !== 'function') {
 		var emoticons = parseEmoticons(user.getIdentity(this.roomid), message);
     if (emoticons && !room.disableEmoticons) {
         this.addRaw(emoticons);
