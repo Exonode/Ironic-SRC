@@ -239,10 +239,10 @@ exports.commands = {
 			}
 		}
 
-		var emoticons = parseEmoticons(user.getIdentity(room.id), target);
-		  if (emoticons) {
-        		target = "/html " + emoticons;
-    		}
+		let emoticons = parseEmoticons(user.getIdentity(room.id), target);
+    if (emoticons) {
+        target = "/html " + emoticons;
+    }
 
 
 		message = '|pm|' + user.getIdentity() + '|' + targetUser.getIdentity() + '|' + target;
