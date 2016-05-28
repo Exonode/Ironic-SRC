@@ -171,7 +171,7 @@ Profile.prototype.regdate = function (Regdate) {
 Profile.prototype.show = function (callback) {
 	let userid = toId(this.username);
 
-	return this.buttonAvatar() +
+	return this.buttonAvatar() + '</div><div style="float: left;">' +
 		SPACE + this.name() + BR +
 		SPACE + this.group() + BR +
 		SPACE + this.money(Db('money').get(userid, 0)) + BR +
@@ -191,7 +191,7 @@ exports.commands = {
 		} else {
 			profile = new Profile(true, targetUser, targetUser.avatar);
 		}
-		this.sendReply('<div class="infobox" style="width:100%; height: 85px;' + profile.show() + '</div>');
+		this.sendReply('|raw|<div class="infobox" style="width:100%; height: 85px;"><div style="float: left; width: 80px">' + profile.show() + '</div>');
 	},
 	profilehelp: ["/profile -	Shows information regarding user's name, group, money, and when they were last seen."],
 };
