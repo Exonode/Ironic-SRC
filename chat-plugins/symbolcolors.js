@@ -21,7 +21,7 @@ exports.commands = {
 
                 this.privateModCommand("(" + user.name + " has set an symbol color to " + username + ")");
                 writeIconCSS();
-                Users.get(args[0]).send('|refresh|');
+                // Users.get(args[0]).send('|refresh|');
         },
         symbolcolorhelp: ["/symbolcolor [username], [color], [room 1], [room 2], etc. - Sets an symbol color to a user in chosen rooms."]
 };
