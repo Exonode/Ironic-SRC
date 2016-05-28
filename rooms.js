@@ -101,13 +101,6 @@ let Room = (() => {
 		// room.decision(), where room.constructor === BattleRoom.
 
 		message = CommandParser.parse(message, this, user, connection);
-
-		var emoticons = parseEmoticons(user.getIdentity(this.roomid), message);
-    if (emoticons && !room.disableEmoticons) {
-        this.addRaw(emoticons);
-    } else {
-        this.add('|c|' + user.getIdentity(this.id) + '|' + message);
-    }
 		this.update();
 	};
 
