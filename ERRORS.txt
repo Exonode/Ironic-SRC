@@ -1,0 +1,7 @@
+
+CRASH: TypeError: parseEmoticons is not a function
+    at Object.exports.parse (E:\Ironic-SRC\command-parser.js:644
+    at Room.chat (E:\Ironic-SRC\rooms.js:103:27)
+    at User.processChatQueue (E:\Ironic-SRC\users.js:1449:14)
+    at null._onTimeout (E:\Ironic-SRC\users.js:1425:16)
+    at Timer.listOnTimeout (timers.js:92:15)
