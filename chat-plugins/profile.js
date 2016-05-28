@@ -94,7 +94,7 @@ function font(color, text) {
  * @return {String}
  */
 function img(link) {
-	return '<img src="' + link + '" height="80" width="80">';
+	return '<img src="' + link + '" height="70" width="70">';
 }
 
 /**
@@ -164,7 +164,7 @@ Profile.prototype.seen = function (timeAgo) {
 	return label('Last Seen') + moment(timeAgo).fromNow();
 };
 
-Profile.prototype.regdate = function () {
+Profile.prototype.regdate = function (Regdate) {
 	return label('Registered: ') + bold(font(toId(this.regdate)));
 };
 
