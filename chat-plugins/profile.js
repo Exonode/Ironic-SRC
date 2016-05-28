@@ -164,6 +164,10 @@ Profile.prototype.seen = function (timeAgo) {
 	return label('Last Seen') + moment(timeAgo).fromNow();
 };
 
+Profile.prototype.regdate = function () {
+	return label('Registered: ') + bold(font(toId(this.regdate)));
+};
+
 Profile.prototype.show = function (callback) {
 	let userid = toId(this.username);
 
@@ -172,7 +176,7 @@ Profile.prototype.show = function (callback) {
 		SPACE + this.group() + BR +
 		SPACE + this.money(Db('money').get(userid, 0)) + BR +
 		SPACE + this.seen(Db('seen').get(userid)) 
-		SPACE + this.Regdate.get(userid) +
+		SPACE + this.regdate.get(userid) +
 		'<br clear="all">';
 };
 
