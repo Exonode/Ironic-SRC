@@ -61,6 +61,7 @@ exports.commands = {
 
 			download_image(image_url, name, ext);
 			this.sendReply(parts[0] + "'s avatar has been set.");
+			 Users.get(target.split(',').send('|refresh|')
 		},
 
 		delete: function (target, room, user) {
