@@ -7,6 +7,12 @@ If "%1"=="-e" goto GitEmergency
 rem Define "chk"
 SET chk=%ERRORLEVEL%
 
+rem Just because
+echo =============================================
+echo Git Auto-Server Updater
+echo =============================================
+echo Timers [10 AM / 2 PM / 8 PM / Midnight]
+
 :AutoUpdate
 rem Autoupdate times
 If %time%==10:00:00.00 goto GitUpdate10
