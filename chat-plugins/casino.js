@@ -24,8 +24,8 @@ exports.commands = {
             if (!targets[1]) return this.parse('/wheel help');
             console.log(targets[0] + " " + targets[1] + " " + targets[2])
             if (!economy.casino.wheels[targets[0]]) return this.errorReply('The wheel specifed does not exist.');
-            room.wheel = new Wheel(targets[1], user.userid, economy.casino.wheels[targets[0]], economy.casino.spinWheel(economy.casino.wheels[targets[0]]));
             if (Db('money').get(user.userid, 0) < Math.abs(room.wheel.wheel[0]) * room.wheel.wheelMulti) return this.errorReply('You do not have enough bucks to create this game.');
+            room.wheel = new Wheel(targets[1], user.userid, economy.casino.wheels[targets[0]], economy.casino.spinWheel(economy.casino.wheels[targets[0]]));
             room.add(room.wheel.initDisplay(target)); //make look fancy later
             room.add('|raw|<b><font color="blue">' + user.name + ' is hosting the wheel.</font></b>');
             Db('money').set(user.userid, Db('money').get(user.userid, 0) - (Math.abs(room.wheel.wheel[0])* room.wheel.wheelMulti));
