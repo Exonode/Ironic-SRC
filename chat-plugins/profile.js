@@ -44,7 +44,7 @@ function Regdate(getDate, user) {
 			}
 			let regdate = body.split('<small>')[1].split('</small>')[0].replace(/(<em>|<\/em>)/g, '');
 			if (regdate === '(Unregistered)') {
-				profileAdd = " Unregistered");
+				profileAdd = " Unregistered";
 			} else if (regdate === '(Account disabled)') {
 				profileAdd = " Account disabled.");
 			} else {
