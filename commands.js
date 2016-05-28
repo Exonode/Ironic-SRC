@@ -22,7 +22,6 @@ global.developers = ['rainythunder', 'darknightskies', 'bandi', 'audinory'];
 const crypto = require('crypto');
 const fs = require('fs');
 const path = require('path');
-const parseEmoticons = require('./chat-plugins/emoticons').parseEmoticons;
 const dir = fs.readdirSync(path.resolve(__dirname, 'chat-plugins'));
 
 const MAX_REASON_LENGTH = 300;
