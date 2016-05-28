@@ -1,6 +1,9 @@
 @echo off
 rem Test Builds
 If "%1"=="--test" goto GitTest
+
+rem Emergency!
+If "%1"=="-e" goto GitEmergency
 rem Define "chk"
 SET chk=%ERRORLEVEL%
 
@@ -34,4 +37,10 @@ rem Dev reasons only...
 :GitTest
 git pull
 msg %Username% Git TEST: Git Test Passed
+goto AutoUpdate
+
+rem Emergency
+:GitEmergency
+git pull
+msg %Username% Emergency Passed!
 goto AutoUpdate
