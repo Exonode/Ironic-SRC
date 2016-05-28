@@ -640,6 +640,8 @@ let parse = exports.parse = function (message, room, user, connection, levelsDee
 	}
 
 	message = context.canTalk(message);
+	
+	if (parseEmoticons(message, room, user)) return;
 
 	return message || false;
 };
